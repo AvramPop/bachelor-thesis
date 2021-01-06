@@ -1,16 +1,49 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+import re
+import string
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def read_file_line_by_line(filename):
+    content = []
+    with open(filename) as f:
+        for line in f:
+            content.append(line.strip())
+    return content
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+def concatenate_verses(text):
+    return ' '.join(text)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+def parse_text_to_sentences(text, sentences_in_batch):
+    result = []
+    sentences = re.split('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=[.?!])\s', text)  # this regex can be improved
+    for i in range(0, len(sentences), sentences_in_batch):
+        temp = ''
+        for j in range(sentences_in_batch):
+            if i + j < len(sentences):
+                temp += sentences[i + j] + " "
+        result.append(temp)
+    return result
+
+
+def remove_punctuation(text):
+    text = text.translate(str.maketrans('', '', string.punctuation))
+    return text
+
+
+def split_in_tokens(text):
+    text = text.split()
+    return text
+
+
+def main():
+    lines = read_file_line_by_line("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/philippians/3/esv.txt")
+    text = concatenate_verses(lines)
+    sentences = parse_text_to_sentences(text, 1)
+    first_sentence = sentences[0]
+    first_sentence_without_punctuation = remove_punctuation(first_sentence)
+    tokens = split_in_tokens(first_sentence_without_punctuation)
+    print(tokens)
+
+
+main()
