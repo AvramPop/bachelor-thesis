@@ -55,16 +55,15 @@ def tokens_to_lower_case(tokens):
 
 # lemmatize given list of words using Stanza (Standford NLP)
 def lemmatize(words):
-    nlp = stanza.Pipeline(lang='en', processors='tokenize', tokenize_pretokenized=True)
+    nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos,lemma', tokenize_pretokenized=True)
     doc = nlp([words])
-    lemmatized_sentence = doc.sentences[0]
-    return [word.text for word in lemmatized_sentence.tokens]
+    return [word.lemma for sent in doc.sentences for word in sent.words]
 
 
 def main():
     lines = read_file_line_by_line("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/philippians/3/esv.txt")
     text = concatenate_verses(lines)
-    sentences = parse_text_to_sentences(text, 2)
+    sentences = parse_text_to_sentences(text, 10)
     first_sentence = sentences[0]
     first_sentence_without_punctuation = remove_punctuation(first_sentence)
     tokens = split_in_tokens(first_sentence_without_punctuation)
