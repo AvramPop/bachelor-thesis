@@ -11,7 +11,7 @@ import copy
 
 
 embed = hub.load("/home/dani/Desktop/code/scoala/licenta/use")
-summary_size = 4
+summary_size = 6
 
 
 # read a file to an array in which each item is a line from that respective file
@@ -111,10 +111,10 @@ def generate_individual(text_size):
     bits = random.sample(range(0, text_size), summary_size)
     for i in bits:
         individual[i] = True
-    return individual
+    return individual.tolist()
 
 
-def fitness(individual, similarity_matrix, a, b):
+def fitness(individual, similarity_matrix, a=1, b=0):
     return (a * cohesion(individual, similarity_matrix) + b * readability(individual, similarity_matrix)) / (a + b)
 
 
@@ -131,6 +131,8 @@ def cohesion(individual, similarity_matrix):
     maxi = -1
     for i in range(len(individual)):
         for j in range(len(individual)):
+            # print(individual[i])
+            # print(individual[j])
             if individual[i] and individual[j]:
                 cohesion_sum += similarity_matrix[i][j]
                 if similarity_matrix[i][j] > maxi:
@@ -141,7 +143,9 @@ def cohesion(individual, similarity_matrix):
 
 
 def roulette_wheel_selection(population, similarity_matrix):
-    return random.choices(population, weights=[fitness(x, similarity_matrix, 1, 0) for x in population], k=2)
+    fitness_sum = sum([fitness(x, similarity_matrix) for x in population])
+    selection = random.choices(population, weights=[fitness(x, similarity_matrix) / fitness_sum for x in population], k=2)
+    return selection[0], selection[1]
 
 
 def bits_in_individual(individual):
@@ -151,8 +155,8 @@ def bits_in_individual(individual):
 def one_point_crossover(parent1, parent2):
     good_number_of_bits = False
     while not good_number_of_bits:
-        point = random.randint(0, len(parent1))
-        print(point)
+        point = random.randrange(0, len(parent1))
+        # print(point)
 
         child1 = copy.copy(parent1[0:point])
         child1.extend(copy.copy(parent2[point:len(parent1)]))
@@ -166,37 +170,43 @@ def one_point_crossover(parent1, parent2):
 
 
 def mutate(individual):
-    point = random.randint(0, len(individual))
+    point = random.randrange(0, len(individual))
     neighbor = random.sample([1, -1], 1)[0]
     while not (0 <= point + neighbor < len(individual)):
-        point = random.randint(0, len(individual))
+        point = random.randrange(0, len(individual))
         neighbor = random.sample([1, -1], 1)[0]
-    print(point, neighbor)
+    # print(point, neighbor)
     individual[point], individual[point + neighbor] = individual[point + neighbor], individual[point]
     return individual
 
 
 def iteration(population, similarity_matrix):
     # population_copy = population.copy()
-    population.sort(key=lambda individual: fitness(individual, similarity_matrix, 1, 0), reverse=True)
+    # print(population)
+    population.sort(key=lambda individual: fitness(individual, similarity_matrix), reverse=True)
     best_two = population[0], population[1]
     del population[:2]
     parent1, parent2 = roulette_wheel_selection(population, similarity_matrix)
-    print(parent1)
-    print(parent2)
     child1, child2 = one_point_crossover(parent1, parent2)
     mutate(child1)
     mutate(child2)
-    del population[-4:]  # remove the most unfit 4 individuals
-    population.extend([best_two, child1, child2])
+    del population[-2:]  # remove the most unfit 2 individuals
+    population.append(best_two[0])
+    population.append(best_two[1])
+    population.append(child1)
+    population.append(child2)
 
 
 def summary_from_individual(best_individual, text_as_sentences):
-    return [text_as_sentences[i] for i in best_individual if best_individual[i] is True]
+    return concatenate_text_as_array([text_as_sentences[i] for i in range(len(best_individual)) if best_individual[i] is True])
+
+
+def generate_population(number_of_sentences, population_size=20):
+    return [generate_individual(number_of_sentences) for _ in range(population_size)]
 
 
 def main():
-    lines = read_file_line_by_line("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/article-english-with-greek.in")
+    lines = read_file_line_by_line("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/article-only-english.in")
     text = concatenate_text_as_array(lines)
     text = remove_footnotes(text)
     text_as_sentences = parse_text_to_sentences(text, 1)
@@ -217,10 +227,12 @@ def main():
     similarity_matrix = generate_similarity_matrix(sentences_as_embeddings)
 
     number_of_iterations = 10
-    population = [generate_individual(number_of_sentences) for _ in range(20)]
-    for _ in range(number_of_iterations):
+    population = generate_population(number_of_sentences)
+    for i in range(number_of_iterations):
+        print("iteration " + str(i))
         iteration(population, similarity_matrix)
-    best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix, 1, 0))
+    best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix))
+    print(best_individual)
     summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
     print(summary)
 
