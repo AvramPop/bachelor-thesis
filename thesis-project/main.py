@@ -8,6 +8,7 @@ import numpy as np
 from scipy import spatial
 import random
 import copy
+from pythonrouge.pythonrouge import Pythonrouge
 
 
 embed = hub.load("/home/dani/Desktop/code/scoala/licenta/use")
@@ -31,7 +32,6 @@ def concatenate_text_as_array(text):
 # parse a string to an array in which each element is a group of sentences_in_batch sentences
 def parse_text_to_sentences(text, sentences_in_batch):
     result = []
-    # sentences = re.split('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=[.?!])\s', text)  # this regex can be improved
     sentences = nltk.sent_tokenize(text)
 
     for i in range(0, len(sentences), sentences_in_batch):
@@ -114,8 +114,21 @@ def generate_individual(text_size):
     return individual.tolist()
 
 
-def fitness(individual, similarity_matrix, a=1, b=0):
-    return (a * cohesion(individual, similarity_matrix) + b * readability(individual, similarity_matrix)) / (a + b)
+def fitness(individual, similarity_matrix, a=0.34, b=0.33, c=0.33):
+    return (a * cohesion(individual, similarity_matrix) + b * readability(individual, similarity_matrix) + c * sentence_position(individual)) / (a + b + c)
+
+
+def max_weight_dag_util(start, weights, similarity_matrix):
+    for i in range(len(similarity_matrix)):
+        if similarity_matrix[start][i] > 0 and weights[i] == 0:
+            weights[i] = max(weights[i], weights[start] + similarity_matrix[start][i])
+            max_weight_dag_util(i, weights, similarity_matrix)
+
+
+def max_weight_dag(similarity_matrix):
+    weights = [0 for _ in range(len(similarity_matrix))]
+    max_weight_dag_util(0, weights, similarity_matrix)
+    return max(weights)
 
 
 def readability(individual, similarity_matrix):
@@ -123,7 +136,16 @@ def readability(individual, similarity_matrix):
     readability_sum = 0
     for i in range(len(indices) - 1):
         readability_sum += similarity_matrix[indices[i]][indices[i + 1]]
-    return 0
+    max_readability = max_weight_dag(similarity_matrix)
+    return readability_sum / max_readability
+
+
+def sentence_position(individual):
+    indices = [i + 1 for i in range(len(individual)) if individual[i]]
+    result = 0
+    for i in indices:
+        result += np.sqrt(1 / i)
+    return result
 
 
 def cohesion(individual, similarity_matrix):
@@ -131,8 +153,6 @@ def cohesion(individual, similarity_matrix):
     maxi = -1
     for i in range(len(individual)):
         for j in range(len(individual)):
-            # print(individual[i])
-            # print(individual[j])
             if individual[i] and individual[j]:
                 cohesion_sum += similarity_matrix[i][j]
                 if similarity_matrix[i][j] > maxi:
@@ -156,7 +176,6 @@ def one_point_crossover(parent1, parent2):
     good_number_of_bits = False
     while not good_number_of_bits:
         point = random.randrange(0, len(parent1))
-        # print(point)
 
         child1 = copy.copy(parent1[0:point])
         child1.extend(copy.copy(parent2[point:len(parent1)]))
@@ -175,17 +194,14 @@ def mutate(individual):
     while not (0 <= point + neighbor < len(individual)):
         point = random.randrange(0, len(individual))
         neighbor = random.sample([1, -1], 1)[0]
-    # print(point, neighbor)
     individual[point], individual[point + neighbor] = individual[point + neighbor], individual[point]
     return individual
 
 
 def iteration(population, similarity_matrix):
-    # population_copy = population.copy()
-    # print(population)
     population.sort(key=lambda individual: fitness(individual, similarity_matrix), reverse=True)
     best_two = population[0], population[1]
-    del population[:2]
+    del population[:2] # remove the elites since we always keep them
     parent1, parent2 = roulette_wheel_selection(population, similarity_matrix)
     child1, child2 = one_point_crossover(parent1, parent2)
     mutate(child1)
@@ -205,9 +221,18 @@ def generate_population(number_of_sentences, population_size=20):
     return [generate_individual(number_of_sentences) for _ in range(population_size)]
 
 
+def read_file_to_text(filename):
+    title_lines = read_file_line_by_line(filename)
+    title = concatenate_text_as_array(title_lines)
+    title = title.casefold()
+    return title
+
+
 def main():
-    lines = read_file_line_by_line("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/article-only-english.in")
-    text = concatenate_text_as_array(lines)
+    title = read_file_to_text("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/1-c.txt")
+    abstract = read_file_to_text("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/1-b.txt")
+    text_lines = read_file_line_by_line("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/1-a.txt")
+    text = concatenate_text_as_array(text_lines)
     text = remove_footnotes(text)
     text_as_sentences = parse_text_to_sentences(text, 1)
     text_as_sentences_without_footnotes = list(text_as_sentences)
@@ -218,7 +243,7 @@ def main():
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        # sentence = lemmatize(sentence)
+        sentence = lemmatize(sentence)
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
@@ -232,9 +257,13 @@ def main():
         print("iteration " + str(i))
         iteration(population, similarity_matrix)
     best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix))
-    print(best_individual)
-    summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
-    print(summary)
+    generated_summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
+    print(abstract)
+    print(generated_summary)
+    rouge = Pythonrouge(summary_file_exist=False,
+                        summary=[[generated_summary]], reference=[[[abstract]]])
+    score = rouge.calc_score()
+    print(score)
 
 
 main()
