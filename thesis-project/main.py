@@ -266,7 +266,7 @@ def prepare_data(document_number=1):
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        # sentence = lemmatize(sentence)
+        sentence = lemmatize(sentence)
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
@@ -315,7 +315,7 @@ def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_fo
     similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings)
     # get_clusters(similarity_matrix, threshold)
     graph = networkx.from_numpy_array(similarity_matrix)
-    scores = networkx.pagerank(graph)
+    scores = networkx.pagerank(graph, max_iter=20000)
     sentence_indexes_sorted_by_score = indexes_from_pagerank(scores, summary_size)
     summary = summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes)
     print("Graphs algorithm took ", time.time() - start_time, "s")
@@ -323,17 +323,17 @@ def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_fo
 
 
 def main():
-    sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title = prepare_data(1)
+    sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title = prepare_data(2)
     print("text length is: " + str(len(text_as_sentences_without_footnotes)))
 
     generated_summary_evolutionary = generate_summary_evolutionary(sentences_as_embeddings, text_as_sentences_without_footnotes, number_of_sentences_in_text(abstract))
     generated_summary_graph = generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, number_of_sentences_in_text(abstract))
 
     score_evolutionary = rouge_score(generated_summary_evolutionary, abstract)
-    score_graphs = rouge_score(generated_summary_graph, abstract)
+    # score_graphs = rouge_score(generated_summary_graph, abstract)
 
     print(score_evolutionary)
-    print(score_graphs)
+    # print(score_graphs)
 
 
 main()
