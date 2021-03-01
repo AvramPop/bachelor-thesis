@@ -9,10 +9,12 @@ from scipy import spatial
 import random
 import copy
 from pythonrouge.pythonrouge import Pythonrouge
+import time
+import infomap as im
+import networkx
 
 
 embed = hub.load("/home/dani/Desktop/code/scoala/licenta/use")
-summary_size = 6
 
 
 # read a file to an array in which each item is a line from that respective file
@@ -30,7 +32,7 @@ def concatenate_text_as_array(text):
 
 
 # parse a string to an array in which each element is a group of sentences_in_batch sentences
-def parse_text_to_sentences(text, sentences_in_batch):
+def parse_text_to_sentences(text, sentences_in_batch=1):
     result = []
     sentences = nltk.sent_tokenize(text)
 
@@ -93,7 +95,7 @@ def remove_footnotes(text):
     return re.sub(r"([a-zA-Z?!;,.\"])[0-9]*", r"\1", text)
 
 
-def generate_similarity_matrix(sentences_as_embeddings):
+def generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embeddings):
     number_of_sentences = len(sentences_as_embeddings)
     similarity_matrix = np.zeros([number_of_sentences, number_of_sentences])
     for i, row_embedding in enumerate(sentences_as_embeddings):
@@ -106,7 +108,7 @@ def generate_similarity_matrix(sentences_as_embeddings):
     return similarity_matrix
 
 
-def generate_individual(text_size):
+def generate_individual(text_size, summary_size):
     individual = np.zeros(text_size, dtype=bool)
     bits = random.sample(range(0, text_size), summary_size)
     for i in bits:
@@ -114,8 +116,8 @@ def generate_individual(text_size):
     return individual.tolist()
 
 
-def fitness(individual, similarity_matrix, a=0.34, b=0.33, c=0.33):
-    return (a * cohesion(individual, similarity_matrix) + b * readability(individual, similarity_matrix) + c * sentence_position(individual)) / (a + b + c)
+def fitness(individual, similarity_matrix, summary_size, a=0.34, b=0.33, c=0.33):
+    return (a * cohesion(individual, similarity_matrix, summary_size) + b * readability(individual, similarity_matrix) + c * sentence_position(individual)) / (a + b + c)
 
 
 def max_weight_dag_util(start, weights, similarity_matrix):
@@ -148,7 +150,7 @@ def sentence_position(individual):
     return result
 
 
-def cohesion(individual, similarity_matrix):
+def cohesion(individual, similarity_matrix, summary_size):
     cohesion_sum = 0
     maxi = -1
     for i in range(len(individual)):
@@ -162,9 +164,9 @@ def cohesion(individual, similarity_matrix):
     return cohesion_normalized
 
 
-def roulette_wheel_selection(population, similarity_matrix):
-    fitness_sum = sum([fitness(x, similarity_matrix) for x in population])
-    selection = random.choices(population, weights=[fitness(x, similarity_matrix) / fitness_sum for x in population], k=2)
+def roulette_wheel_selection(population, similarity_matrix, summary_size):
+    fitness_sum = sum([fitness(x, similarity_matrix, summary_size) for x in population])
+    selection = random.choices(population, weights=[fitness(x, similarity_matrix, summary_size) / fitness_sum for x in population], k=2)
     return selection[0], selection[1]
 
 
@@ -172,7 +174,7 @@ def bits_in_individual(individual):
     return individual.count(True)
 
 
-def one_point_crossover(parent1, parent2):
+def one_point_crossover(parent1, parent2, summary_size):
     good_number_of_bits = False
     while not good_number_of_bits:
         point = random.randrange(0, len(parent1))
@@ -198,12 +200,12 @@ def mutate(individual):
     return individual
 
 
-def iteration(population, similarity_matrix):
-    population.sort(key=lambda individual: fitness(individual, similarity_matrix), reverse=True)
+def iteration(population, similarity_matrix, summary_size):
+    population.sort(key=lambda individual: fitness(individual, similarity_matrix, summary_size), reverse=True)
     best_two = population[0], population[1]
-    del population[:2] # remove the elites since we always keep them
-    parent1, parent2 = roulette_wheel_selection(population, similarity_matrix)
-    child1, child2 = one_point_crossover(parent1, parent2)
+    del population[:2]  # remove the elites since we always keep them
+    parent1, parent2 = roulette_wheel_selection(population, similarity_matrix, summary_size)
+    child1, child2 = one_point_crossover(parent1, parent2, summary_size)
     mutate(child1)
     mutate(child2)
     del population[-2:]  # remove the most unfit 2 individuals
@@ -217,24 +219,45 @@ def summary_from_individual(best_individual, text_as_sentences):
     return concatenate_text_as_array([text_as_sentences[i] for i in range(len(best_individual)) if best_individual[i] is True])
 
 
-def generate_population(number_of_sentences, population_size=20):
-    return [generate_individual(number_of_sentences) for _ in range(population_size)]
+def generate_population(number_of_sentences, summary_size, population_size=20):
+    return [generate_individual(number_of_sentences, summary_size) for _ in range(population_size)]
 
 
 def read_file_to_text(filename):
-    title_lines = read_file_line_by_line(filename)
-    title = concatenate_text_as_array(title_lines)
-    title = title.casefold()
-    return title
+    lines = read_file_line_by_line(filename)
+    text = concatenate_text_as_array(lines)
+    text = text.casefold()
+    return text
 
 
-def main():
-    title = read_file_to_text("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/1-c.txt")
-    abstract = read_file_to_text("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/1-b.txt")
-    text_lines = read_file_line_by_line("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/1-a.txt")
+def rouge_score(generated_summary, human_summary):
+    rouge = Pythonrouge(summary_file_exist=False,
+                        summary=[[generated_summary]], reference=[[[human_summary]]])
+    return rouge.calc_score()
+
+
+def generate_summary_evolutionary(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, number_of_iterations=10):
+    start_time = time.time()
+    similarity_matrix = generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embeddings)
+    population = generate_population(len(similarity_matrix), summary_size)
+    for i in range(number_of_iterations):
+        iteration(population, similarity_matrix, summary_size)
+    best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix, summary_size))
+    generated_summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
+    print("Evolutionary algorithm took ", time.time() - start_time, "s")
+    return generated_summary
+
+
+def prepare_data(document_number=1):
+    title = read_file_to_text(
+        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(document_number) + "-c.txt")
+    abstract = read_file_to_text(
+        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(document_number) + "-b.txt")
+    text_lines = read_file_line_by_line(
+        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(document_number) + "-a.txt")
     text = concatenate_text_as_array(text_lines)
     text = remove_footnotes(text)
-    text_as_sentences = parse_text_to_sentences(text, 1)
+    text_as_sentences = parse_text_to_sentences(text)
     text_as_sentences_without_footnotes = list(text_as_sentences)
     sentences_as_embeddings = []
     for sentence in text_as_sentences:
@@ -243,27 +266,74 @@ def main():
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        sentence = lemmatize(sentence)
+        # sentence = lemmatize(sentence)
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
+    return sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title
 
+
+def number_of_sentences_in_text(text):
+    return len(parse_text_to_sentences(text))
+
+
+def generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings):
     number_of_sentences = len(sentences_as_embeddings)
-    similarity_matrix = generate_similarity_matrix(sentences_as_embeddings)
+    similarity_matrix = np.zeros([number_of_sentences, number_of_sentences])
+    for i, row_embedding in enumerate(sentences_as_embeddings):
+        for j, column_embedding in enumerate(sentences_as_embeddings):
+            similarity_matrix[i][j] = 1 - spatial.distance.cosine(row_embedding, column_embedding)
+    return similarity_matrix
 
-    number_of_iterations = 10
-    population = generate_population(number_of_sentences)
-    for i in range(number_of_iterations):
-        print("iteration " + str(i))
-        iteration(population, similarity_matrix)
-    best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix))
-    generated_summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
-    print(abstract)
-    print(generated_summary)
-    rouge = Pythonrouge(summary_file_exist=False,
-                        summary=[[generated_summary]], reference=[[[abstract]]])
-    score = rouge.calc_score()
-    print(score)
+
+def get_clusters(similarity_matrix, threshold):
+    infomap = im.Infomap("--two-level")
+    for i in range(len(similarity_matrix)):
+        for j in range(len(similarity_matrix)):
+            if similarity_matrix[i][j] > threshold:
+                infomap.add_link(i, j, similarity_matrix[i][j])
+    infomap.run()
+    print(f"Found {infomap.num_top_modules} modules with codelength: {infomap.codelength}")
+    print("Result")
+    print("\n#node module")
+    for node in infomap.tree:
+        if node.is_leaf:
+            print(node.node_id, node.module_id)
+    return infomap
+
+
+def indexes_from_pagerank(scores, summary_size):
+    return sorted([k for k, v in sorted(scores.items(), key=lambda item: item[1], reverse=True)][:summary_size])
+
+
+def summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes):
+    return concatenate_text_as_array([text_as_sentences_without_footnotes[i] for i in sentence_indexes_sorted_by_score])
+
+
+def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, threshold=0):
+    start_time = time.time()
+    similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings)
+    # get_clusters(similarity_matrix, threshold)
+    graph = networkx.from_numpy_array(similarity_matrix)
+    scores = networkx.pagerank(graph)
+    sentence_indexes_sorted_by_score = indexes_from_pagerank(scores, summary_size)
+    summary = summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes)
+    print("Graphs algorithm took ", time.time() - start_time, "s")
+    return summary
+
+
+def main():
+    sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title = prepare_data(1)
+    print("text length is: " + str(len(text_as_sentences_without_footnotes)))
+
+    generated_summary_evolutionary = generate_summary_evolutionary(sentences_as_embeddings, text_as_sentences_without_footnotes, number_of_sentences_in_text(abstract))
+    generated_summary_graph = generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, number_of_sentences_in_text(abstract))
+
+    score_evolutionary = rouge_score(generated_summary_evolutionary, abstract)
+    score_graphs = rouge_score(generated_summary_graph, abstract)
+
+    print(score_evolutionary)
+    print(score_graphs)
 
 
 main()
