@@ -20,7 +20,7 @@ def generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, thre
 
 
 def get_clusters(similarity_matrix):
-    infomap = im.Infomap()
+    infomap = im.Infomap("--silent")
     for i in range(len(similarity_matrix)):
         for j in range(len(similarity_matrix)):
             if similarity_matrix[i][j] > 0:
