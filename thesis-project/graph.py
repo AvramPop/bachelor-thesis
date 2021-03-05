@@ -65,19 +65,26 @@ def remove_best(best, cluster_number, clusters, clustering_coefficients_for_each
     clustering_coefficients_for_each_node.pop(best)
 
 
-def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, threshold=0.35):
-    start_time = time.time()
-    similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, threshold)
+def get_clustering_data(similarity_matrix):
     graph = networkx.from_numpy_array(similarity_matrix)
     clustering_coefficients_for_each_node = networkx.clustering(graph)
     average_clustering_coefficient = networkx.average_clustering(graph)
+    return clustering_coefficients_for_each_node, average_clustering_coefficient
+
+
+def get_average_clustering_coefficient(coefficients_of_clusters):
+    return np.average(list(coefficients_of_clusters.values()))
+
+
+def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, threshold=0.35):
+    start_time = time.time()
+    similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, threshold)
+    clustering_coefficients_for_each_node, _ = get_clustering_data(similarity_matrix)
     clusters = get_clusters(similarity_matrix)
-    # print(coefficients_of_clusters)
-    i = 0
     solution = []
     while True:
         coefficients_of_clusters = get_coefficients_for_clusters_sorted(clustering_coefficients_for_each_node, clusters)
-        number_of_clusters = len(coefficients_of_clusters)
+        average_clustering_coefficient = get_average_clustering_coefficient(coefficients_of_clusters)
         for cluster_number in list(coefficients_of_clusters):
             if coefficients_of_clusters[cluster_number] < average_clustering_coefficient:
                 del coefficients_of_clusters[cluster_number]
@@ -103,7 +110,7 @@ def get_coefficients_for_clusters_sorted(clustering_coefficients_for_each_node, 
 
 def generate_summary_graph_text_rank(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size):
     start_time = time.time()
-    similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings)
+    similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, 0)
     graph = networkx.from_numpy_array(similarity_matrix)
     scores = networkx.pagerank(graph)
     sentence_indexes_sorted_by_score = indexes_from_pagerank(scores, summary_size)

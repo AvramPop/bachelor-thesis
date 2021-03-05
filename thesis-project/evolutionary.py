@@ -134,7 +134,7 @@ def generate_population(number_of_sentences, summary_size, population_size=20):
     return [generate_individual(number_of_sentences, summary_size) for _ in range(population_size)]
 
 
-def generate_summary_evolutionary(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, number_of_iterations=10):
+def generate_summary_evolutionary(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, number_of_iterations=50):
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embeddings)
     population = generate_population(len(similarity_matrix), summary_size)
