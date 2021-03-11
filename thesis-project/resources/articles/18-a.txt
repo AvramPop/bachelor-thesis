@@ -1,0 +1,487 @@
+Josep Rius-Camps has recently put forward the argument that the Pericope
+Adulterae (hereafter PA) was originally composed by Mark and placed in
+his gospel after Mark 12:12.3
+ This modifies an earlier publication of RiusCamps, where he claimed PA was originally penned by Luke for his gospel.4
+ In the more recent article, he states his revised hypothesis as such: The PA originally would have been part of the Gospel of Mark and would have been
+situated after the first attack by the High Priests, the scribes and the elders, questioning the authority of Jesus (Mark 11.27-12.12). Luke would have adopted it in his own
+work and would likewise have placed it after the first conflict of Jesus with the same
+Jewish leaders mentioned in Mark (Luke 20.1-19). Because of the moral strictness that
+prevailed at the end of the first century, the PA would have been eradicated together
+with the end of the preceding pericope both from the Gospel of Mark and the work
+of Luke. For 20 or 30 years, the PA would have been freely transmitted, with the two
+primitive archetypes mutually influencing each other and giving rise to more textual
+variants than any other document in the NT. Gradually, as the churches collected
+together the four canonical gospels, the PA would have been inserted in different
+places of the Gospel of John or the Gospel of Luke. Most of the communities that
+decided to reinsert it, would have done so in the Gospel of John.5
+Rius-Camps' proposal is creative, as it must be; for the difficulty in assessing PAs transmission history is in explaining how PAs language contains
+so many non-Johannine elements and yet the manuscript tradition shows
+an overwhelming affinity for a Johannine location. In addition, one must
+explain PAs famous various locations in the manuscript tradition outside
+the traditional and majority location of John 7:53-8:11. I have proposed
+an alternative socio-historical context for PAs insertion into gospel tradition elsewhere,6
+ but in what follows I would like to focus solely upon the
+foundational "building block" of Rius-Camps' proposal—the initial textual location of PA in the fourfold gospel tradition. When a scribe first
+decided to place PA in a gospel that would become part of the fourfold
+collection, where did he do so? I will demonstrate that the available evidence suggests that a scribe first inserted PA into canonical tradition via a
+manuscript of the Gospel of John (hereafter GJohn), and at its traditional
+location, John 7:53-8:11.7
+ More succinctly, there is no evidence to support he idea that early Christians read PA in canonical tradition in any place
+other than John 7:53-8:11 until the late ninth/tenth century CE.
+Before proceeding, however, I should note here that my analysis will be
+based upon (overlooked) manuscript and patristic evidence of PAs location in gospel tradition, which will be a methodological difference between
+Rius-Camps' approach and mine. Rius-Camps relies heavily upon linguistic stylistic similarities between PA and the gospel authors (and stylistic
+differences with GJohn).8
+ Pace Rius-Camps, and others (some of whom
+enlist the linguistic style argument in order to assert Johannine authorship),9
+ I am not confident that an analysis of linguistic style is able to
+demonstrate a previous textual or authorial source for PA. In an oftneglected article, Cadbury had already argued along these lines in 1917.
+While observing the many linguistic similarities between PAs author and
+Luke, he refuses to resolve whether those points of contact suggest that
+Luke himself wrote PA or someone whose style matched Lukes.10
+ He even
+notes that if it was someone copying Luke s style, then "style proves to be
+a most unreliable criterion."11
+ The assumption behind arguments from
+style is that a later scribe would not have been able to mimic an earlier
+authors style, and therefore that strong similarity suggests the same author.
+There is, however, no reason why an astute later scribe could not have copied an earlier style. The most that an argument built upon linguistic style
+can assert in a case like PAs is a stronger or weaker affinity between one
+authors style and another's.12
+ Furthermore, the question of PA's textual
+composition (i.e., who wrote down the story) is technically a separate issue from who inserted PA into gospel tradition and where, as one cannot
+assume from the outset that the same scribe committed both acts. Thus,
+my focus in the following study is not upon PAs original author(s), but
+upon the textual location of its insertion and the manuscript locations that
+are known for PA.13
+ That is, instead of asking "Where could PA have been
+located based upon who might have written it?" I will be asking "Where
+could PA have been located based upon where early Christians read it?" I
+begin with the known manuscript locations for PA.My counting of the manuscripts listed in Text und Textwertthat include PA
+in one form or another (including eighteen that include 7:52-8:2 but omit
+the rest of the story), yields a total of 1427 manuscripts of inclusion.17
+ For
+some reason, MS 115 is not included in the witnesses that place PA after
+John 8:12, and with this added it gives a total of 1428 manuscripts.18
+ One
+must take this number as tentative, subject to revision as more evidence
+becomes known, and only indicative of the Greek manuscripts. It is, however, heuristically crucial. Fifty-eight manuscripts (again, including 115)
+contain PA at an alternative location.19
+ This means 95.9% (1370/1428) of
+Greek manuscripts that contain PA place it at John 7:53-8:11, an overwhelming majority even when one allows for unknown manuscripts that
+may attest other alternative locations. That John 7:53-8:11 is the dominant location within the manuscript tradition, however, only attests PAs
+affinity with that location and/or its popularity in the church, not necessarily that it is the original location. For stronger evidence that John 7:53-
+8:11 is the original location, one must look at both the manuscripts and
+the patristic authors who knew the story of the adulteress. Comments by Ambrose and Jerome reveal that these writers read PA in
+GJohn, though they do not reveal exactly where in that narrative the story
+appeared. PAs precise location, however, is revealed by contemporaneous Greek and Old Latin manuscripts, Jerome s placement of PA in the Vulgate, and the running commentaries by Augustine. The manuscript evidence will be discussed prior to the patristic authors, and a methodological
+note is necessary here. Significant weight is given in this discussion to the
+date of manuscripts that include PA. This may seem to ignore the textual
+reality that the reading contained in any given manuscript, insofar as it
+reflects the exemplar and/or archetype, may be much older than the manuscript itself.20
+ In the case of PAs inclusion, however, one is dealing with an
+example where a scribe purposefully did not follow his exemplar. Thus, in
+this instance, one must focus primarily on the date of the manuscript that
+provides sure evidence of PAs inclusion. The exception here is the acceptance of the date of 384 CE for PAs presence in the Vulgate (on which see
+below and cf. Jerome, Pehg. 2.17)erome completed work on the Gospels for his Vulgate by 384 CE when
+he presented them to Pope Damasus.21
+ There is widespread agreement
+based on the Vulgate manuscript tradition that PA was at John 7:53-8:11
+in these manuscripts, but none from this period have survived. Thus,
+Codex D (Bezae), which Parker dates to ca. 400 CE,22
+ is the earliest certain
+manuscript to include PA, and does so at John 7:53-8:11. The remaining
+manuscripts that include the pericope can be dated from the seventh century to the fifteenth century, with the vast majority of these manuscripts
+dating closer to the twelfth century.23
+ Other fifth-century witnesses of PA
+at John 7:53-8:11 are in the Old Latin textual tradition, e zndff2
+.
+24 The Old Latin tradition also provides a witness in the sixth century withy and
+two from the seventh century with aur and r1
+.
+25 There is thus ample textual
+evidence that PA was known in the Latin-speaking world at John 7:53-8:11
+from the 380 s CE and continued to be associated with that position.
+The earliest suggested alternative location for PA in the textual evidence
+is its placement at John 7:44 in the Georgian tradition.26
+ Toensing claims,
+The manuscript evidence for placing the pericope in gospel texts other than after John
+7:52 is found beginning in the seventh century. Earliest among this evidence are several Georgian version manuscripts (geo2
+) of the seventh century [that] support the
+insertion of the pericope after John 7:44.27
+Toensing cites the Alands as support for the seventh-century date of geo2
+,
+who state that geo2
+, a revision of geo1
+, "was made after the separation from
+the Armenian church in the early seventh century."28
+ However, contra
+Toensing, geo2
+ does not actually contain PA, either after John 7:44 or
+at 7:53-8:11. The designation "geo2
+" refers to the Opiza, Tbet', Dzruc, and
+Parhal Georgian manuscripts; "geo1
+" refers to the Adysh manuscript.29Blake and Brière collated the Adysh, Opiza, and Tbet' manuscripts in their
+The Old Georgian Version of the Gospel of John^ and it is clear in their edition
+that PA is not included in these manuscripts of the Georgian GJohn.30
+Shanidze collated the Opiza manuscript along with the Dzruc and Partial
+manuscripts of geo2
+ in his Two Old Recensions of the Georgian GospeL·, and
+similarly PA is not included here either.31
+ Thus, PA appears nowhere in
+geo1
+ or geo2
+. Presumably, Toensing has confused geo2
+ with the later Athonite
+Georgian revisions of Saints George and Euthymius. In these documents
+text critics prior to and since Toensing have located PAs presence in the
+Georgian tradition. Streeter claimed that PA entered the Georgian tradition via "George the Athonite in his revision, c. 1045," and four years after
+Streeter, Blake et al. supported this also.32
+ More recendy, however, Birdsall
+has shown that the earlier revision of Euthymius the Athonite (d. 1028),
+Georges predecessor, included PA at John 7:44, as evidenced in Tbilisi
+Institutes' MS H 1741.33
+ The difficulty surrounding the problem of when
+PA was inserted in the Georgian text is clear when one considers that,
+according to Birdsall, Euthymius' text appears in parallel in the 1979
+critical edition of I. Imnaishvilli,34
+ but that it is "established on the basis
+of two manuscripts: Tbilisi Institute of MSS A 28... [and] H 1741," the
+former of which does not contain PA and the latter of which contains it
+after John 7:44.35
+ Euthymius and George were both late tenth-century
+figures, and thus one must date PAs John 7:44 location in their manuscripts to this period, pace Toensing.
+PAs presence at John 7:44 in the Georgian manuscript tradition therefore joins the tenth-century MS 1582 from/1
+, which places PA at the end
+of GJohn, as a representative for PAs earliest alternative location. One can push PA's location at the end of GJohn to the ninth-century with/ 1
+MS 565 if the "faded introduction" to PA stands as a witness to its inclusion.36
+ Worth noting, here, however, is that the/ 1
+ manuscripts most likely
+witness to a scribe's failure to include PA at John 7:53-8:11 (and default
+relocation of the story at the end of the gospel); i.e., not a scribe's placement of PA in another gospel context. The scribe of MS 565 claims he
+purposefully did not follow his exemplar in inclusion of PA.37
+ Thus, it
+seems that the tenth-century Georgian manuscripts that include PA at
+John 7:44 witness the earliest true alternative location for PA in a gospel
+narrative.38
+ The main point of the present discussion, however, is that PA
+was known at John 7:53-8:11 and maintained relative stability at that location until hundreds of years later, when its multiple alternative locations
+began to proliferate by and beyond the tenth century. Before moving forward to why a scribe might have moved PA from John 7:53-8:11, it is
+necessary to corroborate the manuscript evidence with fourth- and fifthcentury evidence from Ambrose, Jerome, and Augustine. When it comes to knowing precisely in which gospel the Fathers read PA
+and where in that gospel they read it, Ambrose, Jerome, and Augustine
+offer the most helpful statements. Ambrose confirms a Johannine location
+while Jerome and Augustine confirm the specific location of John 7:53-8:11.
+In a letter dated between 385-387 CE, Ambrose claims that PA is located
+in GJohn, and also remarks that the story is, by his time, quite familiar in
+Christian communities. He writes, "Numerous times the question [regarding bishops' involvement in secular courts] has been raised, and well known,
+too, is the acquittal of the woman who in the Gospel according to Johnwas brought to Christ, accused of adultery."39
+ It is clear, then, that Ambrose
+knows PA in GJohn,40
+ and further evidence makes it probable that Ambrose
+read PA at John 7:53-8:11. First, his discussion of PA in, for example,
+Epistle 68 (26) follows the order of the Johannine PA precisely. Second, he
+may allude to a 7:53-8:11 location when, while discussing PA, he references verses that follow PA immediately in John 8. In Epistle 68 (26),
+Ambrose likely cites John 8:15 when he claims that if Jesus had condemned
+the adulteress he would have contradicted his purpose of coming to forgive
+humanity's sins. He intensifies this point by continuing, "Indeed, furthermore he said, Ί judge no one.' "41
+ Although this quotation could be a reference to John 3:17, 5:30, or 7:24, the precise wording (ego non indico
+quemquarrì) suggests 8:15, and therefore that Ambrose supports his point
+further by citing a statement of Jesus from PAs immediate context. Similarly, in Epistle 64 (74), Ambrose refers to Jesus as the "Sun of Justice" who
+pours "forth the full light of His grace [and] says to you:
+cGo thy way, and
+from now on sin no more.' "42
+ If Ambrose read PA at John 7:53-8:11, it is
+no coincidence that he attributes the words of 8:11 to a "sunny" and "light"Jesus, since Jesus claims to be "the Light of the World" in John 8:12.43
+ One
+may need more straightforward evidence before drawing a certain conclusion, but in light of the additional factor that both Jerome and Augustine
+clearly read PA at John 7:53-8:11, it is a sound assumption that this was
+where Ambrose read it as well.
+Jeromes inclusion of PA at John 7:53-8:11 in the Vulgate by 384 CE
+slightly antedates Ambroses letters as the earliest piece of evidence for PA
+at this location. According to Jerome, already by his time one could find
+PA in numerous copies of GJohn. He says, "In the Gospel, according to
+John, there is found in many of both the Greek as well as the Latin copies,
+the story of the adulteress who was accused before the Lord."44
+Augustine twice includes PA in running commentary on GJohn, unambiguously demonstrating that his manuscripts included the story of the
+adulteress at John 7:53-8:11. In Tractate 33 of his Tract Eu Jo., he proceeds from discussing Nicodemus' chastisement by the other Pharisees at
+the end of John 7 to Jesus' teaching on the Mount of Olives at the opening
+of PA, even including the transitional verse of John 7:53 ("And each one
+went to his own house").45
+ After describing the hostile encounter between
+the scribes and the Pharisees and Jesus, Augustine ends this tractate with
+Jesus' non-condemnation of the adulteress and some pastoral comments.
+Tractate 34 then returns to the gospel text with Augustine's comments upon
+John 8:12«
+Likewise, in Augustine's Cons., he follows a discussion of John 7 with
+PA, which precedes his statements on John 8:12.47
+ At Cons. 4.10.16, he
+describes John 7:3, and dien begins Cons. 4.10.17 as such:
+Again, how weighty are the things which this evangelist reports Jesus to have spoken,
+when He came back to the temple from Mount Olivet, and after the forgiveness which
+He extended to the adulteress, who had been brought before Him by His tempters, as
+one deserving to be stoned
+48 
+Following a few statements regarding Jesus' acts of writing in PA, Augustine
+again demonstrates PA's location of John 7:53-8:11 when he says, "Accordingly, after these incidents, He affirmed Himself to be the light of the
+world...," a clear reference to John 8:12.49
+ These two texts of Augustine
+leave little doubt as to where PA occurred in the copies of GJohn that he
+considered authoritative, even though, like Jerome, he was aware of copies
+that omitted the story.50
+Worth noting in relation to Ambrose, Augustine, and Jerome is the Synopsis Scriptum Sacra, a text that is difficult to date precisely but was attributed dubiously to the fourth-century Athanasius. Whether contemporary
+with these other church fathers or slightly later, Pseudo-Athanasius is
+another witness to PA at John 7:53-8:11. In his survey of GJohn, he mentions PA just after discussing Nicodemus' argument with the Jewish leadership at the end of John 7 and just before quoting John 8:21b.51
+Other early Christian writers offer vague references to PA's location in
+their manuscripts. Didymus the Blind reads PA "in certain gospels" (εν
+τισιν εύαγγελίοις) in fourth-century Alexandria.52
+ In fourth-century
+Barcelona, Pacían locates the story in a "gospel" when he challenges the
+Novationists.53
+ Fifth-century Peter Chrysologus claims the story of the
+accused adulteress is "in the Gospel."54
+ Sixth-century Cassiodorus claims
+that Jesus' statement from John 8:11 is in "the gospel."55
+ (Equally ambiguous is Cassiodorus' reference to PA's author as "the evangelist.")56
+ Each of
+these authors clearly quotes PA as fully-authoritative Scripture, but without more explicit evidence their statements allow no further conjectures as
+to PA's home in the manuscripts they read.57
+ Importantly, however, and though one may desire more specificity, their statements do not contradict
+the argument above that John 7:53-8:11 was PA's earliest manuscript location in the fourfold canon.
+Therefore, both the manuscript evidence and patristic evidence confirm
+that PA's earliest demonstrable location in GJohn is at John 7:53-8:11. The
+Vulgate, Codex D, and the Old Latin tradition offer textual evidence for
+this location from the 380's on. Comments from Ambrose, Jerome, and
+Augustine corroborate this evidence. At least by the mid-fourth century,
+then, PA had been inserted into John 7:53-8:11 and began to be copied in
+that location. While manuscript 565 from f1
+ suggests that scribes had
+placed PA at the end of GJohn in lieu of John 7:53-8:11 by the ninth century, the earliest attested alternative location in a gospel narrative is from
+the tenth century, and from this point PA's manuscript location in the
+canonical tradition begins to vary considerably. If John 7:53-8:11 is
+demonstrably the majority location, and demonstrably the earliest location (and only narrative location in the extant evidence until the tenth
+century), how is it that PA came to be lodged from that position? The question of how PA was displaced from John 7:53-8:11 is partly unanswerable in the current study. It is beyond the scope of the present study to
+consider how and why scribes placed PA in each of its varying locations in
+the gospel manuscripts. Given the late date of the manuscripts, the results
+of pursuing such questions would have no immediate impact upon this
+study, which is concerned only with PA's initial entrance into canonical
+tradition. It is possible, however, to give some account of how and why
+scribes placed PA in some of its alternative positions, and thus offer a fuller
+picture for the textual history of this passage. Though normally ignored in
+PA scholarship, the most likely explanation for many of the alternative
+locations is the influence of lectionary reading of the gospels.In order to understand PA's multiple locations and the influence of the
+lectionary system, one may begin with recognizing that that PA is not
+authentic Johannine material. The story of Jesus and the adulteress initially
+confronted early Christians in some context other than GJohn. Papias
+likely knows of PA ca. 125 CE, and, depending on how one translates the
+Greek, either he or Eusebius attributes it to "the gospel according to the
+Hebrews" (το καθ' Εβραίους εύαγγέλιον).58
+ Eventually, however, an interpolator inserted PA into GJohn at John 7:53-8:11. This insertion created a
+situation where multiple early Christian authors acknowledge both PA's
+presence in GJohn and that some manuscripts contain it while others do
+not. Though, as shown above, Augustine knows PA at John 7:53-8:11, he
+also knows that it is not in every manuscript and resolves this problem by
+asserting that weak men have excised the passage.
+59
+ Likewise, Jerome cites
+the story of the adulteress from GJohn, places it at John 7:53-8:11 in his
+Vulgate, but also notes that it is found in "many" of the Greek and Latin
+manuscripts; thus not all.60
+PA's presence in the Philoxenian Syriac manuscript tradition also confirms that the Greek manuscripts from which Syriac translations derived
+included PA at John 7:53-8:11 when they included it, but manuscripts of
+omission were also known. The Syriac Chronicle attributed to Zacharias
+Rhetor (=Zachariah Mitylene), whose final redaction is dated to 569 CE,
+contains a statement regarding PA that acknowledges a Johannine location
+and possibly manuscripts of omission: "Now there was inserted in the
+Gospel of the holy Moro the bishop, in the eighty-ninth canon, a chapter
+which is related only by John in his Gospel, and is not found in other
+manuscripts "61
+ It is not exactly clear from this translation of the SyriacChronicle whether the author means that PA is not found in other gospel
+manuscripts or other manuscripts of GJohn. However, the Syriac manuscripts that Gwynn presents resolve this question. Among these manuscripts are texts corresponding to and including the Syriac Chronicle, which
+likewise include a prefatory note before PA that attributes its discovery and
+translation again to Bishop Mara. Of these, for example, (Gwynn's) MS /
+refers to PA as "a chapter which peculiarly belongs to John, and is not
+found in all copies."62
+ More importantly, however, is another collection of
+manuscripts whose introductory comments attribute PA's translation into
+Syriac from Greek to "Abbat Paul." In (Gwynn's) MS a, the introduction
+reads, "This Syntaxis is not found in all the copies; but the Abbat Mar Paul
+found it... and translated it from Greek into Syriac, as it is written here;
+from the Gospel of John."63
+ (Gwynn's) MS e is even more specific as to the
+textual location in its further comment: "It is after the [words], 'Search and
+see that prophet out of Galilee ariseth not' (St. Joh. vii. 52), that it is thus
+written."64
+ MS / s introduction includes the statement that PA follows
+John 7:52, but also offers a geographical provenance for the pericope: "A
+section that was found in Alexandria (or, in an Alexandrian [copy]), after
+the verse 'Search and see [sic] prophet ariseth not.'"65
+Therefore, some Syriac texts attribute PA's entrance into their manuscripts to Abbat Paul while others attribute it to Bishop Moro/Mara. All
+agree, however, that a reader could find the story in GJohn but that not all
+copies of GJohn include it. The only specific location ever given for the
+pericope is John 7:53-8:11. Combined with the comments from the Western Fathers, this evidence confirms further that the single explicit manuscript location for PA in the narrative of GJohn until the tenth century is
+John 7:53-8:11. Beyond this, the evidence demonstrates that, in the fourth,
+fifth, and sixth centuries, it was common knowledge for many Christian
+authors and leaders that some copies of GJohn contained PA while others
+did not.
+3.2 Scribal Confusion
+In the process of copying texts, then, Christian scribes were left in a quagmire: Some exemplars contained PA and some did not. Scribes attest this
+conundrum by several methods, chiefly by using text-critical markers to
+note their suspicion. Numerous scholars suggest that the diacritical umlaut
+between John 7 and John 8 in Codex Β implies that the scribe knows PA
+at this location, but does not copy it either because his exemplar does not
+contain it or he regards it as inauthentic.66
+ Summarizing other manuscript
+evidence, Parker says,
+A few copies of the Byzantine text use symbols taken from Alexandrian scholarship to
+indicate that a passage is probably an interpolation. Some of these manuscripts place
+the first marker not at verse 53 but at 8.2 or 8.3, showing that they regarded the first
+couple of verses as genuine. Many of these also contain a note indicating that not all
+copies have the passage.
+67
+In a similar vein, Metzger states, "Significantly enough, in many of the
+witnesses that contain the passage it is marked with asterisks or obeli, indicating that, though the scribes included the account, they were aware that
+it lacked satisfactory credentials."68
+ As already mentioned, the scribe of MS565 noted that he purposefully did not include the pericope though his
+exemplar did,69
+ and instead he likely placed the story at the end of GJohn
+by default.
+Given that scribes were unsure or sceptical of PA's canonical status and
+its presence in John 7:53-8:11, it is easy to imagine that they would then
+take the further step of exercising some scribal freedom and placing it in a
+location deemed more suitable for the passage. Indeed, this is the argument of Ross, who acknowledges scribal confusion regarding PA and further claims that the passage was "later restored by copyists who knew it to
+be genuine but did not know what was its proper location."70
+Ross gives only brief consideration to PA and its textual history (about
+half a page), as he discusses it alongside five other NT examples of "floating words," that is, "longer passages thought to be additions to the text
+[that] appear in different places in different manuscripts."71
+ The connotation of "floating" is that PA is somehow wandering aimlessly through
+the textual tradition without a proper anchor or guide,72
+ and some discussions of PAs many manuscript locations reflect this sentiment. Wallace says,
+"Early scribes, in sensing the richness and authenticity of the pericope adulterae, groped for an appropriate place to put it."73
+ In this theory, Christian
+scribes were utterly convinced of PAs authenticity and searched confusedly—
+"groped"—for an appropriate location within the gospel manuscripts to
+place it, thus producing the array of locations. Likewise, Morris claims, "It
+seems clear enough that those scribes who felt it too important to be lost
+were not at all sure where to attach it."74
+ While not mentioning scribalconfusion, McLachlan still attributes PAs manuscript locations in Lukan
+and Johannine gospel tradition to "the state of the text in the second century and its free handling by scribes!'75
+Van Lopik criticizes Ross heavily for describing PA as a "floating" tradition based upon its variety of manuscript locations in a response to Ross'
+article:
+As far as floating single words or short phrases are concerned, textual critics will generally subscribe to this conclusion. But so far as it concerns longer passages, Rosss conclusion seems debatable In this note I do not intend to enter into the question of
+whether the six floating passages discussed by Ross are authentic or spurious. My only
+aim is to demonstrate that two of the passages discussed by Ross [Luke 22.43-44 and
+PA] are floating because they were used in the liturgy.76
+According to van Lopik, the more plausible explanation for PA's occurrence in alternative locations is the influence of liturgical readings of the
+gospels on continuous-text manuscripts.77
+ Van Lopik is not alone in noting this liturgical influence, however, and this crucial issue deserves more
+attention in studies of PA's textual history. The present study thus now
+turns to consider the impact of lectionary reading on PA's textual history.
+3.3 Lectionary Influence
+The general influence of the lectionary system on non-lectionary texts is
+and has been well recognized.78
+ Sometimes when scribes produced new continuous-text manuscripts from a continuous-text exemplar that had been
+marked in lections, the new manuscript reflected the lectionary practice
+(although not technically a lectionary text). Van Lopik specifically contends that this is the cause of PA's relocation in MSS 225, 115, and/13
+. In
+the case of MS 225 (twelfth century),79
+ which places PA after John 7:36,
+van Lopik claims the solution is much simpler than Ross' and Wallaces
+proposal that the scribe knew PA to be genuine but did not know where to
+put it. After observing that "minuscule 225 is a lectionary containing a fidi,
+continuous Gospel text, not a selection of lessons," van Lopik claims that
+PA was dislodged from its normal location of John 7:53-8:11 and placed
+after John 7:36 because "John 7.37-52, 8.12 is the lesson for Pentecost/'80
+Thus, "Miniscule 225 excises the PA from the lesson of Pentecost. But it
+inserts the PA after 7.31-6, another passage passed over in the series of lessons in the movable liturgical calendar."81
+Concerning MS 115 (tenth or twelfth century),82
+ van Lopik states, "In
+the case of 115 there is no reason to speak of PA 'floating' at all."83
+ MS
+115 s scribe proceeds from John 7:52 to 8:12, then writes PA, then 8:12
+again.84
+ Van Lopik surmises:
+I think that what happened can be described as follows. The scribe wrote out 8.12
+twice: after 7.52 as the end of the lesson of Pentecost and before 8.13 as the beginning
+of the lesson of the Thursday of the fourth johannine' week. A similar repetition of a
+passage for liturgical reason is found in the numerous manuscripts which, in the lesson
+from Luke 8... repeat Luke 8.8b after 8.15. Further examples are of course to be
+found in 225, which offers the whole pericope John 13.3-17 twice, and in the manuscripts which give Luke 22.43-4 in two different places.85 
+(It is important for the present study to note that, though MS 115 is
+witness to an alternative location, it technically has not moved PA from
+John 7:53-8:11 but rather inserted 8:12 prior to PA. That is, PAs affinity
+with John 7:53-8:11 is manifest even in this liturgically-influenced text.)
+Thus, van Lopik accounts for the mysterious occurrences of PA after John
+8:12 in MS 115 and after John 7:36 in MS 225 as manifestations of a
+larger liturgical influence on gospel texts that he observes in numerous
+locations. He similarly accounts for PAs presence after Luke 21:38 in/13
+.
+In/ 1 3
+ (none earlier than eleventh century), PA occurs after Luke 21:38,
+beginning with the connective John 7:53 stating that "each one went to his
+own home," which provides a much more awkward narrative disruption in
+this location than the supposed disruption when PA follows John 7:52.86
+The manuscripts in this family that contain PA after Luke 21:38 are perhaps the most obvious example of lectionary impact.87
+ Contra Wallace,
+who attributes PAs relocation after Luke 21:38 to the parallel portrayals of
+Jesus' teaching in the temple, van Lopik aligns himself with Metzger and
+Wikgren,
+w ho have pointed out that the location of the PA in fam 13 is a blatant example of the
+influence of the Byzantine lectionary system on the text of the Ne w Testament. Luke
+21.12-19 is to be read on 7 October, the feast of Saints Sergios and Bakchos; the day
+after, on 8 October, the PA is to be read on the feast of Saint Pelagia.88
+Van Lopiks rhetoric perhaps presents an unnecessary false choice, since it
+is thoroughly plausible that the lectionary system recognized the narrative resonances between Luke 21:37-38 and John 8:1-2. Indeed, it is hard to
+think that the parallels were completely unrelated—beyond the "teaching"
+and "temple" similarities, one must also notice the presence of the Mount
+of Olives and "all the people"(πας ό λαός) in each text (Luke 21:37-38;
+John 8:1-2). Nevertheless, it is clear that PA, when it is to be found in the
+menologion, is normally read on October 8, St. Pelagias day.89
+ Beyond
+this, and though (surprisingly) van Lopik does not cite him, it was Colwell
+who first posited that PAs presence in f15
+ was due to liturgical reading.
+He says,
+It is my opinion also that the location of the story of the adulteress at the end of Luke 21
+in fam 13 is due to lectionary influence. For in the lectionaries this passage is omitted
+from John (as it is in fam 13) and appears most frequendy on October 8th; while the
+gospel lection for October 7th is Luke 21:12-19. Is it mere coincidence that this pericope appears in fam 13 at the first suitable point after Luke 21:19? Is it not probable
+that its location at the end of Luke 21 in this family is due to its appearance in this
+position in the menologion of the gospel lectionary?90
+The solution that van Lopik and Colwell offer is a much more plausible
+explanation for how PA was relocated to its alternative locations in MSS 225,
+115, and/13
+ than is the solution of, for example, Ross, who sees the guiding force behind PAs alternative locations as scribes who were convinced
+of PAs authenticity but unsure of a proper location. PAs presence in these
+locations was therefore not due to confusion but to a deliberate scribal
+choice.
+Therefore, though the manuscripts under consideration are continuoustext manuscripts, as Wikgren notes, "The lectionaries often and quite clearly
+influenced the text of non-lectionary MSS," and PA is one example of this
+phenomenon.91
+ Beyond the manuscripts discussed immediately above, it
+is also possible that this is the cause of the relocation of PA to John 7:44 in
+the Georgian manuscripts. Birdsall claims that work in the Georgian lectionaries "has scarcely begun," but observes that the removal of Mark 14:33-
+37a and its relocation to the end of GJohn is due to lectionary influence.92He does not mention PA in this regard, but Birdsalls observations do raise
+that possibility. However, it is not necessary here to account for every alternative location.93
+ It is clear that several of the alternative manuscript locations
+for PA are due to lectionary influence. While this offers some text-critical
+perspective for how PA was removed from its original location, none of
+these manuscripts can be dated as early as PAs presence in GJohn at 7:53-
+8:11, as attested by Codex D, Old Latin manuscripts, Jerome, and Augustine,
+and indeed they are many centuries removed. Thus, one cannot maintain
+the notion that early Christian scribes had, on the one hand, a loose tradition about Jesus and the adulteress that they considered authentic and
+worthy of a gospel location, and, on the other hand, various possible locations to place this rogue tradition. A more probable explanation of the
+available evidence is that an early Christian scribe or scribal school inserted
+PA at John 7:53-8:11, where it was copied, re-copied, sometimes omitted,
+and sometimes omitted but still referenced, for centuries until liturgical
+readings began to influence non-liturgical texts, at which point PA was, at
+times, relocated to alternative locations. This liturgical act was made easier
+since many of the extant manuscripts of GJohn omitted PA entirely. Taken together, then, the facts that John 7:53-8:11 is (1) the majority and
+(2) earliest known location for PA and (3) that all of the alternative locations are late and some are certainly due to liturgical influence, suggest
+that John 7:53-8:11 was intended, by its interpolator, as a proper narrative
+location for PA within the authoritative Jesus tradition in a manner that
+PAs numerous alternative locations were not.94
+ There is no extant evidence
+that PA was read in a canonical gospel text in any location other than
+John 7:53-8:11 until the late ninth/tenth century CE. Thus, contra RiusCamps and despite PAs linguistic similarities to other gospel texts, the
+evidence suggests that when PA first entered into canonical tradition, it
+did so in what has become its traditional location.

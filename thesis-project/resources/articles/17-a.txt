@@ -1,0 +1,452 @@
+Beginning with the depiction of missionaries in the two parallel commissions of Matt 10 and Luke 10, it is easy to find early Christian texts that
+depict the first preachers of Jesus' message as physicians: it is interesting to
+analyze this self representation against the background offered by the social
+practice and role of Greco-Roman doctors. Many features of this Christian
+self-portrait were influenced by the position the missionaries took in their
+ancient Mediterranean environment: in this perspective, Christian preachers and doctors carried a complex image that was both imitative of and oppositional to that of "officiai" Greco-Roman medical practitioners. The
+study of this theme indicates that Christian missionaries could have been
+represented as physicians because this provided them with a very useful
+and effective cover in spreading their teaching and, at the same time, disturbed the social and political structure of the Roman empire. Arguably, the oldest and more detailed commission for Christian missionaries might be read in Q 10, a text that has survived in two independent
+revisions of Matt 10 and Luke 10. For the sake of the present argument
+there is no need to address the entangled issues concerning the reconstruction of the original Q text: some remarks on the version presented in the
+Cntical Edition ofQ will suffice.1
+At first sight the two versions show no connection at all, but a closer
+examination demonstrates that they only rearranged a set of instructions
+received from the Q tradition. The order of the events in Matthew looks
+more akin to the likely course of a missionary activity, since the disciples
+enter first a town or a village (Matt 10:11) and then a house (Matt 10:12).2
+On the contrary, the Lukan version seems to have preserved more precisely
+the Q order and wording:3
+ at the beginning there is an instruction on
+the items missionaries should or should not carry along on their way
+(Luke 10:4). Then Jesus indicates how the disciples should act upon entering a house and how they should behave during their lodging there: they
+are expected to eat whatever meal they are offered and not to go from
+house to house in the village (this would avoid the accusation of looking
+for the best accommodation in town).4
+ Eventually, Luke comes to the actions Matthew had posited at the beginning of his treatment; the disciples have two tasks: to heal the sick people, whom they would find in the
+villages, and to preach the arrival of Gods kingdom.
+Matthew has inverted the order of the two actions by postponing the
+healing after the preaching: it is clear that he interpreted the cure as a sign
+of the incoming kingdom. Accordingly, he expanded the Qtext by appending to the healing of sick people a list of actions (raising dead, cleansing
+lepers and casting out demons) whose messianic overtones are unmistakable (Matt 10:8). Moreover, many interpreters noted the compositional
+pattern that shapes Matthews redaction in this as well as in other passages:
+he is probably echoing the structure of the preceding chapters, in which a
+discursive block (Matt 5-7) precedes a series of miracles (Matt 8-9). Eventually, this structure anticipates the question of John the Baptist on Jesus'
+identity (Matt 11:5).5
+It is quite clear that the Q text addressed another issue as well: what
+reward are the missionaries entitled to receive in exchange for the services
+they perform? Many features in Q1 0 are commanded by this concern: the
+order not to go from house to house and, even more notably, the request
+not to bring food or money in the journeys from village to village. The
+Q Jesus solves the problem by quoting a well-known proverb, according to
+which "the laborer deserves (literally: is worthy of) his wage".6
+ One may
+safely suppose that Q intended to depict Christian missionaries as workmen, who should be paid as long as they perform their duties. The Greek
+word εργάτης is retained in both redactions ofQ: indeed, its main meaning must doubtlessly refer to people who sell their handwork or their skills
+for a salary. The case is strengthened by a comparison with a preceding
+verse, Q 10:2: there, Jesus invokes the help of God, who should send laborers to work into the harvest. In that verse as well, Q links the term εργάτης
+and the harvesting metaphor leaving no doubts about the kind of workmen concerned: Jesus is speaking of day laborers who were hired for daily
+wages during the harvest season.
+So far the metaphor, but the actual activity of the Q missionaries looks
+altogether different, since the disciples are not required to help the villagers
+in their agricultural tasks, even though many Galilean villages presumably would have benefited from their help free of charges. The missionaries are
+entitled to a wage as long as they perform two duties, healing and preaching: such an observation might lead us to think that the Q disciples are
+represented as itinerant doctors. Would such an interpretation be plausible
+in the immediate context of Q10?The modus operandi of the Q missionaries might be easily compared to
+patterns of medical activity widespread throughout the ancient GrecoRoman world. First of all, one may consider the activity the disciples perform in the villages: the Greek phrase that most probably stood in Q
+(θεραπεύετε τους άσθενεις/άσθενοΰντας θεραπεύετε) could not be misinterpreted by an ancient audience. In papyrological sources, for instance,
+the adjective ασθενής as well as the participle ασθενών appear frequently
+in reference to illnesses or physical impairments.7
+ As for ασθενής, which
+probably stood in the Q version, it occurs with the meaning of "ill" already
+in one letter of Zenons (PCairZen 1, 59042, 4 [Philadelphia, 257 BCE]),
+but scores also some later appearances in PEnteux 22, 9 (Magdola, 218
+BCE, a petition containing the seemingly already classic phrase "old and
+ill"); PCorn 50,13 (Arsinoite, I CE); SB 6, 9526, 38 (Tebtynis, 200 CE). 8
+The same for the verb θεραπεύω: it is used in many different ways, but a
+prominent one is certainly related to the cure of the sick.9
+ These lexical
+choices arguably reminded ancient audiences of the activities of GrecoRoman physicians. Thus, there is no apparent need to read into these
+phrases, as the Matthean redactor did, a reference to exorcisms:10
+ of course,
+this has no bearing on the issue of the eschatological character that might
+be presupposed in the preaching concerning God s kingdom. In sum, it is
+clear that Q missionaries were entrusted with a medical activity, but are
+there any other hints that the disciples played the social role of physicians?First of all, doctors received payments that are frequently called μισθός,
+exactly the same word Luke (and Q) employs to indicate the wage earned
+by the workers sent into the world by Jesus. A great number of inscriptions
+from every region of the empire witnesses to honors bestowed on doctors
+by cities that had recourse to their skills: usually such texts contain a reference to the wage (usually a monthly allowance) the city decreed to pay to
+these public physicians.11
+ That cannot be surprising, since μισθός is commonly used to indicate the payment for hired work or the retribution for
+loaned commodities. In the text of a II century inscription from Lesbos,
+Bresos, son of Bresos, a chief physician,12
+ is honored for having performed
+an impressive list of civic and religious duties, notwithstanding Vespasian's
+provision, which, a few decades earlier, had freed doctors and rhetoricians
+throughout the empire from liturgical burdens.13
+The council (βουλή) and the people / [have honored] Bresos, son of Bresos, archiatros,
+free from / liturgical burdens up to the sons and the / nephews; he discharged / public
+offices and, among them, he brought ivy crowns / and he was agoranomos; he himself/
+was also president of the council and guardian / of laws and others; he was paredros /
+of Ethereal Zeus and of Ammon liberator / and of Adrasteia and of/ the Augustan
+mysteries, of Pnistia, / of Etephila, of Poseidon, / of Muchios and Muchia and of the /
+Unappeasable Goddesses and of the / sacred cave, and of Mainolios / Zeus; he was
+representative of Athena / Polias on behalf of the city, and / chief of dances of Artemis /
+and Apollo Maloeis, and / sacred herald of honors, / and zakor of the savior Asclepios,
+and first sacrificer of the most divine / emperor and of the citys / gods, and / a guide
+since already / forty years, and this / without allowances and wages (άνευ συντάξιος
+καΐ μισθού) / not as his predecessors did.
+As last item in the list, it is remarked that Bresos performed his work without receiving any wage: this seems a decisive element in shaping Bresos'
+social position and consciousness.14
+ The use of μισθός with reference to a doctor's work is significant since it enables us to take a glimpse at the social
+position of physicians. Only in the western regions of the empire, they
+were openly despised as any other worker who had to resort to his or her
+hands to earn his or her food.15
+ On the contrary, the bulk of ancient medical literature, produced by highly cultivated personages from the East, as
+Galen or Celsus, was intended to counteract this social prejudice, showing
+that the medical practice, highly esteemed since Hellenistic time, had to be
+equated to philosophical education and not to the τεχναί (in the above
+mentioned inscription, Bresos seems eager to underplay the relevance of
+the wages he received or even to show that he had not been paid at all).16
+Thus, some doctors might have ranked high in the imperial social ladder,17
+while the average physician was equated, in the eastern provinces of the
+empire, with other honorable professionals, such as architects or teachers.18
+Hence, ancient doctors and the Q missionaries might have roughly stood
+in the same pool: both appeared to be workmen hired for a salary, but
+they made a show of not receiving any actual payment in favor of the
+common interest.
+But there existed another interesting similarity. Many ancient physicians
+were itinerant: since ancient Greek times (fifth and fourth century BCE) the
+most doctors seem to have been constandy on the move, wandering from
+city to city and trying to reach a place, in which they could earn the highest salary. To be actually hired by a city council they had to demonstrate
+their medical skills. This task was not easy, since they had to showcase their
+ability to people who presumably, in the majority of cases, did not know anything about medicine. Again, epigraphical and legal sources inform us
+that, well into the Roman times, city councils chose on the basis of two
+main factors: some indirect knowledge of the candidates' reputation and
+upon hearing public lectures given by these same candidates.19
+ Thus, conferences of physicians wandering form city to city were a common phenomenon in the ancient world and upon those occasions doctors were required
+to demonstrate at their best their culture and their mastery of the art: obviously, this practice was conducive to abuses and indeed these are noted in
+many ancient writings, for instance Plato's Gorgias, in which the sophist
+boasts that he would win the position of public physician more easily than
+any actual practitioner by taking fixll advantage of his rhetorical skills.20
+We know from Galen that, in his time, the very city of Rome was ravaged
+by a crowd of doctors staging public lectures and even anatomic displays
+in order to win the favor of their audiences.21
+ This picture fits perfectly the
+intellectual climate of the Second Sophistic, which was characterized by
+the cultural and political effort to connect the imperial centre to the provincial elites through the rhetorical mediation of personages like Dio of
+Prusa or Aelius Aristides.22
+ Of course, not all intellectuals could achieve the
+position of these rhetoricians or, in the medical field, of Galen: yet, they
+could aspire to a key position in the social and political life of bigger and
+smaller provincial centers. One may easily see how such a context drove
+physicians to show rhetorical as much as medical skills: the broad cultural
+environment allowed the success of discourses that could connect the
+actual treatment of diseases to a display of philosophical or religious knowledge.23
+ In this perspective, ancient audiences might have understood the
+preaching activity that the Q Jesus entrusts to his disciples alongside the
+cure of the sick: the mention of the incoming basileia of God epitomizes
+the new message of liberation that is an integral part of the cure the missionaries have to bring to the villages. 
+Interestingly enough, the portrait of Christian missionaries as doctors is
+not limited to the Q text we are examining: a surprising and intriguing
+feature in a wide range of later Christian texts is the presence of characters
+who are identified both as missionaries and as doctors.24
+ Albeit less widespread, this social posture may be compared to that of Christian missionaries posing as itinerant philosophers, which could as well be traced back to
+the depiction offered in Q: eventually, both of them shed light on the ways
+these preachers sought to integrate their message into the social structure
+of Late Antiquity.
+A late text that offers an interesting instance is the Acts of Philip, probably a fifth century collection of earlier materials depicting the legendary
+travels of the aposde Philip in Asia Minor. The last chapters narrate Philip s
+missionary activity and martyrdom in the "city of the snakes":25
+ upon his
+entering the city—at the beginning of chapter 13—the apostle chooses to
+lodge in a dispensary (ιατρειον),26
+ which had been vacated by the city's
+public physicians. Most interestingly, Philip addresses a follower of his,
+Bartholomew, with these words:
+Where is the narthex that the Savior gave us at the time in which we were in Galilee?
+Let us setde in this dispensary and let us cure until we see the design that the Savior
+has prepared for us.
+It is noteworthy that the apostle is very straightforward in revealing his
+intention to replace the civic practitioners of medicine: the cure of illnesses
+is now entrusted to the Christian missionaries, who will actually heal a blind man in the immediately following chapters, but, of course, without
+using any of the Hippocratic methods. For the present purpose, it suffices
+to remark that Philip seems to wear here the clothes of the Greco-Roman
+doctor not only because he setdes in a ίατρειον, but furthermore because
+he is accompanied by a helper (who might be construed as an apprentice,
+whose presence in the wake of more or less famous physicians was not an
+uncommon sight), who carries his medical tools.27
+ A most interesting feature, as far as the present theme is concerned, is Philip's statement that the
+casket has been given to the disciples by Jesus in Galilee. Bearing in mind
+that the most probable location for the Q commission might be exactly a
+Galilean town, it would be intriguing to suggest that the Acts of Philip echo
+Jesus' commission to his first missionaries, who are sent in the world as
+healers in the current Greco-Roman fashion.
+However, the mere accounts of miracles and prodigious cures are not
+sufficient evidence of medical activity: on the contrary, some texts show
+a clear structural resemblance to the actions attributed to doctors in the
+Greco-Roman social and cultural context. It would suffice to analyze Peter's
+modus operandi as it is described in the two versions of the Pseudoclementine novel: the narratives are clearly shaped to agree with the Q scheme.
+Peter always enters a city and goes directly to a house, in which he will
+lodge during his entire staying.28
+ Subsequendy, the aposde's activities always
+follow a common pattern: he spends the day preaching and, at sunset,
+before retiring, he imposes his hands on the people to cure their diseases.
+It is noteworthy that Peter's preaching is primarily focused on human bodily
+sufferings and their causes: all sickness is due to the presence of demons in
+human bodies and Peter goes to great lengths in order to explain how and
+why this demonic "infection" has been contracted or might be prevented.
+A recurring feature in these writings (as in many other ancient texts)
+is a polemical attack against the institutionalized medical practice: a clear
+instance appears in the so called Acts of Peter and the Twelve Apostlesy
+ a
+composite work that figures at the beginning of the sixth Nag Hammadi
+codex.29
+ Peter and the twelve aposdes arrive at a city gate and meet an
+angel, Lithargoel, who is disguised as a doctor: he carries an unguent boxand is actually followed by a young apprentice with a pouch full of medicines.30
+ In the following lines, the angel reveals his true identity to the
+disciples who have not been able to recognize him as Jesus. After this
+recognition, Jesus gives the unguent box and the pouch to the apostles
+and entrusts them with a mission that consists in relieving the poor of the
+city. Slightly later, in a second speech, Jesus sends out his disciples to cure
+the sick:31
+He gave them the pouch of medicine and said, "Heal all the sick of the city who
+believe in my name." Peter was afraid to reply to him for the second time. He signaled
+to the one who was beside him, who was John: "You talk this time." John answered
+and said, "Lord, before you we are afraid to say many words. But it is you who asks us
+to practice this skill. We have not been taught to be physicians. How then will we
+know how to heal bodies as you have told us?" He answered them, "Righdy have you
+spoken, John, for I know that the physicians of this world heal what belongs to the
+world. The physicians of souls, however, heal the heart. Heal the bodies first, therefore,
+so that through the real powers of healing for their bodies, without medicine of the
+world, they may believe in you, that you have power to heal the illnesses of the heart
+also. The rich men of the city, however, those who did not see fit even to acknowledge
+me, but who reveled in their wealth and pride—with such as these, therefore, do not
+dine in their houses nor be friends with them, lest their partiality influence you. For
+many in the churches have shown partiality to the rich, because they also are sinful,
+and they give occasion for others to sin. But judge them with uprightness, so that your
+ministry may be glorified, and that my name also, may be glorified in the churches."
+The disciples answered and said, "Yes, truly this is what is fitting to do."
+Jesus' request meets the misunderstanding of his aposdes, because they do
+not think to be adequately trained for a healing mission: Jesus' answer, at
+first, refers to the "medicine of the heart" and seems to fit into the recurring early Christian discourse on the gospel as the cure for any human
+spiritual ailment. Surprisingly enough, Jesus is actually speaking of bodily
+healing, even though his speech contains an attack against the "medicine
+of the world": identifying the aim of this polemic is difficult, since Jesus
+seems to advocate a sort of "alternative medicine", while he himself has just consigned to his disciples the professional emblems of a Greco-Roman
+physician. This apparently inconsistent stance is clarified by the closing
+statement: Jesus asks his disciples to avoid contacts with the rich inhabitants of the city and it seems quite clear that the mission of the Christian
+healers should be restricted to the poor. Indeed, this text envisages Christian missionaries, who are required to refuse all the most significant features of the ancient patronage system ("do not dine in their houses nor be
+friends with them").32
+ What meaning may such an apparently contradictory attitude towards social and cultural institutions have in the context of
+Greco-Roman medical practice?
+4. The Social Profile of Physicians in Antiquity
+The bulk of our information on the social stance of ancient doctors comes
+from Egyptian papyri, even though some evidence can be collected through
+the reading of inscriptions from Greece or Asia Minor. However, it should
+be noted that, particularly for the latter sources, our perspective might be
+biased, since the honor of being named in inscriptions was usually restricted
+to those figures who had attained a relevant social standing: this being the
+case, in inscriptions we have at our disposal less material on those practitioners who wandered through the countryside and never succeeded in
+obtaining a position in a urban center.33
+Nevertheless, an assessment of the average income of an Egyptian public
+physician under Ptolemaic rule has been attempted by Fridolf Kudlien: his
+data seem to be reliable and consistent with the papyrological texts at our
+disposal.34
+ We know that all the cleruchic landowners had to pay a special
+tax, whose name itself, ίατρικόν, reveals its aim: this revenue was employed
+to assure a monthly allowance to public physicians in order to render more appealing their residence in small Egyptian towns.35
+ A papyrus gives us the
+means to calculate the yearly amount a single doctor would have received
+from the royal treasure: a physician could seemingly earn 1000 drachmas
+per year.36
+ This is not a particularly relevant sum, but it would have posed
+doctors above teachers, whose income was inferior. Nevertheless, one must
+note that such a yearly allowance, albeit huge if compared to Egyptian
+peasants' budgets, would not have exactly been a source of social prestige:
+indeed, 1000 drachmas is the same salary a simple policeman could earn
+in a year. Anyway, we should account for other sources of income viable
+to a physician: first of all, he could charge his patients for his treatments.
+As far as this issue is concerned, we have a fair number of papyri, both
+of Ptolemaic and Roman time, which give us a good picture of the
+situation.37
+ Arguably, a skilled and well-connected physician could expect
+to earn at least another 3000 drachmas per year. This would have brought
+his or her social status at the level of a police chief, a figure of relatively
+good standing in a town or a metropolis of the Egyptian chora. Kudlien has
+correctly clarified the twofold structure of physicians' income by commenting upon a much debated text in Diodorus' history. In Bibliotheca
+histórica 1, 82, 3 the Sicilian historian, probably quoting from Hecataeus'
+survey on Egyptian history and costumes, describes the activity of early
+Ptolemaic doctors:
+On their military campaigns and their journeys in the country (τας επί της χώρας
+έκδημίας) they all receive treatment without the payment of any private fee (ούδένα
+μισθον ίδία δίδοντες); for the physicians draw their support from public funds
+(τας μέν τροφας έκ του κοινού) and administer their treatments in accordance with a
+written law which was composed in ancient times by many famous physicians.
+This piece of information has been often discarded as sheer idealization
+(founded on the memory of the centralized system of pharaonic times)
+or valorized as a witness to the existence of a state healthcare system under Ptolemaic rulers. In fact, it is more probable that the maintenance
+(τάς τροφάς) granted to physicians on special occasions (arguably, military
+expeditions and official journeys of state personages) should be understood
+as the above mentioned ίατρικόν, which actually was taken from the royal
+treasure (εκ του κοινού λαμβάνουσι) and is clearly distinguished from the
+fees paid for private treatments (ούδένα μισθον ιδία δίδοντες).38
+ Besides, it
+must be remarked that ancient physicians might have had at their disposal
+other sources of income: from a number of papyri we know about doctors
+who had significant interests in land tenure or catde breeding.39
+Interestingly, even though some physicians might have been relatively
+wealthy in Hellenistic cities, under the Roman empire their status seems to
+have been even improved by two important imperial decrees. The first,
+issued by Vespasian and reiterated by his successors, has already been mentioned above and prescribed that doctors and their descendants for two
+generations were exempted from liturgies. It is well known how burdensome and expensive these compulsory services were already in the first
+century CE and how much their weight on cities' inhabitants would
+increase during the following decades: Vespasian's measure granted to doctors a relevant privilege. Expectedly, as a consequence of these provisions,
+under the early empire we witness the emergence of voluntary associations
+of physicians, while the medical profession became more and more a
+hereditary matter.40
+ Of course, there was plenty of space for abuses and the
+situation required a further intervention of the imperial authority under
+Antoninus Pius in the 140s: the Digesta (27, 1, 6, 2-4) witness that the
+emperor imposed limits to the number of physicians a city or a town was
+allowed to hire.41
+ A first reason for such a measure was to restrict the number of well-to-do citizens who could avoid the burden of liturgies by virtue
+of the privilege bestowed on medicine practitioners by Vespasian. On the other hand, Horsley has correctly drawn our attention to an interesting
+clause in Antoninus' formulation: the emperor states that people who heal
+through exorcisms and incantations cannot be considered for an appointment.42
+ Seemingly, the imperial rule intended to draw a clear line distinguishing the "scientific", Greek healing methods, which can obtain official
+recognition, from those practices that cannot be included within the
+boundaries of the dominating Greco-Roman culture.
+Leaving this point aside for the moment, I would add that imperial
+pronouncements in the first two centuries CE tended to transform medical practice into a matter for restricted and selected circles, whose members
+might earn very good wages and enjoy public favor. We have more information on wages in papyri from Roman times than for the Hellenistic
+period: see, for instance, the two payments, of 34 and 20 drachmas respectively, for two circumcisions in an account of expenditures (PThmouis 1,
+123, 1; 128,4 [170/1 CE]) or the payment of 20 drachmas for the healing
+of a foot in a private letter (PStras 1, 73, 19 [?, Ill CE]). Furthermore,
+those practitioners who achieved civic recognition became clearly distinguishable from charlatans and quacks, because of their increased responsibility in administrative and judicial affairs. Indeed, from this time on there
+appears a long series of reports on injuries and wounds due to violent
+assaults or accidents filed by "proved" (probati or δεδοκιμασμένοι) public
+physicians working on behalf of the imperial and local administration: the
+earliest extant witness to this bureaucratic employment of doctors dates
+from 96 CE (POslo 3, 95 [Oxyrhynchus]). Beginning with the missionary commission in Q and looking at some
+apocryphal texts, we have been able to detect a number of early Christian
+preachers portrayed as Greco-Roman physicians. Among other more widespread types, such as that of the wandering philosopher, this kind of
+accommodation to the Greco-Roman social structure may have favored the diffusion of the Christian message. Moreover, this peculiar figure
+will survive well into the fourth century with some examples of bishops
+and doctors who gave full realization to the ideal mixture of social and
+pastoral care.43
+Notwithstanding its success, Jesus' request that his disciples act as physicians looks somewhat difficult to explain; this sounds all the more true
+if one considers the many facets of Greco-Roman culture that were
+openly rejected by the Christians.44
+ The above mentioned Acts of Peter
+and the Twelve Apostles adopt the image of the ancient doctor to describe
+the activity demanded to Jesus' missionaries, but, at the very same time,
+severely condemn those behaviors that provided richness and prestige
+to the practitioners of medicine. How may this contradiction be historically reconciled?
+First of all, it cannot be maintained that the Christian missionary activity had religious character and thus was immediately distinguishable from
+Greco-Roman medicine, which purportedly applied a "scientific" method.
+Such a modern dichotomy between religion and science cannot adequately
+account for the ancient perspective on illness and its healing. Moreover, it
+would be erroneous to project on ancient documents our ideas on healthcare, since the latter are embedded in an altogether different "broad system
+of interaction between society and individuals over the meaning of health
+and the way it is to be maintained, regained, and defined."45
+ Our entire
+conceptual system is radically different and it should not appear as striking
+that, in the ancient cultural and social environment of a village or a small
+city, itinerant doctors and wandering preachers of new salvation cults could
+be confused.
+As far as the application of anthropological paradigms to New Testament
+texts is concerned, the most insightful contributions have come from Pilch's
+work.46
+ Relying on the work of the renowned medical anthropologist
+Arthur Kleinmann, Pilch proposes to interpret New Testament references
+to doctors and healing by employing a threefold healthcare system, in
+which a popular, a folk, and a professional sector interplay. Pilch's reading
+yields valuable insights on many features of the Jewish and early Christian
+cultural appreciation of health and illness: in particular, his contributions
+have correctly emphasized that ancient approaches to illness must be
+described within a cultural framework, which should be much more nuanced
+than that of modern biomedicine.47
+ Pilch puts Jesus' healing activity, as it is
+portrayed in the Gospels, into the folk sector, which he depicts as a "nonprofessional, non-bureaucratic, specialist sector of a healthcare system that
+often blends into the other two sectors", the professional and the familialcommunitarian ones.48
+ Interestingly enough, Pilch goes on to describe the
+figure of Jesus in the Gospel of Mark as that of a teacher-as-healer, a folk
+healer whose presence is relevant in many anthropological surveys. The
+teaching and the healing roles are often connected because the secret
+knowledge attributed to a folk doctor enhances the effectiveness of his or
+her therapeutic methods: in this analytical perspective, a therapy is judged
+successful as long as it is capable of inscribing the patient's experience of
+disease into a culturally meaningful context.49
+ Nevertheless, in the Christian sources reviewed above, missionaries and folk healers are depicted as
+consciously appropriating some distinctive features of the contemporary
+professional sector, that of Greco-Roman medicine: how might we explain
+this apparently contradictory choice? Helpful comparisons may be drawn from ethnographic observations. During
+the last few years some researchers have taken into consideration the social
+practice of medicine in India and in other Asian countries by employing the interpretive category of "mimesis" proposed in some influential studies
+by the anthropologist Michael Taussig.50
+ "Mimesis" should be envisaged as a
+phenomenon qualitatively different from mere imitation: "mimesis" would
+consist in appropriating behaviors and discourses coming from an Other
+and, through this appropriation, "becoming" the Other in a distinctive
+and often critical way. The concept has been employed mainly in analyzing
+colonial or post-colonial contexts, in which the cultural discourse of the
+colonizing powers has extensively been mimicked by the colonized: moreover, in many instances, mimesis entails a deeply critical parody of authoritative discourses and the use of these reversals in order to implement
+traditional practices that otherwise would have been repressed.51
+As far as the present argument is concerned, the analyses of the Indian
+cultural context might prove particularly useful, since they draw on the
+social status and activities of self-taught (or, we might say, folk) physicians.
+Seemingly, the Indian professional healthcare system is largely unable to
+cope with the enormous demand of an ever-growing population, while
+great emphasis has been put by governmental agencies on the medical education of people living in rural villages and on the development of higher
+hygienic standards. A nebula of self-taught doctors, midwives, or injectionists has carved its own place into this landscape by providing minimal
+health services to the sick and by taking advantage of the "traditional"
+Ayurvedic medical discourse to establish its authority. This kind of mimesis
+serves well the inhabitants of Indian villages by obviating the mixture of
+awe or distrust (when not outright fear) the villagers usually feel towards the
+biomedical institutions based in the cities and run by governmental agencies. On the other hand, through its very presence and pretence to efficacy,
+this "quackery" is able to blur the boundaries between biomedicine and traditional practices, so that it actually undermines the post-colonial discourse founded on upholding modernity and scientific cure. After having
+described the impressive activity of an Indian pulse reader, Langford comments very aptly:52
+Simulation is integral to medical practice, troubling the binary of truth and falsehood
+that is a foundation of scientific knowledge... the commodity value of pulse reading
+as a sign of traditional wisdom and the political value of pulse reading as a precolonial
+practice not assimilable to European-styled medical training... disturb... the notion
+of medical authenticity so crucial to biomedicine.
+Is it possible to see any point of comparison between this picture and the
+social practice of early Christian physicians/missionaries? The above mentioned texts referred significantly to medical practices and to a missionary
+pattern, in which a behavior similar to that of Greco-Roman physicians
+played a relevant role: this being the case, the hypothesis of mimesis may
+be introduced. Early Christian missionaries might have chosen such a selfrepresentation, because it could extend its authoritative aura over their
+preaching activity as well. That choice was not restricted to Christian
+groups: it suffices to mention Alexander, the pseudo-prophet depicted by
+Lucían, who starts his career as self-taught itinerant doctor (in paragraph 5
+of the homonymous pamphlet, the young Alexander is portrayed as an
+apprentice of a quack, who is indeed a public physician and a follower of
+Apollonius of Tyana, and in paragraph 60 a certain Paitos, a doctor, strives
+to succeed the dead Alexander as priest and prophet of his cult). Such a
+choice might somehow have been favored by the traditional image of
+Judean medicine, which sometimes surfaces among Greco-Roman intellectuals: we have abundant information about physicians of Judean origin
+both in the West and in the East, while many sources refer to Judean healing recipes or to Judean treatments with a respectful attitude.53
+Nevertheless, the early Christian medical practice followed patterns that
+we may safely call "traditional" (or folk) and are radically different from  Hippocratic and Galenic medicine. The little we know about early Christian healing methods points exactly to those practices (incantations and
+exorcisms) that were excluded from the privileges granted by Antoninus
+Pius' decree.54
+ The rejection of the socially dominant patron-client relations shows us how this early Christian instance of mimesis implied not
+only the imitation of a social posture, but also a good deal of cultural critique. It might be argued that this attitude, both critical and imitative at
+the same time, can concur in explaining the effectiveness of Christian missionary activities on the ancient religious market. At different times during
+the first centuries CE the patronage system that formed the backbone of
+civic life experienced moments of crisis. In such circumstances, it is fairly
+possible that poorer citizens and villagers received less attention from doctors whose institutional positions were more and more linked to the wealthy
+metropolitan elites:55
+ the Christian cure, offered practically for free and
+mimicking the authoritative discourse of scientific medicine, might have
+constituted a suitable alternative for those social sectors that were particularly exposed to suffering and death during periods of distress.The Q commission shows some features that equate the Jesus' missionaries
+to Greco-Roman medical practitioners. Actually, some early Christian texts
+developed the same imagery, accompanying it with some hints of social
+critique. The social status of ancient doctors was deeply differentiated, but
+it is quite clear that, under the early empire, the prestige and the privileges of those who followed in the Hippocratic and Galenic path and had good
+patronage connections were significandy increased. The early Christian
+medical mimesis entailed a refusal of the patronage system and, for this
+reason, it arguably won the Christian mission a part of its success in some
+sectors of the ancient social structure. 

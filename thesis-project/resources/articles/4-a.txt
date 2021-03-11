@@ -1,0 +1,669 @@
+This essay deals with the instructions on money in 1 Timothy 6, culminat-
+ing in 1 Tim 6:17-19, the concluding instruction in 1 Timothy. Although
+the passage is problematic in a number of ways, treatment of it in its
+own right has been relatively slim, attention rather being concentrated on
+how it relates to the rest of chapter 6. While the question of literary rela-
+tionship is important and will receive some attention, I wish to explore
+more extensively than has been done the traditions used in this final exhor-
+tation, instruction to the wealthy in the church.
+Studies of the moral teaching of the Pastoral Epistles (henceforth PE)
+have tended to concentrate on the influence of popular philosophers on
+the author. In a number of studies I have attempted to demonstrate that an
+awareness of philosophical traditions available to the author sheds light on
+these letters. The philosophy in view is usually Stoicism, but recently Cyn-
+icism has also come under consideration. 2 In this article I wish to cast the
+net more widely, to include other evidence of popular moral teaching of
+the day in addition to the philosophical, to provide a broader context
+within which to situate the Pastorals, and more narrowly, the discussion of
+wealth in 1 Tim 6.
+Such a richer description of the moral landscape permits a more nuanced
+view of the relationship of the PE to their environment than simply one of
+derivation or influence. At the very least, it makes one aware of the variety
+of opinions that were held about wealth. A brief canvass of the types of
+materials used by the PE in their moral teaching will provide perspective
+for my investigation.
+The Pastoral Epistles are deeply indebted to hellenistic moral philosophers
+in matters of style, ethics and even theology. 3 This is true of the discussion
+in chapter 5, where intergenerational relationships are the issue. 4 It is also
+true of the discussion in chapter 6, as will be demonstrated. But before
+proceeding to that chapter, a few comments on what is meant by popular
+moral philosophy are in order.
+To speak of "popular philosophers" or "popular philosophy" does not
+imply that the philosophers in view or the teaching associated with them
+was uniformly liked or approved. The diversity in self-perception, motiva-
+tion and style of speech and demeanor among these philosophers shows
+that the situation was more complex. This appears, for example, in the way
+Lucian of Samosata lampoons some philosophers in satires like The Run-
+aways and Philosophies for Sale on the one hand, and his respectful por-
+trayal of ideal figures in Demonaxzna Nigrinus on the other. The differences
+emerge equally clearly from within the enterprise, as Dio Chrysostom
+makes clear in autobiographical comments, describing how it came about
+that he adopted the philosophical way of life and how he was sometimes
+accepted and at other times rejected by his audiences. Dio spoke mostly in
+public, accessible to large crowds of listeners, while other philosophers
+spoke in classrooms, gymnasia and salons of the rich, thus also physically
+accessible in more defined settings. 5
+The term "popular" is serviceable to apply to philosophers whose teach-
+ings were intellectually accessible as well to a wide swath of society. Their
+philosophy was not conceptually complex or technical by way of formal
+argumentation; indeed, they were not interested in sustained or systematic
+exposition in or for itself. 6 They aimed at the moral formation of people,
+to whom they advanced the proposition that human beings can live mor-
+ally and virtuously only if they live rationally, and the rational life, they
+held, was the province of philosophy in the sense that it made that life pos-
+sible and provided details as to what it should be. 7
+The educational level presumed is that of adolescent males, although a
+philosopher like Musonius Rufus insisted that young women too should
+study philosophy. 8 The philosophers' interest was in ethics, the intellectual
+underpinning of which was to a considerable degree provided by Stoicism,
+whose influence was widespread. It is found, for instance, in the orations
+of the well-educated sophist, Maximus of Tyre, whose intellectual level has
+recently been described aptly as that of "philosophy made easy." 9
+But, to judge from Lucians satires, philosophic pretenders from the
+lower classes would pick up a philosophic term here and there to spice up
+their harangues as they joined the ranks of the street preachers, who were
+mostly Cynic. 10
+It is difficult to determine how far the influence of moral philosophy
+extended beyond the circles who either explicitly claimed to be philosophical
+or appealed to philosophical traditions. Adolf Deissmann a century ago
+thought that inscriptions more accurately represented popular thinking
+than philosophical texts. 11 Later, Martin Dibelius identified many simi-
+larities between honorary inscriptions and popular morality, but cautiously
+stipulated that the relationship had not been explained thoroughly. 12 In
+recent years, there has been renewed interest in utilizing inscriptions to
+illuminate the New Testament in general, 13 and study of the PE has con-
+tinued to be enriched by bringing them into the conversation. 14 But deter-
+mining the value of inscriptions, whether honorific or on tombstones, has
+to come to terms with certain facts.
+To begin with, epigraphic reference to philosophers is very slight, 15 as is
+epigraphic philosophical propaganda. 16 Coming at the matter from the
+philosophers' side, we do know that for a philosopher like Plutarch, "epig-
+raphy can serve as a measure of character and great deeds," 17 and the vir-
+tues celebrated in honorific inscriptions were also held to be virtues by
+moral philosophers. 18 Furthermore, as Teresa Morgan holds, although
+tombstones or dedications that exhibit ethical vocabulary were likely to
+have been erected by wealthy families, and "the range and relative fre-
+quency of the virtues enumerated in first- and second-century epitaphs"
+has not been studied as a whole by anyone, the indications that emerge
+from Latimore's study "suggest that virtues celebrated on epitaphs are, on
+the whole, also those found in popular sayings and stories." 19 Elizabeth
+Forbis has a similar judgment about the honorific inscriptions she has
+studied: "With very few exceptions... the words chosen to illustrate virtu-
+ous behavior in these honorary texts belong to the standard Latin vocabu-
+lary for virtue." 20
+It is true that inscriptions must be used with the greatest care in con-
+structing demographic models, 21 but they are a useful bit of evidence when
+read in conjunction with literary sources. 22 These writings have recently
+been called aristocratic, which is taken to mean that they are of little value
+as descriptions of social realities, pride of place rather belonging to inscrip-
+tions. 23 I do not share this judgment, which stands the matter on its head.
+The two sources should be regarded as complementary, the literary more
+extensive and clearly sharing an affinity with the Pastoral Epistles, namely
+the aim of effecting moral behavior. We shall return to this matter below,
+when discussing the use of wealth.
+Teresa Morgan has described popular morality in the early Roman Empire
+on the basis of proverbs, gnomes, exemplary stories and fables, and raised
+the question of the relationship between popular morality and "high phi-
+losophy." Her sources for the latter are Seneca, Plutarch, Maximus of Tyre
+and Epictetus as she combines the two. 24 She concludes that the philoso-
+phers used popular material to make a case, not simply to illustrate an
+argument, and that "there is more evidence that high philosophy drew its
+questions, if not its answers, from popular morality." But, she concludes,
+they are "two streams of culture, ultimately rising from many of the same
+sources. ^
+The matter looks slightly different when the interest is in moral instruc-
+tion, which is our concern in this essay, rather than theoretical argument.
+One of the types of material Morgan examines is the proverb. After dealing
+with philosophers' attempts to define what a proverb is, she is led to the
+broad statement, "The essential features of proverbs, in the authors I have
+quoted, seem to be that they are traditional, popular, anonymous and
+instructive." 26 Proverbs, socially "low in origin," are self-evidently true, and
+represent common wisdom. 27 These features made proverbs a natural part
+of the moral philosophers rhetorical repertoire, particularly in paraenesis.
+In his discussion of that part of philosophy that the Greeks call parae-
+netic {paraeneticeri) and the Romans call preceptorial {praeceptivam), Sen­
+eca (Ep. 95.1) makes the case that precepts require no proofs when they are
+used, for they are self-evidently true and compelling, whether couched in
+prose or poetry, or in proverbs. Seneca maintains that the capacity to do
+what is honorable is within us, just waiting to be stimulated by advice
+{admonitio), a proverb or precept sufficing to do that {Ep. 94.27-29, 43,
+47, illustrating his point by quoting a number of proverbs). Two things
+combine to make them irrefutable: their intrinsic, self-evident rightness,
+and the acknowledgment by people generally that they contain wisdom.
+This is also a major feature of paraenesis. 28
+The author of the Pastoral Epistles uses proverbs, understood in the way
+described by Morgan, in all three letters, which are, for the most part,
+paraenetic. See, for example, the following: 1 Tim 4:8, "physical training is
+beneficial for a few things, but godliness (ευσέβεια) is beneficial for all
+things," is sometimes thought to be proverbial, originating in Stoic phi­
+losophy, where philosophy was praised. Christians substituted ευσέβεια
+for philosophy 2 9 First Timothy 5:18, "Do not muzzle an ox while he is
+threshing," although a citation of Scripture (Deut 25:4), is proverbial in
+nature. And "The workman is worthy of his wage," in the same passage,
+although identified as Scripture, is in fact a word of Jesus derived from the
+Synoptic tradition and is also a proverb. 30
+Titus 1:12, "Liars ever, men of Crete, nasty brutes that live to eat," is a
+proverb, 31 as is Titus 1:15, "all things are pure to the pure." 3 2 Sometimes
+the oxymoron in 2 Tim 4:2, "in season and out of season," is referred to as
+proverbial, 33 but it is in fact derived from the rhetoric of psychagogy. 34
+There has been a tendency to identify too freely as proverbial material that
+seems to ill fit their context and looks to be traditional, 35 which may be due
+partly to a lack of appreciation of the abruptness of the style of exhortation
+and partly to the convenient slipperiness of defining a proverb.
+It is noteworthy that the proverbs in 1 Tim 5:18, as does the Greek
+proverb, with minor changes, attributed to Jesus in Acts 20:38, "It is more
+blessed to give than to receive," also deals with financial matters. And the
+command in 2 Thess 3:10, "If someone does not want to work, let him not
+eat," with good reason sounded to Deissmann like "a bit of good old work­
+shop morality." 36 What these passages have in common, other than their
+proverbial character, is that they deal with financial remuneration for work
+performed, in two cases, manual labor (Acts 20:38; 2 Thess 3:10). In
+1 Tim 5:18 the proverbial statement also derives from the working class,
+but the application is to financial support of those who labor in the church's
+service. 37
+The frequency with which proverbs and similar material appear in the PE
+is worth noting in light of ancient epistolary theory about the appropriate
+style of a letter. Gregory of Nazianzus, commenting on charm (χάρις), says
+This we should preserve if, on the one hand, we avoided writing with complete aridity,
+gracelessness and lack of embellishment, in the unadorned and untrimmed style, as it
+is called, which allows for no pithy sayings (γνωμών), proverbs (προιμιών) or apo­
+phthegms (αποφθεγμάτων) nor for witticism or enigmas which sweeten discourse. On
+the other hand we should not make undue use of these devices. Not to use them at all
+is boorish, to use them too much is cloying. (Ep. 51.5; trans. Malherbe, Ancient Epis­
+tolary Theorists, 61)
+And Demetrius says about ornament (κάλλος) that a letter may have it
+in the shape of friendly bits of kindly advice (φιλικαι φιλοφρονήσεις) mixed with a
+few good proverbs (παροιμίαι). This last is the only philosophy admissible in it-the
+proverb being the wisdom of the people, the wisdom of the world. But the man who
+utters sententious maxims (γνωμολογών) and exhortations (προτρεπόμενος) seems to
+be no longer talking familiarly in a letter but to be speaking ex cathedra. {De elocutione
+38
+232; trans. W.R. Roberts, LCL; repr. Malherbe, Ancient Epistolary Theorists, 19)
+Gregory and Demetrius are writing about friendly letters, 39 in which an
+abundance of gnomes, apophthegms, protrepses, chreiai and the like are
+not appropriate. Proverbs belong to these popular philosophical means of
+moral instruction. 40 The Pastoral Epistles are not "friendly letters," but par­
+take of the nature of philosophical letters, in which proverbs or proverbial
+wisdom are at home.
+Commentators generally agree that there is so close a relationship between
+1 Tim 6:17-19 and 1:3-20 that they form an inclusio to the whole letter. 41
+Jukka Thurén, who has been most influential in arguing for this view, drew
+attention to the warnings against false teachers in both sections (1:5-6 and
+6:20-21), and claimed that the entire letter is to be seen as a warning against
+false teachers and their sins, and the commendations of true doctrine. 42
+There is less agreement on the literary structure of 6:2b-21. How the five
+passages that comprise this section (w. 2b-5; 6-10; 11-16; 17-19; 20-21)
+relate to each other is not immediately obvious, nor has agreement been
+reached on whether there is one theme that pervades the section, and if so,
+what it is. It has been argued, for example, that the main theme is the
+opposition to heretics who make commerce of religion, 43 or that the theme
+is the correct or wrong attitude toward money, 44 or that the section is a
+conglomeration of material, assembled haphazardly 45 or in the syntacti-
+cally loose style of paraenesis. 46 It has also been maintained, on the con-
+trary, that the structure of the section is well thought out formally and
+theologically, and that it is the result of a long history of reflection and
+repetition. 47
+It is not necessary for my present purpose to resolve these issues in detail.
+It will suffice at the moment to claim in anticipation that the paraenetic
+nature of w. 2b-21 must be taken more seriously. When that is done, it
+will be observed that there is greater coherence in the section than is usu-
+ally supposed. To do that requires a closer look at the context of w. 17-19.
+The literary context of 6:17-19 consists not only of 6:2b-21, which comes
+in for discussion most often, but also includes chapter 5 and 6:1-2b. The
+author thinks of this latter section as teaching and exhortation: ταΰτα
+δίδασκε καί παρακαλεί (6:2b), the ταΰτα pointing backwards, to 5:1,
+παρακαλεί. This is in keeping with his use of ταΰτα in paraenetic state­
+ments to summarize advice that precedes, and to mark a transition, as it
+does here. 48
+This block of text for the most part has three groups within the church
+in view and instructs them about the proper use of money. Directions are
+given about how the church should honor old women, particularly widows
+(5:3-16) and old men (5:17-19) by supporting them financially, 49 Chris­
+tian slaves are similarly commanded to honor their own masters, especially
+if they are believing brethren, for then the recipients of the slaves' benefac­
+tion are beloved believers. 50
+Between the directions to the church (5:3-19) and the slaves, the author
+addresses Timothy directly (v. 20-23), solemnly adjuring him to guard the
+instruction just given (again the "paraenetic" ταΰτα, v. 21), and urging
+him to behavior that does not explicitly relate to what precedes. 51
+Chapter 6 largely deals with what should be the church's attitude toward
+money and its use. The discussion is enclosed by two warnings against the
+heretics (w. 3, 20-21) and commands to Timothy to teach and guard tra­
+dition (w. 2b, 20). Between these two brackets are instructions to the
+church in general on ευσέβεια (w. 3-5) and αυτάρκεια (w. 6-10) as they
+pertain to money, a charge to Timothy personally (w. 11-16), and instruc­
+tion to the rich on how to use their wealth (w. 17-19).
+Discussion of a new issue is marked by the transitional ταΰτα δίδασκε και
+παρακαλεί in v. 2b.
+Formally, w. 3-5 is an inclusio in which a correct understanding of
+ευσέβεια (v. 3) is contrasted with an erroneous one (v. 5). The long enclosed
+sentence is polemical, directed against the conceit that commerce can
+be made of ευσέβεια, a term important in the PE and particularly so in
+1 Timothy. 52 Important for our present purpose is that ευσέβεια is related
+to the correct teaching, which is not heeded by the heretics (v. 3). That
+teaching is described as the sound or healthy words of our Lord Jesus
+Christ (ύγιαίνουσιν λόγοις τοις του κυρίου Τησοΰ Χρίστου), the genitive
+being objective, referring to the sound teaching about Jesus. The teaching
+is further explained to be the teaching that accords with godliness (καί τχ\
+κατ' εύσέβειαν διδασκαλία). The person who is not devoted to this teach­
+ing is cognitively deficient: he is demented (τετύφωται), understands noth­
+ing (μηδέν επισταμένος), but is ill, having a morbid craving for disputes
+and verbal battles (άλλα νοσών περί ζητήσεις καί λογομαχίας) from which
+issue the vices of envy, strife, slander, evil suspicions, in sum, the frictional
+wranglings of people corrupt in mind (διεφθαρμένων ανθρώπων τον νουν)
+and deprived of the truth, supposing that godliness is a means to financial
+gain (πορισμός).
+This language is derived from contemporary criticisms of philosophers
+who were accused of teaching out of ignoble motives. That some unscru­
+pulous individuals taught for financial gain was so common a charge that
+some serious philosophers rejected financial aid. The accusation appears
+in Titus 1:11, where the teachers of error are charged with teaching αισχρού
+κέρδους χάριν. The author has no qualms about a Christian preacher
+receiving financial support; in 1 Tim 5:17-18 he thinks the practice is so
+self-evidently correct that mere statements of proverbial character provide
+sufficient support for it. What offends in Titus 1:11 is that, like charlatan
+philosophers, the purpose of teaching is to make money.
+Philosophers, too, were concerned about how to secure a livelihood.
+The term πορισμός (or πόρος) itself was neutral; the issue was the appropri­
+ateness of the endeavor to support oneself 54 First Timothy 6:3-5 is sharper
+in its criticism of the heretics than Titus 1:11, charging that they demand
+financial support, not simply because they are greedy, but because they
+think their πορισμός is a matter of ευσέβεια. This criticism is different also
+in another way, namely, that it is the intellectual equipment of the teachers
+of error that leads them to the erroneous perception that ευσέβεια justifies
+their profiteering. Noteworthy about this polemic is the medical terminol­
+ogy used to describe the intellectual incapacity of the errorists that is
+responsible for their vices detailed in the list in v. 4. The PE are shot through
+with terms describing the heretics as mentally and morally diseased. 55 Here
+we are in the midst of popular moral philosophical descriptions of the
+human condition. 56
+The description of passions and vices as diseases had a long history and
+was widespread. The soul, it was said, could be in a state of war, with its
+passions and diseases prevailing over its healthy, rational principles (τους
+υγιαίνοντας λόγους). The soul that is corrupt (ψυχή διεφθαρμένη) is so
+because of ignorance, depravity, insolence, jealousy, grief and countless
+desires.
+Of interest is a comment by Plutarch {Cupid, divit. 524C-E) about the
+illness of money-grubbers (των ποριζόντων). The person
+who has more than enough and yet hungers (όρεγόμενον) for more will find no rem­
+edy in gold or silver or horse and sheep and cattle, but in casting out the source of
+mischief and being purged. For his ailment is not poverty, but insatiability and avarice,
+arising from the presence in him of a false and unrelenting judgment (κρίσιν φαύλην
+και άλόγιστον); and unless someone removes this, like a tapeworm, from his mind,
+he will never cease to need superfluities-that is, to want what he does not need, (trans.
+RH. de Lacy & B. Einarson, LCL)
+The person who is absorbed with getting money (τω πορισμω προστετηκότα)
+has a mental disorder (ψυχή νόσος). 58
+The remedy for this malady is the philosopher s psychagogic treatment,
+by which he soothes the inflammation of the soul and cures it of vices by
+means of education and reason, as he adapts his ministrations in timely
+fashion to the varying conditions of the moral patient. 59
+Not all philosophers shared this relatively optimistic view of the human
+condition. The letters falsely attributed to Diogenes the Cynic, for exam­
+ple, are unrelenting in their criticism of their assumed audience. In a par­
+ody of the epistolary greeting (ύγιαίνειν, "good health to you!"), 60 Ep. 28
+opens with οίμώζειν ("a plague on you!"), and from there on things go
+downwards (cf. the closing, 28.8, οίμώζειν λέγω). The putative readers are
+accused of knowing nothing, suffering great delusion (τΰφον), never being
+at peace, envying each other, deciding nothing by good reason (ύγιει
+λόγφ): "You know nothing... but, being made a mockery of by your igno­
+rance and senselessness you have become perverted" (28.2). In Ep. 29.5,
+they are told, "But you are in an advanced state of corruption (διαφθορά).
+Therefore, cutting, cautery and medication must be employed." The sick­
+ness has gripped them for so long and so thoroughly that they no longer
+see the extent of their evil (19.4). They are so far gone that instead of
+selecting teachers who would purge them, they
+have found the kind of people who would defile and corrupt (διαλυμαίνοντο και
+διαφθείροιεν) you. For they are not looking for any good they might do you, but
+rather how they might get a meal, and they are searching for whatever gain they might
+make (κερδανοΰσι). They remove none of your present troubles but make off with
+some of your possessions and, in addition, corrupt the standards of your household.
+(29.3)
+The PE adopt this polemical tradition to describe the false teachers. Like
+the harsh Cynic, they hold out no prospect for improvement or effective
+psychagogy. Corrupt in mind, the heretics' άνοια will be visible to all, they
+will make no moral progress (ου προκόψουσιν επί πλειον), but will, ironi­
+cally, only "make progress" to a worse condition (προκόψουσιν επί χείρον)
+(2 Tim 3:8-9, 13; cf. 2:16). 61 The Pastorals likewise stress the subversion of
+households by these moneygrubbers (Titus 1:11; cf. 2 Tim 3:6-7).
+The philosophical traditions are used exclusively polemically. Despite the
+charge that the heretics reject the "sound words" and the "teaching that
+accords with godliness," we are not told anything here about the content
+of the orthodox teaching or of any heterodox teaching they may have held
+to (contrast 1 Tim 4:1-3; 2 Tim 2:18). Our author limits himself to stress­
+ing, vituperatively, the character defects of the persons he opposes, which
+are detailed in the vice list (v. 4) and the three participles which describe
+them in an apparently logical order: corrupt (διεφθαρμένων) in mind,
+(therefore) deprived (έπεστερημένων) of the truth, (therefore) suppose
+(νομιζόντων) that godliness is an occasion for personal financial gain.
+The function of these insults is to heighten the contrast between the
+morally degraded people who make money by their preaching and the
+behavior he inculcates in w. 6-10. At issue is, in the first place, not doc­
+trine, but moral living; the author is a moralist, not primarily a heresiolo-
+gist. The comments on the heretics serve as a foil for the positive moral
+instruction that follows in w. 6-10, as they do in 1 Tim 4:1-7, 8-10 and
+Titus 1:10-16, 2:1-10.
+Having so vigorously rejected the heretics' connection of πορισμός and
+ευσέβεια, the author goes on to make a contrasting claim which modifies
+the two: "But there is great profit in godliness when it is accompanied by
+self-sufficiency (εστίν δε πορισμός μέγας ή ευσέβεια μετά αυτάρκειας)"
+(v. 6). 62 The emphatic claim (note the position of εστίν) adds μέγας to
+πορισμός and μετά αυτάρκειας to ευσέβεια. 63 One might have expected
+that, having attributed the erroneous view to mental incompetence and
+deprivation of the truth, appeal would be made to an authoritative source
+for the claim made about self-sufficiency. Or, reference could be made to
+God s or Christs empowerment to live self-sufficiently, as Paul does in
+2 Cor 9:8 and Phil 4:11. But the temptation should be resisted to interpret
+1 Tim 6:6 in light of those passages, especially of Phil 4:11, where Paul is
+thought to have "'turned the tables' on the Stoics by declaring that genuine
+autarkeia is not insufficiency but CÁmí-sufficiency." 64 There is nothing
+like that in 1 Tim 6:6. We have to do with a writer in the tradition of the
+moralists who approaches the subject in quite another manner.
+The style and content of the contrast are characteristically paraenetic.
+The contrast is the second member of an antithesis (δε), which is a major
+feature in paraenesis, where the stress is on the second member, as it is
+here. The first, negative member, serves to highlight the positive statement,
+65
+which is of major interest. The author is mostly interested in self-
+sufficiency, as is indicated by αυτάρκεια and άρκεσθησόμεθα which enclose
+the contrasting sentence (v. 8). When godliness is accompanied or quali­
+fied by self-sufficiency it issues in great profit. It is natural that self-suffi­
+ciency comes up in a discussion of ones means of livelihood as it does also
+in Musonius Rufus' discussion of the philosopher s means of livelihood,
+although the word αυτάρκεια does not occur there (Musonius Rufus,
+Fr. 11 [59, 2-12 Hense]). Αυτάρκεια was a favorite virtue among philoso­
+phers, particularly among Stoics and Cynics, but also among Epicureans. 66
+It has been thought that there is nothing in w. 6-8 that could not have
+been said by a Cynic or Stoic, or that our author speaks of the virtue in
+much the same way that they did. 67 A brief survey that includes the Epicu­
+reans will provide texture to the philosophical context of the Pastorals.
+Stoics and Cynics had similar but not identical views of self-sufficiency.
+Stoics held that the wise man freed himself from those things both within
+and without that hindered him from attaining happiness and true freedom.
+He did this by concentrating on those things which were within his control.
+He withdraws into himself and with clarity of mind perceives the divine, universal law,
+which, when all is said and done, he cannot alter. He gives it his assent and lets fate do
+with him what it will. In this way, however, he possesses inner freedom and rejoices in
+the magnificent spectacle of the divine government of the world. 68
+The Stoics view of self-sufficiency was inextricably part of the Stoic intel­
+lectual enterprise. One could expect that a writer with a Stoic orientation
+would in 1 Tim 6 have contrasted the erroneous view of godliness held by
+the intellectually wanting heretics to a correct, rational view of godliness
+linked to self-sufficiency held by intellectually competent persons. But the
+admonition does not proceed in this way.
+Stoics had derived their notion of self-sufficiency from Cynics and intel-
+lectualized it. Cynics, in contrast, shunned the circuitous route of doctrine
+and speculation, choosing rather the practical life of virtue, their so-called
+"short cut to happiness." 69 Their view of self-sufficiency seemed straight­
+forward to Diogenes Laertius (6.105): "They hold that we should live sim­
+ply, eating only enough food (αύτάρκεσι σιτίοις), and wearing a single
+garment, and they despise wealth, fame and noble birth." To a Cynic like
+Diogenes of Sinope, "αυτάρκεια meant, broadly speaking, two things: on
+the physical plane, contentment with the bare necessities of life; and on the
+spiritual level, complete detachment from the world and worldly values...
+Nothing... that was to be derived from any source external to himself had
+any value for him or could affect him in any way." 70 But Cynics differed
+among themselves to a considerable degree as to the practical implications
+of this conviction. 71
+The rigorous Demetrius (1st cent. A.D.) rejected all wealth, regardless
+of the circumstances under which it would come to him. He would not
+even accept it with the intention of giving it away, for the luxuries associ­
+ated with wealth are not worth bestowing on others. 72 Such a radical view
+of self-sufficiency would not permit the judicious use of wealth inculcated
+i n i Tim 6:17-19.
+Cynics of a milder disposition held to a more moderate view of αυτάρκεια
+as early as Bion and Crates (4th-3rd cents. B.C.) and Teles (3rd cent. B.C.),
+and later by Musonius Rufus (1st cent. A.D.) Rather than insist on self-
+abnegation, they taught that one should be satisfied with what is available
+to oneself (άρκούμενος τοις παροΰσιν, χρω τοις παροΰσιν), the real neces­
+sities being simple food, clothing and shelter. 73 That seems to be the view
+of αυτάρκεια in 1 Tim 6:6-8. Also similar is a popular attitude expressed
+proverbially, namely, that "Whatever your situation, it is no good 'kicking
+against the goad.' If one is poor, one can always practise being happy with
+it, for instance by living 'the life of the jar' (after Diogenes the Cynic).
+Partly, no doubt, to make the poor feel better about being poor, proverbs
+strongly associate wealth (especially foreign wealth) with softness, luxury,
+gluttony and sexual perversion.. ." 74
+Epicureans, too, had a moderate view of self-sufficiency, but theirs was
+more nuanced. 75 Like other philosophers, Epicurus believed that to live
+rationally was to live naturally, but they differed on what that meant. Epi­
+curus was known for the simplicity of his life, frequently living on only
+bread and water, 76 and in reducing the bare necessities to protection from
+hunger, thirst and cold {Sent. Vat. 33) he was similar to the Cynics, as he
+was also in the conviction that the "greatest fruit of self-sufficiency is free­
+dom" {Vat. Sat. 77). "A free life cannot acquire many possessions, because
+this is not easy to do without servility to mobs or monarchs" {Sent. Vat. 67).
+Epicureans differed from rigorous Cynics, for whom αυτάρκεια meant
+that they were always to be satisfied with the minimum. Epicureans held
+that self-sufficiency was a great good, not so as always to use a little, but so
+as to be content with little (τοις ολίγοις άρκούμεθα) if they do not have
+much (Diogenes Laertius 10.130). Unlike Cynics, who according to them
+had the easiest way of life, stripping away everything possible, the Epicu­
+77
+rean view was more complex. The Epicurean does not live on the margin,
+and he will not beg like the Cynics, nor does he live only for the moment,
+but makes provision for the future and for a more affluent life than that of
+78
+the Cynics.
+The Epicurean notion of self-sufficiency is associated with their notion
+of natural wealth, to which I shall turn below, when considering the use of
+wealth. For the moment, I only note that the ideal Epicurean is never self­
+ish, but shares with others.
+Even when reduced to necessity, a wise person knows better how to give than to
+receive, for so great is the treasure of self-sufficiency that he has found. (Sent. Vat. 44)
+A free life cannot acquire many possessions, because this is not easy to do without
+fawning on the crowd or the powerful, but it possesses all things in continuous lavish-
+ness. If by chance it obtains many possessions, it would easily distribute them so as to
+obtain the good will of neighbors. (Sent. Vat. 67)
+Here we have to do with a notion of αυτάρκεια that could accommodate
+the behavior taught in 1 Tim 6:17-19.
+However, the level on which αυτάρκεια is to be understood in 1 Tim
+6:5-6, is not that of high philosophical reflection but of cliché. That appears
+further to be the case from the way the author clarifies what he means
+by αυτάρκεια ουδέν γαρ είσενέγκαμεν εις τον κόσμον, δτι ουδέ έξενέγκειν
+τι δυνάμεθα (ν. 7). Γάρ is explanatory (BAGD s.v. 2), "you see," "to
+make this clearer," and δτι is consecutive (BAGD s.v. 5. c ) , "so that."
+The elucidation of what is meant by αυτάρκεια thus reads, "You see, we
+brought nothing into the world, so we can't carry anything out of it." 79
+Commentators regularly refer to the proverbial character of the statement
+and provide numerous references to Jewish sapiential and Greek and Latin
+texts where the same sentiment is expressed. 80 Whether proverb or merely
+cliché, it is as ordinary an expression as the modern quip, "You can't take it
+with you," 81 and cannot bear the heavy theologizing that is sometimes laid
+upon it. 82 The function of the cliché is simply to clarify that by αυτάρκεια
+is meant a stripped down way of life, the characteristics of which are then
+stated concretely in v. 8, namely, to make do with the food and covering
+that are at hand. Here, ευσέβεια does not qualify or elevate αυτάρκεια as
+it does γυμνάσια in 4:7-8, but the reverse is the case: αυτάρκεια, so self-
+evident in meaning as to be clarified by cliché, qualifies ευσέβεια.
+The natural sequence in the discussion (πορισμός-αύτάρκεια) now contin­
+ues to wealth (πλουτειν) and greed (φιλαργυρία) (w. 9-10). In contrast
+(δέ) to those content with the bare necessities of life are people who wish
+to be rich (οι βουλόμενοι πλουτειν) and yearn for money (ή φιλαργυρία,
+ης τίνες όρεγόμενοι). 83 In view are people to whom wealth does not come
+involuntarily or who have a moderate desire for it, but people who single-
+mindedly pursue it. This makes the connection between wealth and greed
+a natural one. Among the stock parts of this negative depiction of wealth
+are the nature of greed (πλεονεξία, φιλαργυρία, avaritia), the craving for
+money that is associated with it (δρεξις, ορέγομαι, ζήλος, cupiditas), and
+85
+the insatiability ofthat craving.
+Moralists inveighed against the hedonism of spending on what is super­
+86
+fluous, on pleasures, lavishing money on ones appetites (έπιθυμίαι).
+More striking is the detail with which the miseries of being wealthy are
+described, as by Seneca:
+For one must pay the penalty for all greedy acts; although the greed is enough of a
+penalty in itself {nulla enim avaritia sine poena est, quamvis satis sit ipsa poenarum).
+What tears and toils does money wring from us! Greed is wretched in that which it
+craves and wretched in that which it wins! Think besides of the daily worry which
+afflicts every possessor in proportion to the measure of his gain! The possession of
+riches means even greater agony of spirit than the acquisition of riches. {Ep. 115.16;
+trans. R. M. Gummere, LCL)
+Greed causes misery, hardship, toil, danger, blood, death and destruction. 87
+It compels us to make money, but forbids the use of it; lovers of money
+endure the pain, but do not get the pleasures. 88 It causes anxieties
+(φροντίδας) and distractions. 89 Palladas complained, "Gold, father of
+flatterers, son of pain and care (οδύνης καί φροντίδος), it is fear (φόβος) to
+have you and pain (οδύνη) not to have you." 90 Greed causes injuries and
+losses (βλάβας, ζημίας), is destructive (έπ' όλέθρφ) and many examples
+can be cited of overpowering disasters that resulted from the folly and
+wickedness (της άνοιας καί της πονηρίας) of greed. 91 People destroy
+(άπολύουσι) life and even divine things for money. 92
+The warning in 1 Tim 6:9-10 clearly belongs to this critique of wealth,
+as the following terms from the two verses indicate: επιθυμίας κολλάς
+ανόητους καί βλαβηράς, δλεθρον καί άπώλειαν, ή φιλαργυρία, ης τίνες
+όρεγόμενοι, όδύναις πολλαΐς. The proverb which explains (γάρ) the depic­
+tion of people who aspire to wealth (v. 8), "Greed is the root of all evil,"
+appears in slightly different forms throughout ancient literature. 93
+The paraenesis on αυτάρκεια and φιλαργυρία in w. 6-10 remains on a
+popular level, devoid of the kind of reflection associated with the philoso­
+phers just cited or referred to. There is no mention of moderation, super­
+fluity or other considerations that would widen the lens on wealth. The
+focus is tight, on the lust for wealth and the condition of those so afflicted.
+Justification for the positive statement about αυτάρκεια (οτι in v. 7b), and
+the warning to those who lust after wealth (γάρ in v. 10a) remains on the
+level of cliché or proverb. The author does in v. 9 describe the emotional
+and moral ruin into which the craving for wealth tumbles people, but the
+support for this depiction is a proverb that enables him to describe the ter-
+rible things people do to themselves when they allow their greed to control
+themselves.
+As in v. 5, the philosophical basis for the condition of the errorists is not
+exploited in favor of the claim that they were deprived of the truth
+(έπεστερημένων της αληθείας), in v. 10 the root (!) cause of their moral
+quandary is that they were led astray from the faith (άπεπλανήθησαν άπο
+της πίστεως). But the stress is on the warning in v. 9, which strengthens the
+paraenetic appeal to be self-sufficient.
+The discussion of wealth, to be concluded in w. 17-19, is interrupted by a
+section of text that has appeared so odd in its present location to commen­
+94
+tators that some have thought it to be an interpolation or intrusion.
+There is general agreement that traditional material is used here, especially
+in the credal section, w. 13-16, but different suggestions have been offered
+as to the origin of the material and the function to which it is put in its
+present context. 95 It is not necessary for the purpose of this paper to treat
+w. 11-16 in detail, for my interest is in the attitude toward and the use of
+wealth in 1 Tim 6. But the following observations will help those topics to
+be seen in sharper relief and demonstrate that w. 11-16 does not sit as
+loosely in its context as is frequently averred.
+Verses 11-16 are integral to the chapter, but not as a contrast between
+true and false preachers, who are sometimes thought to be in view through­
+out w. 3-21. 96 Formally, w. 11-16 is paraenesis strengthened by theologi­
+cally dense credal material, as paraenesis in w. 6-10 is strengthened by
+warnings, finally couched in a proverb. 97 Intricately constructed theologi­
+cal formulations are also used to support paraenesis in Titus 2:1-14
+(11-14) and 3:1-7 (3-7), as is the case in 1 Tim 6:11-16 (13-16).
+Paraenetic markers are pronounced at the beginning of the section. The
+pattern φεΰγε/δίωκε is paraenetic, setting before the hearers or listeners the
+choices open to them, frequently summarized by vice and virtue lists, often
+in that order. 98 In v. 11, ταΰτα marks a transition in the paraenesis and
+refers back to the vices in w. 6-10, which form a backdrop for the parae­
+nesis to Timothy." It is typical of paraenesis that what is said to Timothy
+is an antithesis (δε) of what precedes. 100 Ταΰτα and δέ thus syntactically
+connect v. 11 to what precedes.
+The paraenesis to Timothy is sharpened by the use of συ, the vocative
+ώ άνθρωπε θεοΰ, which is derived from the OT, 1 0 1 and the 2nd pers. sing,
+imperatives of the verbs in w. 11 and 12. 102 The way 2nd pers. sing, imper­
+atives function in paraenesis is vividly illustrated in Ps.-Isocrates, Ad
+Demonicum, the classic example of paraenesis in ancient literature. 103 The
+purpose of the treatise is to instruct young men in virtue (5). After praising
+virtue in general terms and stressing the importance of Hipponicus,
+Demonicuss father, "Isocrates" claims that it is not possible for the mind
+to be properly disposed in the contest for virtue unless it is filled with
+noble maxims (καλών ακουσμάτων), "for, as it is the nature of the body to
+be developed by appropriate exercises, it is the nature of the soul to be
+developed by moral precepts" (12). Then follow dozens of 2nd pers. sing,
+imperatives, whose reference is obviously wider than Demonicus himself,
+in fact, the young men Isocrates had in mind. 1 0 4
+The imperatives function in similar fashion in 1 Tim 6:11-16. They are
+addressed to Timothy, but are to be understood as applying to the church
+as well. In 4:14-16, for example, ostensibly personal instructions are given
+to Timothy, but his conduct is described as exemplary to others, whose
+salvation he will effect as he heeds the instructions given to himself. In
+5:1-2 (cf. 7), commands addressed to him have to do with his personal
+conduct, but τίμα in 5:3 introduces the community s responsibilities to
+widows. It is not incongruous, then, that the specification of such laudable
+personal qualities of Timothy should appear in community paraenesis
+(cf. 5:20-25). The many commands to Timothy throughout the letter serve
+105
+in the same way.
+Grammar thus shows that w. 11-13 are not so focused on Timothy that
+we have to do here with a new, discrete text. An examination of the con­
+tent of v. 11 will demonstrate that it, too, is connected with what precedes.
+The content of the virtue list in v. 11, consisting of nouns in the singular
+in contrast to plural vices, 106 sounds formulaic and like development of the
+Pauline triad πίστις, αγάπη and έλπίς, 1 0 7 and generalized with no bearing
+on w. 4-10. 108 The latter suspicion may be strengthened by the parallel in
+2 Tim 2:22, τάς δε νεωτερικας επιθυμίας φεΰγε, δίωκε δε δικαιοσύνην,
+πίστιν, άγάπην, είρήνην, and by Titus 2:12, παιδεύουσα ήμας, ίνα
+άρνησάμενοι την άσέβειαν καί τας κοσμικας επιθυμίας σωφρονως και
+δικαίως και εύσεβώς ζήσωμεν, with the classical cardinal virtues lurking
+in the background. 109 That δικαιοσύνη stands at the head of the list in two
+of these passages and is paired with ευσέβεια (εύσεβώς) in one further
+strengthens the surmise, for the two are paired in honorary inscriptions
+and epitaphs, which further testify to their popular currency. 110 Whether
+these inscriptions are witnesses to popular morality on the social level with
+which Teresa Morgan is concerned may not be certain, but they do testify
+to the ubiquity of the pairing of the two qualities. The similarity of these
+inscriptions to 1 Tim 6:11 has been thought to be purely formal and inci­
+dental, 111 but more can be said about the matter.
+The combination was widespread in Greek literature, δικαιοσύνη
+describing ones responsibility to people, ευσέβεια (or όσιότης) ones
+responsibility to the divine. 112 It also appears in moral instruction of the
+sort that informed the Pastoral Epistles, where the distinction between the
+two is not absolute, as for example, in Musonius Rufus, Ep. Pancr. 5 (139,
+5-7 Hense): "Would you not want (our children) to have given attention
+to divine and human matters, to be adorned with piety and holiness
+(ευσέβεια και όσιότητι) toward the gods and with justice and holiness
+(δικαιοσύνη καί όσιότητι) toward men.. .?" 1 1 3
+Of special interest to 1 Tim 6:11 are those texts that relate δικαιοσύνη
+alone or with ευσέβεια to wealth. Ps.-Isocrates, Dem. 38 provides a nice
+counterpoint to the yearning (όρεγόμενοι) for wealth (v. 10; see at n. 58):
+"To strive for justice (όρέγεσθαι δικαιοσύνης); not wanting more than
+one s fair share. Δικαιοσύνη is better than wealth in that wealth benefits us
+only while we live, while justice brings us glory after we are dead." And
+Theognis 145-148 combines the two: "Choose to dwell with little wealth
+a pious man (εύσεβέων) than to be rich with possession ill-gotten. Righ­
+teousness (δικαιοσύνη) containeth the sum of all virtue; every righteous
+man (δίκαιος), Cyrnus, is good." (trans. J.M. Edmonds, LCL). Such pas­
+sages suggest that the appearance of δικαιοσύνη in v. 11 is not formal or
+incidental, but that it belongs naturally in a discussion of attitudes toward
+wealth.
+The same thing is true of ευσέβεια. It is noteworthy that it does not
+appear in the more formulaic parallel 2 Tim 2:22. The reason it does appear
+in v. 11 is that the preceding discussion had been introduced by claims
+about ευσέβεια and self-sufficiency. The natural way to read ευσέβεια is in
+light of w. 5 and 6.
+The same can be said of πίστις. To be sure, πίστις does appear in the
+formulaic 2 Tim 2:2 and again in 1 Tim 1:18-19 and 2 Tim 4:6-8, with
+extended athletic metaphors (in the latter with δικαιοσύνη), all of which
+may suggest that the author was using what was to him a stock expression
+regardless of context. Nevertheless, the context of v. 11 suggests something
+more than a formulaic use here. The emphatic paraenetic charge in v. 12,
+to fight the good fight of faith (άγωνίζου τον καλόν αγώνα της πίστεως)
+114
+draws attention to πίστις, one of the six qualities to pursue. Why this
+stress on pursuing faith? In order to distinguish Timothy from the greedy
+persons who had abandoned the faith (v. 10). The extension of the list of
+qualities to be pursued with αγάπη, υπομονή and πραϋπαθία does the same
+thing. These qualities are opposite the harsh, precipitous existence of the
+greedy people described in w. 6-10.
+In addition to these paraenetic features which connect w. 11-16 to what
+precedes, there are theological elements, beginning in v. 12, that establish
+a connection with what follows. Timothy is to lay hold of eternal life
+(έπιλαβοΰ της αιωνίου ζωής, v. 12), and the rich are to conduct themselves
+in such a manner that they might lay hold of real life (ϊνα έπιλάβωνται τής
+δντως ζωής, ν. 19). God is the source of all life (θεοΰ του ζφογονοΰντος τα
+πάντα, ν. 13) as he is the supplier of all riches (θεφ τφ παρέχοντι ήμιν
+πάντα πλουσίως, ν. 18). There is an eschatological scheme in which God
+works out his purpose (w. 14-15), and the wealthy are to live aware that
+their actions in the present (εν τω νυν αιώνι, v. 17) prepare for their future
+life (θεμέλιον καλόν εις το μέλλον, ν. 19).
+Verses 11-16, far from being an intrusion into the paraenesis of ch. 6,
+is integral to it. Its grammatical and formal characteristics as well as con­
+tent show it to be of the same cloth. Where it differs from the paraenesis
+earlier in the chapter is that it focuses on Timothy, the man of God. Call-
+ing to mind his good confession (w. 12-13) provides the occasion for
+a pronouncedly theological foundation for a moral mandate to Timothy
+(w. 14-16), and with that the stage is set for the exhortation to the rich in
+w. 17-19.

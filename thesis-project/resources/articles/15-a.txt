@@ -1,0 +1,536 @@
+It is generally accepted that δικαιοσύνη ("righteousness," "justice") plays a
+crucial role in the Sermon on the Mount (Matt 5-7) (henceforth SM).
+Five of the seven occurrences of δικαιοσύνη in Matthew are found in the
+SM, namely, in 5:6, 10, 20; 6:1, and 33. (The other two instances are in
+Matt 3:15 and 21:32.) In the other canonical gospels, there are altogether
+only three instances (Luke 1:75; John 16:8, 10). The remarkable concen­
+tration of the term in the SM indicates an important theme of the SM. 1
+This conclusion is strengthened by the fact that the term occurs in strate­
+gically important locations in the composition of the SM. Let us therefore
+first briefly review the composition of the SM.
+Scholars are in relative agreement about the lower level units of the
+SM, although there is difference of opinion about the way these units are
+connected to one another on a macrolevel or about the overall rationale
+2
+of the composition. My own proposal (offered here as a working hypoth­
+esis without detailed argument) is that the composition of the SM may be
+analysed roughly in terms of the parts of an ancient speech. 3 The outline
+of the composition is then as follows:
+The most significant implication of the proposed view of the composi­
+tion is that the propositio in 5:17-20 gives an indication of the theme
+of the SM as a whole. 4 Most scholars recognize its function as an
+introduction, but they differ as to whether it is intended as introduction
+6
+to 5:21-48, 5:21-7:12, or 5:21-7:27. As propositi, w. 17-20 in fact do
+all of these by moving from the specific to the general: the reference to the
+7
+topos of upholding and interpreting the law (5:17-19) prepares the way
+for what follows immediately in 5:21-48, but v. 20 then broadens the
+scope of the theme by demanding of the disciples a δικαιοσύνη exceeding
+8
+that of the religious leaders who interpreted and exemplified this law.
+This theme is developed in the body of the SM as a whole (5:21-7:12), as
+can be seen from the references to δικαιοσύνη in 6:1 and 6:33, and from
+the fact that the Golden Rule in 7:12, generally recognized as the closing
+9
+statement of the body, refers back to these verses. Verses 17-19 thus link
+directly to the first part of the body of the SM (5:21-48), which has as its
+theme the interpretation of the law, while v. 20 points to an exceeding
+δικαιοσύνη as the overarching theme of the SM.
+In addition to being a crucial element of the closing summary of the
+propositio in 5:20, the term δικαιοσύνη also occurs in other strategically
+important locations. It is found at the very beginning, the exordium of the
+SM, in 5:6 and 10, important central and closing positions of the primary
+series of Beatitudes. The next occurrence of δικαιοσύνη after 5:20 is in 6:1,
+which summarizes the principle of the second part of the body of the SM
+(6:1-18), namely, that δικαιοσύνη should not be practised in order to be
+honoured by people. If 6:1 serves as introduction to the second part, 6:33
+provides a closing statement to the third part. Like 6:1 it also functions
+beyond its immediate context and formulates a basic principle of the SM,
+namely, that seeking δικαιοσύνη should be the disciples' first priority. 10
+δικαιοσύνη is thus clearly a central theme in the SM. The term occurs
+in strategic locations throughout the composition, often in formulations
+expressing general principles of the SM. In this article I do not, however,
+intend to focus on the meaning of δικαιοσύνη as such. 11 Instead, I want
+to consider the way justice, as an important component of δικαιοσύνη,
+functions within the logic of the argumentation of the SM, and to
+show how this, in conjunction with δικαιοσύνη, contributes to the over­
+all meaning of the SM.
+To gain some perspective on the SM s treatment of justice, let us first
+look at one of the most influential ancient analyses of δικαιοσύνη, namely,
+that offered in Aristotle's Nicomachean Ethics bk. 5.
+Although Aristotle's ethics does not simply reflect popular morality, he
+certainly takes his point of departure in common notions of justice. 13 Aristo­
+tle observes that there is a twofold understanding of δικαιοσύνη, namely,
+δικαιοσύνη as a general virtue and as a more specific virtue {Eth. Nie. 5.1). 14
+In popular thought δικαιοσύνη was often considered the all-encompassing
+virtue, a view already formulated by Theognis (6th cent. BCE): εν δε
+δικαιοσύνη συλλήβδην πασ' αρετή 'στι ("In justice all virtue is subsumed"). 15
+Plato, in particular, applied the evaluation "just" in relation to virtuous
+conduct in general, that is, someone may be described as "just" if he lives
+16
+a principled life. Justice as a relational concept indicating the appropriate
+17
+relationship or proportionality between two entities was therefore con­
+18
+sidered the norm for all behaviour and for all relationships. Aristotle accepts
+this broad view of δικαιοσύνη as a comprehensive virtue, although he quali­
+fies it as "the perfect virtue in relation to the other" (τελεία άρετη προς
+έτερον; Eth. Nie. 5.1.1129b26-27), that is, the social virtue par excellence.
+19
+In this sense, δικαιοσύνη has the wider meaning of "righteousness."
+In the Nicomachean Ethics Aristotle is however more interested in "par­
+ticular" justice, that it, justice that is not identical with virtue, but that
+forms part of it {Eth. Nie. 5.2.1130al4-b29). Particular justice is concerned
+with the equal distribution of goods which constitute good or bad fortune
+(δσα ευτυχία καί ατυχία; Eth. Nie. 5.1.1129b3), that is, goods such as
+honour, wealth and security (τιμή, χρήματα, σωτηρία; 5.2.1130b2; cf.
+1130b31-32). 20 As we shall see in a moment, Aristotle divides particular
+justice in two further forms, but once again it is clear that his analysis is
+based on popular conceptions. Justice was popularly defined as "to render
+21
+to each his due." In the wisdom tradition justice was also seen to be at
+work in the appropriate correlation between one's actions and their con­
+sequences (as rewards or as punishments), with the deity as the ultimate
+22
+guarantor of such justice.
+Aristotle divides particular justice into "distributive" (διανεμητικόν) and
+"corrective" (διορθωτικόν, έπανορθωτικόν) justice (5.2.1130b30-1131al;
+5.4.1132al8). 23 Distributive justice ensures the equal distribution of goods
+in a common enterprise, such as a business transaction. 24 Aristotle takes
+great pains to argue that the equality (ισότης) entailed in distributive jus­
+tice is not a simple equality between terms (i.e., χ equals y), but rather
+a proportionate equality between the goods and the persons involved
+(i.e., person A : person Β :: benefit χ : benefit y; or person A : benefit χ ::
+person Β : benefit y) (5.3.1131al5-b24; 5.5.1133a31-b6). A business
+transaction, for example, will be considered just if both persons A and Β
+consider the goods χ and y that they exchange to be equal in value (but
+not of course exactly the same, which would simply mean that they give
+one another the exact same items). Corrective justice entails the correc­
+tions of an inequality created through an act of injustice; it attempts to
+restore the "mean" (το μέσον) or balance disturbed by the unjust act (5.4).
+This kind of justice is therefore concerned with the preservation and res­
+toration of equality. 25 Aristotle argues against the notion that corrective
+justice simply consists in "repayment" (το άντιπεπονθός), that is, the
+principle of retaliation (the ins talionis) (5.5.1132b21-1133a2). 26 Justice
+requires proportionate punishment, instead, just as we have a commensu­
+rable rather than an exact exchange of goods. 27
+Proportionate equality in both forms of particular justice implies that
+someone should be treated according to merit (κατ' άξίαν, 5.3.1131a24-
+29). 28 The principle of merit or worth entails, amongst other things, that
+who one is and what one does be taken into account when justice is
+administered. In the Athenian democracy, for example, a free-born citizen
+would be treated differently from a foreigner or a slave.
+Aristotle qualifies his treatment of δικαιοσύνη in a significant manner
+by introducing the notion of equity, that is, επιείκεια (also translated "rea­
+sonableness" or "fairness"). 29 According to Aristotle, equity is a "superior"
+form of justice correcting and transcending a "strict justice" based on a
+literal interpretation of the law. 30 Aristotle refers to equity from two per­
+spectives. The first is from the perspective of the person interpreting
+the law: Because a law is always a general statement intended to cover
+a wide variety of situations, it cannot provide for every specific case
+(5.10.1137bl 1-19). In some instances it is therefore necessary to "cor­
+rect" a law in order to ensure that justice prevails. Instead of following
+the law to the letter, equity tries to take the purpose of the law or the
+intention of the lawgiver into account as it applies to specific cases
+(5.10.1137b 19-27). 31 An ancient commentator on Aristotle's Nicomachean
+Ethics therefore describes επιείκεια as a form of δικαιοσύνη "aiming at [or
+trying to reach\ στοχαστική] what is just." 32
+The second perspective on equity is that of the person having a right
+to justice: the "equitable" or reasonable person often takes for himself
+less than he is rightly entitled to. 3 3 One of the reasons is perhaps that
+the well-being of a social community depends on the benevolent involve­
+ment (φιλία) of its citizens in which the requirements of a strict justice
+34
+are transcended.
+Discussion of δικαιοσύνη of course continued after Aristotle. Philoso­
+phers of the Stoa concentrate on distributive justice, but they also return
+to the idea of δικαιοσύνη as a general social virtue, which includes other
+virtues such as χρηστότης ("goodness"), εύκοινωνησία ("good fellowship"),
+εύσυναλλαξία ("fair dealing"), and ευσέβεια ("piety"). 35 In the philosophi­
+cal syncretism characterizing the Greco-Roman period from the first cen­
+tury BCE onwards we find an eclectic combination of various definitions. 36
+Clement of Alexandria is a good example among early Christian authors
+of such eclecticism: δικαιοσύνη is άπονεμητικη κατ' άξίαν {Paed. 1.8.64.1);
+it creates harmony (συμφωνία) between the various parts of the soul
+{Strom. 4.26Λ63.4); it expresses itself in not being greedy (μη πλεονεκτειν;
+ibid., 4.25.161.2); and it is the all-encompassing virtue (παντελής αρετή;
+ibid.,7.3.17.3). 37
+When we now return to the SM, it has to be borne in mind that the con­
+cept of justice functions on two levels in the text, both as an explicit
+theme and as an implicit notion underlying much of the argumentation.
+I do not intend to present an exhaustive analysis of justice in the SM,
+but will confine my discussion to some prominent examples of how the
+notion of justice is used.
+As we have seen, δικαιοσύνη is mentioned twice in the Beatitudes, in 5:6,
+and again in 5:10. Although the composition of the Beatitudes is heavily
+38
+debated, the macarisms containing δικαιοσύνη are highlighted in several
+respects: (a) Verse 6a is the only macarism with two adjectives or partici­
+ples (i.e. πεινώντες και διψώντες) identifying the quality of the disciple,
+and 6a and 10a are in fact the longest of the eight macarisms in this series
+(5:3-10). The relative importance of a statement is often emphasized rhe­
+39
+torically by an increase in length. (b) Verses 6 and 10 are the only two
+macarisms of this series referring to the same quality, namely, δικαιοσύνη.
+(c) The macarism in v. 10 receives further emphasis by the fact that its δτι
+clause is identical to that of v. 3. This clause differs both syntactically and
+as regards to the extent of its claim from the other δτι clauses in the Beati­
+tudes. These verses therefore form a framing inclusio for the series, which
+appears to lift out being poor in spirit (v. 3a) and being persecuted
+because of δικαιοσύνη (v. 10a) as superordinate qualities to which the
+other qualities in w. 4-5 and 7-9 are subordinated.
+The fact that the term δικαιοσύνη occurs twice in the exordium is of
+particular importance because the introduction to the SM indicates the
+qualities required of a disciple. From 5:6 we learn that δικαιοσύνη is
+something that should continuously be desired, 40 while 5:10 refers to the
+vulnerability of those practising δικαιοσύνη. Here and elsewhere in the
+SM δικαιοσύνη in my view has to do with the right way of life expected
+of the disciples, rather than with a righteousness received as gift from
+God. 4 1 The inclusio connecting the final beatitude in 5:10 with the first
+beatitude in 5:3 suggests a close relationship between being persecuted for
+the sake of δικαιοσύνη and being conscious of ones spiritual need. 42
+In addition to the explicit mention of the theme of δικαιοσύνη in w. 6
+and 10, the notion of justice is also implicitly present in the relationship
+between the qualities praised in the various macarisms and the rewards
+promised for these qualities. The Greek term for "reward," μισθός, is
+indeed explicitly used in this context (5:12). It is an important term
+closely related to δικαιοσύνη. 43 Six of the fourteen occurrences of this term
+in the gospels are found in the SM (5:12, 46; 6:1, 2, 5, 16). 44 What is
+remarkable in the Beatitudes, however, is the way the correlation between
+quality and reward often contradicts popular conceptions of justice,
+which require a just relationship between ones actions or qualities and
+the reward or punishment that follows, that is, that one should be treated
+κατ' άξίαν. 45 Although a just correlation appears to exist in, for example,
+5:7 (it is only fair that those who are compassionate should also receive
+compassion) and in 5:8 (the pure in heart is similar to God and therefore
+deserve to enter into his presence), in other macarisms the normal just
+relationship between achievement and reward is inverted: in w. 3, 4, and
+5 it is not the meritorious that are awarded, but the needy and the vul­
+nerable. 46 Need, instead of merit, provides the basis for a reward.
+The propositio, as we have seen, refers to the interpretation of the law that
+we find in the first part of the body of the SM, but it also indicates the
+theme of the SM in general. The rather terse statements in 5:17-19 may
+be interpreted as demanding an acribie adherence to the letter of the law, 47
+but in view of what follows it is more probable that the propositio refers to
+48
+a qualitatively rather than quantitatively different approach to δικαιοσύνη.
+Jesus's affirmation that he came to fulfil the law (v. 17a) would then refer
+to the interpretation and application of the law, rather than to just keep­
+ing its commandments. From the examples that follow in 5:21-48 it appears
+that such an interpretation of the law, going far beyond its literal mean­
+ing, requires the same kind of insight and discrimination Aristotle
+required of equity. 49
+The important summary statement in 5:20 provides a challenge to the
+disciples to apply δικαιοσύνη, 50 but little information on how to do so.
+Although the SM gives a negative point of comparison (the δικαιοσύνη
+of the scribes and Pharisees), it does not specify what an exceeding
+δικαιοσύνη entails: 51 the latter remains an open-ended goal, although the
+SM is presumably intended to provide some insight into what it entails. 52
+The first part of the Body of the SM (5:21-48) focuses on the relationship
+between δικαιοσύνη and the interpretation of the law. It consists of six
+sections, the so-called antitheses. In each antithesis a traditional com­
+mandment or precept is first cited and then interpreted in a way that is
+53
+apparently in contrast to the traditional interpretation. From the pre­
+ceding statement in 5:20 the contrasting interpretation in each antithesis
+is obviously intended as an indication of what is meant by the exceeding
+δικαιοσύνη. It is not apparent why these six commandments have been
+selected, or why they are presented in the sequence we find in the SM.
+All six antitheses do however appear to deal with examples of conflict and
+broken relationships and the final antithesis (5:43-48) clearly forms the
+climax of the series. 54
+Because of the legal context of the antitheses, the notion of justice plays
+an important role in all of them. Here we will only look at the way justice
+functions in some antitheses.
+The first antithesis, Matt 5:21-26, begins with a reference to the ulti­
+mate consequence of a broken relationship, that is, killing someone. The
+tradition cited in v. 21, that someone who kills will have to give an
+account in court, is based on conventional corrective justice: every crime
+should receive an appropriate punishment. The contrasting interpretation
+suggests that the moral problem underlying violence cannot be solved by
+a casuistic interpretation of the law which attempts to prescribe a suitable
+punishment for every transgression; the solution rather lies in healing and
+restoring the broken relationships that lead to violence. This is done by
+referring to three different contexts. 55
+In the first of these (5:22) we find a rhetorical elaboration based on the
+formulation of the tradition itself. The latter first identifies the transgression
+(murder) and then the appropriate judicial response, namely, that one
+should give an account in court. In the rhetorical elaboration three "trans­
+gressions" are listed, each with the court to which the transgressor will
+be accountable. The three courts are listed in an order of increasing
+56
+57
+importance: the first refers to a local court, the second to the highest
+58
+59
+Jewish court, and the third to the place of eternal punishment. It is
+more problematic to determine the relationship between the different
+transgressions, that is, becoming angry with someone, calling someone
+"raka", and calling someone an idiot. With the information available to
+us it is not possible to make a qualitative distinction between the use of
+60
+the Aramaic term raka and the Greek term μωρός. There is, however,
+clearly a great qualitative difference between the transgression of murder
+referred to in the tradition, and anger. Likewise, the use of pejorative
+terms are clearly subordinate to anger as a more comprehensive category.
+We thus encounter the absurd situation in v. 22 that one has to give an
+account of increasingly lesser transgressions in increasingly more impor­
+tant courts, with potentially greater punishments. Here the principle of a
+just relationship between transgression and punishment is deliberately
+overturned. By means of this paradoxical depiction of events the SM
+emphasizes in a hyperbolical manner that any form of aggression against
+another, no matter how small, is as good as murder. In terms of an exceed­
+ing δικαιοσύνη violence should therefore not be handled by "correcting"
+the crime by means of an appropriate punishment; one should rather attend
+to the conflict that leads to violence.
+In the second passage, 5:23-24, conflict is considered from a different
+perspective. The situation is once again depicted in hyperbolic terms: it is
+61
+not intended as an example from real life that has to be followed liter­
+ally. How likely is it that someone who probably had to travel several days
+to get to the temple in Jerusalem and who bought a sacrificial animal
+there, would be able to leave the animal with a temple official, go all
+the way back home in order to be reconciled with his brother, before
+returning to the temple to offer the sacrifice? The logistics required makes
+62
+this scenario improbable. The SM once again uses hyperbolical language
+to emphasize that reconciliation with one s brother, that is, removing con­
+flict between people, deserves priority above even important cult acts.
+The key concept in this passage is therefore "first be reconciled" (πρώτον
+διαλλάγηθι).
+The third passage, 5:25-26, again has an unreal, hyperbolical character.
+Too little information is given to determine who the guilty party is in the
+legal conflict and whether the opponent really has sufficient grounds to take
+the addressee to court. The rhetorical composition of the passage with the
+climax figure at the end suggests that any legal conflict may have very seri­
+ous consequences. The essence of the passage is that one should deal with
+conflict while one still has the opportunity to do so, no matter whether
+one is responsible for the conflict or not. The key phrase in this case, ϊσθι
+εύνοών, "be well-disposed", indeed covers much more than required by the
+circumstances: it not only refers to the removal of a conflict, but to a gen­
+eral attitude of goodwill towards others, even those who oppose you.
+We thus find a noteworthy progression between the three parts of the
+contrasting interpretation of the first antithesis. In the first, the addressee
+is angry with his brother; the brother is therefore considered the cause
+of the conflict. In the second, it is the brother who thinks that the
+addressee has done him wrong. In the third part we have a legal wrangle
+in which any of the two parties could be responsible for the conflict.
+There is an implicit warning against anger and conflict in the first part,
+an emphasis on reconciliation in the second, and the requirement of a
+general goodwill in the last. In all three passages the issue of conventional
+justice or fairness is indeed suspended: it does not seem to matter whether
+one has just cause to be angry with ones brother in v. 22, whether ones
+brother has reason to have something against one in w. 23-24, or who
+the guilty party is in the legal conflict of w. 25-26. The exaggerations
+in all three passages contribute to an overturning of traditional principles
+of fairness.
+The same overturning of conventional justice is also at work in the fifth
+antithesis (5:38-42). The section starts with a classical formulation of cor­
+rective justice, "an eye for an eye," the so-called ius talionis or law of retali­
+ation requiring that there be a direct relationship between crime and
+punishment. The original intention of the ius talionis was to keep a pun­
+ishment in proportion to the transgression. We have seen that Aristotle
+disapproved of a direct form of retaliation, but other ancient authors like
+Philo of Alexandria insisted upon it, because the application of this prin­
+ciple was the only way to ensure the equality (ίσότης) required by justice
+{Spec. leg. 3.181-204, esp. 181-182). 63
+The contrasting interpretation in 5:39-42 again consists of three sub­
+sections. The first (5:39) responds directly to the principle of retaliation,
+but shifts the argument from a legal principle to a moral principle.
+Against a persons right to retaliation, the principle of non-retaliation is
+emphasized. 64 The verb άνθίστημι should here probably be interpreted as
+"taking a position against." 65 The command μη άντιστήναι τω πονηρφ
+thus implies that one should not take up a position balancing that of the
+one doing evil, 66 that is, one should not act towards him as he does towards
+you. Instead of retaliating one should give the opponent the opportunity
+to do you even more injustice (5:39b). Here the text refers to the way one
+should respond to the unjustified aggression of a malicious person.
+In the second part (5:40-41) the text focuses on justified claims, but the
+distributive justice on which they are based is again disturbed: in addition
+to the shirt one owes someone because of an unpaid pledge, 67 one should
+give him the more valuable cloak as well (5:40), and in addition to a sol-
+diers right to compel one to carry or transport his pack for one mile, 68
+one should allow him still another mile (5:41).
+The third part (5:42) goes even further and refers to claims in general·.
+one should not at all insist on either corrective or distributive rights, but
+freely give to anyone who requests it of one without any guarantee of
+repayment.
+We thus find in this antithesis a radical interpretation of the law of
+retaliation that seems to turn it on its head. Not only should one not
+insist on the protection the law of retaliation provides against the aggres-
+sion and unjustified claims of malicious people, one should even actively
+expose oneself to further aggression, offer more than may justifiably be
+required of one, and indeed respond positively to any demands on one s
+property. Both corrective and distributive justice are transcended in the
+process. An explicit rationale for this radical interpretation is not provided
+in the text. 69 Betz may well be correct in suggesting that the Golden Rule
+provides the hermeneutical key to this passage: the ethical thinking under-
+lying the fifth antithesis attempts to anticipate violence and injustice and
+to prevent it from being repeated. The sort of behaviour required in this
+passage could contribute to breaking the vicious cycle of violence and to
+persuade the person committing violence to stop. The person acting in
+a non-retaliatory manner thus accepts the ethical responsibility for the
+other demanded by the Golden Rule. 70 Not insisting on ones rights for
+the sake of a higher righteousness reminds us of Aristotle s notion of
+equity (επιείκεια), although equity in Aristotle's analysis does not goes so
+far as to entail opening oneself to further abuse.
+The final antithesis (5:43-48) forms the climax of the series. The pas­
+sage takes as point of departure the conventional view that people should
+be treated according to merit (cf. κατ' άξίαν in Aristotle, Eth. Nie. 5.3.
+71
+1131a24-29): friends as friends and enemies as enemies (5:43). In the
+contrasting interpretation the balance of conventional justice is again dis­
+turbed: to treat people as they deserve, that is, in relation to how they
+treat you, is characteristic of humanity in general (5:46-47). One should
+however ignore the claims of conventional justice and follow God's exam­
+ple by treating all people (the good and the bad, the just and the unjust)
+as friends and family, regardless of their actions (5:44-45, 48).
+The passage also resumes the idea of a comparative δικαιοσύνη that we
+found in 5:19-20 (cf. esp. περισσεύση, 5:20; περισσόν, 5:47), but here
+the points of comparison are not the scribes and Pharisees, but the tax
+collectors and Gentiles. The implication is that the former's δικαιοσύνη is
+no more to be emulated than that of the latter. What should be emulated
+instead is God's perfect justice (5:48) that cares for people and provides
+for their needs regardless of who they are or what they do. 7 2
+We should furthermore note the expectation that such exceptional
+behaviour (περισσόν, 5:47) will receive a reward (μισθόν, 5:46). 73 This
+expectation is in line with a common conception of justice that entails
+that a good deed deserves a reward to restore the moral balance. The
+notion of reward is continued in the next part and indeed constitutes an
+important link between the two passages.
+The second part of the body of the SM (6:1-18) explicitly deals with
+practising δικαιοσύνη. The basic principle informing this part is given
+in 6:1, and then illustrated by three examples taken from religious prac­
+74
+tice (i.e., δικαιοσύνη understood as piety).
+The three religious duties in which the principle is applied are perform­
+ing charity (6:2-4), prayer (6:5-6), and fasting (6:16-18). These religious
+acts are typical expressions of piety in Second Temple Judaism and often
+75
+closely connected with δικαιοσύνη. Compared to the previous sections
+of the SM the notion of a proportionately balanced justice is applied in a
+surprisingly positive manner in these pericopes. The underlying idea in
+each of the three sections is the same: a good deed deserves a reward
+(μισθός). This view is explicitly formulated by Aristotle: δικαιοσύνη as
+"that which is good for others" (άλλότριον... αγαθόν) should receive a
+reward (μισθός) in the form of "honour and dignity" (τιμή καί γέρας). 76
+The argument in the SM is based on distributive justice: if one receives
+honour from other people, one has received ones reward in full, and
+the requirements of distributive justice have been met. 77 If, however, one
+avoids the honour of people by acting "in secret" (εν τω κρύπτω, 6:4, 6;
+έν τω κρυφαίω, 6:18), God will see to it that one receives the reward owed
+to one (αποδώσει, 6:4, 6, 18). The object should therefore be to seek ones
+reward from God rather than from other people. What this reward entails
+is not specified, but from other statements in the SM it may be inferred
+that it has to do with participation in the kingdom of heaven. 78
+We find a further reference to a proportionate justice in the second pas­
+sage on prayer (6:7-15): God is requested to cancel our debts (όφειλήματα,
+a term from distributive justice), 79 just as we do to our debtors (6:12). In
+the explanation that follows it is explicitly stated that God s forgiveness is
+proportionate to our willingness to forgive (6:14-15). 80
+The third part of the body of the SM (6:19-34) looks at δικαιοσύνη from
+the perspective of one's priorities: one should make the right choices, have
+the right focus, the right goals in life. It concludes with the command to
+seek God's kingdom and his δικαιοσύνη as one's first priority (πρώτον). 81
+It is not clear whether "God's δικαιοσύνη" in v. 33 refers to the righteous­
+ness exercized by him, 8 2 or the δικαιοσύνη required by him. 8 3 Verse 33
+again formulates a general principle of the SM: 8 4 δικαιοσύνη has to be
+sought continuously. 85 The motif of seeking returns in the next part.
+The final part of the body of the SM loosely consists of two sections. The
+first has to do with judgement and discrimination (7:1-6), the second
+with actions and consequences (7:7-11). The first verses of chap. 7 pro­
+vide a further example of conventional justice: one will be judged accord­
+ing to the way one judges. Despite the danger of being overly censorious,
+corrective judgment is nevertheless important in order to benefit others
+(7:5). One should at the same time use discrimination in dealing with
+people; the wrong benefit to the wrong person could have dire conse­
+quences (7:6). This maxim seems to be related to the popular notion of
+treating people according to merit.
+A more unusual application of the principle of a just relationship
+between action and consequence follows in 7:7-11. The mere fact of ask­
+ing, seeking, knocking, that is, the willingness to express one's need, seems
+to be rewarded: God gives good things (δόματα αγαθά) to those who ask.
+It is the needy y those that seek, that are rewarded, not the deserving. We are
+reminded of the very first sentence of the SM (5:3): "Blessed are the poor
+in spirit, for theirs is the kingdom of heaven."
+In 7:12, the so-called Golden Rule, we find a final example of what may
+be called the δικαιοσύνη calculus. The second sentence of v. 12 ("This is
+the law and the prophets") refers back to 5:17 and thus forms an inclusio
+which concludes the body of the SM. By referring back to the propositio,
+the inclusio at the same time reminds us of the exceeding δικαιοσύνη
+of 5:20. The Golden Rule thus provides a further indication of what an
+exceeding δικαιοσύνη entails.
+At first glance 7:12 appears to be a straightforward application of the
+principle of proportionate justice: one should treat others as one expects
+to be treated oneself. By itself, this maxim could be interpreted to mean
+that one should ensure one s own future interest by acting in a way one
+hopes will later rebound in one s favour. Bultmann, for example, refers to
+the Golden Rule as "Moral eines naiven Egoismus." 86 In his classic study
+of the Golden Rule Albrecht Dihle contends that the rule is ultimately
+based on the positive aspect of the law of retaliation, the ius talionis.* 7
+From this perspective, the principle of retaliation serves to maintain the
+equilibrium between good and evil in the world. 88 According to Dihle's
+interpretation of the Golden Rule, human behaviour is based on the
+expectation that the other will react in an appropriate manner to restore
+the moral balance. 89 More recently, scholars have however pointed out
+that the Golden Rule does not have one fixed meaning, but should in
+every case be interpreted within its context. 90 Within the context of the
+SM, especially in view of the exhortation in 5:43-48 to follow Gods
+example in caring for people without expecting a corresponding response,
+the Golden Rule must have a more altruistic meaning. 91 The moral calcu-
+lation involved here does not therefore entail finding a balance between
+one's present conduct and future benefit (i.e., a form of enlightened self-
+interest). Ones conduct should rather be measured against how one
+compassionately imagines others would want to be treated. 92 Our under-
+standing of what others need becomes the yardstick of our behaviour,
+rather than our own rights. Popular notions of justice are thus once again
+inverted. Focusing on the needs of others also goes far beyond Aristotle's
+idea of equity that does not insist on one's own rights.
+The SM concludes in the peroratio with various forms of warnings and
+exhortations. The need for a just correlation between words and actions,
+appearing and being, between who one is and what one does, is empha-
+sized throughout. The way to life is only found with the appropriate effort
+(7:14). Doing the will of God (7:21) 93 and obeying the message of the SM
+(7:24) is the criterion of what is right, and leads to a secure life (7:25);
+everything else is "lawlessness" (την άνομίαν, 7:23), and leads to ruin
+(7:27). Only the way of life demanded by the SM gives entry into the
+kingdom of heaven (cf. 7:21).
+Despite the cursory and selective nature of the preceding discussion it
+does allow us to draw some significant conclusions.
+Aristotle's analysis of δικαιοσύνη clearly has interesting implications for
+our understanding of justice in the SM. If Aristotle's analysis is based on
+popular conceptions of justice (as I submit it is), a remarkable feature of
+the SM is the way such popular conceptions is used in the argumentation
+of the text. A popular view of justice, namely that there should be an
+appropriate and fair correlation between what one does and what happens
+to one, between what one deserves and what one may expect—in short,
+that everyone should be given their due—informs not only the traditions
+to which the SM responds, for example, the requirement that murder
+should be answerable in court in 5:21, the ius talionis in 5:38, and the
+precept that one should treat friends and enemies according to merit in
+5:43; it also provides the logic for some of the SM's own teachings, for
+example, on the reward to be expected for religious acts in 6:2-6, 16-18;
+on forgiveness in 6:12, 14-15; and on judging others in 7:1-5. On the
+other hand, the logic of popular justice is frequently overturned, for
+example, in the SM's teachings on avoiding and resolving conflict in
+5:22-26; on non-retaliation in 5:39-42; on treating all people as friends
+and family in 5:44-48; and the Golden Rule in 7:12. Justice as it is com­
+monly conceived is thus both accepted and rejected in the SM. Such
+manipulation of expectations means that conventional justice becomes
+suspect as a principle of conduct.
+Aristotle's notion of equity as a superior form of justice that transcends
+a literal interpretation of legal demands and that relativizes justice as a
+proportionate equality of rights and merits indicates an awareness of the
+need for discretion in applying justice, a need for going beyond a strict
+justice for the sake of the greater good. In antiquity equity was therefore
+interpreted as δικαιοσύνη aiming to attain what is just. 94 The overturning
+of justice found in the SM is, however, of a radically different order than
+Aristotle's equity.
+Instead of conventional justice, we find in the SM the notion of an
+open-ended δικαιοσύνη that exceeds what is expected (cf. 5:20, 47), a
+δικαιοσύνη that always has to be attained, that is, to be sought and
+desired (cf. 5:6; 6:33; also 7:7-11, 14). It cannot be captured in a defini­
+tion or in legal principles, but requires a new way of thinking, a moral
+imagination (7:12) that orients itself on God's perfect righteousness (cf.
+5:45, 48; 6:26, 30, 32; 7:11).

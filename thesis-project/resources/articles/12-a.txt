@@ -1,0 +1,694 @@
+It is now widely acknowledged 1 that at many points the Letter of James
+alludes to, or paraphrases, the Jesus tradition. 2 James's method of allusion,
+however, is very different from the citational methods witnessed in
+Matthew and Lukes usage of Mark and Q, or in Pauls citations of the
+Greek Bible, where the wording of the source text is preserved to a rela-
+tively high degree, albeit with some notable exceptions. Rather than using
+predecessor texts as sources to be edited lightly, as Matthew and Luke did
+with Mark and Q, or quarrying the Septuagint for proof texts to buttress
+arguments, as Paul did, James employs the Jesus tradition much as an ora-
+tor might use Homer or Euripides or Theognis, not so much as a source
+to be quoted as a resource for mimesis and paraphrase. James's use of the
+Jesus tradition is highly allusive and offers an instance of aemulatio or rhe-
+torical paraphrase. He freely elaborates, reconfigures, and adapts sayings
+of Jesus to new rhetorical situations such that the ultimate source of the
+saying is still recognizable, but much has been added, substituted, and
+subtracted in the process of reframing. 3
+Precisely because of James's highly adaptive method of allusion, we are
+in a position to assess which aspects in the Jesus tradition James ignores,
+which he privileges, which he develops, and how and in what directions
+they are developed. In this paper I shall argue that in James's elaboration
+of two Q sayings, we can see reflected philosophical ideals that we know
+to have been current in certain forms of Hellenistic Judaism concerned
+with the care and nurture of the soul. James's treatment of these sayings
+effectively shifts their respective social registers from rural Palestine, con-
+cerned with subsistence and social pressures, to the life of the educated
+or semi-educated urban Diaspora, concerned with psychic processes and
+psychagogy. This is a social register which was open to philosophical
+discourse on soul formation known in particular from Stoicism of the
+Roman period.
+An example of James's elaboration of the Jesus tradition occurs in its
+opening lines. The assertion, ει δε τις υμών λείπετοα σοφίας, αίτείτω παρά
+του δίδοντος θεοΰ πάσιν απλώς και μη όνειδίζοντος, και δοθήσεται αύτώ
+(1:5), is routinely held to be an allusion to Q 11:9. 4 Whether James here
+relies on a pre-synoptic oral form, or the written form as we have it in Q,
+or one of Q's successor documents need not detain us, at least in this con­
+text. The saying was remarkably stable and was taken over verbatim from
+Q by Matthew and Luke. James, however, has preserved only Q s the­
+matic verb, αίτειν and the phrase και δοθήσεται αύτώ ύμίν from the first
+part of Q 11:9. He simultaneously shortens and expands Q s saying, first
+eliminating the redundant word pairs 'seek/find' and 'knock/open, and
+then substantially qualifying αίτειν. This treatment of a predecessor source
+is consistent with rhetorical procedures of the time, according to which
+traditional materials could be expanded, extended, epitomized, or rephrased
+in accordance with considerations of what is 'apt' (πρέπον, aptum): 5
+Three features immediately stand out in James's elongation of Q 11:9a.
+First, James elaborates on the nature of God who grants wisdom, under­
+scoring the way in which God gives. This might be regarded as a conden­
+sation and reframing Q11:10, which in Q takes the part of the petitioner
+who, Q claims, may be confident in receiving what she requests. What is
+implicit but unstated in Q—that God is generous and reliable—becomes
+explicit in James in the compressed statement that God gives απλώς και
+μη όνειδίζων. But this description is also related to the next part of
+James's elaboration, since his focus on God's singleness and equanimity is
+designed as a counterpoint to the double-minded and unstable petitioner
+in w. 6-8.
+A second aspect of James's redeployment of Q becomes clear when one
+contrasts James with the larger context of Q. Q introduces its admonition
+by the Lord's Prayer, and buttresses the 'ask-seek-knock' admonition
+with an argument from the analogy of parental behaviour, leading to the
+conclusion that God is the giver of αγαθά, good things. For Q these 'goods'
+are subsistence ( Q 11:3, 10), debt relief ( Q 11:4a) and security from
+πειρασμοί ( Q 11:4b). By contrast, the only good in question for James is
+σοφία, although he will later insist that all good gifts are from God.
+The naming of wisdom as the object to be sought above all other goods
+is probably due to the immediately preceding admonition to "let endur­
+ance have its perfect work, so that you might be perfect (τέλειοι) and
+complete (ολόκληροι), lacking nothing" (1:4) For James, evidently, the
+reception of σοφία is the means to achieve such perfection, and in this
+respect James belongs to the same orbit as the Wisdom of Solomon and
+4 Maccabees which likewise privilege the possession of wisdom (and the
+benefits that flow from this), in particular as the way to endure adversity
+and persecution. Wisdom features Solomon seeking wisdom above all
+other things (Wis 8:5-6) because of the preeminence of wisdom in the
+structure of things, while the encomium to Wisdom in chap. 10 cata­
+logues the ways wisdom delivered Israelites from various troubles. Fourth
+Maccabees treats σοφία as comprehending and encompassing the four
+cardinal virtues of prudence, justice, courage, and moderation, which are
+above all else to be sought and cultivated, in particular in the context of
+persecution and severe testing. 7
+Third, James treats in much detail the psychological conditions which
+obstruct the reception of wisdom, depicting the disputer s 8 psyché as a
+storm-tossed sea and declaring him an άνήρ δίψυχος and ακατάστατος.
+As James's elaboration of Q 11:9-13 makes clear, the subject who wavers,
+the άνήρ δίψυχος, not only will not receive anything from God, but is
+'unstable in all his ways' (ακατάστατος εν πάσαις ταις όδοις αύτοΰ). The
+cause of this instability is for James cognitive. The wavering man wrongly
+supposes the source of temptation to be God rather than his own
+έπιθυμίαι (1:13); and he is forgetful of what he has just seen (1:25) and
+hence acts badly. The ideal petitioner, by contrast, 'reckons' (ήγήσασθαι)
+testing to be joy (1:2); he 'knows' (γινώσκων) that the proving of faithful­
+ness leads to endurance (1:3); he is not deceived (πλανάσθαι); he is quick
+to hear but slow to speak and slow to react in anger (1:19); he can bridle
+his tongue (1:26); and he receives the 'implanted λόγος' and hence rejects
+vice(l:21). 9
+In sum, James's adaptation of Q 11:9 refocused the saying by empha­
+sizing disposition—God's disposition (and by inference the ideal peti­
+tioner) as απλώς, and the disposition of the disputer as δίψυχος and
+unstable. Elsewhere I have suggested that James's reformulation of the
+Jesus tradition reflects a shift in the social location of the addressees from
+the rural Palestinian environment of Q to a setting in an urban, diasporic
+context. 10 The shift described here, from a focus on the concrete benefits
+of subsistence and debt relief to the acquisition of σοφία, and from
+homely analogies of parental behaviour to an insistence on interior dispo­
+sition, is likewise consistent with a change in social location to an urban,
+educated environment.
+The particular constellation of ideas in Jas 1:5-8 suggests a context informed
+by philosophical ideals, in particular popularized forms of an amalgam
+of Platonism and Stoicism mediated through Hellenistic Judaism. I have
+already suggested that the privileging of σοφία as the principal good to be
+sought brings us close to the Wisdom of Solomon and 4 Maccabees. But
+of course, the quest for σοφία is much broader than Hellenistic Judaism.
+More telling is the contrast between the virtue of άπλότης and the vices of
+διψυχία and ακαταστασία and the strong focus on disposition.
+The importance of Singleness' as a virtue is well attested in the Testa­
+ments of the Twelve Patriarchs, in particular the Testament oflssachar, whose
+superscript is περί άπλότητος. While in Hellenistic Greek άπλότης often
+refers to a simple rustic life, 11 the Testament of Issachar correlates rustic
+simplicity (3.2; 4.3) with unswerving moral rectitude, which he epito­
+mizes as άπλότης οφθαλμών (3.4; 4.6), a phrase that implies the integrity
+of perception and cognition. Singleness excludes desire (έπιθυμειν) and is
+an antidote against the spirits of deceit, envy, malice and perversion
+(4.2-6). Elsewhere in the Testaments singleness is described as a mode of
+cognition and is expressly contrasted with a pathological doubleness. For
+example, the Testament of Benjamin (6.1-7) states:
+1
+The disposition (διαβούλιον) of the good man is not in the power of the deceit of
+the spirit of Beliar, for the angel of peace guides his soul. 2 He does not look with
+passion at corruptible things, nor gathers wealth for a desire of pleasure. 3 He does
+not delight in pleasure; [he does not grieve for his neighbour]; he does not fill him­
+self with luxuries, he is not deceived by the lifting up of eyes: the Lord is his portion.
+4
+The good disposition (το αγαθόν διαβούλιον) does not receive glory or dishonour
+from people and it does not know any deceit, or lies, or fighting, or reviling; for the
+Lord dwells in him and illumines his soul, and he rejoices towards all people always
+5
+The good mind (ή άγαθη διάνοια) does not have two tongues (δύο γλώσσας), of
+blessing and cursing, of hybris and honor, of grief and joy, of quietness and distur­
+bance (ταραχή), of hypocrisy and of truth, of poverty and of wealth, but it has a sin­
+gle disposition (διάθεσις), uncorrupt and pure, concerning all people 6 It does not
+have double sight nor double hearing (ουκ έχει ορασιν ουδέ άκοήν διπλήν), for in
+everything which he does, or speaks, or sees, he knows that the Lord looks at his soul
+7
+And he cleanses his mind that he may not be condemned by people or by God
+And (contrariwise) every work of Behar is twofold, (διπλούν) and possesses no single­
+ness (ουκ έχει απλότητα)
+The 'pure mind' (διάνοια καθαρά)—the subject of the Testament of
+Benjamin—"perceives all rightly ' (πάντα βλέπει ορθώς, 3.2) and for that
+reason also acts virtuously. For the Testament of Benjamin, the opposite of
+the pure mind—the darkened mind—is not one that acts in a uniformly
+evil way but instead one which acts in a contradictory or double way, a
+sure sign of instability and mental disturbance. Testament ofAsher makes a
+similar point, using the term διπρόσωπον:
+Therefore my children, do not be double-faced (διπρόσωποι) like them, (showing)
+goodness and vice, but cleave to goodness only, for God rests in it and men wish it
+2
+Flee from vice, destroying the Devd (τον διάβολον) 1 2 by your good works, for
+those who are double-faced (oi διπρόσωποι) are not servants to God but to their
+own desires (έπιθυμίαις), so that they may please Behar and men like themselves "
+(TAsb 3 1-2)
+It is sometimes urged that the Testaments presuppose a dualistic psychol­
+ogy and a precursor of the rabbinic doctrine of the 11ΌΠ Ί1Γ and the
+νΊΆ Ί 2 \ 1 3 Hollander and de Jonge dispute this, pointing out that although
+T. Ash. 1.5, which speaks of "two διαβούλια in our breasts," has been
+taken to imply a dualistic psychology, 14 this statement must be read in the
+context of 1.6a, 8a:
+If then the soul desires the good, every one of its actions are righteous... but if
+the disposition (το διαβούλιον) inclines to evil every ones of its actions is evil.
+[J. Ask 1.6a, 8a).
+T.Jud. 20.1-3 is also relevant:
+Know then my children, that two spirits are devoted (δύο πνεύματα σχολάζουσι) to
+humankind, that of truth and that of deception. And in between (μέσον) is the spirit
+of understanding of the mind, (whose property is) to incline to whichever it wishes
+(ου εάν θέλη κλιναι). And the works of truth and of deceit are written on the breast
+of mankind. {T.Jud. 20.1-3)
+Hollander and de Jonge conclude that the psychology of the Testaments
+is dualistic only in the sense that a person is capable of virtue or vice,
+depending on one s disposition. The subject has only a single διαβούλιον
+whose choice may actualize either virtue or vice. 15
+James 1:2-5 presupposes a very similar psychology. James contrasts the
+deity's singleness of disposition with the disputer s doubleness (δίψυχος) 16
+and instability (ακατάστατος). If a dualism exists, it is a dualism of wis­
+doms available to the self, but which manifest themselves in vastly differ­
+ing behaviours.
+This is not the wisdom that descends from above, but (it is) earth-bound (επίγειος),
+psychic (ψυχική), demonic (δαιμονιώδης). For where there is jealousy and ambition
+there is instability (εκεί ακαταστασία) and every kind of mean deed. But the wis­
+dom from above is, in the first place, pure, then peaceable, gentle, easily persuaded,
+filled with mercy and good fruits, not divided (αδιάκριτος), without hypocrisy. For
+the fruit of justice is sown in peace by those who make peace." (Jas 3:15-18)
+Like the Testaments^ James depicts two sources of influence upon the
+human psyche, variously called the spirit of truth and the spirit of decep­
+tion, God and Beliar, or the wisdom from above and earth-bound wis­
+dom. Neither assumes that the self is corrupted by an intractably evil
+part—either a ΡΊΠ IT or a cosmologica! principle such as the Pauline
+σαρξ 1 7 —though both take for granted that God supplies the means by
+which subjects can choose the good and reject vice.
+For James the obstacles to virtuous behaviour and to receiving divine
+benefits are the enticements of pleasure and desire. James makes this clear
+in his second paraphrase of Q 11:9 in 4:3, where Q s statement is reversed
+and that reversal then explained: αιτείτε και ου λαμβάνετε, διότι κακώς
+αίτεΐσθε, ϊνα εν ταΐς ήδοναις υμών δαπανήσητε, "you ask and do not
+receive, because you ask badly in order to spend on your pleasures" (4:3).
+Strife, discontent and the "pleasures (ήδοναί) which are at war in your
+members" (4:1) break the simple link between asking and receiving
+announced in Jas 1:5.
+The Testaments likewise target ήδοναί and έπιθυμίαι as obstacles to
+piety: pleasure and confusion are linked in Τ Dan 5.2 and contrasted
+with having the "peace of God"; Joseph is commended for not admitting
+επιθυμία into his disposition (T Rub. 4.9); the Testament ofAsher (3.2)
+declares that "the double-faced do not serve God but their own έπιθυμίαι";
+and T. Jos. 7.8 asserts that to submit to desire is to become its slave so that
+even should one hear something good, it is mistaken for evil.
+Philo is even clearer on the threat of pleasure and desire to the mind.
+Using language remarkably similar to that of Jas 1:14, he states of plea­
+sure:
+For there is nothing which, lured by pleasure (προς ηδονής δελεασθέν), is not
+dragged (ειλκυσται) and caught by her thickly-twisted nets, from which escape is
+very difficult. But the paths of φρονήσις και σωφροσύνη and the other virtues, if not
+untrodden, are in any event not well worn. For few are those who have trodden
+them, who have genuinely devoted themselves to philosophy and have only an asso­
+ciation with the good, paying no regard to everything else whatever. (Agr. 103-5)
+and again:
+For if the soul is driven by desire (προς επιθυμίας έλαύνεται) or enticed by pleasure
+(ύφ' ηδονής δελεάζεται) or diverted from its course by fear or shrunken by grief or
+helpless in the grip of anger, it makes itself a slave, and indeed one who has many
+owners. But if it vanquishes ignorance by φρόνησις, incontinence by σωφροσύνη,
+cowardice by courage, and greed by righteousness, it gains not only freedom from
+slavery but the gift of ruling as well. (Prob. 159)
+The contours of the philosophical pedigree of James and the Testaments
+are indistinct, because neither explicitly engages the basic questions posed
+by Greek thinkers on origin, nature, and control of the passions. It is
+not clear, for example, whether either James or the Testaments presuppose
+Philo's Platonizing anthropology, which understood επιθυμία to be the
+irrational third division of the soul, along with the higher divisions of
+το θυμικόν and το λογικόν. 18 Nor is it obvious that either James or the
+Testaments treats the passions, as Philo did, as "irrational and unnatural
+movements of the soul." 19 The Testaments and James, much more than
+Philo, have mythologized their psychologies by their references to Beliar
+and the Devil. T. Ash. 3.2 warns against being double-faced and recom­
+mends "destroying the Devil with good works" (άναιροΰντες τον διάβολον
+έν ταις άγαθαίς υμών πράξεσιν), while James counsels submission to God
+so that the Devil might flee (4:7). Like Philo, however, the Testaments and
+James conceive the soul as faced with a choice between the pursuit of
+desire or the pursuit of virtue, with the choice of virtue enabled by God
+and informed by the Law. 20
+Since neither James nor the Testaments engages in a theoretical reflec­
+tion on the passions, it is unclear whether they would side with the Stoic
+view that the passions are to be extirpated or the Peripatetic view that
+they are only to be moderated. 21 What is clear is that for James false beliefs
+about God and the false pursuit of desire are sources of instability, which
+in turn undermines the efficacy of God's benefactions.
+This notion that passions are a disease for which the remedy is cogni­
+tive is old, articulated as early as Democritus (V BCE):
+For while the physician s art, according to Democritus, heals the diseases of the body,
+wisdom frees the soul from passions (σοφίη δε ψυχήν παθών αφαιρείται). (Dem­
+ocritus, Diels-Kranz, frag. 3 1 = Clement, Paed. 1.6)
+Later discussions in Plato and Aristotle maintained the view that true
+knowledge overcomes the passions, although there were substantially
+varying accounts of how the appetitive and rational parts or powers of the
+soul interacted. 22 The passions were commonly regarded as the cause of
+the disturbances in the soul and as inimical to the goal of tranquillity and
+singleness of mind. 2 3 Thus, both the Testaments' 'disturbance' (ταραχή) of
+the soul and James's ακαταστασία reflect this view of the self disturbed by
+the passions.
+The notion of having two minds or two souls as a metaphor to account
+for epistemological or moral conflict in the self is also old, attested in
+Theognis (VI BCE), 2 4 Parmenides (V BCE), 2 5 Xenophon (V/IV BCE) 2 6 and
+Plato. 27 Platos argument in Respublica 439E-441A advanced a proof
+that the soul could not be unitary but must be tripartite, including το
+λογιστικόν, το έπιθυμητικόν and το θυμοειδές. Hence, when the soul was
+troubled, it was by the conflict between its rational, appetitive and spir­
+ited parts. Philo, who adopted this tripartite division, was nevertheless,
+strongly inclined to embrace the Stoic ideal of απάθεια, 2 8 which necessar­
+ily entailed the elimination of the appetitive and spirited powers, leaving
+only the rational, something that Platos psychology did not envisage. 29
+Famously, Stoics rejected the notion of a soul divided into rational and
+irrational parts, and affirmed instead a psychological holism: the soul is
+acted upon by "appearances" (φαντασίαι), to which the ήγεμονικόν or
+governing faculty gives its assent. In the moral realm, the sage infallibly
+assents to a φαντασία whose propositional content is an objectively true
+principle. Most persons, however, are faced with ambiguous appearances
+and mistaken beliefs and hence, in assenting to these impressions, act
+wrongly. 30 Mental instability itself is not a matter of two (or three)
+opposed components of the soul at war with each other; it arises instead
+from false beliefs which, when given assent by the mind, leads to instabil­
+ity. Diogenes Laertius describes the Stoic position this way: "from false­
+hoods there arises corruption in the mind; this is the source of passions
+and instability" (ακαταστασία, D.L. 7.HO). Arius Didymus, a Stoic of
+the Augustan period, puts it trenchantly:
+They say that every inferior person is insane, since he has ignorance of himself and of
+his concerns, and this is insanity. Ignorance is the vice opposite to φρόνησις, and this
+is insanity because it in its relative disposition it makes our impulses unstable
+(ακατάστατους) and fluttering (πτοιώδεις). Hence they give his outline of insanity—
+fluttering ignorance (αγνοιαν πτοιώδη). (Arius Didymus apud Stobaeus 2.68.18-23 =
+32
+SVF 3.663)
+When Dio describes the mind dominated by vice, he likewise emphasizes
+its instability, comparing it to the waves of the sea in terms that recall
+James 1:6:
+For it is only by getting rid of the vices which excite and disturb people—envy, greed,
+contentiousness, each seeking to promote his own welfare at the expense of both
+one's native land and the common good—that is it possible ever to breathe the breath
+of harmony in full strength and vigour and to unite upon a common policy. For
+those in whom these and similar vices are prevalent are necessarily in a constant state
+of instability and are liable to clash for the slightest reason and to be thrown into
+confusion, just as happens at sea when contrary winds prevail (καθάπερ εν θαλάττη
+πνευμάτων εναντίων ισχυόντων). (Dio Chrysostom 34.19)
+Instability is not a matter of two warring principles, but rather the mind
+vacillating between two contrary judgments. This view is classically reported
+by Plutarch:
+But some [Stoics] say that passion is no different from reason, and that there is no
+dissension and conflict between the two, but a turning of one and the same reason to
+both directions (ενός λόγου τροπήν έπ' αμφότερα), which we do not notice owing to
+the sharpness and speed of the change (όξύτητι και τάχει μεταβολής). We do not
+perceive that the natural instrument of appetite and regret, or anger and fear, is the
+same part of the soul, which is moved by pleasure towards wrong, and while moving
+recovers itself again. For appetite and anger and fear and all such things are corrupt
+opinions and judgments which do not arise about just one part of the soul but are
+the whole commanding-faculty's inclinations, yieldings, assents and impulses and,
+quite generally, activities which change rapidly, just like children's fights, whose fury
+and intensity are volatile and transient owing to their weakness. (Plutarch, Virt. Mor.
+446F-447A [= SVF 3.459]; trans.: LS 65g)
+This description of acts of assent that change rapidly (συγκαταθέσεις εν
+όλίγω μεταπτωταί) or what elsewhere is described as buttering' (πτοία) 33
+seems to be just what James has in mind in the use of δίψυχος and
+ακατάστατος. The 'disputer' or δίψυχος is unstable precisely because he
+vacillates between false and true judgments. The remedy for such instabil­
+ity is cognitive: on the one hand, the correct judgment that God is
+good—'simply good—such that the nature of God s goodness is not only
+fides quae creditur but fides qua creditur, that is, the manner that the belief
+about God is also to be embraced; on the other hand, the subject must
+recognize that instability or vacillation or disputing is due to έπιθυμίαι
+and ήδοναί, which prevent the subject from receiving God s gifts.
+In his elaboration of Q 11:9, then, James reflects some of the same
+concerns as those of the Testaments and Philo in warning of the deleteri­
+ous effects of επιθυμία on the psyche. This appears to be the legacy of the
+philosophical psychology of Platonism and (especially) Stoicism, 34 proba-
+bly mediated through the Hellenistic Judaism represented by the Testa-
+merits of the Twelve Patriarchs and Philo. Insofar as the Testaments are
+generally supposed to reflect the influence of Stoicism, 35 it seems a reason-
+able conclusion that James may also incline to the Stoic views of the self. 36
+A second example of James's transformation of a saying of Jesus which
+points in the same direction is found in Jas 1:2-4, 12-15. The statement
+of 1:12, μακάριος άνήρ δς υπομένει πειρασμόν, δτι δόκιμος γενόμενος
+λήμψεται τον στέφανον της ζωής, όν έπηγγείλατο τοις άγαπώσιν αυτόν,
+when coupled with the opening injunction, πασαν χαράν ήγήσασθε,
+αδελφοί μου, όταν πειρασμοις περιπέσητε ποικίλοις, and the reprise in
+5:10, υπόδειγμα λάβετε, αδελφοί, της κακοπαθείας και της μακροθυμίας
+τους προφήτας, is strongly reminiscent of Q 6:22-23, the persecution
+beatitude, which features the thematic word μακάριος, the injunction to
+rejoice in the midst of troubles (χαίρετε καί [άγαλλιασθε]) and adduces
+the example of the persecution of the prophets. 37
+Several of James's transformations of this saying are noteworthy, but in
+this context I would like to draw attention to James's focus on the inter­
+nal state which characterizes the appropriate perspective on testing.
+Whereas Q elaborates the types of persecution that might occur—re­
+proach, persecution, calumny—, James reduces this part of the saying to
+the strikingly alliterative phrase, πειρασμοις περιπέσητε ποικίλοις. The
+reduction is noteworthy on two grounds. First, while Q clearly has in view
+overt actions taken against the Jesus people by others, James's πειρασμοί
+remains open to several interpretations: either overt acts of persecution,
+as is the case with parallel texts in 4 Maccabees and 2 Baruch, 38 or the
+more ordinary pressures of life, or even purely interior conflicts and fears,
+which might also be conceived as nestings.' 39 Second, James's qualification
+of πειρασμοί with ποικίλοι gestures in the direction that will emerge
+more fully in 1:12-15. When used with 'temptation and 'desire', ποικίλος
+recalls the description of Aphrodite, in particular in her nature as one
+who beguiles and seduces. 40 Homer famously describes the varied-color
+girdle worn by Aphrodite, and which Aphrodite lends to Hera, so that she
+may "subdue all immortals and mortals" with love and desire (φιλότητα
+και ΐμερον). Aphrodite looses
+the embroidered girdle of varied colours (κεστον ιμάντα ποικίλον) wherein are fash­
+ioned all manner of allurements (οί θελκτήρια πάντα); therein is love (φιλότης),
+therein desire (ίμερος), therein dalliance (όαριστύς)—beguilement (πάρφασις) that
+steals the wits even of the wise (77. 14.214-17).
+That Aphrodites girdle was still the object of attention in the first century
+is shown by Cornutus' comments on this very passage, emphasizing
+Aphrodite s deceptive nature, epitomized by the changing colours of her
+girdle:
+Paphos is her own dwelling place, being called the 'Paphian', perhaps elliptically from
+άποφάσκειν ('to beguile'), which is to deceive (άπατάν). For according to Hesiod she
+has both smiles and deceptions, and according to Homer, an allure that stole the wits
+of the wise. The girdle is well furnished, adorned and of varied colours (ποικίλος),
+having the power to bind and gird up. {De natura deorum 45-46) 4 1
+To characterize the πειρασμοί as ποικίλοι will anticipate James s later focus
+on desire as the real temptation to be resisted or shunned.
+As the comparison with Q 6:22-23 shows, James's interest lies not in
+the particulars of πειρασμοί but in the internal processes that πειρασμοί
+occasion, especially if one regards temptation not as an evil to be avoided
+but as an occasion for moral progress. James, like Q, still has in view a
+reward for moral achievement, but he describes this in the language of
+civic or athletic honours—a wreath or crown—rather than with the agrar­
+ian language of μισθός, the ordinary Greek term for Vages'. But most of
+his attention is focused on the one hand on the cultivation of υπομονή
+and the perfection and completeness which flow from this, and on the
+other, the false belief that πειρασμοί come from God rather than from
+one's own desires (έπιθυμίαι), which are in fact lures and traps that lead
+to sin and thence to death.
+Three philosophical claims inform James's reframing and elaboration of
+Q 6:22-23.
+1. Υπομονή and the Cultivation of Moral Perfection
+The first claim that James makes is that πειρασμοί should not be regarded
+as evils but as occasions for joy since they lead to moral progress and,
+indeed, perfection. A similar claim is made by 1 Pet 1:6-7, using wording
+that is strikingly similar to James:
+In this you shall rejoice (άγαλλιάσθε), if now for a little time (ολίγον άρτι) it is
+necessary that you suffer in variegated trials (εν ποικίλοις πειρασμοις), so that the
+approval of your faith (το δοκίμιον υμών της πίστεως)—more precious than gold
+which, though perishable, is tested through fire—might be found to be commend­
+able and reputable and honorable at the άποκαλύψις of Jesus Christ.
+As 1 Peter s ολίγον άρτι makes clear, the author has adopted the apocalyp­
+tic trope of a time of tribulation that will come to an end with the apoka-
+lypsis Iesou Christou. Hence, we should understand πειρασμοί in 1 Peter as
+sufferings imposed on the faithful by others and not as daily testings, still
+42
+less an internal struggle with oneself. James, by contrast, focuses not on
+external pressures and their cessation but on the interior processes which
+adversity occasions, and on the causal chain that leads to right actions or
+sinful ones.
+Commentators routinely note the similarities between the chain con­
+structions (climax, sorites, gradationes) in Jas 1:2-4, 1 Pet 1:6-7 and
+Rom 5:3-5. Each uses the figure of a climax to connect the experiencing
+of πειρασμοί or θλίψεις with the development of endurance (υπομονή:
+James; Romans), approval, and a final state, variously described as being
+'perfect' (James), having hope (Romans), or being praiseworthy (1 Peter). 43
+Although there is a common pattern, the distinctives of James are not to
+be missed. Whereas 1 Peter and Romans promote the mystical notion
+of participation in the sufferings of Christ (Rom 6:1-11; 1 Pet 4:13), and
+while both have a pronounced eschatological orientation, there is no
+christological orientation to the trials in James and the eschatological
+aspect is muted. 4 4 For James the focus is on the virtue which endurance
+produces.
+It is of course a common motif in wisdom literature that the pious are
+tested through adversity. 45 The logic of adversity, however, is variously
+elaborated. In some texts, adversity is likened to parental discipline and
+hence, conceived as part of an ordinary process of growth.
+Jdt 8:25-27: Let us give thanks (εύχαριστήσωμεν) to the Lord our God who is
+putting us to the test (πειράζει) as he did our ancestors. Remember what he did
+with Abraham and how he tested Isaac, and what happened to Jacob in Syrian Meso­
+potamia ... for he has not tried us with fire as he did them, to search their hearts, nor
+has he taken vengeance on us; but the Lord scourges those who are close to him in
+order to admonish them.
+In other instances, the focus is on Gods reward of those who endure
+suffering:
+2Apoc. Bar. 52:5-7: Rejoice in the suffering you now endure: why concern yourselves
+about the downfall of your enemies? Make yourself ready for what is reserved for
+you, and prepare yourself for the reward laid up for you.
+4 Maccabees elaborates the logic of adversity with detailed attention to
+what it produces in the subject: the subduing of the passions:
+What person who lives as a philosopher by the whole rule of philosophy and having
+trusted in God and who knows that it is blessed to endure any suffering (πάντα
+πόνον ύπομένειν) for the sake of virtue, would not be able to control the passions
+through piety (περικρατήσειεν των παθών δια την θεοσέβειαν)? For only the wise
+and the brave person is master of his passions (μόνος γαρ ό σοφός και ανδρείος έστιν
+των παθών κύριος). (4 Mace 7:21-22)
+4 Maccabees neither uses the metaphor of parental discipline to account
+for adversity nor does it suggest that God is the ultimate source of such
+testing. On the contrary, it is not God but an evil tyrant that is the agent
+of adversity, and suffering becomes the occasion for Eleazar and his sons
+to exhibit the control of their passions—both pain and pleasure—through
+reason (4 Mace 6:31-35). They best their torturers through superior rea­
+son, here understood as reason founded upon the Torah. 46 There is indeed
+a prize, but it is a prize intrinsically related to endurance itself:
+For we, though our suffering and endurance (της κακοπαθείας και υπομονής), shall
+obtain the prizes of virtue and we shall be with God, on whose account we also suffer
+(δι' ov και πάσχομεν). (4 Mace 9:8)
+DeSilva points out that the author "shares with both Roman and Helle­
+nistic Jewish authors the conviction that the removal of death's sting is a
+prerequisite to absolute commitment to virtue," 47 citing Seneca:
+The man who, relying on reason, marches through mortal vicissitudes with the spirit
+of a god, has no vulnerable spot where he can receive an injury—do you think I
+mean only from man? No, not even fortune, who, whenever she has encountered
+virtue, has always left the field outmatched. If that supreme event beyond which
+outraged laws and the most cruel masters have nothing with which to threaten us,
+and in which fortune uses up all her power, is met with a calm and unruffled mind,
+and if we understand that death is not an evil and therefore not an injury either
+(scimus mortem malum non esse, ob hoc ne tniuriam quidem), we shall much more eas­
+ily bear all other things (multo facthus aha tolerabimus)—losses and pains, disgrace,
+48
+changes of abode, bereavements and separations [De constantia 8 3)
+As in De constantia, so also in 4 Maccabees, reason is what allows the sage
+to dominate the passions and to exhibit self-control in the midst of suf­
+fering. For Seneca the cognitive component of endurance is the recogni­
+tion that death and suffering are αδιάφορα; for 4 Maccabees reason
+founded on the recognition of the divine origin and sanction of the Torah
+allows the rational person to master the passions and to shun suffering
+and death. 49 Accordingly, Eleazar repels the persecutor s attack on his loy­
+alty to the Law by means of reason, controlling his passions and acting in
+accordance with the Law. 50
+The argument in Jas 1:2-4 takes us beyond the apocalyptic trope of the
+eschatological necessity of suffering and even beyond 4 Maccabees' model
+of a passive endurance that is able through reason to resist and dominate
+the passions. 51 James 1:2-4 indeed elevates passive endurance but argues
+that it is not merely an expression of self-control informed by reason, but
+that it is ûso productive of virtue or, as he calls it, perfection and wholeness.
+The notion that endurance is productive of virtue appears in a seminal
+form in the Testament of Joseph, where the πειρασμοί in question are
+sexual:
+In ten testings (πειρασμοις) he showed that I was approved (δόκιμον), and in all of
+these I was patient; for patience is a great medicine (δτι μέγα φάρμακόν έστιν ή
+52
+μακροθυμία) and endurance (υπομονή) produces many good things. {T. Jos. 2.7)
+It is in Seneca, however, that the strongest connection between enduring
+hardship and the production of virtue is articulated. Disaster, he asserts, is
+virtue's opportunity {DeProvidentia 4.6: calamitas virtutis occasio est.). The
+sage should rejoice in hardship (4.4). It is the enduring of hardship that
+shows forth the virtuous man as virtuous. Moreover, the enduring of
+adversity gradually makes one the equal oí fortuna. Adducing the example
+of the severe treatment of Spartan children, Seneca argues:
+Why, then, is it strange if God tries noble spirits with severity. If we are lashed and
+torn by fortune, let us bear it; it is not cruelty but a struggle, and the more often we
+engage in it the stronger we shall be (<quo> saepius adierimus, fortiores erimus). The
+staunchest member of the body is the one that is kept in constant use We should
+offer ourselves to Fortune in order that, struggling with her, we may be hardened by
+her {ut contra tllam ab ipsa duremur) Gradually she will make us a match for her
+(paulatim nos sibi pares faciei) {De Providentia 4 12)
+James likewise treats adversity (πειρασμοί) as the occasion for moral prog­
+ress. Later in the letter he invokes the example of Job (5:11), renowned
+for his υπομονή, as an example of response to affliction (κακοπαθεία).
+Here, James draws on post-biblical developments in the Job tradition and
+indeed on a more general philosophical tendency to value endurance as a
+positive and independent virtue. In the LXX of Job, the ύπομεν- root only
+means 'wait', 'abide', or 'hope'. In the Testament of Job·, however, υπομονή
+has come to refer, as it does in 4 Maccabees, to the enduring of suffering
+and even degradation.
+The association of virtue with endurance is not, of course, exclusively
+Stoic. Endurance or perseverance, originally a military virtue, 53 was in
+later philosophical discourse demilitarized and connected both with moral
+struggle and with knowledge of what is good. 54 It is the mark of virtue to
+endure misfortune with patience. 55 Nevertheless for Aristotle endurance
+as a virtue was inferior to self-restraint, the latter being active and requir­
+ing mastery, while the former required only passive resistance. 56
+The connection between endurance and knowledge nevertheless remained
+strong. According to Aristotle υπομονή is always subservient to φρονησις
+and is evaluated in light of its relationship to knowledge of what is good:
+"The courageous man then is he that endures (υπομένων) or fears the
+right things and for the right purpose (α δει και ου ένεκα) and in the
+right manner and at the right time (ως δει καί δτε), and who shows confi­
+57
+dence in a similar way" {Eth. Nie. 3.7.5 1115b). This connection is pre­
+served by Chrysippus, who emphasized the cognitive component in
+endurance, as "the knowledge of what is bearable and not bearable
+(έπιστήμην έμμενετέων και ουκ έμμενετέων)." 58 In the first century, Muso-
+nius Rufus treated endurance under suffering no longer as a secondary
+and subservient virtue, but as essential element in the training for both
+body and soul.
+Now there are two kinds of training (άσκησις), one which is appropriate for the soul
+alone, and the other that is common to both soul and body. We use the training
+common to both when we discipline ourselves to cold, heat, thirst, hunger, meager
+rations, hard beds, avoidance of pleasures, and endurance under suffering. For by
+these things and others like them the body is strengthened and becomes capable of
+enduring hardship, sturdy and ready for any task; the soul too is strengthened, since it
+is trained through endurance under hardship for courage, and for self-control by abstinence
+from pleasures (γυμναζομένη δια μεν της υπομονής των επίπονων προς άνδρείαν,
+δια δε της αποχής των ηδέων προς σωφροσύνην). (Musonius Rufus, Diss. 6) 5 9
+James's emphasis on the cognitive component of endurance (v. 3: γινώσκοντες
+οτι) is thus in accord with philosophical discourse since Aristotle, and his
+privileging of endurance as a central virtue is consistent with the empha­
+sis upon endurance in later Hellenistic moral philosophy, not merely as
+the passive and weaker counterpart to courage or self-control, but as a vir­
+tue which actively trains the soul in virtue. The elevation of υπομονή is
+especially prominent in Philo, 60 who is in fact responsible for twenty-six
+of the forty-five occurrences of υπομονή in philosophical literature prior
+to the second century CE. For Philo endurance is the "mightiest of the vir­
+tues" {Cher. 78-79).
+James claims in 1:4 that the approval of one s faith produces υπομονή
+which, when allowed to have its effect, makes one τέλειος και ολόκληρος
+(1:4). This is a dramatic claim indeed, especially in light of the final
+phrase έν μηδενί λειπόμενοι. Since the next sentence conceives of what is
+lacking as wisdom, 1:4 suggests that the cultivation of endurance, if left
+to have its full effect, should result in the perfection of wisdom. 61 This
+claim is not in conflict with the later statement in 1:12 that those who
+endure will receive the crown of life, a statement which is the counterpart
+to Q's οτι ό μισθός υμών πολύς εν τω ούρανφ. 4 Mace 4:11-17 also repre­
+sents Eleazar, who had already achieved mastery over his passions, being
+awarded το νικος αφθαρσία εν ζωη πολυχρονίω at his death. 62
+That James can represent the exercise of endurance as the route to per­
+fection makes perhaps the best sense on the theory that the virtues are
+indivisible, such that to have one is to have all. The converse of this the­
+ory is expressed in the Testament ofAsher 2.2-8 where the author imagines
+a person who steals and swears falsely, but pities the poor. His conclusion
+is unequivocal: όλον δε πονηρόν έστι (2.5). This is both because of the
+unity of the virtues and vices and because human intentionality is indivis­
+ible. James himself takes the same view in 2:10: to break one command­
+ment is to break all. The logic appears to be based on the well-known Stoic
+maxim, qui unum autem habet vitium y omnia habet (Seneca, Ben. 5.15) 63
+and on their argument that the virtues are indivisible. 64
+Finally, James's development of Q 6:22-23 in 1:12-15 first restates the
+conclusion that endurance is rewarded and then moves to an argument e
+contrario. James argues two propositions: first, that God is not the author
+of temptation; on the contrary, temptations arise from desire; and second,
+that just as the enduring of testing leads through approval to perfection
+and the 'crown of life', giving way to επιθυμία inevitably gives birth to sin
+and death.
+The claim that God is not the author of temptation is striking, since it
+so obviously conflicts with a string of assertions in Judaean literature to
+the opposite effect. Although James cites Job as an example of endurance
+under suffering, he dramatically parts company with the Job tradition,
+which attributes the ultimate agency in evil to God. 6 5 As Dibelius
+observed, later wisdom literature sometimes took issue with the attribu­
+tion to temptation to God, probably under the influence of Hellenistic
+philosophy. Sirach advises: "Do not say that I have left the right way
+because of God; for what he hates he will not do. Do not say that he
+caused me to go astray; for he has no need of a sinful man" (Sir 15:11-
+12). 66 The strongest statements, however, are found in such authors as
+Philo, who in Fug. 79 argues, εν ήμίν γαρ αύτοίς, ως εφην, οι των κακών
+είσι θησαυροί, παρά θεω δε οί μόνων αγαθών, "the treasuries of evils, as
+I have said, are in ourselves; with God there are good things only." 67
+The pedigree of this argument should probably be traced to Plato, who
+argued against the proposition that god had agency in evil (Resp. 33 5 D,
+379C-380C; Tim. 29E-30A). 68 Later Stoic discussion began from this
+Socratic premise and then argued that suffering, poverty, illness and even
+death were not evils at all, but αδιάφορα, indifférents. The essence of vir-
+tue was to pursue only the proper ends—prudence, moderation, courage,
+and justice. Illness, poverty, and death are only regarded as evils by those
+who misperceive their opposites as proper ends and then, quite naturally,
+fall prey to them in the ordinary course of events. 69 Thus, Seneca rejects
+the idea that god is the cause of evil: "nature never permits good to be
+injured by good; between good men and gods there exists a friendship
+brought about by virtue" (DeProvidentia 1.5). 70 What appear to be evils
+are αδιάφορα and therefore not evils at all to the sage. What counts is not
+that one suffers, but how one suffers: non quid sed quaemadmodum feras
+interest (De Providentia 2.4). 71
+When one considers the argument advanced in James 1:2-4 it is impor­
+tant to note that like the Stoic argument, James asserts that πειρασμοί
+should not be regarded as evils but as the occasions for moral progress.
+They are not to be avoided but rather embraced. Whether this is specifi­
+cally or distinctively Stoic, it is at least compatible with Stoic ethical teaching.
+I have already indicated the strong convergence between James and
+Philo on blaming έπιθυμίαι for the corruption of the soul. 72 Philo's expo­
+sition of the Decalogue s ουκ επιθυμήσεις in De specialibus legibus identi­
+fies επιθυμία as the chief culprit in the battle for the soul:
+Every passion is blameworthy, since every inordinate and 'excessive impulse'
+(πλεονάζουσα ορμή) and 'irrational and unnatural movements of the soul' (της
+ψυχής ή άλογος και παρά φύσιν κίνησις) is under accusation. For each of these is
+nothing other than the completion of a long-standing passion. So if a man does not
+set limits to his impulses and bridle them like horses which defy the reins (μηδέ
+χαλινον ώσπερ τοις άφηνιασταΐς ϊπποις έντίθησι), he has a passion that is difficult
+to cure, and because of that defiance, he will be carried off and forget like a driver
+borne by his team into ravines or impassible abysses from which it is hardly possible
+to escape. But none of the passions is so troublesome as desire for the things he lacks
+(επιθυμία των απόντων), things that seem good, though in truth they are not. Desire
+breeds (έντίκτουσα) fierce and endless yearnings; for it tortures and drives the soul as
+far as possible into the distance; while what he pursues flees insolently, it has its face
+to him, not its back. For when it perceives desire eagerly racing after it, it stands still
+for a while in order to lure it (υπέρ του δελεάσαι) and to offer the hope of capturing
+it, but then it takes off, mocking and railing as the distance increases. Desire, outdis­
+tanced and losing ground, is in distress and inflicts on the wretched soul the punish­
+ment of Tantalus. The story has it that when he would get him something to drink
+could not because the water slipped away. And when he wished to pluck fruit, it all
+73
+vanished, since the productivity of the trees became barren. {Spec. 4.79-81)
+Philo s definition of passion as ή άλογος και παρά φύσιν ψυχής κίνησις, ή
+ορμή πλεονάζουσα is Stoic, 74 though his image of taming an unruly horse
+is an obvious allusion to the Phaedrus (253D-254E). 75
+As Walter Wilson has argued, the argument in Jas 1:12-15 "highlights
+how the human choice, made one way or the other, sets in motion a chain
+of events that determines one s final destiny.... The decision that con­
+fronts the human self in its experience of evil, then, is presented as a deci­
+sion between endurance and desire." 76 Wilson is keen to distinguish
+James s anthropology from that of Philo, for whom the soul is divided
+into the rational and irrational parts. 77 James's rational ethic may in fact
+come much closer to Stoic psychology, according to which the self is not
+directly subject to irrational passions; instead, "reason intervenes as the
+craftsman of impulse" (τεχνίτης γαρ ούτος [λόγος] έπιγίνεται της ορμής;
+Diogenes Laertius 7.86). 78 James's declaration that the one who wavers is
+unstable 'in all his ways' reflects the conviction of Stoic ethics, that the
+virtues are indivisible and intent the same end. 79 Consequently for James,
+indecision in one moral realm constitutes the entire person as 'unstable'
+and, correspondingly, violation of one prescription of the Torah consti­
+tutes a violation of all.
+I want to make clear that I am not arguing that the letter of James knew
+Plato, Zeno, Arius Didymus or Seneca, or that he knows 4 Maccabees or
+Philo. I would not exclude these possibilities entirely, and indeed as con­
+servative an exegete as J.B. Mayor, after citing a substantial number of
+Stoic parallels to James, allowed that James may have had Stoic sources
+such as Posidonius. 80 The key point of this essay is that in paraphrasing,
+parsing, and re-presenting sayings of Jesus, the author of the letter reveals
+an array of interests in psychagogy and the care of the soul which we
+know also to have characterized various strains of Hellenistic philosophy
+of the early Roman period. This had a demonstrable effect on such works
+of Hellenistic Judaism as 4 Maccabees, the Testaments of the Twelve Patri-
+arch, and Philo, and, as I have urged, James. In inflecting the Jesus tradi­
+tion, the author of James displays a remarkable interest, not in such
+concrete ends as subsistence, debt relief, and the rewards for withstanding
+persecution, but rather in the psychic processes that occur between stimu­
+lus and decision and in the role that proper cognition plays in construct­
+ing the subject as τέλειος.
+This array of interests in psychagogy permits us to suggest a social loca­
+tion of James within those circles of educated or semi-educated Judaeans,
+probably urban, who understood the Torah to be consistent with the best
+of Greek philosophy, and indeed urged that the ideals of popularized
+Platonism and Stoicism could best be met by adhering to the Torah, con­
+ceived as the "law of perfect freedom" and the "implanted logos" 81

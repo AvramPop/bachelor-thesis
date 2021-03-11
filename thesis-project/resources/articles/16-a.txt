@@ -1,0 +1,362 @@
+Throughout the centuries Jews and Christians have produced commentar-
+ies on their holy scriptures. The history of commentary writing is long,
+and a look into it confronts the student with several genres, usages and
+spiritual contexts that have determined the production of commentaries
+and their use. That history will not be taken into consideration here, 2
+although it is a presupposition for the fact that some of us still put our-
+selves to writing such books, and, of course, for publishers to invest money
+in publishing them.
+But what is a commentary? 3 The title of this paper seems to presuppose
+that we know the answer. If, however, we look up the word in Webster's
+dictionary, we find that it defines a commentary as, among other things, "a
+series of explanatory notes or annotations." Nothing is said about any
+exposition of a text or interpretation of it, as we would expect and as some-
+times an editor of a commentary series may delineate the purpose of the
+series in question. 4
+Actually, however, the definition in Webster's dictionary corresponds to
+what a commentary was like in antiquity: notes or memoranda, for exam-
+ple such as for a lecture, or from a lecture (as taken down by students), or
+to a text, often without any systematic order. Thus, when Origen wrote
+commentaries, they were precisely such notes to biblical books. Commen-
+taries belonged to the lecture hall or lay on the lecturers desk. But if we
+look for a running interpretation by Origen of a biblical text, it is to his
+homilies that we are referred.
+The preceding paragraph mentioned the "interpretation... of a biblical
+text." When, however, Origen s commentaries and homilies deal with nar-
+ratives, they raise a question that can be put to several commentators,
+namely: do you comment on a text or on an event? Origen represents a
+common way of reading in that he identifies the contents of a narrative
+with an historical event, and it is this event that he discusses in his com-
+mentaries and homilies. But along with text linguists and narratologists it
+is useful to make a distinction between three worlds: the narrative world,
+the world of narration and the historical world. 5 Thus, for example, in
+their narratives about Jesus' entry into Jerusalem, Matthew and Luke each
+presents a narrative world. (Narratologists may label it the diegetic level.)
+The world of narration, on the other hand, is the one in which this narra-
+tive is delivered by the narrator and received by the audience. (Narratolo-
+gists sometimes call it the extra-diegetic level.) In that world Matthew
+turns to his audience and Luke to his. The historical world, finally, is the
+one in which the historical Jesus appeared around 30 C.E. in Palestine. In
+consideration of these distinctions the following discussion will pertain to
+commenting on texts, and this is true also when we turn to commentaries
+on narratives.
+In what follows a simple model of human communication will provide
+us with a number of concepts by which to analyze how a commentary
+functions as a piece of communication: 6
+In a given Situation and with a certain Purpose a Sender communicates
+a Message through a Text to a Recipient.
+Let us apply this model to the passage in 1 Corinthians 1 where Paul
+begins to argue against the Corinthian dissension. The Sender is of course
+Paul, and the Recipients are the Corinthian Christian community. The
+Situation that determines the Text is the dissensions of the addressee. Pauls
+Message has primarily to do with his Purpose with regard to the Situation,
+namely to suppress the dissensions and to provide an argument for why
+they must do so. In his argument Paul also asks a couple of rhetorical ques-
+tions, "Was Paul crucified for you?"; "Were you baptized into the name of
+Paul?" (1 Cor 1:13). These queries reflect aspects of Pauls views on Christ,
+on the importance of his, and on baptism, but they primarily function as
+elements of his argument for a message with a precise purpose in a very
+precise situation.
+When exegetes interpret Pauls text they produce a text on Pauls text,
+and the result is a second communication that can be described in this way:
+Through a Text 2 a Sendee/the Interpreter, in a Situation 2 and with a Pur-
+pose 2 interprets a Text to a Recipient 2 as containing the Message of the
+Sender 1 with a certain Purpose 1 to Recipient 1 , who is in a given Situation 1 .
+Applied to a New Testament professor who gives a class on 1 Corinthians,
+we get the following: through a Text 2 , that is, his/her comments, a Sender 2 ,
+that is, the teacher in question, in a Situation 2 , that is, in the class, inter-
+prets Pauls Text to Recipients 2 , that is, the students, as being Paul s Mes-
+sage to the Corinthians, with the Purpose to eliminate the dissensions. The
+teacher does this with the Purpose to teach the students a bit of Pauline
+exegesis.
+Above reference was made to Webster's definition of "commentary,"
+which actually corresponds to what commentaries were like in antiquity.
+As a matter of fact modern N T exegetes are well acquainted with a com-
+mentary that meets this definition, and that, accordingly, is something else
+than a text-interpreting commentary of the kind presupposed in the model
+of interpretation above. The work in question is of course P. Billerbecks
+Kommentar zum Neuen Testamentaus Talmud und Midrasch.
+Billerbecks quotations of and references to rabbinic passages are sup-
+posed to shed light on the N T texts. 7 But what does this material tell a
+present day reader about the diegetic world that, say, Mark presented to
+his readers? Very little, unless one presupposes that the narrative world of
+Mark is identical with the historical world from which Billerbecks mate-
+rial is taken and which is also supposed to be similar to that of the histori-
+cal Jesus.
+We now turn to commentaries in the sense of the word we are used
+to, and, as already indicated, the model of interpretation will thereby serve
+as an analytic instrument. However, to mention "interpretation" means
+approaching a field full of philosophical and hermeneutical mines. Already
+words like "understand" and "interpret" are slippery and capable of several
+meanings. The following discussion will largely keep away from herme-
+neutics, but nevertheless a few words must be spent on "interpretation."
+Following on the previous discussion, interpretation, broadly defined, is
+the use of other, clarifying words to express the same contents as the text
+interpreted. But, in addition, the word interpretation will also be used in
+another, stronger sense and will stand for not just a clarifying, but a deep-
+ening of the contents of the text interpreted. This comes close to what is
+normally called interpretation, not least when biblical texts are concerned. 8.
+Representing the matter in this way presupposes that the biblical texts
+do not just mean anything whatever you like. To return to the communi-
+cation model: through a text somebody, say, Paul, tells somebody, say, the
+Corinthians, something in a certain situation with a certain purpose. The
+present writer is of the opinion that it is possible for a commentator of this
+text to catch fairly well what Paul seems to have told his readers. This is
+true also of Mark as well as of Ben Sira and Epictetus. They are ambiguous
+only to a certain degree.
+Two remarks should be added: first, the approach here adopted means
+focusing on what the addressees got out of the text. Secondly, the present
+writer is not so conceited as to believe that his interpretations are decisive
+answers to the question of what a text, say, by Mark, told its audience. It
+must also be underlined that the interpretations can become more varied
+when it comes to an interpretation in the stronger sense: when the inter-
+preter tries to expand on an underlying basic ideology or on ideological
+implications, for instance, of the text; still, only the first communication is
+in view. So a present day interpreter may interpret Mark in a class, and not
+only try to clarify what Mark told his readers, but also attempt to translate
+this message, performing, say, some kind of demythologizing. The teacher
+is still clarifying Marks message to his first century recipients, but wants
+the students to see what was at stake on a deeper level. The ideas of the text
+are not simply objects on a shelf in a museum of ideas but are humanly
+interesting, we may even dare to say, existentially interesting.
+So far for interpretation. When we now go on to discuss what a com-
+mentator does when commenting a text, the model of interpretation will,
+as stated, determine the course of the discussion. For the sake of clarity
+the deliberations will be illustrated by examples from the New Testament,
+mostly from the Gospel of Mark. 9
+Thus, in a certain Situation Mark tells somebody something with a cer-
+tain Purpose and does so through his Text. A certain commentator can be
+interested in different elements ofthat model, e.g., in the Situation, that is,
+in a given situation in the history of the early church. Another commenta-
+tor may concentrate on the author, asking, e.g., how Mark thought, what
+were his biases, etc.
+So a commentary is a Text 2 on Text 1 , and this Text 2 is written with a
+certain Purpose with regard to a Recipient 2 , that is, to the readers of the
+commentary. Thus one question to be asked when writing a commentary
+or studying one is: which Recipients does the writer of a commentary
+have in view? Pious Bible readers? Students of divinity? The guild of schol-
+arly exegetes? A writer may not necessarily choose only one group of
+addressees, but the choice has consequences for where the accents of the
+commentary are put. Thus, if a commentary's principal recipients are sup-
+posed to be students of divinity, some energy might be spent on demon-
+strating how a literary analysis of the texts leads to exegetical consequences,
+and it also becomes important to show how the cultural background of
+Recipents 1 colors the communication between the biblical author and his
+first addressees.
+Most commentators discuss how scholarly colleagues have dealt with
+the different exegetical problems raised by the individual pericopes. This
+has also to do with the issue of the audience. When a commentary richly
+refers to how exegetes have dealt with a given text, this may certainly be
+of use to students of exegesis and can teach them how others have inter-
+preted a given text. Referring to the scholarly discussion of course also
+means giving credit to the colleagues for their work. 10 But for the task of
+interpretation these references mean little, and the Bible-interested lay
+people do not bother about what Pesch or Gnilka has said concerning this
+or thatpericope. 11
+Thus the commentator tells somebody something about a given Text.
+However, this Text is not, so to speak, just a naked text, but the commen-
+tator's reading of it is determined by the fact that precisely he or she is the
+one who reads it. This means focusing on the Sender of Text 2 . The writer
+in question does not only apply certain methods, such as some kind of
+reader-response criticism, but she or he is also a person of a certain charac-
+ter, being rooted in a specific scholarly and/or religious tradition, having
+particular experiences and prejudices, of which he or she is conscious only
+of some. Is the exegete who produces the commentary a rationalist, a
+somewhat refractory churchman, or something else entirely? The answers
+to such questions are not without their interest to the readers of the com-
+mentaries and can determine and indeed be most helpful in their reading.
+When we now continue our discussion of how the factors of the inter­
+pretation model are taken into account by a commentator, we will use as
+an exemplary text the story of Jesus' baptism according to Mark 1:9-11.
+What Mark says is communicated in an interplay between the factors
+involved according to the communication model. A basic factor is of course
+Mark's medium, the Text. In our case there are no serious problems in the
+manuscript tradition or any linguistic difficulties that require a discussion,
+and they can thus be left aside. Most commentators are not philologists
+and avoid tackling complicated linguistic issues. All too often they do, how­
+ever, not think of using the help one can get from the older Church fathers;
+after all, the New Testament texts are written in their cultural environment
+in their language. Origen, for example, was much better in Greek than we
+are, how ever much we look things up in grammars and dictionaries. 12
+As a text the passage under study has a particular compositional struc­
+ture. In Mark 1:9-11 the baptism is very briefly mentioned and is imme­
+diately followed by a vision: Jesus "sees" the heaven opened and the Spirit
+descending on him like a dove and a voice is saying, "You are my beloved
+son, with you I am well pleased." This structure implies that the kernel of
+the story is the vision with the heavenly words. Most readers need this
+information—the scholarly exegete, when reading it, realizes that the col­
+league knows how to handle narrative structure.
+One further aspect of this textual surface is that the statement on the
+Son has a meaningful place in the larger composition of the evangelist. The
+Son is first mentioned in the headline of the book that in a few traditional
+terms informs the reader about the main character of the following pages,
+Jesus, the anointed, the Son of God. 1 3 Then there are a few signposts along
+the way: via our passage, and the narrative on the transfiguration (9:2-8)
+on to the comment of the centurion after Jesus' death (15:39).
+A particular way of focusing on the Text is to investigate its history of
+tradition or its redaction history. In a study of Mark this means asking
+how Mark has treated motifs or textual traditions that he has taken over.
+To some commentators this is so important that the question of what
+Mark's readers might have learned from the text plays next to no role. In
+this kind of approach the Text is analyzed in such a way that its function
+within communicative acts between a Sender and his Recipients is largely
+neglected. On the other hand, to a commentator who is mainly interested
+in the Text as involved in an act of communication the history of tradition
+and the redaction history are not as important issues. This is so, even if, in
+our case, there are reasons to assume that the wording of the heavenly voice
+is influenced by early Christian usage of the Bible (i.e., the graphai, or
+scriptures of Israel) in Christological reflection. 14 However, redaction his-
+tory can shed some light on certain features of the Situation of the Markan
+communication, and so we will return to that topic when we consider the
+element of the communication model that was labeled the Situation, in
+which and with regard to which Mark's communication took place.
+A concentration on the communication between Author/Sender and
+Recipients also may mean refraining from trying to look into the head of
+the author, in our case of Mark. It is common for the writers of commen-
+taries to regard it their principal task to find out the personal theological
+tendencies of the biblical author, and to do so through analyzing how, in
+our case, Mark has supposedly revised and edited the traditions he takes
+over. It can happen that commentators are so interested in the author's
+personal bias that they leave aside the present shape of the text, the actual
+means of the author's communication with his readers. He is studied as a
+theologian of the early church, and what he is actually doing to his addressees
+in a given piece of text becomes less interesting. 15
+There are other ways to reconstruct a Markan theology, namely by
+means of the text as it stands. Indeed, you assume that Mark meant what
+he said. Then you systematize certain aspects of the messages that Mark
+conveys to his readers in the individual pericopes as understood within the
+whole of the gospel. In that way you may, for example, delineate a Markan
+view on the person of Jesus or on what Christian ethics could be like. 16
+The next element to consider in the model is the Readers/Recipients
+of the communication of the biblical author. Their cultural and religious
+backgrounds form decisive presuppositions of how they apprehend what
+they hear. So a commentator should inform his/her readers of how he/she
+imagines these readers. In Marks case, assuming that they are Gentile
+Christians is not very original, but seems clearly to be the case. 17 Mark also
+seems to presuppose that they have received some Christian education,
+and that it is meaningful to quote passages from the Old Testament to
+them, indeed to allude to such passages (already in 1:2f.). Such presupposi-
+tions are especially significant when the heavenly voice in the baptism text
+(1:11) contains an echo of Psalm 2. It might very well be that they could
+have caught some of these echoes only after having been instructed in the
+Christian community. There were presumably differences within the audi-
+ence when it came to how deep their orientation was in terms of the scrip-
+tures, theology, etc., but the author assumes some such general knowledge.
+This brings us to the factor of the model that was labeled the Situation.
+Here the commentator has to give his/her reader some insights into the
+world in which the communication took place. In our case this is the Situ-
+ation of the Recipients of Mark. There were things that were self-evident
+to Mark and to his readers but about which the reader of today knows
+little or nothing. Nonetheless they form as it were a sounding-board under
+the music played by Mark in his text.
+In addition, there is what we could call the specific Situation, that is,
+features that belonged to the concrete experience of the Christian addressees
+of Mark, such as the shadow cast over their existence by persecutions in the
+past and maybe more to come (cp. Mark 13:11-13). Above it was also
+mentioned that sometimes redaction critical analyses might give indications
+about particular features of the specific Situation of a communication.
+Of course it is all the more important that a commentator takes into
+account the specific situation of the N T letters to individual communities
+with particular problems. It is, for example, of decisive importance to the
+one who wants to shed light on what Paul was saying to the Romans in
+Rom 6:1-14 that what seems to be a teaching about baptism is primarily
+an argument in a situation where Pauls theology of justification is under
+attack for leading to immorality. 18
+Considering the general Situation, we have seen that the words of the
+heavenly voice, "You are my son," are the kernel of Mark 1:9-11. Which
+associations would Gentile Christians get from such a designation? Some
+commentators find references to Israelite history of religion relevant and
+cite myths and rituals belonging to the sphere of divine kingship in the
+Ancient Near East. 19 But what do they say about the conditions of the
+understanding by Marks readers? More likely it should have meant some­
+thing to them that in the Roman empire one also knew to speak of sons of
+the gods; there were such sons among gods, heroes, rulers, philosophers,
+and miracle workers.
+Here a commentator has to make a choice, although maybe she or he
+does not always make it consciously. Often the commentators refer to
+OT passages to shed light on the Markan passage, 20 or may make an excur­
+sion into early Judaism, say to Philo or to the Qumran texts, 21 or into
+Hellenistic history of religion. 22 In practice the commentator may follow
+the ancient commentary genre, i.e., collect scattered notes to a text which
+serve other purposes than the interpretation of Marks message in this text.
+Finally, to the Situation that determined the readers' reception of the
+textual communication also belongs the way the text was used. As this
+colors the reception of the Message, a commentator asking what a passage
+told its readers should have an opinion of how the biblical text has func­
+tioned among the readers. 23 As to the Gospel of Mark, the present writer
+is not alone in his belief that the gospel of Mark functioned in the Chris­
+tian community, in education and in readings at the common worship. 24
+This means a particular filter for the readers/listeners understanding of the
+message of our Markan passage. Readings carried out at an occasion of
+worship are open to other semantic dimensions than the merely objective-
+descriptive ones. In such a context one encounters Marks citation of the
+words of the heavenly voice with particular key signatures. There is more
+of chiaroscuro in the scene than, say, in the one where Herod's daughter
+says: "Give me the head of John the Baptist on a platter" (Mark 6:25).
+Regarding the gospel in this manner has consequences in terms of how
+to view its Purpose—to mention a further factor of the communication
+model. The purpose then is more to edify than mainly to inform.
+Insofar as a commentator should interpret the text, we now, at last, arrive
+at the message Mark conveys to his readers. Colleagues who have discussed
+what a commentary is have declared that it should elucidate the message
+or the meaning of the text for the readers of the commentary. 25 There are,
+however, many possible ways of understanding such a statement, depend-
+ing on which interpreter says what to whom in which situation with which
+purpose. Picking up the somewhat formulaic terms of the interpretation/
+communication model, we might differentiate between at least the follow-
+ing typical cases. (Message 1 is the Message of Sender 1 to Recipients 1 ; Mes-
+sage 2 is the message the Interpreter takes to be the Message of the Text or
+of Sender 1 to Recipients 2 ; by "rephrasing interpretation" I mean the sim-
+pler, non-deepening interpretation I mentioned when defining "interpre-
+tation" above.)
+1. The Interpreter/Sender 2 provides Recipients 2 with a rephrasing inter-
+pretation of Message 1 to Recipients 1 .
+2. The same as 1 above, but presupposing that Message 1 is also the Mes-
+sage 2 to Recipients 2 .
+3. The same as 1 above but in addition also interpreting Message 1 in a
+deeper or more wide embracing way; still, however, the focus is on
+Message 1 to Recipients 1 .
+4. The same as 3 above, but adding a Message 2 which applies Message 1
+to Recipients 2 .
+These cases look different in practice, depending on the variables of the
+model. Thus, which is the task of the Interpreter (more or less academic?,
+more or less pastoral?), which is the Situation of the Interpretation (aca-
+demic?, pastoral?), who are its Recipients (scholars?, students?, pastors?,
+Bible-reading lay-people?), and which is the Purpose (academic training?,
+Bible study?, preaching?). It is important also to note that some of the pos-
+sible cases presuppose a particular ideological position, namely that the
+interpretation given suggests that it represents God s message to Recipi-
+ents 2 . It should also be pointed out that the differentiation above certainly
+is more clear-cut than reality. One commentary may in fact represent sev-
+eral combinations of the variables. However, the distinctions may possibly
+serve as an invitation to reflection, both on the side of the interpreters and
+among the users of their commentaries, on the central questions: "What
+am I actually doing when commenting," and "What is going on in this
+commentary?" 26
+In our Markan example obviously the kernel of the message is that the
+Jesus whose work the following book is about was God s son equipped
+with the Spirit. One may be of the opinion that the commentator should
+only hand over this message to the present day reader without any further
+explanations; this may be reminiscent of case 1 above, as well as of case 2.
+Somebody may add that the designation God s son means that Jesus is act-
+ing on behalf of God. This represents a small beginning of what was called
+a deepening interpretation and comes a litde nearer to case 3. In the com-
+mentaries we thus encounter different degrees of interpretation, from a
+simple paraphrase using traditional biblical terms, on to "trans-culturations"
+of the message that require some sort of demythologization in order to
+make the then-message (Message 1 ) understandable to the reader of today.
+So we have mustered some aspects of commentaries, asking how they
+appear when regarded as pieces of communication about texts that basi-
+cally are themselves acts of communication. The above reflections have had
+a limited scope, which is due not least to the fact that hermeneutics has
+largely been left aside; this is so either hermeneutics is taken as a philo-
+sophical discussion of the usage of and the understanding of textual signs
+in general or it is understood as principles of how to interpret and possibly
+apply biblical texts in new times. This bracketing of philosophical and
+theological hermeneutics may be regarded as a religionswissenschaftliche
+attitude rather than a theological one, but even so this narrower perspec-
+tive might stimulate our ways of approaching biblical commentaries. Ask-
+ing which factors in a textual communication are a commentator s focus
+may be clarifying both to writers of commentaries and to their readers, and
+actually even invite them to pose hermeneutical questions: in which sense
+does a given approach interpret a biblical text—if at all?

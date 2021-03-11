@@ -1,0 +1,541 @@
+Five times in the undisputed letters Paul invokes God as guarantor of the
+truth of a claim with a form of the phrase θεός μάρτυς, "God is witness"
+(Rom 1:9; 2 Cor 1:23; Phil 1:8; 1 Thess 2:5, 10). 2 These sayings present a
+problem for interpretation in that their exact rhetorical force is not immedi­
+ately clear; there is more than one way in which God might be understood
+to function as a witness in these contexts. A few interpreters of Paul have
+noticed this point of ambiguity, but no one has yet given close attention to
+the Greek rhetorical tradition of divine testimony as a plausible context for
+these Pauline sayings. 3 This bibliographical anomaly provides the occasion
+for this article.
+Methodologically, I follow that school of thought that Margaret Mitch-
+ell has called historical rhetorical criticism, which is to be distinguished
+from the New Rhetoric and other synchronic forms of analysis. 4 In a vari-
+ation on Mitchell s approach, I follow Stanley Stowers in applying histori-
+cal rhetorical criticism not only to whole literary units but also to smaller
+forms. 5 My thesis is that the Pauline phrase "God is witness" is not a self-
+imprecatory oath at all, but rather a figure of speech with roots in the
+rhetoric of classical Greece and a long tradition in postclassical pagan,
+Jewish, and Christian literature. 6 In this figure of speech, God is not testi-
+fying against Paul in case Paul should default on a promise; rather God is
+testifying for Paul that Pauls character can be trusted.
+Commentators have long identified the Pauline "God is witness" sayings
+as self-imprecatory oaths after a pattern attested in the Hebrew Bible. For
+example, Ernst Käsemann comments on Rom 1:9 ("God is my witness...
+that unceasingly I remember you always in my prayers") that its literary
+form is an "oath, which occurs in 1 Sam 12:6 LXX and which is a com-
+mon formula in Paul." 7 C.K. Barrett comments on the same verse that it
+represents "an Old Testament form of asseveration." 8 Likewise, Gordon
+Fee writes about Phil 1:8 ("God is my witness that I long for you all in
+the affection of Christ Jesus") that it is a "mild oath" whose form "proba-
+bly derives from the O T practice of calling on God as witness between
+two parties." 9 Examples might be multiplied, but these are sufficient to
+illustrate a pattern of interpretation. 10 According to this pattern of inter-
+pretation, when Paul says, "God is my witness," what he means is, "May
+God testify against me if what I am saying is false."
+There is certainly precedent for such an idiom in the Hebrew Bible. 11
+Distributed across the Torah, Prophets, and Writings are a number of
+instances in which people appeal to God as a witness between or against
+parties in the striking of promissory agreements. So in Gen 31:50, Laban
+makes a pact with Jacob saying, "If you abuse my daughters, or if you
+take wives in addition to my daughters, although no one is with us, see,
+God is witness between me and you (ΤΓ21 Τ Ι " φ DVÒN)." 12 The sense of
+the statement "TJJ DTÒK, "God is witness," is determined by the condi-
+tional clause npn ONI... Πίρη DK, "If you abuse... and if you take"; that is,
+God will testify against Jacob in case Jacob should violate the agreement.
+Likewise in Jeremiah 42, in the wake of the Babylonian conquest of
+Judah, the remnant of the people ask Jeremiah what they should do,
+promising to abide by whatever word God sends: JTIQK ΐφ M2, îTlîT TP
+rwyi ρ \xbtn ττοκ mrr -[row nuw i n n
+VM *Ò DK JDNJI, "May
+YHWH be a true and faithful witness against us if we do not act according
+to all the word with which YHWH your God sends you to us" (Jer 42:5).
+The Greek translator renders the expression very closely: έστω κύριος έν
+ήμίν εις μάρτυρα δίκαιον και πιστόν, ει μη κατά πάντα τον λόγον δν αν
+άποστείλη σε κύριος προς ήμας οΰτως ποιήσομεν (Jer 49:5 LXX). Here,
+as in the oath between Laban and Jacob, God is invoked as witness against
+a party in case that party should fail to carry out a promised future course
+of action (MT TWyi *Ò ON; LXX ει μη ποιήσομεν; "if we do not do"). 1 3
+In 1 Sam 20:12 the same idiom is implied, albeit without the word "TJ?,
+"witness." There Jonathan promises David that he will inquire after his
+father Sauls attitude toward David, saying, ΠΚ npTIK Ό btnVP TÒK Π1ΓΡ
+*1N, literally "YHWH the God of Israel, that I will sound out my father."
+The Greek translator supplies the verb οίδεν, so: κύριος ό θεός Ισραήλ
+οίδεν δτι ανακρίνω τον πατέρα μου, "The Lord God of Israel knows that I
+will sound out my father" (1 Kgdms 20:12). 14 In favor of reading this as
+an ellipsis for our oath formula is the following verse, where Jonathan
+adds a self-imprecation: *ptP ¡"Dl jnJlïTO ΠΙΓΡ TWJT PD, "May YHWH do
+the same to Jonathan, and even more," in case Jonathan should fail to
+alert David to danger from Sauls hand. 1 5 Here, as in the instances cited
+above, God is named as witness to future acts to be undertaken in fulfill­
+ment of a promise. The form of the sayings is conditional: "if you mistreat
+my daughters," "if we do not do as you say," "if I do not inform you." If
+these circumstances should obtain, if one party should default on her
+promise, then God will be witness against that party that she is guilty.
+In an extension of this idiom, there are a few places at which God is
+named as witness against a party not in case of future wrongdoing but
+rather for past wrongdoing. For example, Jeremiahs letter to Babylon in
+Jer 29:1-23 includes a condemnation of two false prophets, about whose
+many crimes the oracle says, ΠΙΓΡ DRÎ "Tpl JTPIH Ό3Ν1, "I am the one who
+knows, and I am witness, says YHWH" (Jer 29:23). Either due to a tex­
+tual minus or a condensed translation, Jer 36:23 LXX lacks an equiva­
+lency for JTPin, reading simply εγώ μάρτυς φησιν κύριος, "I am witness,
+says the Lord." The force of the idiom, however, is unaffected by this dif­
+ference. God is a witness against these wrongdoers by virtue of his having
+knowledge of their crimes. This is also the sense of the prophetic oracles
+at Mie 1:2 ("Hear, all you peoples, listen, O earth and all that is in it, let
+the Lord YHWH be a witness against you [iyb DD1 ΠΙΓΡ TTN VPI; LXX
+εσται κύριος έν ύμιν εις μαρτύριον]") and Mal 3:5 ("I will draw near to
+you for judgment, I will be a swift witness [ΊΠΏΟ Ί]) ΤΡΠΙ; LXX εσομαι
+μάρτυς ταχύς] against the sorcerers, against the adulterers," etc.). With Jer
+29:23, these passages attest a form of the idiom used in oracles of judg­
+ment wherein God is spoken of as both judge and witness, both the exec­
+utor of the sentence and the one who confirms the guilt of the guilty.
+There are two possible exceptions to this otherwise consistent pattern.
+At 1 Sam 12:5, in Samuels speech ceding authority to the newly coro­
+nated Saul, Samuel insists that he has been upright in all his dealings with
+the nation. He says, HD1KD T I On*TCQ to Ό ΠΤΠ ΟΤΠ ΙΓΠΡΟ Tjn DM mm Tp,
+"YHWH is witness against you, and his anointed is witness this day, that
+you have not found anything in my hand." The Greek translator renders
+closely: μάρτυς κύριος εν ύμιν και μάρτυς χριστός αύτοΰ σήμερον εν
+ταύτη τη ήμερα δτι ούχ εύρήκατε έν χειρί μου ούθέν (1 Kgdms 12:5).
+Here God is called upon to vindicate Samuel, not to condemn him. For­
+mally, however, even here God is a witness against a party: "YHWH is
+witness against you (032; but cf. LXX εν ύμιν)." That is, Samuels vindica­
+tion consists in Gods condemning the Israelites if they should try to
+falsely accuse him. The only genuine exception, then, is Job 16:19, where
+Job protests his innocence to his friends, saying that God will vouch for
+his upright manner of ife: ΟΌΠΟΙ HHUn HJJ DOtPl mn ΠΠΡ OJt, "Even
+now, behold, my witness is in heaven; my advocate is on high." Likewise
+in Greek: και νυν ιδού έν ούρανοις ό μάρτυς μου, ό δε συνίστωρ μου έν
+ύψίστοις (Job 16:19 LXX). Here God is a witness for Job, not against
+him. 16 Everywhere else, though, God is a witness between parties by being
+a witness against either party in case it should violate the agreement. 17
+Not surprisingly, this figure of speech endures after the biblical period,
+as well. So in the Testament of Levi (ca. second century B.C.E.), the dying
+patriarch charges his sons to live according to the law of the Lord. Upon
+their promise to do so, Levi names a series of witnesses to the vow: μάρτυς
+κύριος, και μάρτυρες οι άγγελοι αύτοΰ, και μάρτυς έγώ, και μάρτυρες
+ύμεις περί του λόγου του στόματος υμών, "The Lord is witness, and his
+angels are witnesses, and I am witness, and you are witnesses concerning
+the word of your mouth" (T. Levi 19:3). 18 In keeping with the biblical
+pattern, the point of these witnesses is that they can testify against the
+oath-takers in case they fail to make good on their promise. It is clear that
+the Israelite self-imprecatory oath has a rich biblical and post-biblical his­
+tory. The question is whether, in our five passages, Paul participates in this
+history. 19
+In the epistolary opening of the Letter to the Romans, following the
+greeting, Paul begins with thanksgiving for the renowned faith of the
+20
+believers in Rome. It is in the context of this thanksgiving that he assures
+his hearers of their place in his prayers: μάρτυς γαρ μου έστιν ό θεός... ώς
+αδιαλείπτως μνείαν υμών ποιούμαι, "God is my witness... that unceas­
+ingly I remember you always in my prayers" (Rom 1:9). Paul names God
+as his μάρτυς, in this case with the simple copulative έστιν; formally, this
+is a statement of fact, not an appeal. Also, μάρτυς is modified by the first
+person possessive pronoun; God is Pauls witness. The thing to which God
+is witness is Pauls constant remembrance of the Romans in prayer. This
+relation is expressed with ώς plus an independent clause, where ώς func­
+tions essentially like δτι, introducing the fact, not (as the English "how"
+might suggest) the degree of the sentiment expressed. 21 In short, Paul
+expresses his desire to visit his hearers by informing them of the content
+of his prayers, concerning which God, who alone hears them, is the only
+qualified witness.
+The "God is witness" saying in Phil 1:8 is very much like that in Rom
+1:9. It, too, falls in the thanksgiving section of the epistolary opening and
+functions to verify the apostles goodwill toward his hearers. Paul has great
+confidence in Gods work among the Philippian believers (1:6), who are
+his co-participants in grace and whom he holds in his heart (1:7). In fact,
+Paul writes, μάρτυς γάρ μου ό θεός ώς έπιποθώ πάντας ύμας έν σπλάγχνοις
+Χρίστου Ίησοΰ, "God is my witness that I long for you all in the affection
+of Christ Jesus" (1:8). Here, as in Rom 1:9, God is named as Pauls wit­
+ness using the copulative and the possessive pronoun. Here, too, the thing
+attested is introduced by ώς expressing "that-ness." In Phil 1:8, though,
+the thing attested is not the content of a prayer but rather a particular
+emotion; God can testify that Paul feels profound affection for the believ­
+ers in Philippi. Pauls emotions, like Pauls prayers, are things that God is
+in a unique position to know; therefore God is the appropriate witness to
+the claim.
+First Thessalonians 2 contains a pair of "God is witness" sayings in
+close proximity. Following the epistolary introduction of 1:1-10, 1 Thess
+2:1-12 comprises an extended defense of the uprightness of Pauls minis­
+try in Thessalonica. 22 He comments in some detail on the various virtues
+that he practiced and vices that he shunned while he was among the Thes­
+salonians. For example, Paul says, so far from any error, uncleanness, or
+guile (2:3), he behaved like a nurse tending to her children (2:7). It is in
+this context that Paul makes a twofold denial in 2:5: Οΰτε γαρ ποτέ έν
+λόγφ κολακείας έγενήθημεν, καθώς οϊδατε, "We did not ever come in a
+word of flattery, as you know"; οΰτε έν προφάσει πλεονεξίας, θεός μάρτυς,
+"nor [did we come] in a pretext of greed, God is witness." Here καθώς
+οϊδατε, "as you know," and θεός μάρτυς, "God is witness," are parallel
+expressions. The Thessalonians can attest that Paul did not speak flatter­
+ingly, and God can attest that he harbored no secret hope of getting rich;
+the former because they heard Pauls words, and the latter because he
+knows Pauls motives.
+Again in 1 Thess 2:10 Paul writes more generally, ύμείς μάρτυρες και ό
+θεός, ώς όσίως και δικαίως και άμέμπτως ύμιν τοις πιστεύουσιν έγενήθημεν,
+"You and God are witnesses that we came to you believers in holiness and
+righteousness and blamelessness." Here God and the Thessalonians are
+co-witnesses to the same thing, namely the total uprightness of Pauls pat­
+tern of life among them. In 2:5 the designation of God as witness is syn­
+tactically independent, while in 2:10 we find the familiar ώς plus
+independent clause expressing the thing attested. In neither case does Paul
+use the first person possessive pronoun, as he does in Rom 1:9 and Phil
+1:8, and in both cases God is a co-witness along with the addressees
+themselves.
+It is fitting to discuss 2 Cor 1:23 last of all because of its formal differ­
+ences from the other four sayings. Like them, it falls near the beginning
+of the letter, although (as in 1 Thessalonians) not technically in the epis­
+tolary introduction. On the heels of the introduction proper (1:1-11),
+Paul turns to explain his decision not to visit Corinth as he had originally
+planned. "I wanted to come to you first" (1:15), he assures the Corinthi­
+ans, but the course of events has belied this intention, and the apostle s
+delinquency has apparently raised questions about his character. Is he
+guilty of έλαφρία, "vacillation," in his dealings with the Corinthians
+(1:17)? No, Paul insists, there was an honorable reason for his delay:
+φειδόμενος υμών ούκέτι ήλθον εις Κόρινθον, "in order to spare you I did
+not yet come to Corinth" (1:23). But it is not just the apostles word
+against the Corinthians' suspicions in this matter. Paul prefaces his expla­
+nation with an invocation of a divine witness: Έγώ δε μάρτυρα τον θεον
+επικαλούμαι επί την έμήν ψυχήν, "I call upon God as witness upon my
+life that" concern for the Corinthians was the reason for the delay.
+Despite the familiar "God is witness" motif, 2 Cor 1:23 differs from
+our other passages in several important respects. Only here does Paul for­
+mally invoke (επικαλούμαι) God as μάρτυς, rather than simply identify­
+ing him as such. 23 Only here is the thing witnesses to introduced by δτι
+rather than ώς. 24 As in 1 Thess 2:5, the thing attested is an intention or
+motive, something that the addressees had no way of knowing but that
+God did. Last of all, only in 2 Cor 1:23 is there a participial phrase quali­
+fying μάρτυς, namely έπί την έμήν ψυχήν, literally "upon my life." The
+translation of the preposition is a problem that bears heavily on the ques­
+tion of the meaning of the saying as a whole. Both the RSV and the
+NRSV, reading the verse as a self-imprecatory oath, translate έπί as
+"against." 25 The commentaries tend to agree. Frank Matera translates, "I
+call upon God as my witness—staking my life on this," and explains,
+"The sense is that if Paul is speaking falsely, then let God take his life." 26
+Likewise Jan Lambrecht comments, "The clause means that he is willing
+to give his life in case he is not telling the truth." 27
+The formal differences from our other four passages are significant. The
+explicit invocation and, even more so, the self-referential participial phrase
+have been reason for many interpreters to read this verse as a variation on
+the Israelite self-imprecatory oath. But even these features are not deci­
+sive. The invocation επικαλούμαι is not determinative, since it is attested
+in "God is witness" sayings that are not self-imprecatory oaths. 28 As for
+the participial phrase έπί την έμήν ψυχήν, "upon my life," it might mean
+"against my life" in the sense of "with my life at stake"; but it might
+equally well mean "concerning my life" in the sense of "concerning my
+way of life." 29 If the latter, it would be entirely in keeping with the pattern
+we have observed elsewhere, in which the apostle calls God to testify, as
+only God can, that his moral character in relation to the churches is above
+reproach. 30
+In light of these features of the Pauline "God is witness" sayings, while
+the oath interpretation has remained the dominant one, some interpreters
+have noticed that the category is not a perfect fit. Joseph Fitzmyer, in a
+note on Rom 1:9, writes, "His formulation echoes OT usage
+[but] in
+31
+this case Paul is not using a conventional formula." Likewise Earl Rich­
+ard, commenting on 1 Thess 2:5, can find no biblical precedent for the
+Pauline formula. "Paul, in a Hellenistic manner, calls on God as the only
+witness to the missionaries' interior motives." 32 But those who have
+noticed that the Pauline sayings do not fit the biblical pattern have not
+pursued the question further to identify a more fitting linguistic context
+for them. When such an inquiry is undertaken, however, it turns out that
+a fitting linguistic context presents itself.
+As is well known, the testimony of witnesses (μάρτυρες) was a prominent
+feature of the Athenian legal system in which the forms of argument that
+33
+would become hallmarks of Greco-Roman rhetoric were first developed.
+The function of the μάρτυς was to stand and speak in verification of a
+claim made by the speaker who summoned him. So in the speeches the
+calling of the witness is often prefixed by οτι ταΰτ' αληθή λέγω, "To prove
+that I am telling the truth," or the like. One example from a forensic con­
+text is Lysias 1.29, where the defendant Euphiletus claims that the man
+he killed, Eratosthenes, had admitted his guilt in the presence of Euphile­
+tus and his neighbors. In support of this claim, Euphiletus summons
+some of those who heard the confession: καί μοι άνάβητε τούτων
+μάρτυρες, "Will my witnesses to these things come forward" (29). 34 The
+words of the witnesses are not preserved in the text of Lysias; it is the fact
+of their testimony, the content of which is understood to be identical with
+the speakers claim, that matters.
+The summoning of witnesses is a standard feature not only of forensic
+but also of deliberative rhetoric. So, for example, in Demosthenes' On the
+Crown, Demosthenes levels a charge of treason at his opponent Aeschines,
+claiming that he was caught meeting with the Macedonian spy Anaxinus.
+Not content to let such a charge stand on its own, Demosthenes says, και
+οτι ταΰτ' αληθή λέγω, κάλει μοι τούτων τους μάρτυρας, "To prove that I
+am telling the truth, please call my witnesses of these things" {De Cor.
+137). 35 Here, as in Lysias, the words of the witnesses are not preserved; the
+point is that they said what Demosthenes had said, thereby verifying it.
+As this last example shows, witnesses can be and often are employed in
+settings in which the quality of a persons character is under consideration.
+Such cases are especially relevant for our purposes, since this is precisely
+the issue in all five Pauline "God is witness" sayings. A good example is
+Demosthenes, De Cor. 267-268, where Demosthenes demonstrates the
+uprightness of his public life by recounting his many liturgies on behalf
+of the city. These he substantiates not by summoning live witnesses
+(μάρτυρες) but by having the clerk read written testimonies (μαρτυρίαι).
+After the μαρτυρίαι, the text of which has not come down to us, are read
+aloud, Demosthenes concludes plainly, Έν μεν τοίνυν τοις προς την πόλιν
+τοιούτος, "Such is my character in matters pertaining to the city" {De Cor.
+268). That is, the testimonies to his particular public services bear out his
+claim to be a beneficent person.
+Greek μάρτυρες included not only live human beings and their written
+statements; the gods were thought to be as qualified, or more so, to give
+official testimony as people were. 36 The testimony of the gods often came
+in the form of oracles (μαντείαι or χρησμοί). So, for example, in Aeschines'
+Against Ctesiphon, the speech to which Demosthenes' On the Crown is a
+response, Aeschines relates a version of Demosthenes' career that amounts
+to a litany of offenses against the people of Athens and the gods. In one
+place, Aeschines charges that Demosthenes sinned against Apollo by
+accepting a bribe from the people of Amphissa, who were illegally farm­
+ing the plain of Cirra, a place that the Pythia at Delphi had said should
+lie fallow as consecrated ground. In support of this charge, Aeschines asks
+that the actual text of the oracle in question be read aloud in the
+assembly: 37 'Ότι δ' άληθη λέγω, άνάγνωθι την του θεοΰ μαντείαν, "Το
+prove that I am telling the truth, please read the oracle of the god" {In
+Ctes. 112). 38 That is, Aeschines invokes a divine testimony in oracular
+form, the authority of which is recognized by the assembly.
+The earliest major rhetorical handbook, Aristotle's Rhetoric, does not
+address the testimonies of the gods, but it does give pride of place to the
+"testimonies of the ancients." 39 Under the heading of άτεχνοι πίστεις,
+"inartistic proofs," Aristotle includes a section on μάρτυρες. These he
+groups into two classes, ancient and recent, the former being generally
+more reliable than the latter and alone qualified to speak to the moral qual­
+ity of an act: 40
+περί δε μαρτύρων, μάρτυρες είσιν διττοί, οι μεν παλαιοί οι δε πρόσφατοι, και
+τούτων οι μεν μετέχοντες του κινδύνου οι δ ' εκτός, λέγω δε παλαιούς μεν τους τε
+ποιητας και όσων άλλων γνωρίμων είσιν κρίσεις φανεραί.
+Concerning witnesses: Witnesses are of two kinds: ancient and recent; and of the lat­
+ter, some share the risk [of being brought to trial] while others do not. I call "ancient
+witnesses" the poets and any other well-known persons whose judgments are clear.
+(Aristotle, Rhet. 1.15.13)
+και οι μετέχοντες του κινδύνου, άν δόξωσι ψεύδεσθαι. οι μεν ουν τοιούτοι τούτων
+μόνον μάρτυρες είσιν, ει γέγονεν ή μη, ει εστίν ή μη, περί δε του ποιον ού
+μάρτυρες, οίον ει δίκαιον ή άδικον, εί συμφέρον ή άσύμφορον οι δ ' απωθεν περί
+τούτων πιστότεροι, πιστότατοι δ' οι παλαιοί· αδιάφθοροι γάρ.
+There are some [recent witnesses] who share the risk [of being brought to trial], if
+they should appear to perjure themselves. Such persons are only witnesses of whether
+or not something has happened, that is, whether or not something is the case; they
+are not witnesses to the quality of the act—of whether it was just or unjust, or
+whether it conferred advantage or not. O n such matters, outsiders are more credible
+witnesses, and ancient ones the most credible; for they are incorruptible. (Ibid.,
+1.15.16-17)
+Ideal ancient witnesses, Aristotle explains, are figures like Homer and Solon,
+"well-known persons whose judgments are clear." Such figures are wise
+enough in their own right and distant enough from the events of a case to
+give trustworthy judgments on the quality of acts. They are especially
+qualified to act as witnesses because they are αδιάφθοροι, "incorruptible."
+What Aristotle calls παλαιοί πάρτυρες, "ancient witnesses," the first-
+century C.E. Roman rhetorician Quintilian calls auctoritates, "authori­
+ties," and among them he expressly includes divina testimonia, "the
+41
+testimonies of the gods." Quintilian writes:
+Ponitur a quihusdam, et quidem in parte prima, deorum auctoritas, quae est ex responsis,
+ut "Socraten esse sapientissimum. " Id rarum est, non sine usu tarnen
+Quae cum
+propria causae sunt, divina testimonia vocantur, cum aliunde arcessuntur, argumenta.
+Under this head, and even as the first item, some put the authority of the gods, which
+is derived from oracles, like the one that said that Socrates was the wisest of people
+[Plato, Apol. 21 A]. This is rare, but nevertheless useful.... When these belong to the
+cause, they are called "divine testimonies"; when adduced from elsewhere, they are
+"arguments." (Quintilian, Inst. 5.11.42)
+Lest the clarity of the divina testimonia be obscured by haphazard appeals
+not only to oracles but also to augury, astrology, and other types of less
+controlled divination, Quintilian codifies the practice, which had been in
+effect at least since the time of Demosthenes, whereby divine testimony is
+officially admissible and rhetorically persuasive in the lawcourt and in the
+assembly. 42
+In light of the evidence of both the speeches and the handbooks, it is
+possible to draw a few conclusions about the divine testimony motif in
+the Greek rhetorical tradition. While it is by no means monolithic, cer-
+tain recognizable features do emerge. The speeches and the handbooks
+jointly suggest first, the prominence of witnesses generally in the Greek
+rhetorical tradition, second, their special use in establishing the good or
+bad character of a speaker, and third, the particular status accorded to
+ancient and divine testimonies in such cases. Only in the context of this
+history can we explain the continued use of divine witness language in the
+Hellenistic and Roman periods.
+Almost 400 years separate Demosthenes from Paul, the orator from the
+apostle, but many rhetorical patterns of language survived, even thrived,
+43
+from the classical into the Hellenistic and Roman periods. So it is in the
+case of the divine testimony motif. Pagan authors certainly continued to
+44
+make use of it. For example, at the beginning of Lucians Phalaris, the
+emissaries of the notorious tyrant deliver a message to the men of Delphi,
+wherein Phalaris defends what sort of person he is (όποιος είμι) against
+what he insists are slanderous rumors. 45 In this context, Lucian has
+Phalaris call Apollo as witness: καλώ δε ών έρώ τον θεον αυτόν μάρτυρα,
+"I call the god himself as witness to the things I am about to say" {PhaL
+1.1), namely, that Phalaris is not as wicked a person as he is reputed to be. 46
+By the beginning of the common era, however, the "God is witness"
+motif appears rather less frequently in pagan authors like Lysias and
+increasingly frequently in their Jewish and Christian counterparts. 47 By
+the time of Paul, it is already a Jewish literary commonplace to speak of
+God as a witness in matters relating to character, because in such matters
+only God is a qualified witness. We find the idea in the para-scriptural
+Jewish literature of the first century B.C.E. The early chapters of the Wis­
+dom of Solomon praise personified Wisdom for all her virtues. So, for
+example, Wis 1:6: "Wisdom is a kindly spirit, and will not free the blas­
+phemer from his words." This is so, the sage explains, because των νεφρών
+αύτοΰ μάρτυς ό θεός και της καρδίας αύτοΰ επίσκοπος αληθής καί της
+γλώσσης ακουστής, "God is the witness of his inmost thoughts, and the
+true overseer of his heart, and the hearer of his tongue." That is, Wisdom
+is a just judge because God is a trustworthy witness. Whether this bit was
+originally composed in Hebrew or in Greek, formally this is classic Hebraic
+parallelismus membrorum, where the three phrases are mutually interpre­
+tive. 48 For God to be the μάρτυς των νεφρών means that he is uniquely
+qualified to be a character witness, to vouch for or against the thoughts and
+intentions of the human heart. 49
+The great Jewish writers of the first century C.E. attest the motif, as
+well. In his treatise On Drunkenness, Philo explains that Moses speaks of
+wine figuratively to represent five different conditions (folly, insensibility,
+greed, cheerfulness, and nakedness), which Philo expounds in turn. In the
+section on folly, Philo considers God s command to Aaron and his sons
+not to drink wine when they enter the tabernacle, lest they die (Lev 10:9).
+The tabernacle, Philo explains, represents the idea of virtue generally, and
+the altar particular virtues. But why, Philo wonders, is the tabernacle
+sometimes called σκηνή μαρτυρίου, the tent of witness? Perhaps, he sug­
+gests, because ό άψευδής θεός αρετής έστι μάρτυς, "God who does not lie
+is the witness of virtue" {Ebr. 139). 50 The ascription μάρτυς αρετής, "wit­
+ness of virtue," which appears nowhere in the LXX with reference to God
+(or anyone else, for that matter), is nevertheless very much at home in the
+thought of Philo.
+Philo is not alone in thinking of God as the μάρτυς αρετής. In a very
+different context, at the conclusion of Against Apion, Josephus summarizes
+all that he has said to vindicate the Jews from the slanderous charges of
+their detractors. They say, among other things, that Moses was a vulgar
+person. But, Josephus counters, Moses has for his own μάρτυς αρετής,
+first of all God and also time itself: τω δέ τής αρετής πάλαι μεν ό θεός, μετ'
+εκείνον δέ μάρτυς ό χρόνος εΰρηται γεγενημένος, "Of [Moses'] virtue, from
+of old, God, and after him, time, is found to be witness" (C Αρ. 2.290). 51
+That is, God is not only the μάρτυς αρετής in general, but the witness of
+Moses' αρετή, in particular, when it is called into question.
+In addition, Josephus frequently speaks of God as witness in matters of
+good or bad character, even in the absence of the word αρετή. At A.J.
+5.113, in Josephus' retelling of the Israelite occupation of Canaan, the
+Reubenites, Gadites, and Menassites protest that the altar they have built
+is not an alternative altar from the one in the tabernacle but simply a non­
+functioning copy, a memorial identifying them with their kinfolk across
+the Jordan (cf. Josh 22:21-29). That such was their reason for building
+the altar, they say, μάρτυς... γένοιτο ό θεός άξιόχρεως, "may God be a suf­
+ficient witness" {Ant. 5.113). Josephus is unique in using the optative
+"may God be" here, but the content is very much in keeping with what
+we have seen so far. There is a moral question concerning the αίτια,
+"motive," of the three tribes in building the altar. Only God can, and in
+fact God does, attest their righteous intention in the matter.
+Again, book 1 of the War includes an account of a conspiracy by Pher-
+oras and Anitpater to poison Herod the Great. After Pheroras has died
+and Herod learns of the failed plan, the king interrogates Pheroras' widow.
+Terrified, the woman pleads for an honest hearing from the king and
+from θεός ό μάρτυς έμοί τής αληθείας πλανηθήναι μή δυνάμενος, "God
+the witness to the truth of my words who cannot be deceived {B.J.
+1.595)." God is an ideal witness because he cannot be deceived; one
+thinks here of Aristotle, Rhet. 1.15.17, where ancient witnesses are ideal
+because they are αδιάφθοροι, "incorruptible." Similarly, a bit later on in
+the same story, Antipater's last words before his execution are: θεός εστίν
+μοι του μηδέν άδικείν μάρτυς, "God is my witness that I have done no
+wrong" {B.J. 1.639).
+In one place Josephus even calls God to be his own μάρτυς αρετής,
+when his αρετή appears to be suspect. The famous scene in the War in
+which Josephus evades his part in the suicide pact at Jotapata begins with
+Josephus' prayer to God agreeing to surrender to the Romans. Since God
+has abandoned the Jews, and since he has chosen Josephus as his prophet
+to the Romans, Josephus agrees with God to go ahead and surrender to
+Nicanor. But, he adds in haste, μαρτύρομαι δέ ώς ου προδότης, άλλα σος
+ειμί διάκονος {B.J. 3.354). Thackeray translates aptly, "I take thee to wit­
+52
+ness that I go, not as a traitor, but as thy minister." While it is possible, in
+theory, for μαρτύρομαι to have a simple middle sense, "I testify concerning
+myself," in practice it almost always has the technical meaning, "I call to
+witness." 53 That is, the subject of the verb does not himself testify; rather,
+he summons someone else to do so. In Josephus' case, the verb is addressed
+to God. Josephus calls God to witness to his righteous motives in this
+(admittedly morally questionable) act. God is his μάρτυς αρετής.
+There is, however, one exception in Josephus to the pattern we have
+identified. At A.J. 1.243, where Josephus tells the story of Abraham's
+sending a servant to secure a wife for Isaac (Gen 24:1-9), he briefly
+explains the Israelite custom of swearing an oath by placing one's hand
+under the thigh of the other party. With their hands so placed, Josephus
+says, επικαλούνται τον θεον μάρτυρα των έσομένων, "they invoke God as
+witness to the things they are about to do" {A.J. 1.243). Significant for
+our purposes is that Josephus speaks of God as witness in the setting of an
+Israelite oath. But in keeping with biblical usage, and unlike the Pauline
+sayings, in this oath setting God is called as witness to future acts (των
+έσομένων) that are promised by the parties involved. This exception, then,
+tends to confirm rather than undermine the rule.
+We know, too, that this motif is still in use well after the first century
+C.E. It is attested twice in the third-century C.E. Pseudo-Clementine
+Homilies. In the second homily, Nicetas assures Clement that he and
+Aquila, although they accompanied the wicked Simon, they were not
+party to any of his evil deeds. Nicetas insists, μάρτυς ό θεός ώς ουδέν αύτω
+ημείς συνειργασάμεθα άσεβες, "God is witness that we committed no
+impiety together with him" {Ps.-Clem. 2.27). 54 The thirteenth homily con­
+sists largely of a long speech by Peter on chastity. In the conclusion to this
+speech, Peter compares adultery to murder, arguing that the former is a
+worse sin than the latter. In support of this claim he says, μάρτυς θεός,
+πολλοί φόνοι μοιχεία μία, "God is witness, many murders are like one act
+of adultery" {Ps.-Clem. 13.19). Here it is not Peters own morals, but rather
+a question of moral principle, to which God is called to testify.
+In the mid-fourth century C.E., in a very different religious milieu, the
+emperor Julian wrote a Hymn to the Mother of the Gods, an ode to the Phry­
+55
+gian Cybele who was worshiped by the Romans as Magna Mater. At the
+end of the hymn, the emperor excuses himself for breaking off the dis­
+course where he does: "What then remains for us to say? Especially since it
+was permitted me to compose this in a breath, in a short part of a night,
+having neither done prior reading nor researched the subject, nor even
+intended to speak on these matters before asking for these writing tablets.
+The goddess is witness of what I say (μάρτυς δέ ή θεός μοι του λόγου)" {Or.
+56
+5.19). Lest the reader think that Julian left off where he did for some
+irresponsible reason, he protests that he wrote the whole thing in the space of
+a night with no prior preparation. But how can the reader know this? The
+goddess, the Magna Mater, is witness to what he says.
+It is perhaps no surprise to find Julian, that great enthusiast of classical
+culture, employing this idiom of classical rhetoric. It might be less obvi­
+ous to some why the apostle Paul should do so. But when we find the
+motif in the Jewish tradition before Paul, other Jewish writers contempo­
+rary with Paul, and Christian authors after Paul, a rhetorical context
+emerges in which the Pauline sayings fit quite naturally. In this rhetorical
+context, that of the Greco-Roman divine testimonies, the speaker names
+the god as a witness on his behalf. It is therefore the god, not the speaker,
+who swears.
+In closing, it is clear first of all that, the history of interpretation notwith­
+standing, the self-imprecatory oath is a poor fit for the rhetorical context
+of the Pauline "God is witness" sayings. In all five instances, the apostle s
+time reference is past rather than future. In no case does he promise to
+fulfill some course of action; rather, he insists upon the uprightness of his
+past behavior. In no case is God a witness between parties or against a
+party; God is always a witness for the apostle. It is equally clear, however,
+that the Greek rhetorical tradition of divine testimonies, as it was received
+and adapted in Judaism of the Hellenistic and Roman periods, is a very
+plausible rhetorical context for these sayings. For Paul, as for Demos­
+thenes, Aristotle, Philo and Josephus, when the moral quality of an act or
+intention is in question, a speaker may rightly appeal to the testimony of
+God, the only truly incorruptible witness, that he is in the right. In such
+appeals, Paul is not swearing anything; rather he is inviting God to swear
+concerning him.
+To put it differently, "God is witness" is close in meaning to another
+Pauline expression that appears in similar contexts: "God knows." An
+example is 2 Cor 11:11, where Paul expresses his affection for the trouble­
+some saints in Corinth, saying, δια τί; δτι ουκ αγαπώ ύμας; ό θεός οίδεν,
+"Why? Because I do not love you? God knows [that I do]." That is,
+though some might doubt whether Paul really loves his Corinthian audi­
+tors, God knows that he does, and Gods knowing it verifies that it is so.
+Again, a bit further on in the same chapter, Paul relates a litany of per­
+sonal weaknesses in which he ironically boasts. Lest this litany sound
+somehow contrived, though, Paul prefaces it thus: ό θεός καί πατήρ του
+κυρίου Ίησοΰ οίδεν, ό ών εύλογητος είς τους αιώνας, δτι ου ψεύδομαι,
+"The God and father of the lord Jesus, who is blessed forever, knows that I
+am not lying" (2 Cor 11:31 ). 5 7
+This is not to say that Paul never takes an oath, nor that he does not
+invoke the name of God in self-imprecation. 58 Rather, what I have shown
+in this article is that, in the five places at which Paul names God as his
+witness, this is not what he is doing. Rather, Paul is participating in a rhe­
+torical tradition as old as the Athenian assembly, one that took on a parti­
+cularly monotheistic cast in the Jewish literature of the Hellenistic and
+Roman periods, and survived for centuries thereafter. For Paul, the God
+of Israel is the μάρτυς αρετής, the one uniquely qualified to vouch for one s
+character when it is in question.

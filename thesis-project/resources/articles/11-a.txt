@@ -1,0 +1,310 @@
+The word έπιορκώ, old in Greek, occurs once in the NT, at Matt 5:33. The
+general sense of the word, swear a fake oath, is clear enough, but the neces­
+sary attempt to refine the meaning further has led to uncertainty, and our
+major English lexicon of the N T remains undecided exactly which sense of
+έπιορκώ is applicable. The cause is not so much the difficulty of the case as
+something quite extraneous, the seemingly trivial matter of punctuation in
+German and English. We begin there, before returning to a fresh examina­
+tion of έπιορκώ and a resolution of the question.
+In the German system of punctuating references in lexicons and indexes,
+the stop is used to separate references in a list, and the comma to separate
+parts of a reference, that is, chapter and verse. So, for example, we have in
+Bauer 4 (1952): 1
+γ η . . . 1. d Erdboden... Mt 13, 5. 8. 23. M k 4 , 5. 8. 20. 26. 28. 31. J 12, 2 4 ; . . .
+This, when converted into the "English" system, becomes, and became in
+2
+BAG (1957):
+γ ή . . . 1. *>//... M t 13: 5, 8,23; M k 4 : 5, 8, 20, 26, 28, 31; J 12: 2 4 ; . . .
+It will be seen that stops (as in "5. 8. 23.") are converted into commas or
+semi-colons ("5, 8, 23;"), and commas (as in "13, 5") into colons between
+chapter and verse ("13:5"). But the stop in the German system may also
+function as a true full stop at the end of a list of references, in the same way
+as a full stop at the end of a sentence. The situation may arise, and fre­
+quently does, when the two functions occur in proximity, and attention on
+the part of the reader is needed to separate them and read the sentence
+correctly. So, for example, in the following from Bauer 4 (1952):
+θεάομαι... έθεάσατο τελώνην καθήμενον Lk 5, 27. Vgl. J 1, 38. AG 1, U . M . flgd.
+δτι J 6, 5. M. Akk. u. ότι:...
+Here the first stop (at "27.") is a true full stop at the end of a sentence, as
+we deduce from the capital following in "Vgl." (Yet a third function of the
+stop also appears here, as the indicator of an abbreviation.) But the next
+stop (at "38.") is not a true full stop but a reference separator; and then (at
+"11.") we have again a true full stop, as the following capital in "M." indi­
+cates; similarly at "5.".
+We can already see the potential for ambiguity. Now consider this
+example, also from Bauer 4 (1952):
+μακάριος... M. flgd. όταν M t 5, 11. Hs 5, 1,3 enthält nach der Lesung des Michi-
+gan-Pap
+d. Worte μακάριόν με ποιήσεις...
+Here the two references in succession ("Mt 5, 11. Hs 5, 1, 3") could be
+read as a list of two references, with the stop simply a reference separator.
+One must read past the second reference to see that "Hs 5, 1,3" begins a
+new sentence and that the stop before it is a true full stop. "Hs 5, 1, 3" is
+the subject of the verb ("enthalt"), and new information is being supplied
+that has nothing to do with Matt 5:11. BAG in their translation avoided
+the trap and translated correctly:
+μακάριος W όταν Mt 5 11 Ace to the reading of the Michigan Pap
+3 contains the words μακάριόν με ποιήσεις
+Hs 5, 1,
+So far all is well. But we come now to a similar case where the ambiguity
+has indeed given rise to misunderstanding.Matt 5:33 is as follows:
+Πάλιν ήκούσατε δτι έρρέθη τοις άρχαίοις, Ουκ έπιορκήσεις, αποδώσεις δε τω
+κυρίω τους όρκους σου
+RSV Again you have heard that it was said to the men of old, 'You shall not swear
+falsely, but shall perform to the Lord what you have sworn
+In Bauer 4 (1952) this example of έπιορκώ was dealt with in the following
+way:
+έπιορκέω (seit Homer, auch Inschr Pap LXX Philo Test Ass 2, 6—Ζ Schreibg
+έφιορκέω s Bl-D § 14 Anh ) Fut έπιορκήσω—1 fahch schworen, e falschen Eid
+leisten (so meist)—2 e geschworenen Eid brechen, e Gelübde verletzen (Chrysipp Stoic
+II63 Herodian 3,6, 7 Procop Soph , ep 61 1 Esr 1,46) Mt 5, 33 D 2, 3 sind beide
+Bed mogi
+There are two occurrences covered, the one in Matt, and another in
+D[idache] 2:3, and both are placed in 2, followed by a comment. But to
+which does the comment belong? Both examples, or only the second? On
+the face of it, the lack of a stop after "1 Esr 1, 46)"—so closely must one
+observe!—indicates that the reference to "Mt 5, 33." belongs with what
+precedes, the stop at "33." being a real full stop not a reference separator,
+and only the Didache reference "D 2, 3" is the subject of the comment
+that both meanings are possible. If that is correct, Bauer took Matt 5:33 to
+3
+be definitely sense 2, while D 2:3 alone was regarded as in doubt.
+When translated into English in BAG (1957), however, this came out
+differently: the stop between "Mt 5, 33" and " D 2, 3" was read as a refer­
+ence separator, with the result that both occurrences were said to be in
+doubt:
+έπιορκέω... 1. swear falsely, perjure oneself {so mostly).—2. break one's oath (Chrysipp.:
+Stoic. II 63; Herodian 3, 6, 7; Procop. Soph., Ep. 61; 1 Esdr 1:46). In M t 5:33; D 2:3
+both mngs. are poss. M-M.
+In the English Bauer stream the entry continued unchanged into BAGD
+(1979), 4 but a further development has occurred in the latest revision by
+Danker. 5 BDAG (2000) reads:
+έπιορκέω
+1 to swear that someth. is true when one knows it is false, swear
+faUely, perjure oneself the context favors this sense for D 2 3 in which malicious
+speech about one's neighbor is castigated in various terms It is prob that also M t 5:33
+belongs here, but 2 is favored by many
+2 to fail to do what one has promised under oath, break one's oath (Il 19, 188
+note the fut έπιορκήσω, Chrysipp Stoic II 63, 28, Herodian 3, 6, 7, Procop Soph ,
+Ep 61, 1 Esdr 1 46) M t 5:33 (s 1 above) — D E L G s ν δρκος M-M T W
+The reference to Matt 5:33 now appears under both senses, with a prefer­
+ence expressed for sense 1; D 2:3 is also resolved by placing in sense 1. The
+state of uncertainty in which the allocation of the examples stood in the
+previous English edition prompted Danker, one might fairly suppose, to
+attempt to resolve it. But the fact that the uncertainty could have origi­
+nated in a misreading of the punctuation was lost to view.
+Were Arndt and Gingrich right in their interpretation of Bauer's entry,
+or did they fail to read the punctuation correctly? (It is very unlikely they
+made a deliberate change.) 6 Are there any other clues to what Bauer really
+intended? I believe there are, and they indicate that Arndt and Gingrich
+slipped up. I will return to those clues at the end of this paper, but turn
+now to a fresh look at έπιορκώ to settle the question of its meaning in
+Matt 5:33 in the light of evidence elsewhere and the context here.
+It is easy to confirm the correctness of the distinction between the two
+senses of έπιορκώ recognised by Bauer, though this distinction is not made
+in LSJ or most N T lexicons before Bauer. 7 At first it might be tempting to
+see only one sense, a general one such as swear a false oath, applicable to all
+cases. In some contexts, where the word is used without reference to any
+particular situation, this general sense might still come into play. But in
+most cases the contexts reveal markedly different situations. They divide
+clearly into two, one in which the oath relates to a statement of fact, the
+other to an oath about performing some future action. Recognition of two
+lexical meanings is therefore justified, along the lines of Danker s defini­
+tions in BDAG above, which might be restated as: 1. swear falsely to the
+truth of a statement; 2. break ones sworn promise. I offer a brief survey of the
+evidence, to establish these senses.
+At the first occurrence of έπιορκώ in Greek, in Homer, //. 19.188,
+Agamemnon agrees to swear a certain oath just proposed by Odysseus,
+adding that in doing so he will not swear falsely:
+ταΰτα δ' έγών έθέλω όμόσαι, κέλεται δε με θυμός,
+ούδ' έπιορκήσω προς δαίμονος.
+This I am willing to swear, and my heart bids me,
+nor will I swear falsely before god.
+The content of the oath that he is agreeing to swear is shown by Odysseus's
+words in lines 175-6, namely, to swear to Achilles μη ποτέ της εύνής
+έπιβήμεναι ήδέ μιγήναι, "that he never went into her [Briseiss] bed and
+had intercourse with her." So this is clearly a case of swearing to the truth
+of a statement, and έπιορκώ has sense 1 above (contrary to Danker's place­
+ment under 2). 8
+Another early occurrence, in Andocides, Myst. 98, shows the other situ­
+ation. A lengthy oath is quoted (97-8), in which the oath-takers, in this
+case all the Athenians, are to swear they will kill anyone who overthrows
+the democracy and will take other steps to punish such a person. Trie oath
+concludes with the customary formula, in which the oath-taker prays
+... εύροκοΰντι μεν είναι πολλά καΐ αγαθά, έπιορκουντι δ'εξώλη αυτόν είναι και
+γένος.
+... for the one who observes his oath, that there may be many blessings, but for the one
+who breaks his oath, that he and his family may be wiped out.
+This clearly involves a promise to act in a certain way, and exemplifies
+έπιορκώ in sense 2.
+Other instances of both senses can readily be found in Classical and
+later authors. It soon becomes apparent that the impression given in Bauer/
+BAG(D) (but not BDAG) that sense 1 is the usual one ("so meist," "so
+mostly") is not accurate: sense 2 is also quite frequent, certainly frequent
+enough to rule out the idea that one sense was predominant. 9 It is also clear
+that there are often cases in which a choice between the two senses cannot
+be made, either because the context does not indicate which it is, or because
+false swearing is spoken of in general terms. For the latter, the general
+sense, swear a fake oath, which might be termed the "default" meaning, is
+appropriate. In a general lexicon of Greek this would need to be placed as
+sense 1, with the others as 2 and 3. A good example of the general sense is
+seen in Aristophanes, Birds 1609:
+ού γαρ μείζον ύμείς oi θεοί
+ίσχύσετ' ην όρνιθες άρξωσιν κάτω;
+νυν μεν γ' υπό ταις νεφέλαισιν έγκεκρυμμένοι
+κύψαντες έπιορκοΰσιν υμάς oi βροτοί ·
+Won't you gods have greater power if birds rule below?
+As it is now, mortals, hidden under the clouds,
+have their heads down swearing false oaths by you.
+One other illustration of each of senses 1 and 2 will suffice. The former,
+swear fahely to the truth of a statement, is seen in Xenophon, Apol. Socr. 24:
+Άλλ', ώ άνδρες, τους μεν διδάσκοντας τους μάρτυρας ως χρή έπιορκοΰντας
+καταψευδομαρτυρείν έμοΰ και τους πειθομένους τούτοις ανάγκη έστι πολλήν
+έαυτοις συνειδέναι άσέβειαν καί άδικίαν ·
+But, gentlemen, those who instructed the witnesses in how to perjure themselves by
+bearing false witness against me and those who took their advice cannot fail to be
+aware in themselves of great impiety and wrongdoing.
+The other, break ones sworn promise, is clear in Plutarch, Comp. Demetr. et
+Ant. 5.3:
+ά τοίνυν έπιώρκησαν αμφότεροι και παρεσπόνδησαν, ό μεν Άρτάβαζον συλλαβών,
+ό δε Άλέξανδρον άποκτείνας, Άντωνίω μεν έχει την πρόφασιν όμολογουμένην ·
+άπελείφθη γαρ έν Μήδοις υπό Άρταβάζου και προεδόθη · Δημήτριον δ ε . . .
+As regards then what they both did in violating oaths and breaking treaties, the one by
+seizing Artabazus, the other by killing Alexander, for Antony there is a generally
+accepted excuse: he was deserted in the midst of the Medes by Artabazus and betrayed;
+10
+but Demetrius...
+Let us return to Matt 5:33. We need first to see what can be learnt from
+the commentaries. One important fact emerges at once: the words ουκ
+έπιορκήσεις, αποδώσεις δε τω κυρίφ τους όρκους σου are not an exact
+quotation of any Old Testament passage, either as a whole or in part,
+though their import can be located in numerous places. The UBS N T text
+is misleading in printing the words in bold. 11 The closest verbal parallel is
+to the second clause, at Ps 49:14 (MT 50:14) (άπόδος τώ ύψίστφ τας εύχάς
+σου). The verb έπιορκώ occurs in the LXX only twice (1 Esd 1:46;
+Wis 14:28), in contexts that have no resemblance to this one, and the
+commandment in Exod 20:16 does not use this verb but reads ου
+ψευδομαρτυρήσεις. It follows that no particular O T context needs to be
+taken into account in determining the lexical meaning here: the context in
+Matt 5:33 alone can be the determinant.
+There has been much discussion of the possibly composite nature of
+Matt 5:33-37. The current state of play can be seen in the major commen­
+tary of Davies and Allison, where detailed argument and bibliography are
+assembled. 12 It is suggested that 33a originally stood alone in v. 33, and
+33b was added to it along with other additions to the unit. The possible
+meanings of έπιορκώ and αποδώσεις τους όρκους σου are debated, but
+become enmeshed in the attempt to reconstruct the process of composi­
+tion. In the end the actual meaning of the words and how they fit together
+remain strangely unfocused. I quote Davies and Allisons conclusion: "The
+meaning of 5,33 would then be: 'You have heard that it was said to the
+men of old, "All your oaths are to be true." ' " The same sort of obscurity
+attends the treatment by Davies elsewhere, and by Luz, Goulder and Kil-
+patrick. 13 Kilpatrick, on the basis of its meaning outside the NT, insists
+that the second clause means "but thou shalt take thine oaths to the Lord,"
+but does not say what he thinks ουκ έπιορκήσεις means or how the verse
+works as a whole. To take the second clause in this way renders the verse
+meaningless, as far as I can see. What can be meant by "you shall not swear
+falsely but shall take your oaths to the Lord"?
+More useful are the many commentators who attempt less and simply
+point out that if the second clause relates to performance of promises, then
+the meaning of έπιορκώ that fits is break ones sworn promise. For example,
+Hill sums up succinctly: "The word epiorkeo means both 'commit perjury'
+and 'break an oath'; the latter rendering fits more satisfactorily with what
+follows." A tour of the question from the Biblical translators point of view
+14
+given in the handbook of Newman and Stine reaches the same conclusion.
+We may digress briefly here to consider the question of principle raised
+by the matter of a possibly composite text. What does the lexicographer do
+where the text may have been compiled in stages and there is a possibility
+of alternative meanings? As I see it, there can only be one answer: the lexi­
+cographer has to work with the text that we now have and ignore hypo­
+thetical reconstructions of the process of composition, otherwise the door
+would be open to endless speculation and uncertainty. (This is a different
+thing from dealing with ambiguity or word-play intended by the author.)
+Our next step must be to settle what the second clause of 5:33 means,
+given that this is open to dispute. The evidence for the expression άποδίδωμι
+ορκον/-ους outside the N T indicates only the meaning "take/tender an
+oath," as Kilpatrick said. Besides the four examples noted in Bauer since
+1928 and repeated by Kilpatrick, I have found several more that confirm
+this meaning. Noteworthy is one in Plutarch, filling the gap between the
+Classical and much later evidence of IV-V AD. Though the evidence is not
+abundant, it is enough to suggest, in the absence of any to the contrary,
+that this was the standard meaning of the expression up to and after the
+time of the NT. 1 5
+But, as I have already indicated above, this meaning makes no sense
+in the context of Matt 5:33. We must explore alternatives. There is one
+ready to hand, if, instead of treating αποδώσεις τους όρκους σου as the set
+expression, we break it into its parts. The evidence for άποδίδωμι as fulfil
+(an obligation or promise), often with object εύχήν/-άς, is solid. Good
+examples are Ps 49:14 quoted above, Deut 23:22 (έαν δε εΰξη εύχήν κυρίω
+τω θεώ σου, ου χρονιεις άποδοΰναι αυτήν) and Rom 13:7 (άπόδοτε πασιν
+τάς όφειλάς), to draw only on the LXX and NT. 1 6
+There is equally good evidence that δρκος/-οι can mean sworn promise,
+vow. Though the word primarily means simply oath of any kind, and
+this continues to be its common meaning, it also develops the narrower
+sense. The process can be seen beginning when the reference is to an oath
+taken in support of a promise to act in a certain way. Consider Demos­
+thenes 19.318:
+εί μεν γαρ προσδέξαιτο Φωκέας συμμάχους και μεθ' υμών τους όρκους αύτοις
+άποδοίη, τους προς θετταλούς και Θηβαίους όρκους παραβαίνειν ευθύς άναγκαιον
+ην...
+For if he [Philip of Macedón] were to accept the Phocians as allies and together with
+you tender the oaths to them, he must at once violate his oaths with the Thessalians
+and Thebans...
+Philip s oaths in both instances relate to alliances, that is, they are promises
+to treat the other party as friends and allies and not to do them harm. 17 The
+first example of όρκους can still mean simply oath, though the reference is
+to an oath in support of a promise. But it is a short step to a context in
+which sworn promise is the lexical meaning, as in the second occurrence of
+όρκους here, governed by παραβαίνειν. Others of a similar kind can read­
+ily be found. So in Deut 7:8:
+... διατηρών τον ορκον, δν ώμοσεν τοις πατράσιν υμών, έξήγαγεν κύριος υμάς εν
+χειρί κραταιά
+... keeping the promise which he swore to your fathers, the Lord brought you out with
+a mighty hand
+In the N T itself, we have an example such as Matt 14:9:
+... και λυπηθείς ό βασιλεύς δια τους όρκους και τους συνανακειμένους έκέλευσεν
+δοθηναι
+... and though the king was sorry, because of the promise he had made with an oath
+and the presence of the guests he commanded that it be given
+And in Diodorus Siculus 10.9.1 (I BC):
+'Ότι ό Πυθαγόρας προς τοις άλλοις παρήγγελλε τοις μανθάνουσι σπανίως μεν
+όμνύναι, χρησαμένους δε τοις ορκοις πάντως έμμένειν και προς τέλος αγειν υπέρ
+ων αν τις όμόση πραγμάτων...
+[We are told] that Pythagoras in addition to his other instructions directed his pupils
+rarely to swear an oath, but if they did use one, to abide by their oath totally and to
+bring to completion the matter about which they had sworn.. . 1 8
+All of these show the meaning sworn promise.
+There is no difficulty in understanding δρκος/-οι as sworn promise where it
+suits the context; and we have seen that άποδίδωμι can have the sense of
+fulfil with a word such as "promise" as object. If these meanings give the
+best sense, we are entitled to set aside the evidence for the meaning of
+the combination elsewhere ("tender an oath") and trust the context of
+Matt 5:33 to determine what is required. The linking δε between the two
+clauses is crucial: they must be read together, and a contrast is indicated,
+"you shall not d o . . . , but you shall do
+" In that case the only workable
+meaning of the second clause is "but you shall fulfil to the Lord your sworn
+promises," and the first accordingly indicates the opposite action, "you
+shall not break a sworn promise," i.e., έπιορκώ has sense 2 break ones sworn
+promise.
+Is there any alternative? I find it hard to see any that will work. If the
+text had καί instead of δε, it would be possible to read the sentence as
+containing two separate commands, and the first could be "you shall not
+swear a false oath" (of any kind); the second would remain as before. But
+this is to indulge in might-have-beens.
+We come back finally to Bauer s opinion and the clues that might help
+us to confirm his intention to place Matt 5:33 firmly under sense 2. They
+are found in his entries for άποδίδωμι and δρκος. Under the first, Bauer
+translates Matt 5:33 as "d. Eid halten," i.e., as rendered in BAG, "keep
+oaths." Under δρκος his rendering is "dem Herrn d. Eidschwüre halten,"
+BAG s "perform oaths to the Lord." These renderings show that Bauer inter-
+preted the second clause, not as "you shall tender your oaths," but in the
+way it is understood here, i.e., "you shall fulfil your sworn promises," which
+in turn implies that he took the first clause to be "you shall not break a
+sworn promise." Here is confirmation that Bauer s punctuation is to be read
+as proposed above, not as Arndt and Gingrich read it: Matt 5:33 belongs
+under sense 2 of έπιορκώ, and only the Didache example is doubtful. 19
+We now know what Bauer intended. And Bauer was right, as our review
+of the evidence has shown. But the reading of his intention has been led
+astray by ambiguous punctuation for half a century.

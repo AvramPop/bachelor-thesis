@@ -1,0 +1,78 @@
+Scholars continue to disagree over the meaning of the verb μακροθυμεΐν
+in the phrase καΐ μακροθυμεΐ έπ' αύτοΐς in Luke 18:?.1
+ It is clear from the
+standard Greek léxica that the verb has a dispositional sense of "to be forbearing, longsuffering, patient" in a great many of its occurrences in
+Greco-Roman literature, the New Testament, and early Christian sources.2 
+In some instances, however, the verb acquires a temporal nuance of "to
+wait patiently" (e.g. Heb 6:16; Jas 5:7), and consequently some have
+argued that in certain cases, such as Luke 18:7, μακροθυμεΐν has undergone a further semantic development from "to wait patiently" to "to be
+slow, to tarry, to delay."3
+ A plausible exegetical argument can be made for
+understanding the verb in this context either as "to be patient or longsuffering" or as "to tarry or delay," yet the question of its lexical meaning
+remains unsettled and invites further study. This note will attempt to
+resolve some of the semantic issues pertaining to μακροθυμεΐν, particularly as they relate to its usage in Luke 18:7.
+Apart from Luke 18:7 itself, the passage that is by far the most frequently appealed to as attesting a meaning of "to tarry or delay" for μακροθυμεΐν
+is Sir 35:19.4
+ The entire pericope of Sir 35:11-24 bears a number of striking similarities to the Lukan parable,5
+ but verses 19 and 20 are particularly
+relevant for the lexical question at hand: ral ό κύριος ου μη βραδύνη And the Lord will not be slow,
+ουδέ μη μακροθυμήση έπ' αύτοΐς neither will he bepanent with them/
+tarry for them, (?)
+εως αν σύντριψη όσφύν άνελεημόνων till he shatters the loins of the
+unmerciful
+raí τοις εθνεσιν ανταποδώσει and pays out vengeance to the nations,
+έκδίκησιν
+Based on the parallelism of the verbs, several scholars have concluded that
+μακροθυμεΐν is a synonym of βραδύνειν, thus indicating a "delay" or
+"slowness" to act.6
+ There are, however, good reasons to be cautious of
+placing so much lexical weight on the parallelismus membrorum. In terms
+of lexicographical method, one must bear in mind that there are many different types of parallel structures, which need not be entirely or even partially synonymous in nature. As Barr has rightly observed:
+(1) We do not know in the beginning whether the verse will be a synonymous parallelism or some other kind; we may not even have complete certainty that it is
+parallelistic at all.
+(2) Even where a verse is certainly parallelistic, we do not certainly know what effect
+this will have on a particular word within it.7
+In light of this, one should not assume a priori that the parallelism of
+βραδύνειν and μακροθυμεΐν in Sir 35:19 indicates that they are to be
+understood as synonyms.
+8
+ Moreover, when one compares the Greek version with the Hebrew text,9
+ it becomes evident that a synonymous parallelism was not in fact the intent of the writer:
+καί ό κύριος ου μη βραδύνη ΠΟΠΟΠ* to b& ΏΧ
+ουδέ μη μακροθυμήση έπ' αύτοΐς pSXîV tò mrUDl
+εως αν σύντριψη όσφύν άνελεημόνων ΉΤ3Ν 'ΑΠΟ γτ\1Τ TP
+και τοις εθνεσιν ανταποδώσει έκδίκησιν üpl 2W tFuVl The hithpalpel of ΆΆΏ means "to delay, linger, tarry, wait",10
+ and tò
+ΠΟΠΟΓΡ is thus nicely rendered by βραδύνειν.11
+ On the other hand, the
+hithpael of p£)N never indicates a "delay" or a "slowness to act"; rather, it
+means "to restrain oneself" or "to control oneself."12
+ While μακροθυμεΐν
+is not used to translate this verb elsewhere in the LXX, it is nevertheless
+an appropriate rendering in this instance for expressing the lack of
+restraint in the divine wrath.13
+ ΠΟΠΟΙΤ tò and pOKIV tò, though parallel,
+are clearly not synonymous expressions, and consequently there is no reason to suppose that μακροθυμεΐν was intended here as a semantic equivalent of βραδύνειν.14
+ The denial of a delay in judgment is undoubtedly
+present in the context, but this is to be attributed to the phrase ου μη
+βραδύνη, not ουδέ μη μακροθυμήση. As Louw observes,
+proper semantic analysis requires a distinction between lexical meaning and contextual meaning. That is, between what a word in itself, on its own, contributes to the
+understanding of an utterance (lexical meaning) and what features of meaning,
+derived from the context, enable one to define the event more precisely by adding
+particular contextual features.15
+Where many have erred in the analysis of Sir 35:19 is by failing to observe
+this distinction between lexical and contextual meaning, thereby mistakenly attributing the notion of delay expressed by βραδύνειν to the semantics of μακροθυμεΐν.In sum, Sir 35:19 should not be appealed to as establishing a meaning
+of "to tarry or delay' for μακροθυμεΐν.17
+ Accordingly, the simplest lexical
+analysis of μακροθυμεΐν in Luke 18:7 which makes exegetical sense of the
+passage is to take the verb in its typical meaning of indicating a disposition
+of "being patient" or "longsuffering" with someone else: In contrast to the unrighteous judge who is motivated purely by self-interest, God is patient
+with his chosen ones (των εκλεκτών αύτοΰ).18
+ Had Luke 18:7 actually intended to refer to God's "slowness to act", it is much more probable that
+one of the several verbs from the semantic field of "delay" utilized elsewhere in Luke-Acts would have been chosen, such as χρονίζειν (Luke 1:21;
+12:45), όκνεΐν (Acts 9:38), or άναβάλλεσθαι (Acts 24:22).19
+ Any sense of
+a temporal delay in the parable, then, is not due to μακροθυμεΐν's lexical
+meaning but rather to other contextual features. In light of these factors,
+it is unnecessary to attribute a sense of "delay" or "tarry" to μακροθυμεΐν
+in this passage. 

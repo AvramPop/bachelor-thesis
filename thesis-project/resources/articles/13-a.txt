@@ -1,0 +1,305 @@
+The discussion of the early Christian prepositional formulae υπέρ υμών or
+ημών has an impressive Scandinavian tradition. One of the most influen­
+tial publications to the topic is surely Harald Riesenfelds article on υπέρ
+in Kittel's theological dictionary. In a note Riesenfeld stressed the impor­
+tance of distinguishing between those cases where υπέρ stands with a per­
+sonal object and those cases where it is followed by τών αμαρτιών. 1 In his
+interpretation of the ύπέρ-phrases though, Riesenfeld did not distinguish
+between the verbs governing the prepositions. The verbs άποθνήσκειν or
+(παρα)διδόναι were all to refer to an action of atonement (Sühne), as long
+as they were followed by the preposition υπέρ or in some cases by δια
+and the accusative. Interpreting the ύπέρ-formulae in this way, Riesenfeld
+followed Joachim Jeremías, who in his article on παις θεοΰ in Kittels dic­
+tionary, advocated the view that the ύπέρ-formulae are all said to be
+understood against the backdrop of the tradition of the Suffering Servant
+of Isaiah 53, which is said to express the notion of an atoning sacrifice
+2
+which takes away the consequences of sin.
+Although Riesenfeld was aware of the important differences between
+the MT and LXX texts of Isaiah 53 and that the παραδιδόναι-terminology
+in Isaiah 53:6 and 12 does not occur in the Hebrew, he meant to over­
+come this problem by claiming that the LXX followed a text tradition
+closer to that of the Isaiah-Targum. Keeping the date of Targum Pseudo-
+Jonathan in mind, which is an 8th century document, it is much more
+3
+likely that the LXX-translation influenced the Targum. It is also not pos­
+sible to detach the prepositional phrase from the ruling verbs. Rather it is
+the ruling verb which signifies the broader frame which forms the back­
+drop of the prepositional phrase.
+The phrase "dying for someone" has been scrutinized by scholars of the
+New Testament. It can be claimed that since the groundbreaking research
+of Klaus Wengst, Sam Williams and Martin Hengel and more recently
+Henk Versnel, it has been illustrated that the early Christian notion
+"dying for someone" has its roots in Greek tradition. 4 The notion of dying
+for someone else to avert evil from him/her ranges back to the tragedies of
+Euripides. This notion kept its influence until Roman times, as Henk
+Versnel illustrated. 5 In a new landmark investigation of the motif, Christina
+Eschner came up with additional evidence that Euripedian heroines
+like Alcestis and Macaria served as role models for women in Pauls
+times, expressing the highest level of dedication towards their spouses. 6
+It was known that the motif found its way into Plato, Stoicism and 2 and
+7
+4 Maccabees, into sepulchral inscriptions and decorations. Eschner showed
+us that the motif became popular not only through tragedy itself, but
+it also resounded in popular philosophy, in wall paintings in villas and
+in common proverbial speech in the Greek and Latin traditions during
+8
+the early Roman Empire. One can readily say that it became part of
+9
+common culture.
+Paul and the early Christian tradition surely draw on this tradition
+when they formulate the saving effect of the death of the Messiah in the
+phrase, "Christ died for us/for our sins." To a certain extent, this tradition
+10
+can explain the dying formulae, but what is the underlying conception
+behind the traditional phrase that Jesus the Lord "was delivered because
+of our transgressions" (δς παρεδόθη δια τα παραπτώματα ημών—Rom
+4:25a) or that God delivered his own Son "for us all" (υπέρ ημών πάντων
+παρέδωκεν αυτόν—Rom 8:32). Are not these utterances to be understood
+against the backdrop of Isaiah 53:6, 12 as Riesenfeld claimed, thereby fol­
+lowing Joachim Jeremías? Rom 4:25a seems to be the strongest case. Here
+the verb παρεδόθη is in the passive and rules the preposition διά, as is the
+case in the LXX Isaiah 53:12. And if Isaiah 53:12 forms the backdrop for
+Rom 4:25 this might as well be the case in Rom 8:32. n
+Not every one however, agreed with the above mentioned position of
+Riesenfeld. One of his brightest students, Nils Dahl, who earned his doc­
+toral honours in Oslo, came up with a fresh solution. Rather than the
+idea of cultic atonement, he suggested that the tradition of the binding of
+Isaac Çaqedah) forms the backdrop of the ύπέρ-formulae. Especially the
+terminology of Rom 8:32a is said to allude to Gen 22:16-17: "The exe-
+getical pattern can hardly have been other than one of correspondence: as
+Abraham did not spare his son, so God did not spare his own Son." But
+how is this correspondence to be understood? Drawing on later explana­
+13
+tions by Irenaeus, Dahl interpreted Rom 8:32 in the following way:
+"... the allusion to Genesis 22 in Romans 8:32a is best explained on the
+assumption that it is derived from an exposition in which the atonement
+was understood as an 'adequate reward' for the Akedah. Obviously, the
+adequacy should not be understood in terms of quantitative equivalency
+but as an exact correspondence of quality. In fact, this is how the rule
+'measure for measure' was applied both in Judaism and in early Christian­
+ity. Some early Jewish adherent of the crucified Messiah may have taken
+Genesis 22 to imply that God, who judges those who judge and shows
+mercy upon those who act with mercy, rewarded Abrahams sacrifice by
+14
+offering up his own Son." Even though Dahls tour de force to read all
+Pauline ύπέρ-formulae, including Gal 3:13-14, against the backdrop of
+the 'aqedah could not convince the scholarly community, 15 his observa­
+tion that Romans 8:30-35 forms a clear inclusion with Rom 5:1, 6-11
+was followed by many interpreters of Romans. 16
+Another Norwegian scholar, Peder Borgen, rightly took another line on
+the interpretation of Gal 3:13. He enhanced the interpretation of this
+passage in the light of Deut 21:22-23: "When someone is convicted of a
+crime punishable by death and is executed, and you hang him on a
+tree..." Since in this passage of the Law it is unclear whether the person
+hung from a tree, had been killed beforehand or was killed by the hang­
+ing itself, Borgen turned to the Temple Scroll from Qumran (HQTemp
+64:6-12). From the scroll it is clear that the hanging caused the death. But
+does it refer to death by crucifixion? Borgen was able to clarify this point
+by referring to Philos exposition of Deut 21:22-23 in book
+three of the Special Laws: "Philo adds support to the understanding
+that crucifixion is meant. In Spec. 3.151-52 he defines the hanging in
+Deut 21:22-23 as to fix on a pole, impale (άνασκολοπίζω). When Philo
+uses this verb in Somn. 2.213 he explicitly says that the fixing is done by
+nailing (προσηλόω). Philo made this remark whilst discussing the impli­
+17
+cation of the commandment "Tliou shalt not murder!" The following
+section in his exposition of Deuteronomy is of particular interest for the
+question of the backdrop of the ύπέρ-formulae in early Christian tradition.
+In the section immediately following upon the exposition of Deut 22:21-24,
+Philo discusses Deut 24:16: "Parents shall not be put to death for their
+children, nor shall children be put to death for their parents; only for
+their own crimes may persons be put to death." In his comment, Philo
+opposes the noble intentions of kinsmen. Compassion should not over­
+come reason. To deliver the guilty from punishment and to think that it
+is right that you should be punished in their place is wrong. 18 According
+to Jewish law, Philo says, " . . . fathers should not die for their sons, nor
+sons for their parents (πατέρας υπέρ υιών μη άποθνήσκειν μηδ' υιούς υπέρ
+γονέων)." 19 Philo then continues to explain the need of the stipulation in
+Deut 24:16 he is commenting on. It becomes obvious that he uses the
+'dying for someone' and 'giving one s life up for someone' as alternative
+ways of referring to the same action. In Spec. 3.154 he says that those
+influenced by family affection, in their excessive and overwhelming devo­
+tion will often be glad to die (προαποθνησκειν), giving themselves (αυτούς
+έπιδιδόντες) as blameless persons (οι άνυπαίτιοι) for those who are guilty
+20
+(υπέρ των ενόχων).
+Philo is of course not alone in using the terminology άποθνήσκειν υπέρ
+τίνος and (έπι)διδόναι υπέρ τίνος as stylistic alternatives referring to the
+death on behalf of other persons. Paul did and so did others! Almost a
+century after them, Aelius Aristides still applies the "dying for" and "being
+given for"-terminology as stylistic variants. "It is said that Erechtheus in
+the war against Eumolpus, because of the god's oracle gave his daughter
+on behalf of the polis (την θυγατέρα υπέρ της πόλεως έπιδοΰναι). In the
+war against the Dorians and the Peloponnesians Codrus died voluntarily
+on behalf of his land" (εθελοντής υπέρ της χώρας άποθανειν). 21 The so
+called "dying-for"- and "deliverance for"- "formulae" thus both draw by
+implication on the same Greek tradition, as Eschner has illustrated with
+reference to the abovementioned and numerous other contemporary texts. 22
+Now that the common Greek background of the (παρα)διδόναι υπέρ
+τίνος- and the άποθνησκειν υπέρ τινος-phrases has been confirmed, 23 the
+relationship between LXX Isaiah 53:6 and 12 and the "pre"-Pauline tradi­
+tion in Rom 4:25 should be revisited. As has been noted, the Greek trans­
+lation of the LXX does use the passive form of the verb παραδιδόναι to
+express that the servant was delivered to suffer and to be martyred. This
+is said in the context where it is stated that he carries the transgressions
+of many. 24
+Rom 4:25a is commonly regarded to be a traditional parallelism and
+the use of the verb (παρα)διδόναι is taken as an allusion to LXX Isaiah
+53:12. 25 When comparing Rom 4:25 to LXX Isaiah 53:12 it should how­
+ever be kept in mind that the Greek text of Isaiah 53 is formulated in
+such a way that it deviates considerably from the Hebrew original.
+The use of the Greek verb παραδιδόναι to translate Jtt£) is introduced in
+Isaiah 47:3. 2 6 In Isaiah 53:12d, "because he has 'poured out' (ΓΓΙ^Π hiphil
+of my) 27 his life to death," is translated by "his psyche was 'delivered unto'
+(παρεδόθη) death." In verse 12g the last phrase "and he 'will intercede'
+(JP1£Ç hiphil oí yjt£)) 28 for rebels" is rendered by "and because of their sins
+'he was handed over' (δια τας αμαρτίας αυτών παρεδόθη)." The servant is
+counted amongst the lawless and handed over δια τας αμαρτίας αυτών.
+The function of the δια in the Greek translation in verse 12g can be
+inferred from the preceding context. The phrase in verse 6c, και κύριος
+παρέδωκεν αυτόν ταις άμαρτίαις ημών, needs special attention. Following
+the use of the verb, 29 the dative expresses the hostile force unto which the
+Lord delivers the servant. The role of the sins has to be interpreted in the
+light of the διά-phrases in preceding verses so that it ought to be trans­
+lated: "But he was wounded on account of our sins, and was bruised
+because of our iniquities . . . and the Lord handed him over to our sins."
+He suffered punishment for their sake. 30 The sins or the transgressions of
+the "us" are the reason why the servant was delivered or handed over. This
+has been called vicarious suffering. 31
+But why was the hiphil of pJt£3 in verse 12g translated by παρεδόθη?
+Why does the translator move from the meaning of JUÛ with *?, "interces-
+sion" or "intervention on behalf of" 32 the rebels to παραδιδόναι in the
+sense of "being handed over" because of their sins? It is notable that in
+verse 6c a similar switch occurred. In this case the Hebrew verb yj£3 with
+1 means "to let something strike someone." 33 According to the Hebrew text,
+the "Lord caused the iniquity of us all to strike him." The Greek transla­
+tor rendered the hiphil of J7Jt£D with παρέδωκεν, turning the servant into
+the direct object of the Lord s action: "The Lord 'delivered' him to our
+sins." In Isaiah 53:6c and 12g the translator seems to reformulate the rela­
+tion between the servant and the "iniquity" (53:6c) or the "rebels"
+(53:12g). The reason appears to be that he takes the hiphil of JJjt£ in the
+sense of "to cause someone to be struck by something" and he translates it
+and m p n in verse 12d consequently by a form of παραδιδόναι. New
+research has extended available lexicographic knowledge on the use of this
+Greek verb considerably. It is clear that the composite verb denotes the
+deliverance to a hostile force. 34
+Since the research of Joseph Ziegler and Isac Seeligman on the Greek
+translation of the book of Isaiah, 35 it has become abundantly clear that, to
+put it in Seeligman s words, " . . . t h e translation of Isaiah is characterized
+in numerous places not only by a fairly considerable independence of the
+Hebrew text, but also by the fact that it evinces an equally marked influ­
+ence from the surrounding cultural atmosphere, as well as expressing the
+author s personal views." 36 The considerable deviation of the Greek trans­
+lation from the original Hebrew text suggests that in the case of Isaiah
+53:6c, 12d and 12g the translator presupposed the well known Greek
+notion of someone being handed to a hostile power to be handled as
+his enemy pleases. The servant is delivered unto sin (53:6c), to death
+(53:12d). Clearly the notion in 53:12g that this deliverance is "because
+of their sins," is rooted in the Greek text of Isaiah 53, especially verses
+4-6. According to the Isaiah text, the servant is not actively dying; the
+Lord delivered him (53:6c), thus the παραδιδόναι-terminology is used.
+But this formulation commended itself to the translator, since the notion
+that somebody is delivered unto a hostile force, is a well known notion in
+Greek thought. And this deliverance is expressed by παραδιδόναι τινά
+37
+τινι or τινά εις τινά, in the same way in which LXX Isaiah 53:6c and
+12d+g is formulated in deviation from the Hebrew. By using this verb to
+render the hiphil of Jtt£) and mp, and by depicting the servant as direct
+object (cf. supra) y the translator of Isaiah 53 coherently superimposes upon
+the text the notion that someone (the Lord) delivered someone (the ser­
+38
+vant) to a hostile force. That this is because of the iniquity of others is in
+accord with the Hebrew original (cf. also verses 4 and 5).
+To return to the question: "It is then possible that Rom 4:25a was
+influenced by the Greek translation of Isaiah 53:12g?" Then Paul will
+have to imply that Christ was given up "because of our trespasses." 39 But
+even this unlikely causal interpretation of Rom 4:25a should not encour-
+age anybody to postulate Isaiah 53:6c, 12d+g as an alternative "more Jew­
+ish" backdrop for the interpretation of the phrase that "he was delivered
+40
+because o f our trespasses." The LXX text of Isaiah 53:6c and 12d+g
+does not provide a backdrop entirely different from the Greco-Roman
+tradition for the (παρα)διδόναι δια phrase in Rom 4:25a. As was illus­
+trated above by comparing the Hebrew original and the Greek transla­
+tion, the use of the παραδιδόναι-terminology in the LXX translation of
+Isaiah 53:6, 12 itself is the result of the influence of the Greek tradition
+of delivering someone to a hostile force on the translator of the book
+of Isaiah. 41 In his use of the παραδιδόναι-terminology, the translator thus
+was led more by Greek idiom than by the Hebrew original. His interpre­
+tano Graeca of the original surely influenced the way in which subsequent
+readers understood and applied the fate of the servant. If the "pre"-
+Pauline tradition behind Rom 4:25a alludes to LXX Isaiah 53:6, 12 then
+it takes up the very Greek way of expressing the deliverance unto a hostile
+force 42 and presupposes the use of a Greek translation and not of a
+Hebrew original. In its LXX form, however, it cannot be regarded as an
+independent, non-Greek Israelite or Jewish tradition. It illustrates the
+influence of Hellenised Alexandrian Judaism on early Christian tradition.
+If the earliest Christian interpretation of the death of Christ in terms of
+the "dying for" and "deliverance" formulae was not derived from the
+Hebrew text of Isaiah 53, how did it originate? This question takes us
+back to the initial stages of the Christian interpretation of Christ's death.
+It is, however, important to acknowledge the fact that those Jews who
+interpreted the death of Jesus had to give meaning to his crucifixion by
+the Romans. They had to give meaning to his execution as an upsurgent
+messianic King who was suspected to be a threat to the authority of the
+Empire. He was thus, as Dahl taught us, crucified as a political rebel
+under the charge "King of the Jews" (Mark 15:26). 43 Early followers of
+Jesus had to make sense of the crucifixion of "a said to be king." The first
+interpretation was made by those followers who had a dual experience.
+They knew the tradition about Jesus' last days in Jerusalem and they
+believed that God resurrected him from death. The interpretation of Jesus'
+death only began after Easter. Driven by the conviction that God resur­
+rected him from the dead, meaning was ascribed to the crucifixion of the
+"King of the Jews," reconsidering the events preceding his death. Since, as
+we could see from Philo s exposition of Deut 24:16, it was not allowed in
+Jewish tradition that one person dies bearing the penalty for their next of
+kin. But Philo's comment on the law also illustrate that the terminology,
+"dying for" and "giving one's life for" can be applied to historical persons.
+A similar transfer is documented by Cassius Dio (A.D. 150-235). 44 He
+refers to an incident during the year of the three emperors A.D. 68.
+Addressing his army, the Roman emperor Otho, according to Dio's narra­
+tion, says: "Surely it is far better and far more just that one should perish
+for all than many for one (πολύ γάρ που καί κρειττον και δικαιότερόν
+έστιν ενα υπέρ πάντων ή πολλούς υπέρ ενός άπολέσθαι), and that I should
+refuse on account of one man alone to embroil the Roman people in civil
+war and cause so great a multitude of human beings to perish." His sol­
+diers are instructed to take leave. He shall free himself, "... that all men
+may learn from the event that you chose for your emperor one who would
+not give you up for himself, but rather himself for you (δστις ούχ ύμας
+υπέρ έαυτοΰ αλλ' εαυτόν υπέρ υμών δέδωκε)." 45
+This incident helps us to understand the Greek language the first
+Christians utilized metaphorically to express the saving effect of the death
+of Jesus. He was crucified as "King of the Jews." Taking up this messianic
+notion, they formulated that "Christ died for our sins" (1 Cor 15:3) or
+that the Son was delivered because of our sins (Rom 4:25). But why did
+they choose such language?
+The text from Dio also sheds light on the remark of the high priest in
+46
+John ll:49-50: "But one of them, Caiaphas, who was high priest that
+year, said to them, 'You know nothing at all! You do not understand that
+it is better for you to have one man die for the people (ϊνα εις άνθρωπος
+άποθάνη υπέρ του λαοΰ) than to have the whole nation destroyed.'" The
+Evangelist interprets (11:51-52): "He did not say this on his own, but
+being high priest that year he prophesied that Jesus was about to die for
+the nation, and not for the nation only, but to gather into one the dis­
+persed children of God." There can be little doubt that the Gospel uses
+the Greek notion of "dying for" to give meaning to the death of the
+Johannine Jesus. In fact in the beginning of his narration, in 3:16, he used
+the alternate terminology by formulating that God gave his own Son:
+"For God so loved the world that he gave his only Son (τον υίον τον
+μονογενή έδωκεν)..."
+The interesting question arises whether the remark the evangelist puts
+on the lips of the high priest is reminiscent of what happened during that
+particular Pesach. It is conceivable that the thoroughly Hellenized priestly
+families from whose ranks the high priest came were familiar with the
+Greek notion of "dying for" or being "delivered unto for." A few years
+ago, no one less than the great British historian Fergus Millar noted how
+much historical detail is transmitted through the Johannine passion nar­
+rative. 47 Should the remark of the high priest be taken as an historical
+reminiscence, his remark could have given the impetus why it was formu­
+lated that "Christ died for our sins" or was "delivered because of our
+transgressions." The seemingly similar notion in the Greek text of Isaiah
+53:6, 12 might have facilitated the use of this Greek notion in early
+Christian soteriology. In its LXX-form, it cannot however be regarded as
+an independent Israelite or Jewish tradition.

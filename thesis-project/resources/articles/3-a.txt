@@ -1,0 +1,269 @@
+Chapter 9 of the book of Zechariah has enjoyed a complex reception in earlyChristianity. Although it does not contain many verses which can claim the statusof “theological proof-texts”, it does contain one ‒ namely verse 9:9 ‒ which hashad a distinguished career. The present paper will focus on this particular verse,since an exhaustive treatment of the whole chapter would require an amount ofresearch which would greatly exceed the constraints of a single paper.In the first part of this paper I will analyze the reception of Zechariah 9:9 inMatthew (21:4-5) and John (12:15), the only two Gospels that quote this verse. Iwill look at the way in which the OT text is introduced, at the Gospel context inwhich it is inserted, at the changes it undergoes and at the theological bearing it hason the image of Jesus in each of the two Gospels. The second part of the paper willsurvey the early history of interpretation, namely as it appeared to the mostrepresentative patristic authors such as Justin Martyr, Irenaeus, Clement ofAlexandria, Origen, Cyril of Jerusalem, John Chrysostom, Jerome, Augustine andCaesarius of Arles. Of course, not all these early authors comment at length on the
+ passage in question, but the selection included is enough to give us a goodoverview of the
+ Rezeptionsgeschichte
+ of Zechariah 9:9 in early Christianity.Unlike Mark and Luke, Matthew not only presents the triumphal entry ofJesus into Jerusalem, but also provides a theological undergirding for it, byquoting, as he has done eight times before,
+1
+ one of the prophets of old. He hasalready quoted Isaiah, Hosea, Jeremiah and the Psalms, but this time he quotesfrom Zechariah (without actually naming him). The formula used to introduce thequotation is the typical one: ἵνα πληρωθῇ τὸ ῥηθέν, “so that it may be fulfilledwhat was said”.
+2
+ In order to better highlight the manner in which Matthew makes use ofZechariah’s prophecy, I have placed the two texts side by side and applied variouskinds of formatting which emphasize the similarities and the differences. The partswhich are essentially the same in the two books I have underlined. The parts inZechariah which do not occur in Matthew (because of the form of the traditionreceived by Matthew or because the evangelist chose to omit them for theologicalreasons of his own) I have put in
+boldface
+. I have also used bold text to mark thewords which occur in Matthew but which are lacking in the Greek text ofZechariah. One word which occurs in both texts, but not in the same sequence, Ihave put in
+italics
+.It is perhaps useful to list below the variants in the other Greek versionswhich postdate the Septuagint.
+3
+We can now proceed to a more detailed analysis of the Matthean text,examining verse 5 one sequence at a time.
+εἴπατε τῇ θυγατρὶ Σιών
+, “say to the daughter of Zion”. Unlike Zechariah,who prefaces the oracle itself with a typically Semitic parallelism (“Rejoicegreatly, O daughter Zion! / Proclaim, O daughter Jerusalem!”), Matthew uses ashort text. His choice of words at the beginning of v. 4 is identical with the one inIs. 62:11b (LXX): “Say to the daughter of Zion: ‘Behold, your Savior comes toyou, having his own reward and his work before him.ʼ”
+4
+ Some scholars are actuallyinclined to think that 21:5 is a composite quotation in which the shorter Isaianicexcerpt “was suggested because Zech. 9:9 itself used the expression ‘daughter ofZion’ in its first clause with its call to Israel to rejoice.”
+5
+ Indeed, we can reasonablysuppose that Matthew used εἴπατε τῇ θυγατρὶ Σιών rather than the long formula inZechariah because he wanted to direct the perceptive reader or listener to anotherkey passage which also prophesies
+the arrival
+ of a Savior. The similarity betweenthe two prophetic texts, in light of the motif of a coming King / Savior, is strikingenough to make possible a conjecture along these lines.
+6
+ But the brevity of the introductory formula may be due to the fact that theevangelist does not want the readers’ attention to dwell too much on “the daughterof Jerusalem”. After all, the important piece of news which should get all theattention is the arrival of the King. In addition to using a condensed form, Matthewavoids using imperatives such as “rejoice” and “proclaim” which would havereferred to a personified Jerusalem, but employs a rather more impersonalimperative, addressed to no one in particular: “You (pl.) tell”.But why is the “daughter of Zion” not told to announce the news herself?Why is she not prompted to rejoice about the good news of the coming Messiah? Itmay be that the evangelist, knowing beforehand that the Messiah will be rejected,abused and crucified in Jerusalem, does not see fit to retain the wording ofZechariah. How could he prompt Jerusalem to rejoice over the coming king, whenhe knows very well that Jerusalem is “the city that kills the prophets and stonesthose who are sent to it” (Mat 23:37)?
+7
+ Instead, on a note which is significantly less jubilant and triumphant than the one in Zechariah, he bids others to announce toJerusalem the arrival of the Messiah.
+ἰδοὺ ὁ βασιλεύς σου ἔρχεταί σοι
+. This is the only OT text used by Matthewto refer to Jesus directly as king. That the evangelist would quote a prophetical textwhich speaks of Jesus’ kingship is understandable, given the fact that the title isascribed to Jesus at the beginning of his Gospel, when the Magi come to Herod andinquire about ὁ τεχθεὶς βασιλεὺς τῶν Ἰουδαίων, “the one born king of the Jews”(Mat. 2:2). Towards the end of the Gospel, we find the same imagery (the Son ofMan as King and Judge) in the discourse about the final judgment (25:34, 40).Paradoxically, even in the trial scene the title is reinforced, despite the sarcasm anddisparagement on the part of the Jewish leaders. Pilate himself will ask Jesuswhether he is a king of the Jews (27:11), the soldiers will deride Jesus’ kingship byfurnishing him with mock royal insignia (crown, scepter) and by scornfully bowing before him (27:29) and the seditious claim for which he was condemned (“Jesus of Nazareth, king of the Jews”) will be stuck on the cross for all to see (27:37). Lastof all, there is, sadly, a tragic irony in the jeers of the Jewish leaders. For all theirridicule and disdain, the One hanging on the cross
+is
+ truly “the king of Israel”(27:42).
+ πραΰς
+. Out of the four attributes enumerated in Zechariah, Matthew keepsonly two, the first of which could allude to the Moses typology.
+8
+ Although it mayseem surprising to some,
+9
+ there are important reasons for omitting the other two,regardless of which text (LXX or Hebrew) Matthew may be supposed to have had before him.
+10
+ The first attribute ‒
+ ṣaddîq
+ / δίκαιος /
+
+“just” ‒ would suggest the ideaof a Judge, but when he enters Jerusalem Jesus does not come to execute judgment(as he will most certainly do at the end of the age).
+11
+ The second attribute is omitted for similar reasons. In the Hebrew sequence
+wǝnôšāʻ
+ (“and having salvation”, KJV) the participle of
+ yāšaʻ
+ is in the Niphalform, meaning “saved” or “delivered” (cf. Deut 33:29 and Ps 33:16 for similarusage of the same form).
+12
+ Although it would have been appropriate to speak of ahuman king that he is “saved” by God (and therefore victorious), the attribute doesnot fit the context of Jesus’ entry into Jerusalem. The Greek text of the LXXcontains a different idea (the king is σῴζων, “saving” or “salvific”), one that canmost certainly be associated with Jesus’ mission and purpose. But although theverb σῴζων would have been in line with the idea that Jesus came to save his people from their sins (cf. 1:21), it may have been avoided here precisely in orderto prevent readers from expecting a military leader who will bring not spiritualsalvation, but political deliverance from their enemies.
+13
+ By contrast with themessianic pretenders who haunted Israel in the first century (cf. Acts 5:36‒37) andafterwards, it is expressly said of Jesus that he is a meek Messiah (cf. 11:29), notone who will storm the Roman garrisons and drive Israel’s enemies out of the HolyLand. As Jesus himself had said, not the violent but the meek shall inherit the earth
+ (5:5). The rendering πραΰς
+
+for the Hebrew
+ʻānî
+ is also used by Aquila. By contrast,Symmachus and Quinta have πτωχός, whereas Theodotion uses ἐπακούων.
+ἐπιβεβηκὼς ἐπὶ ὄνον
+. Unlike the other pilgrims, who would have typicallychosen to walk the last stretch of their journey to Jerusalem, Jesus arranged for hisdisciples to bring him a donkey to ride on, a mode of transport which ‒ though itmight seem strange to modern Europeans ‒ was commonly used by nobility,
+14
+ evenroyalty,
+15
+ in the Ancient Near East. Under the influence of Zechariah 9:9, rabbinicJudaism would come to associate the donkey with salvation
+16
+ or the arrival of theMessiah.
+17
+ It should be noted that among the Synoptics only Matthew uses the termὄνος to refer to the animal brought to Jesus. Matthew and Luke use the term πῶλος
+
+(“foal, colt, young donkey”). The evangelist does not use the Septuagintal ὑποζύγιον (which is reserved for the second member of the parallelism), but rathera more precise term: ὄνος, which can refer either to a female or a male donkey.Although ὄνος is clearly feminine in the other verses where it occurs (21:2 ὄνονδεδεµένην καὶ πῶλον µετ᾽ αὐτῆς; 21:7 ἤγαγον τὴν ὄνον), in this verse (21:5) thenoun is anarthrous, which has made some scholars wonder what is the grammaticalgender of the animal mentioned in the prophecy as given by Matthew. Or, to put itdifferently, what did Matthew think that the gender of the first animal was in the prophecy? Did he think that the prophecy referred to a male animal or to a femaleanimal? The answer to this question is tied to another one: in what language wasthe text from which Matthew quoted? Scholars have proposed various answers, andthe range of possibilities is as follows:
+(1) Matthew translated the Hebrew prophecy afresh, failed to note both the parallelism and the fact that
+ḥămôr
+ is masculine, and thus the ὄνος he has in mindis feminine.
+18
+ (2) Matthew used a Hebrew
+Vorlage
+which he translated afresh (and moreaccurately), but he did not break the parallelism. In translating the prophecy, heequated the masculine
+ḥămôr
+ (‘donkey’), in the Hebrew text of Zechariah, withὄνος understood also as masculine, especially that his Gospel sought to engage andevangelize Jews who would have been aware that Zechariah had envisioned a maleanimal.
+19
+ In this case, the evangelist would refer to a female ὄνος in 21:2, 7 and toa male ὄνος in the text of the prophecy itself. Thus, we could read the Greek test asfollows: ἰδοὺ ὁ βασιλεύς σου ἔρχεταί σοι πραῢς καὶ ἐπιβεβηκὼς ἐπὶ ὄνον (=maledonkey) καὶ ἐπὶ πῶλον υἱὸν ὑποζυγίου. The original parallelism would be retained.Jesus rides on only one animal, which is accompanied by its mother. But then weare left with the question: why would Matthew feel the need to introduce thefemale donkey in 21:2 and 7? Gundry puts forward the following answer:“Matthew emphasizes the presence of the mother animal, not to equate her with themasculine
+ḥămôr
+ in the quotation, but to underscore that the young donkey reallywas, as Mark said, unused.”
+20
+ (3) Matthew used a recension of the LXX which contained the anarthrousὄνος, in which case the sex of the animal would not be explicit. The evangelistmistook the gender of the noun ὄνος and unwittingly broke the parallelism in theOT prophecy. The Greek text as he intended it would be: ἰδοὺ ὁ βασιλεύς σουἔρχεταί σοι πραῢς καὶ ἐπιβεβηκὼς ἐπὶ ὄνον (=female donkey) καὶ ἐπὶ πῶλον υἱὸν ὑποζυγίου.(4) Matthew used a recension of the LXX which contained the anarthrous(and ambiguous) ὄνος which he thought was feminine.
+21
+ He understood parallelism, but chose to ignore it because, as Menken suggests, adopting a “more probable, but at the same time inevitably hypothetical” explanation, he chose toallude to 2 Kings 16:1‒4, when Ziba brings a pair of donkeys (with provisions) toking David, when the latter was on the verge of leaving Jerusalem in dire
+ circumstances. Menken’s explanation is probably, as he himself readily admits, toohypothetical.
+22
+ How reasonable is it to expect that Matthew’s recipients (most ofthem probably illiterate) would have read his Gospel holding a concordance nearbyand looking up all instances of ὄνος and βασιλεύς so as to be able to pick the fineallusions which Menken thinks Matthew inserted in the text?
+καὶ ἐπὶ πῶλον υἱὸν ὑποζυγίου
+. Yet again, Matthew’s text differs from thewording in the LXX (πῶλον νέον, “young colt”), which is shorter (yet somewhat pleonastic). By contrast, Matthew’s text corresponds closely to the original Hebrew(
+wǝ‛al-‛ayir ben-’ăṯōnōṯ
+23
+), not only with regard to the terminology for the animals, but also by making sure that the preposition ἐπί
+
+is retained a second time (unlike inLXX, which uses it only once).
+24
+ The evangelist does use the term ὑποζύγιον(which can refer to any beast of burden), but only in the second member of the parallelism which he adapts from Zechariah. Now that we have analyzed the differences between two texts, we are left towonder: are we dealing, as it is often alleged, with an instance of “prophecycreating tradition”? The question of historicity, as David Instone-Brewer wellremarked, is an important one: “Did Matthew invent the second ass in order tofulfill the Scripture, or did he have access to a tradition which the others did notknow or did not see any reason to include?”
+25
+ Before attempting to supply ananswer to this question, it should be pointed out once again that Matthew mentionstwo animals throughout the pericope. Jesus announces the disciples that they willfind a donkey tied and a colt with her (21:2). The pronouns in v. 3, referring to theanimals, are clearly plural (αὐτῶν, αὐτούς) and v. 7 says that the disciples broughtthe donkey and the colt and that they placed their cloaks on them and Jesus sat onthem (ἐπεκάθισεν ἐπάνω αὐτῶν). The text is difficult not only because of theambiguity (does the pronoun αὐτῶν refer to the animals or to the cloaks?) but because it is hard to imagine Jesus astride on the two animals. Consequently,commentators in the last century were quick to pass harsh judgment on Matthew,accusing him of having changed “Mark’s simple, dignified narrative of this historiceven into something like a circus spectacle” especially since “Zechariah had nointention to say the king would come riding on two asses at the same time.”
+26
+We have already seen some explanations as to why Matthew may haveintroduced a second donkey in the story. Clearly, commentators are not short of possible explanations and “there are no limits to what a biblically literate personcan fantasize!”, as Ulrich Luz aptly remarked in connection with this passage.
+27
+ Davies and Allison survey seven possible explanations (several of which have been presented above) only to advance another one, which makes much of Matthew’s parallelism between Jesus and Moses,
+28
+ a comparison based, among other things,on the alleged typological use of Exodus 4:19‒20, which describes Moses takinghis wife and children and setting them on τὰ ὑποζύγια. Given that some later rabbisused Exodus 4:19‒20 to interpret Zechariah 9:9, the aforementioned authors thinkthat Matthew, influenced by the plural in the Exodus passage, found two animals inthe ambiguous text of the OT prophet.
+29
+ Instone-Brewer opines that, although Matthew understood the concept of parallelism, he did not believe that Scripture should be interpreted that way.Presumably, in line with a certain strand of first century rabbinic Judaism, Matthewfound it unacceptable to apply this category to Scripture.
+30
+ Allegedly, first-centuryrabbis would not have found persuasive the idea that Jesus truly fulfils theZechariah prophecy if Matthew had quoted the biblical text but mentioned oneanimal only (the colt, as Mark and Luke do).
+31
+ Although Instone-Brewer’s article salvages to some extent the reputation ofMatthew (who is usually accused of being misguided, unperceptive or downrightignorant about the notion of parallelism), two problems remain. First, Matthewmay have been aware of parallelism as a rhetorical or literary device but may have been excessively dependent on such first-century rabbinical hermeneutics as werenot universally accepted by Jews even at that time (as Instone-Brewer points out).It appears somewhat bizarre that he would want to appeal solely to a narrow groupof possible readers rather than to engage and try to persuade a much wideraudience.Secondly, even if Matthew recognized the possibility of parallelism butdeliberately chose to ignore it in order to fit his text to the hermeneutics of thenarrow circle of contemporary rabbis, any reader must still have been perplexed
+ attempting to visualize the scene with Jesus riding on two animals. Some medievalillustrators, being uncommitted to realistic representation, have depicted Jesusactually riding astride the mother and the colt simultaneously.
+32
+ Moderncommentators have come up with equally fanciful representations. K. F. A.
+
+Fritzsche thinks that Jesus must have mounted the animals in succession, ahypothesis which D. F. Strauss discounts on account of the short distance fromBethphage to Jerusalem.
+33
+ Otto Michel surmises that the Evangelist had in mind akind of litter in the form of an oriental throne mutually supported on the backs ofthe two animals.
+34
+ Gnilka conjectures that Matthew depicted Jesus riding on themother and using the foal as a sort of footstool.
+35
+ If nothing else, the above cursoryreview of commentaries testifies to the ingenuity of some scholars. But it would perhaps be wiser to conclude that Matthew did not write his Gospel with theconcern for accuracy of a modern historian. The evangelist believed that Jesus’arrival in Jerusalem fulfilled the prophecy of Zechariah 9:9, and, either by using a prior tradition, or by rewriting the material in Mark, sought to present the event in amanner which made it consistent with his own understanding of the OT text.Attempts to read his Gospel as if it were the reportage of a modern journalist or acinema director’s scenographic prescription for the realistic portrayal of Christ'sentry into Jerusalem misunderstand the very nature of the text and put in its place a phantasm of their own historically short-sighted imagination.
+ Before attending to these differences and attempting to establish theirtheological significance, it is in order to say a few things about the context in whichthe prophecy is quoted. If we look at the basic structure of John’s Gospel (the“Book of Signs” in chapters 1−12, followed by the “Book of Glory”, in 13−21), wenote that the entry narrative is placed towards the end of the “Book of Glory” andthat the event still carries the echoes of the raising of Lazarus. The day before Jesusrides into Jerusalem on a donkey he lodges in Bethany, in the house of Mary,Martha and Lazarus, the latter of whom he had raised from the dead (John 12:12).In Bethany he is anointed by Mary and alludes to his own death by referring to his burial (ἐνταφιασµός).
+36
+ When the crowd finds out about his temporary residence, itfollows him there not only to see Jesus but also to see Lazarus (12:9). Meanwhilethe latter seems to have become a focus of curiosity for the populace and an objectof outright hostility for the religious authorities ‒ so much so that he almost becomes “collateral damage” as they secretly plan to do away with him (12:10) andthus eliminate one factor augmenting Jesus’ fame and encouraging people to believe in him (12:11). The news of Lazarus’ raising from the dead continues tospread even during the procession towards Jerusalem, having been disseminated byeyewitnesses (12:17). The evangelist reiterates and thus underlines the idea that thecrowd had been prompted to rally around Jesus precisely by this last sign out of theseven which he had performed (12:18).Coming back to section 12:14−15, we should note that in a way which is peculiar to John,
+37
+ the passage is followed by an insight which reflects the post-resurrection perspective of the disciples: they had not understood the deep meaningof the Zechariah prophecy and its bearing on Jesus’ action of finding a youngdonkey and mounting it (12:16). Strikingly, in the Gospel of John it is Jesus, notthe disciples, who finds an ὀνάριον and sits upon it. And the description of the procession itself is given there in a more condensed form, as if John had no patience with the “pomp and circumstance” supplied by the other evangelists. In
+ his Gospel, the people in the crowd carry palm fronds and hail Jesus as “king ofIsrael”, but they do not spread their cloaks in front of the young donkey.
+µὴ φοβοῦ, θυγάτηρ Σιών
+. The first part of the quotation (µὴ φοβοῦ) doesnot belong to Zechariah, but seems to have been taken from either Zephaniah3:14−16 (MT) or Isaiah 40:9, passages which speakrespectively about the presenceof God in the midst of his people and about the coming of the Lord. Like Matthew,John chooses to omit the invitation to rejoice which is part of the Zephaniah andZechariah prophecies. If we take into account the immediate context of the entrynarrative, we find a good explanation for the omission. The anonymous crowd isfickle and its faith is wavering. People believe on the spur of the moment (mainly because of a sign, 12:11); they acclaim Jesus, yet in the end they question his statusand his words (12:34). The ensuing dialogue between Jesus and the crowd shows just how volatile and unpredictable the mood of the people is (12:27−37). Last ofall, after Jesus (who is portrayed as the Light of the world in 8:12; 9:5; cf. 11:9)hides himself from public view, the evangelist launches a severe indictment againstthe unbelief of the people, using two classical quotations (Isaiah 53:1 and 6:10).The last paragraph of chapter 12 contains a sobering warning about the danger ofdisregarding the message of Jesus and about the judgment on the Last Day. With asense of impending doom (cf. the references to darkness in 12:35, 46) loomingover the city and its inhabitants, joy and jubilation no longer fit into the larger picture. Moreover, since the raising of Lazarus is typically a divine manifestationwhich produces fear, it is appropriate that the author of the Gospel allays the fearsof the crowd (and of his readers) with the formula µὴ φοβοῦ (“do not fear”).
+38
+ Afterall, Jesus sometimes conveys so awesome an impression that even so cruel andcynical figure as Pilate is seized with fear encountering him (19:8).
+ἰδοὺ ὁ βασιλεύς σου ἔρχεται.
+ The discussion of Jesus’ title as king occupiesa more central place in the Gospel of John (especially chapters 18−19) than inMatthew. Early in the Fourth Gospel Jesus is introduced as “King of Israel” by thevoice of Nathanael (1:49). However, the evangelist sees to it that his readers soonrealize that Jesus is not a king who will yield to politically motivated pressure bythe crowd (6:15), for his kingdom “is not of this world” (18:36).A significant omission in the text quoted by John is the pronoun σοι (‘toyou’). In light of Jesus’ universal ministry, it is easy to understand why theevangelist would want to avoid a pronoun which in this context would reinforce theidea of a ministry directed solely to the Jews. Yes, Jesus is coming to Zion (just ashe came εἰς τὰ ἴδια, 1:11), but ultimately his coming is for the salvation of thewhole world.
+39
+καθήµενος ἐπὶ πῶλον ὄνου.
+Rather than using the verb ἐπιβαίνω, employedin the LXX (and in Matthew), John resorts to κάθηµαι,
+
+a verb which is typicallyused in connection with sitting on the throne.
+40
+ Moreover, instead of πῶλον νέον(LXX), we find πῶλον ὄνου, an association of words which, according to someinterpreters, may allude to Gen. 49:11.
+41
+ But more important than these changes,which may or may not have theological significance, it is striking that John hasomitted all the other attributes given to the messianic king in Zechariah. Does heexpect his readers to recognize in Jesus the meek, saving and just king, eventhough the text from the OT is quoted in an abridged form?
+42
+ Perhaps thesimplicity of the king sitting on the young donkey has to be matched by theterseness of style in the verse which announces it.
+ Justin Martyr refers to the prophecy of Zechariah twice in his writings. In hisfirst
+ Apology
+ (ch. 35), he quotes the text alongside other passages which prove thatJesus’ crucifixion truly fulfilled the Scripture. However, he erroneously ascribes it(perhaps by a slip of the pen or the mind) to the prophet Zephaniah. The same prophecy is explained in more detail in his other major work, the
+ Dialogue withTrypho
+ (ch. 53).
+43
+ Justin is not concerned in the least with the sort of questions thatmodern scholars ask. He uses Zechariah’s prophecy both apologetically and polemically and seeks to prepare the terrain by mentioning the prophecy in Genesis49:11, which portrays Juda binding his foal (πῶλον) to a vine and his donkey’s foal(τὸν πῶλον τῆς ὄνου) to the tendril. This prophecy (πρόδηλωσις) Justin refers bothto the works done by Jesus at his coming and to the Gentiles who will come to believe in Jesus. The latter he likens to an unharnessed (ἀσαγὴς) foal, one unusedto the weight of the yoke or collar on its neck. However, Jesus, through hisdisciples, will teach them his word and under that yoke, they will yield their backsto the bearing of all things for the sake of the good things announced by theirSavior. Having made this point, Justin goes on to say that Jesus had his disciples bring him a donkey with its foal in order to make manifest that he was the Christ;
+whereupon the apologist pauses briefly to criticize his opponent, Trypho, and theJews generally.
+44
+ He then proceeds to quote Zechariah (from the Septuagint
+45
+) andcomment on the meaning of the passage. He explains that both Jacob, in Genesis,and the Prophetic Spirit, in Zechariah, made mention of a donkey (ὄνον ὑποζύγιον)with its foal (µετὰ τοῦ πώλου αὐτῆς) as being in the possession of Jesus, whohimself requested his disciples to bring both animals. This was a prediction(προαγγελία) that those of the synagogue together with the Gentiles will come to believe in him. Just as the unharnessed colt was a symbol (σύµβολον) of thosefrom among the Gentiles, so likewise the harnessed donkey (ἡ ὑποσαγὴς ὄνος) wasa symbol of the Jewish nation: “For you possess the law which was imposed [uponyou] by the prophets.”
+46
+ In sum, Justin interprets the passage allegorically, blazing a trail which will be followed by later interpreters. Unconcerned with the arcane aspects whichoccupy the attention of the modern scholars, he sees the entry episode assymbolically announcing the grand narrative of the Christian faith: Jews andGentiles come together under the yoke of Christ. Given the nature of the work inwhich he expounds the OT passage, his comments are not only apologetic but also polemic; this combination, as we shall see, is very much present in theinterpretations of later writers such as Irenaeus and Origen.
+ Irenaeus does not comment much on the text in Zechariah, but what he saysabout it justifies his inclusion in the
+ Rezeptionsgeschichte
+of this passage. In
+ Against Heresies
+(III.19), Irenaeus alludes to the prophecy in a chapter which is part of a larger argument about the Incarnation in which the bishop of Lugdunumseeks to refute both the Ebionites and the followers of Valentinus. Jesus Christ wastruly the Word of God, but he became a man because otherwise we could not be joined to his incorruptibility and immortality. He was not a mere man, because hehad a pre-eminent birth from the heavenly Father and a pre-eminent generationfrom the Virgin, as Isaiah 7:14 testifies. The Scriptures foretell also that “He was aman without comeliness, and liable to suffering; that He sat upon the foal of an ass;that He received for drink, vinegar and gall; that He was despised among the
+ people, and humbled Himself even to death and that He is the holy Lord, theWonderful, the Counsellor, the Beautiful in appearance, and the Mighty Godcoming on the clouds as the Judge of all men.”
+47
+ In IV.33.1, the same text (now part of a larger argument directed against theMarcionites) is listed among a series of aspects which characterized Christ’s firstadvent.
+48
+ The author begins his argument with Paul’s statement that the spiritualman judges all men, but he himself is judged by no man (1 Cor. 2:15). In a polemical charge, Irenaeus writes that the spiritual man judges both the Gentiles,who serve the creature more than the Creator, and the Jews, who “do not recognizethe advent of Christ, which He accomplished for the salvation of men, nor arewilling to understand that all the prophets announced His two advents: the one,indeed, in which He became a man subject to stripes, and knowing what it is to bear infirmity, and sat upon the foal of an ass, and was a stone rejected by the builders, and was led as a sheep to the slaughter […]; the second in which He willcome on the clouds, bringing on the day which burns as a furnace, smiting the earthwith the word of His mouth, slaying the impious with the breath of His lips, havinga fan in His hands and cleansing His floor, and gathering the wheat indeed into His barn, but burning the chaff with unquenchable fire.”
+49
+ Much like Justin before him, Irenaeus uses the Zechariah prophecy as a polemical weapon against his theological opponents, but with one importantdifference: he does not allegorize the text in the fashion of his predecessor. In one passage (
+ Adv.haer.
+III.19), he seeks to subvert the precepts of the Ebionites byasserting the full divinity of Christ, while also emphasizing his existence as a fullhuman being. In the other passage (
+ Adv.haer.
+IV.33) he directs his criticism againstthe Jews, who had failed to recognize the first advent of Christ as a meek king.
+Clement quotes the Zechariah prophecy only once in his writings, more precisely, in
+The Instructor
+, an ethical handbook of Scripture-based advice forChristians on all spheres of life. He begins with the definition of pedagogy as thetraining of children, a term which can be applied to Christians in a spiritual sense.Of course, the author is aware that Scripture uses other images and symbols to referto Christians: lambs, suckling calves (e.g. Amos 6:4), doves, chickens and “colts(πώλους) unyoked to vice, not broken in by wickedness, but simple and bounding
+ joyously to the Father alone […]; free and new-born, jubilant by means of faith,ready to run to the truth, swift to speed to salvation, that tread and stamp under footthe things of the world (I.5.15).
+50
+ At this point Clement quotes the passage inZechariah and remarks that Scripture does not speak simply of a “colt” (πῶλον), but of a
+ young
+ (νέον) one, “to show the youth of humanity in Christ and theeternity of simplicity, which shall know no old age”.
+51
+ The young colts are theChristians who are reared up by the divine colt-tamer (πωλοδάµνης). The Scripturespeaks about the Christians in the prophecy of Jacob about Judas (“he bound thecolt to the vine”) which means that this simple and childlike people (λαόν) is bound to the word, which the vine figuratively represents (ἀλληγορεῖ).Clement’s penchant for allegory is very obvious throughout all his extantwritings, therefore it is not at all surprising that he ascribes a symbolic meaning tothe passage in Zechariah. However, unlike the commentators before him, he doesnot feel the need to use the text polemically, but rather uses it to buttress thecomprehensive “pedagogical” program set forth in
+The Instructor
+, the second workof his well known trilogy
+Origen has written an extensive commentary on the Gospel of Matthew, butfor the purposes of the present paper I shall make use of his commentary on theGospel of John (the 10th book), where he wrote extensively about Zechariah’s prophecy. After quoting all four triumphant entry passages, he comments on thespiritual meaning of Jesus’ radical actions (the cleansing of the Temple) and turnsto the significance of the entry episode by reverting to the oracle of Zechariah(§155). Strikingly, Origen understands Matthew as saying that Jesus sat on bothanimals (§156,
+52
+ §160, §164), but he is not at all concerned to explain how thatwould have been managed. For Origen, the ἱστορία (
+i.e.
+ literal sense of theScripture) is not the ultimate concern, especially since the Jews of his time wouldcompare Zechariah 9 and Matthew 21:5 and press (θλίβουσιν) Christians to answerin what manner Jesus destroyed the chariots from Ephraim and the horses fromJerusalem, as predicted by Zechariah 9:10 (§163). Externally, the narrative itselfhas nothing grand or royal about it, and it must seem odd that Jesus would ask fortwo animals to carry him the short distance of 15
+ stades
+ (§163‒166). For thecommentator all these are arguments that something else is at stake in the
+ triumphal entry passages and that the text must ultimately have a deeper sense thanthe merely material (σωµατικόν) one. Although Origen is familiar with theinterpretation given by Justin, which he summarizes at some point (without namingits author, §180
+53
+), he posits that what the texts really speak about is the entry ofthe Logos into the soul, the latter being symbolized by Jerusalem. The femaledonkey on which Jesus rides and which needs to be freed from its bonds representsthe simple language (τοῖς ἀφελέσι γράµµασι) of the OT, which is explained by thetwo disciples sent to loose it. One of them represents those who adapt and interpretthe text allegorically so as to heal the soul, while the other represents those who bring to light by the things which lie in shadow the good and true things of thefuture (§174). But Jesus is equally carried by the young colt, viz. the NT; for in both Testaments we can find the word of truth that cleanses and purifies us (§175).It is not without a reason that the OT can be compared to a beast of burden, for“many are the burdens, heavy the loads which are brought into view by the texts ‒especially of the OT ‒ as he can clearly see who observes what is done in thisconnection on the part of the Jews” (§178).
+54
+ Meanwhile a colt is not a beast of burden in the sense that a mature donkey is. Rather “the new word is less heavythan the old” (§179).
+55
+ After a long detour, Origen comes back to the text ofZechariah, dealing with what had been left unanswered: how should oneunderstand the chariots of Ephraim and the horse featured in Zechariah’s prophecy? The former are the heterodox, who are armed with specious discourses(πιθανοῖς λόγοις); the latter is the “vain thing for safety, that is the mad desire(θηλυµανῆ ἐπιθυµίαν
+56
+) which has accustomed itself to the things of sense andwhich is injurious to many of those who desire to dwell in Jerusalem and to attendto the sound word” (§204).
+57
+ The bow of war (τόξον πολεµικόν, Zech 9:10)naturally evokes the fiery darts of the enemy (Eph. 6:16) which the one whoreceives Jesus into his temple should not fear (§205). As if to make a practical
+ application of how Jesus destroys the specious discourses of the heterodox, inconcluding this section, Origen sets out to dismantle the interpretation of Heracleon(
+ fl.
+ 175 A.D), a Gnostic teacher, perhaps the most notable follower of Valentinus.With Origen, as it is often said, biblical commentary comes of age. An astuteexegete attentive to fine detail, and with a fertile mind, Origen deals at length withwhat he takes to be the deep meaning of the Zechariah prophecy as quoted inMatthew. True to his hermeneutical theories expounded in
+ Περὶ ἀρχῶν
+ (VI.2), hesees beyond the “bodily” meaning of Scripture and, despite his familiarity withJustin’s interpretation, allegorizes the passage in a different and more complexway. For he assigns an allegorical meaning not only to the ass and the colt (inwhich he sees the OT and NT, respectively), but also to Jerusalem itself and to thedisciples sent forth to bring to him the two animals. And finally he formulates avery ingenious answer to the smug question of his opponents, who wanted to knowin what manner Jesus fulfilled the prophecy concerning the destruction of thechariots of Ephraim
+ Cyril’s catechetical orations were intended as an exposition of the Creed forcatechumens. His 12th lecture, on the Incarnation of the Word, begins with theclassical passage in Isaiah 7:14 and traces through the Scriptures the divine promise of a Redeemer. For Cyril, the promise of the coming redeemer is presenteven in verses such as “He shall come down as rain upon a fleece” (Ps 72:6 LXX).Asking rhetorically “But who is this that cometh down?”, Cyril supplies the answerhimself by quoting, among other texts, that of Zechariah. He then constructs animaginary dialogue with the prophet: “Kings are many; of which speakest thou, OProphet?
+58
+ Give us a sign which other Kings have not. If thou say, A king clad in purple, the dignity of the apparel has been anticipated. If thou say, Guarded byspear-men, and sitting in a golden chariot, this also has been anticipated by others.Give us a sign peculiar to the King whose coming thou announcest. And theProphet maketh answer and saith, ‘Behold! thy King cometh unto thee, just, andhaving salvation: He is meek, and riding upon an ass and a young foal’, not on achariot. Thou hast a unique sign of the King who came. Jesus alone of kings satupon an unyoked
+59
+ foal, entering into Jerusalem with acclamations as a king.”
+60
+ Atthe end of his argument, Cyril adduces two more signs in reply to questions like“Where will the King stand?” (Zech. 14:4) and “What will the King do?” (Is.35:4‒6).
+ Cyril does not bring anything new in his exposition of the passage inZechariah. The purpose of his catecheses is merely to acquaint the baptizands withthe main tenets of the Christian faith. The prophecy of Zechariah 9:9 is relevant forCyril not for its allegorical potential, but because it features in the economy of theincarnation of Jesus Christ.
+ John Chrysostom comments at length the passage from Zechariah in his
+ Homilies on the Gospel of St. Matthew
+. In his opinion, the prophecy is importantnot only because it is fulfilled by Jesus literally, but also because there is asymbolic edge to it. “He proclaimed beforehand the calling of the unclean Gentiles,and that He should rest upon them, and that they should yield to Him and followHim, and prophecy succeeded to prophecy.”
+61
+ Beyond the mere fulfillment ofScripture, in Jesus’ riding on the donkey Chrysostom sees a standard of wise living(µέτρον φιλοσοφίας). In effect, by his gesture, Jesus was correcting the Christian practice setting us rules (κανόνας) of necessary use and fixing boundaries (ὅρους)how far we may proceed.
+62
+ Jesus travels austerely (using horses or mules), “notdriving chariots, like the rest of the kings, not demanding tributes, not thrustingmen off, and leading about guards, but displaying His great meekness evenhereby.”
+63
+ After a polemical remark directed against the Jews,
+64
+ Chrysostomreturns to the deeper meaning of Jesus’ action seeing in it a prophecy about the eraof the Church: “Here the church is signified by the colt (διὰ τοῦ πώλου), and thenew (νέος) people, which was once unclean, but which, after Jesus sat on them, became clean. And see the image preserved throughout. I mean that the disciplesloose the asses. For by the apostles, both they and we were called; by the apostleswere we brought near. But because our acceptance provoked them also toemulation, therefore the ass appears following the colt.”
+65
+ That the action of Jesusis to be understood prophetically is evident from two facts: (1) the prophet (
+i.e.
+ evangelist) took care to specify with such great exactness the age of the ass and (2)the fact that the colt proved to be so docile. Although he had been unbroken(ἀδάµαστος) and not used to the reins, he proceeded in an orderly fashion, “whichthing itself was a prophecy of the future, signifying the submissiveness of the
+ Gentiles, and their sudden conversion to good order. [...] So that the unmanageable became orderly, and the unclean thenceforth clean.”
+66
+ Although John Chrysostom does not typically make use of allegory, becausehe is more interested in the moral application of a text (as is evidenced by hisreference to the “standard of wise living”), he seems very much open to exploringthe symbolic depth of the Zechariah prophecy. Lacking the sophistication ofOrigen’s exegesis, Chrysostom’s interpretation is in effect a simplification of theexposition first embraced by Justin. Whereas Justin still saw two distinct categories(Jews and Gentiles) who came to believe in Jesus, Chrysostom sees only one all-encompassing category, the Church.
+ It is very probable that Jerome was familiar with Justin’s interpretation, because in his
+Commentary on Matthew
+he interprets the text in a fashion similar tothe one we have encountered in
+The Dialogue with Trypho
+. However, unlike his predecessor, Jerome is aware of a major difficulty in the text, namely that Jesuscould not have sat on two animals for a short journey like the one described by theGospel: “Since the historical narrative contains either an impossibility or adisagree, we are transferred to a deeper significance. Thus under the figure ofdonkey the synagogue is understood, which was under the yoke of the Law. Thedonkey’s rather frisky and free colt represents the people of the Gentiles, on whomJesus sat. He sent his two disciples to them both, one to the circumcision and theother to the Gentiles”.
+67
+ These are not the only elements understood allegorically;the the two disciples sent by Jesus are taken to mean “knowledge and works”
+68
+,while the apostolic clothing placed on the animal refers to “the teaching of thevirtues, the explanation of the Scriptures or of the various kinds of ecclesiastical
+dogmas”.
+69
+ In connection with this last aspect, Jerome notes dutifully a distinctionwhich is his opinion is very important: it is the apostles who place their garmentsupon the donkey, while the throng, which is inferior, spreads the garments at itsfeet.
+70
+In the 18th book of his magisterial work
+The City of God
+, Augustine sets outto survey and interweave in a grand tapestry secular history and biblical history. Heexpounds the message of the prophets, insisting mainly on the predictions whichfind their fulfillment in Christ and the Church. In fact, for Augustine everythingconverges in the Christ event ‒ although he accepts that some oracles will have adouble fulfillment: for instance, what is arguably the best known oracle of Haggai(whose prophecies are discussed together with those of Zechariah and Malachi)−“Yet one little while, and I will shake the heaven, and the earth, and the sea, andthe dry land” − he interprets as follows: “He moved the heaven by the testimony ofthe angels and the stars, when Christ became incarnate. He moved the earth by thegreat miracle of His birth of the virgin. He moved the sea and the dry land, whenChrist was proclaimed both in the isles and in the whole world.”
+71
+ Zechariah’s prophecy about the king riding on a donkey was also about Christ and the Church:“How this was done, when the Lord Christ on His journey used a beast of burdenof this kind, we read in the Gospel, where, also, as much of this prophecy is quotedas appears sufficient for the context.”
+72
+ For Augustine, the historical fulfillment ofZechariah 9:9 is attested by Matthew, therefore further comments about the OT passage are probably superfluous.
+ The last commentator whom we will mention is Caesarius (c. 470–543), the bishop of Arles, known mostly for his collection of sermons addressed to a varietyof audiences. In a sermon about Balaam, after the exposition of the facts, Caesariusattempts to find the deeper significance of the characters in the story. The assreadily suggests itself as a motif which creates a link with the triumphal entryepisode, and thus Caesarius, following in the footsteps of Justin Martyr,conjectures, albeit with lesser degree of confidence, that “perhaps this ass, that is,the Church, first carried Balaam and now Christ. She had been loosed by thedisciples and released from the bonds that tied her for this very purpose, that the
+ Son of God might sit upon her and with her enter the holy and heavenly city ofJerusalem. Then was fulfilled the Scripture which says, ‘Rejoice, O daughter ofZion, exclaim, O daughter Jerusalem! See, your king comes to you, meek andriding on a beast of burden,’ that is, an ass (doubtless he is speaking of believersamong the Jews) ‘or young colt’ (these apparently are those of the Gentiles who believe in Christ our Lord).”
+73
+ As for Balaam, he represents the scribes and thePharisees of the Jewish people. Balac, the king who summons him, represents theopposing power of this world which desires to isolate and devour Israel.
+74
+ Although it would be difficult to prove beyond a reasonable doubt that the bishop of Arles made use of Justin’s
+ Dialogue with Trypho
+, the strikingresemblance between his interpretation and that of Justin makes very plausible theidea that Caesarius was directly influenced by the second-century father.
+In the present paper we have explored the
+ Rezeptionsgeschichte
+ of Zechariah9:9 both in the NT (Matthew and John) and among some of the Church Fathers,taking samples from a period which spans almost five centuries. The examinationof the NT contexts in which Zechariah is quoted shows that each evangelist usesand alters the text in accordance with his theological intent. Both Matthew andJohn present Jesus’ entry as in accordance with the Scriptures; however, the proximity of the Passion narrative makes them avoid the jubilant and triumphanttone associated with the imperative “rejoice!” The text of the Zechariah prophecyis abbreviated considerably by both evangelists, with Matthew evoking only themeekness of Jesus and John retaining only the verb “sitting”. An intriguing aspectof Matthew’s gospel has to do with the way in which he portrays the fulfillment byJesus of the Zechariah prophecy. Though Matthew could hardly fail to havenoticed the common feature of parallelism in the Hebrew Scriptures (e.g. in thePsalms), he does not see it here, representing instead Jesus riding into Jerusalem ontwo animals.Among the Church Fathers there is a strand of interpretation which reads thetext allegorically. This is represented by Justin Martyr, Clement of Alexandria,Origen (the most sophisticated of them all), John Chrysostom, Jerome andCaesarius of Arles. The animals which are brought to Jesus are variously taken bythem to signify the Jews and the Gentiles (Justin, Jerome, Caesarius), Christiansgenerally (Clement), the OT and the NT (Origen), and the Church (Chrysostom).Some patristic commentators are not interested in the allegorical dimensionof the text, preferring to read the Zechariah prophecy as an important witness to the
+ earthly life of Christ and part of the larger history of salvation (Irenaeus, Cyril,Augustine). Exceptionally, one interpreter (John Chrysostom) touches on theethical implications of Jesus’ manner of riding into Jerusalem and uses the episodeas an example of simplicity and austerity to be imitated by all Christians.Last of all, whether or not it is read through the lens of allegory, the text isalso wielded in rhetorical engagement with various categories of opponents (Jews,Ebionites, Valentinians, Marcionites, pagans). Among those who employ the textin order to undermine their adversaries’ stance or respond to their attacks areJustin, Ierenaeus and Origen. Although these are by no means the only Fathers tocomment on the Zechariah text (especially through the prism of the two evangelistswho quote the text), they are proof of the creativity which is at work in thecenturies following the writing of the Gospels. No doubt, further and more detailed analysis could explore the extent inwhich the interpretations proposed by the early Fathers were used and developed inthe late patristic era, in the Middle Ages and during the time of the Reformation.

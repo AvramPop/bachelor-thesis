@@ -1,0 +1,443 @@
+According to the Gospel and the First Episde of John, 1 believers find their
+spiritual origin in God. One of the ways in which this idea is worded, is by
+means of the expression έκ του θεοΰ γεννασθαι, which is, as we shall see in
+detail below, translated either as "to be born of God" or as "to be begotten
+by God." The expression occurs, with variations, in the following passages
+(I give the Greek text as printed in NA 27 , and the two possible English
+translations):
+A series of related expressions, that should be taken into account as well,
+occurs in logia of Jesus in his dialogue with Nicodemus in John 3:3-8:
+John 3:3
+John 3:5
+John 3:6
+John 3:7
+John 3:8
+έάν μή τις γεννηθη άνωθεν, ού δύναται ιδείν την βασιλείαν τοΰ
+θεοΰ.
+5
+Unless one is born/begotten from above, one cannot see the kingdom
+of God.
+έάν μή τις γεννηθη έξ ύδατος και πνεύματος, ού δύναται εισελθειν
+εις την βασιλείαν τοΰ θεοΰ.
+Unless one is born/begotten of water and Spirit, one cannot enter the
+kingdom of God.
+το γεγεννημένον έκ της σαρκός σαρξ έστιν, και το γεγεννημένον έκ
+τοΰ πνεύματος πνεΰμά έστιν.
+What is born/begotten of the flesh is flesh, and what is born/begotten
+of the Spirit is spirit.
+δει υμάς γεννηθηναι άνωθεν.
+You must be born/begotten from above.
+οΰτως έστιν πάς ό γεγεννημένος έκ τοΰ πνεύματος.
+So it is with everyone born/begotten of the Spirit.
+The question is which translation of γεννασθαι we should prefer in all
+these instances: should we translate "to be born" or "to be begotten"? It is
+evident that the expression έκ τοΰ θεοΰ γεννασθαι and the like derives
+from metaphorical use of human reproduction, and within this context,
+the two translations are not completely at variance or very divergent. Nev­
+ertheless, there are real differences between them as regards the sexual role
+(male of female) ascribed to God. The question is therefore important
+enough to give it some attention.
+I shall start with a look at the translation of the relevant Johannine pas­
+sages in a selection of Bible translations and biblical studies, to get an idea
+of the spread and the influence of the two possible translations. Next, I
+shall present relevant lexical, grammatical and exegetical considerations,
+and these will finally lead to a conclusion on the translation to be preferred
+and some further thoughts on it.
+In this section, I shall limit myself to the most important ancient versions
+and a representative selection of modern translations and commentaries. I
+start with the Latin translations. Old Latin and Vulgate are unanimous in
+offering in the instances in John 1:13 and 1 John the translation ex (or de)
+Deo (eo, ipso) nasci, "to be born of God," and the verb nasci (or renasci)
+is used as well in John 3:3-8. There are two exceptions. In 1 John 5:1b,
+textual type Τ of the Old Latin has genitus est ex eo, "was begotten by him,"
+probably because of the preceding reference to τον γεννήσαντα ("the one
+who begat"), translated here as genitorem. In 1 John 5:18b, Old Latin and
+Vulgate have generatio (or nativitas) Dei, "birth of God," for the Greek ό
+γεννηθείς έκ τοΰ θεοΰ. This corresponds to the lectio facilior ή γέννησις
+θεοΰ found in some Greek minuscules.
+Concerning the Syriac translations, I mention that in John 1:13 Cure-
+tonian Syriac and Peshitta use the verb yld etpeal, and that the same verb
+is used in John 3:3-8 in Curetonian and Sinaitic Syriac and Peshitta, in
+either etpeal or passive participle peal. These two forms of the verb are used
+as well in the Peshitta in the 1 John passages, with the exception of 2:29,
+where we find the simple wording mnh 'twhy, "is of him." The two main
+Coptic translations are also consistent: the Sahidic has in all passages under
+discussion, the verbjpo, and the Bohairic has the verb mise (except in John
+3:6; 1 John 5:1a, 18b, where it has the substantive misi, "offspring," "gen­
+eration"). The difficulty is, however, that the Syriac and Coptic verbs used
+in the translations are just as ambiguous as the Greek verb γενναν: they can
+mean both "to give birth to" and "to beget." 6 So these ancient translations
+do not yield very much for our topic; only the Latin translations are unam­
+biguous in preferring "to be born of God."
+We turn to modern translations. In the English translations which I
+consulted, the rendering of γεννασθαι έκ by "to be born of" is clearly
+dominant. The King James Version (1611) offers it in all passages under
+discussion, with the exception of 1 John 5:1b, 18b, where the translation
+"is begotten of" has been preferred. The Revised Standard Version (1946)
+and the New Revised Standard Version (1989) have "to be born of," except
+in 1 John 5:1, where the RSV has "child" twice, and the NRSV once only,
+in v. lb. The New English Bible (1961) and its revision, the Revised Eng-
+lish Bible (1989), tend to prefer the relatively free translation "to be Gods
+child" and the like in 1 John, except in 5:18b, where we read "the Son of
+God." In the Gospel, "to be born of/from" is more or less standard, except
+that the NEB has in John 1:13 "the offspring of God himself."
+A look at some German and French translations yields the same picture.
+Martin Luthers translation (1522; see also the revised version of 1984)
+consistently has "geboren werden von/aus." The Einheitsübersetzung
+(1980) has this translation in Johns Gospel, but in 1 John it prefers "stam-
+men von," except in 5:18b, where it has "der von Gott gezeugte." The
+French translation of Louis Segond (1880), the Bible de Jérusalem (1956)
+and the Traduction Oecuménique de la Bible (1975-1976) always have
+"naître de," except that, in the latter two, "engendrer" is used in the
+instances where the expression έκ (τοΰ) θεοΰ γεννασθαι is supposed to
+concern Jesus. The translator of Johns Gospel in the Bible de Jérusalem
+(D. Mollai) preferred in John 1:13 the singular reading έγεννήθη, and
+translated "lui que... Dieu a engendré."
+The preference for "to be born of" is also visible in Norwegian and
+Dutch translations. Both the Norwegian Bibelen (1930) and Det nye tes-
+tamente (2005) are consistent in translating γεννασθαι έκ in the Johannine
+writings by "â vaere f0dt av," "to be born of." 7 Dutch Bible translations
+almost universally render "geboren worden uit" ("to be born of"), so the
+Statenvertaling (1637), the Nieuwe Vertaling of the Netherlands Bible
+Society (1939), the revised Willibrordvertaling (1995) and the Nieuwe
+Bijbelvertaling (2004). The latter two prefer in 1 John 5:18b "de Zoon van
+God" ("the Son of God"), and "de Zoon, die uit God geboren werd" ("the
+Son, who was born from God") respectively. The Leidse Vertaling (1912)
+and the Petrus Canisiusvertaling (1929) also follow the general trend, but
+they show exceptions to the rule. They have in 1 John 5: lb the translations
+"door Dezen verwekt is" and "door Hem is verwekt" respectively (ET in
+both cases: "has been begotten by Him"). The capital shows in both cases
+that the clause has been read as a statement about God. The Leidse Verta-
+ling has something comparable in John 1:13 ("verwekt zijn... uit God,"
+ET: "have been begotten from God").
+From this (very incomplete) survey of modern translations, a clear trend
+appears to translate γεννασθαι in the Johannine passages under discussion
+as "to be born" (or its equivalent in Dutch, German or French). This sug­
+gests that the free translations of έκ τοΰ θεοΰ γεννασθαι as "to be a child
+of God" and the like, which we sometimes found in 1 John, are just
+paraphrases of the translation "to be born of God." The passages where
+sometimes the translation "to be begotten by God" has been preferred, are
+John 1:13; 1 John 5:1b, 18b. It is easily understood why these are the
+exceptions: in John 1:13 there is the contrast between "the will of man"
+and "God," in 1 John 5:1a the reference to τον γεννήσαντα ("the one who
+begat") makes the translation "the one begotten by him" obvious, and in
+1 John 5:18b the need may have been felt to differentiate between the
+perfect participle γεγεννημένος and the aorist participle γεννηθείς (whether
+or not the latter is supposed to refer to Jesus).
+While Bible translators strongly tend to interpret γεννασθαι in this
+Johannine idiom as "to be born," modern commentators are not so unani­
+mous. There are scholars who appear to assume, without much further
+reflection, that the translation "to be born" is the correct one. 8 Often, how­
+ever, this translation is preferred, but it is said somewhere that γεννασθαι
+can also be rendered, maybe even more literally, by "to be begotten." 9
+Concerning 1 John, D. Rusam explicitly argues that the translation "to be
+born" is the correct one; 10 his position will be discussed below. In W. Bauers
+commentary on John, both translations (and the exegesis that corresponds
+to them) are presented as equivalent, even connected possibilities. In his
+study of the Johannine concept of divine sonship, M. Vellanickal argues
+that in his use of έκ τοΰ θεοΰ γεννασθαι, the author of John and 1 John
+"deliberately does not envisage the different moments of conception and
+birth." By consequence, the two translations "to be begotten by God" and
+12
+"to be born of God" are interchangeable to him.
+There are, however, also commentators, of both Johns Gospel and 1
+John (and not the least, I would say), who prefer for γεννασθαι the transla­
+tion "to be begotten." CK. Barrett, for instance, writes on John 3:3:
+"γενναν is commonly used of the fathers act, 'to beget', and this is proba­
+bly the right sense here; but it is occasionally used of the mother also, 'to
+13
+bring forth', 'to bear'." Barrett refers in passing to H. Odeberg, who con­
+14
+sidered "water and Spirit" together (John 3:5) as a kind of spiritual semen,
+but Barrett thinks it is more likely that these words refer to Christian bap­
+tism as the means by which the believer receives the Spirit. 15 R. Bultmann
+is explicit on John 1:13 and the passages in 1 John: they speak of a
+"Zeugung aus Gott." 16 Concerning John 3:3-8, Bultmann thinks that
+John's source spoke of divine begetting, but the evangelist interpreted
+this in the sense of divine rebirth, for according to Bultmann, άνωθεν in
+John 3:3, 7 has to mean "again." 17 The latter assertion is, however, dubious,
+if we take into account John 3:31; 19:11, 23, where άνωθεν cannot have
+any other meaning than "from above" (cf. η. 5 above). In his commentary
+on the Johannine Epistles, R. Schnackenburg translates in all passages in
+1 John "aus Gott gezeugt" or something similar, and presupposes this
+translation in his exegesis; 18 he even speaks of "die feste joh. Vorstellung
+von der 'Zeugung aus Gott'." In his (later) commentary on John's
+20
+Gospel, he is quite clear about 1:13: it concerns the "Zeugung aus Gott."
+On John 3:3-8, he is less consistent: although in his translation, he renders
+21
+γεννασθαι as "geboren werden," he speaks in the explanation that follows
+22
+of both "Geburt" and "Zeugung," gradually preferring the latter.
+Other scholars consistently prefer "to be begotten" as the best transla­
+tion. In his monograph on the Johannine concept of "life," F. Mussner
+23
+states that "Zeugung" is a more adequate translation than "Geburt."
+24
+R.E. Brown offers the translation "to be begotten" in John 1:13; 3:3-8,
+and in his notes he explains that although the rendering "to be born" is also
+25
+possible, John's idea of divine agency favours "to be begotten." All
+instances in 1 John are translated and interpreted by him as concerning
+26
+divine begetting. H.-J. Klauck is equally unambiguous concerning
+1 John: "gezeugt werden" is the translation to be preferred. 27 L.E. Keck
+prefers the translation "to be begotten" to "to be born" in John 1:13; 3:3-8,
+with the argument that "the point concerns the origin of life rather than
+the birthing process itself." 28 In 1 John, J. Beutler translates "gezeugt
+werden," but sometimes, he varies by "stammen von." 29
+Two general remarks should be made at this point. First, almost all
+authors who prefer "to be begotten," refer at some point in their argument
+to 1 John 3:9, where it is said about the one begotten by God, that "his
+seed abides in him" (σπέρμα αύτοΰ εν αύτφ μένει). They take this phrase
+(to which I shall return below) to mean that God's seed abides in the
+believer, and consider such speaking of divine seed as a serious argument
+in favour of their translation. Secondly, the reason why several authors take
+a rather firm stand on "to be begotten" to be the preferable translation in
+John 1:13 and the 1 John passages, but are more hesitant about John 3:3-8,
+is probably that in 3:4, Nicodemus retorts to Jesus' words on "being begot­
+ten from above" as the condition to see the kingdom of God (3:3) by say­
+ing: "How can a man γεννηθηναι once he is old? Can he enter a second
+time into the womb of his mother and γεννηθηναι?" In Nicodemus's sec­
+ond question, γεννηθηναι has to mean "to be born," as it temporally seems
+to follow "entering a second time into the womb of his mother." In his
+first question, its meaning is less obvious; it could even be there a
+global indication of the whole process from begetting to birth. The point
+is that when Nicodemus echoes Jesus' words, he omits the essential άνωθεν,
+"from above." His misunderstanding of Jesus is a misunderstanding by
+omission, 30 and because of the omission, the exact meaning of γεννηθηναι
+becomes slightly vague. In any case, that γεννηθηναι without any adjunct
+in 3:4 means "to be born," 31 is not decisive for what it means in the rest
+of Jesus' dialogue with Nicodemus. Nicodemus misunderstands Jesus'
+saying on the necessity to be begotten from above, and in his misunder­
+standing he broadens the meaning of an essential concept used by the
+Johannine Jesus. 32
+The lexicon of H.G. Liddell, R. Scott and H.S. Jones, and the one of
+W. Bauer, concur regarding the possible meanings of the verb γενναν. As
+far as it refers to human procreation, it means with a male subject "to
+beget," and with a female subject "to bring forth," "to bear." In a more
+general sense, it can have the meaning "to produce," "to create," both in
+the physical and in the metaphorical sense. 33 If the verb is used with a
+male subject, εκ τίνος can be added to refer to the female by whom the
+male begets the child (see, e.g., Matt 1:3, 5, 6). In the passive, εκ τίνος can
+be added to indicate either the female that bears the subject of the verb
+(see, e.g., Matt 1:16), or the male that begets the subject of the verb. The
+latter construction is relevant to the use of έκ τοΰ θεοΰ γεννασθαι in the
+Johannine writings, if only for the fact that in these writings, God is called
+"Father" with great frequency (see, e.g., John 5:19, 20, 21, 22, 23, 26;
+10:29, 30, 32, 36, 38; 1 John 2:14, 15, 16, 22, 23, 24). 34
+Nevertheless, Rusam has tried to demonstrate that in 1 John (and also in
+John's Gospel), έκ τοΰ θεοΰ γεννασθαι should be translated and interpreted
+as "to be born of God," and not as "to be begotten by God"; in his view,
+the Johannine God plays the roles of both father and mother, and the
+point of the expression under discussion is that God confers life. If I under­
+stand Rusam well, his main argument is that generally in Greek usage, in
+εκ τίνος γεννασθαι a noun indicating a female person follows the preposi­
+tion έκ. 35 Such an assertion may be true as far as the NT is concerned, 36
+but we should not forget then that the NT represents a very limited selec­
+tion from ancient Greek literature. It is also quite possible that εκ τίνος
+γεννασθαι is more often said of birth than of begetting, but the question
+is how relevant such an observation is. It may well be that the passive con­
+struction is more easily used of the birth of a child, and the active one of
+the begetting of a child. So Rusam's reasoning should not be followed; instead,
+we should have a look at the use of εκ τίνος γεννασθαι with a male agent
+and thus with the meaning "to be begotten by" in Hellenistic Greek.
+It may be true that, as Rusam states, εκ τίνος γεννασθαι with a male
+agent does not occur extremely often, but there are more than enough occur­
+rences to show that it was a perfectly acceptable expression in Hellenistic
+Greek. Here are examples, mostly from the first centuries C.E. and
+presented, as far as possible, in what seems to be the most probable chron­
+ological order:
+1. In the Suda, we find a definition, ascribed to both Hyperides and Hec-
+ataeus: μοιχίδιον τον έκ μοιχού γεγεννημένον, "an illegitimate child is
+the child begotten by an adulterer."
+2. In Virt. 208, Philo says about Isaac and his sons: έκ τοΰ δοκιμασθέντος
+κληρονόμου δύο δίδυμοι γεννώνται, "by the one approved as heir, two
+twins were begotten."
+3. Pseudo-Apollodorus, Bibliotheca 1.7.2: Deucalion and Pyrrha had two
+sons, "Ελλην μεν πρώτος, δν έκ Διός γεγεννησθαι <ενιοι> λέγουσιν,
+"the first was Hellen, whom some say to have been begotten by Zeus."
+Pseudo-Apollodorus s Bibliotheca provides other examples as well, such
+as 1.8.1: Μελέαγρον δν έξ "Αρεος γεγεννησθαι φασι, "Meleager, whom
+they say to have been begotten by Ares"; 2.5.1, where the Nemean lion
+is said to be έκ Τυφώνος γεγεννημένον, "begotten by Typho"; 3.91.6,
+where Callirhoe speaks of τους γεγεννημένους έξ Άλκμαίωνος, "the
+ones begotten by Alcmaeon."
+4. According to Memnon, frg. 14 Jac, Ptolemaeus Keraunos married his
+halfsister Arsinoe, τους έκ Λυσιμάχου δε παιδας αύτη γεγεννημένους
+αναιρεί, "and he killed the sons begotten by her by Lysimachus."
+5. Plutarch, Def. orac. 415E 4: thirty years is the period in which γεννώντα
+παρέχει τον έξ αύτοΰ γεγεννημένον ό γεννήσας, "the begetter sets the
+one begotten by him begetting," that is, the period within which a son
+becomes a father himself.
+6. Pseudo-Plutarch, De fluviis 13.3, speaks of Αιγέσθιος ό γεννηθείς έκ
+τοΰ Διός, "Aegesthius, who had been begotten by Zeus."
+7. Chariton, Chaer. 2.11.5: when Callirhoe, pregnant by Chaereas, is
+going to marry Dionysius, she speaks of το έξ άλλου γεννώμενον, "that
+what was begotten by another man." In 2.2.3, Dionysius speaks of το
+έξ έμοΰ γεννώμενον, "that what is begotten by me."
+8. In Lucian, Dial. d. 20.14, Aphrodite says to Paris about Ledas daughter
+Helena, that she is έκ κύκνου γεγεννημένην, "begotten by a swan"
+(which is Zeus in disguise).
+9. According to Phlegon, De mirabilibus 2.6, the deceased Polycritus
+appears to a crowd that threatens to burn his hermaphrodite child and
+requires them to give him το παιδίον το έξ έμοΰ γεγεννημένον, "the
+child begotten by me."
+10. Aelianus, Nat an. 12.32, writes about Indian snakes who have killed
+a human being: οΰτε οι έξ αύτοΰ γεννώμενοι γνωρίζουσι τον πατέρα,
+"and the ones begotten by him do not recognize their father."
+11. Cassius Dio, Historiae Romanae 16.57 r , tells that Scipio was supposed
+έκ τοΰ Διός ές δράκοντα έν τη <προς τήν> μητέρα αύτοΰ συνουσία
+μεταβαλόντος γεγεννησθαι, "to have been begotten by Jupiter turned
+into a serpent during the intercourse with his mother."
+12. According to the Historia Alexandri Magni, ree. α, 1.30.3-4, Alexan­
+der the Great remembers his mother saying ώς έξ "Αμμωνος έγεννήθη,
+"that he had been begotten by Ammon" (the Egyptian god Amon),
+and he says to the god: ει αληθεύει <ή> μήτηρ έκ σοΰ με γεγεννησθαι,
+χρησμφδησόν μοι, "if my mother rightly says that I have been begot­
+ten by you, deliver me an oracle."
+13. In Γ Sim. 2:2, Simeon says of himself: έγώ έγεννήθην έξ 'Ιακώβ τοΰ
+πατρός μου υιός δεύτερος, "I was begotten by my father Jacob as his
+second son."
+14. According to Irenaeus, Haer. 3.30, the Ebionites asserted about Jesus
+έξ Ιωσήφ αυτόν γεγεννησθαι, "that he had been begotten by Joseph."
+See also 3.33: τον δεύτερον 'Αδάμ λέγειν αυτούς έξ Ίωσηφ γεγεννησθαι,
+"they say that the second Adam had been begotten by Joseph."
+15. In the Pseudo-Clementine Homilies 6.2, Pluto, devoured by his father
+Cronos, is called γεννηθέν έξ αύτοΰ βρέφος, "the child begotten by
+him."
+16. Scholia in Aeschylum (scholia vetera), sch. 1 c on Sept. : έκ τοΰ Άγήνορος
+έγεννήθησαν ό Κάδμος και ό Κίλιξ και <ή> Ευρώπη, "by Agenor were
+begotten Cadmus, Cilix and Europa."
+17. Scholia in Homeri Iliadem (scholia vetera), on //. 2.547: Erichthonius is
+said to be γεννηθέντος έκ τοΰ Ηφαίστου, "begotten by Hephaestus."
+The examples of the above list (which is by no means complete) are spread
+in time and geographical area, and the begetters to which they refer, are
+gods and divine beings, human beings and animals. The passages quoted
+have not been influenced by the Johannine language of έκ τοΰ θεοΰ γεννασθαι.
+They clearly show that γεννασθαι έκ with a male agent was a normal way
+of speaking, meaning "to be begotten by."
+Of course variants of the expression occur as well. Both the male and
+female agents that together produce offspring can be mentioned after the
+preposition, so that the two primary meanings of γενναν, "to beget" and
+"to give birth," are present at the same time. Instead of the preposition έκ,
+38
+we also find από or ύπό with the genitive. This is not surprising, given the
+fact that with the passive, ύπό with the genitive is the most usual way to
+39
+express the agent, but άπό is also fairly frequent in this role, and έκ is
+40
+found as well to indicate the agent with the passive. The three preposi­
+tions that can be used for the male agent with the passive γεννασθαι are
+apparently, to a certain extent, interchangeable, but in any case, έκ is quite
+41
+normal in this context, so that έκ τοΰ θεοΰ γεννασθαι in the Johannine
+writings should be translated as "to be begotten by God."
+In addition to these lexical and grammatical considerations, there is also
+an exegetical argument (already hinted at above) for preferring this transla­
+tion. In 1 John 3:9, we read: πας ό γεγεννημένος έκ τοΰ θεοΰ άμαρτίαν ού
+ποιεί, δτι σπέρμα αύτοΰ έν αύτώ μένει, "everyone who has been begotten
+by God does not do sin, because his seed abides in him." Before this state­
+ment can function in the argument, some obscurities in it have to be clar­
+ified. The possessive genitive αύτοΰ can refer in theory to either God or the
+believer ("everyone who has been begotten by God"); but as the latter pos-
+sibility does not make sense, we have to prefer the former. The questions
+are then: does σπέρμα αύτοΰ mean "Gods offspring" or "Gods semen,"
+and to whom does αύτω refer?
+In itself, σπέρμα may obviously mean "offspring"; that is the meaning of
+the word wherever it occurs in Johns Gospel (7:42; 8:33, 37), and it is
+frequently found elsewhere (see in the NT, e.g., Mark 12:19-20; Gal 3:16;
+Rev 12:17). "God's offspring" could then refer either to Christ or to
+the Christians. If it refers to Christ, αύτω has to refer to the Christian, and
+the resulting idea that Christ abides in the believer is certainly Johannine
+(see John 6:56; 15:4-5). The difficulty is, however, that Christ is called
+"offspring of David" or "offspring of Abraham" (e.g., in Rom 1:3;
+2 Tim 2:8), but "he is never called the sperma of God." 4 2 If "Gods
+offspring" refers to the Christians, 43 αύτω has to refer to God, and again,
+the resulting idea of the believer abiding in God is Johannine (see, e.g.,
+1 John 2:6; 4:13). Here, however, we run once more into the problem that
+the terminology would be most unusual: Christians are called "offspring of
+Abraham" (Gal 3:29; Heb 2:16) or of the woman who gave birth to the
+Messiah (Rev 12:17), but not "offspring of God." If Christ or the Chris­
+tians are described as the σπέρμα of somebody, this somebody is a human
+being, not God. Besides, apart from the passage under discussion Johan­
+nine language is consistent in calling Jesus the υιός, "son," of God, and the
+Christians the τέκνα, "children," of God (see, e.g., in the immediate con­
+text of the passage under discussion: 1 John 3:1, 2, 8, 10, 23).
+Interpreting σπέρμα αύτοΰ as "God's offspring" in 1 John 3:9 appar­
+ently leads nowhere. We have to translate "God s seed," and we have to
+suppose that σπέρμα stands in some way for God's generative power. More
+specifically, it can stand for either God's word or God's Spirit. The former
+interpretation finds support in passages such as Jas 1:18 and 1 Pet 1:23,
+but in the Johannine writings, God's word and his begetting are not associ­
+ated. The latter interpretation, that the seed stands for God's Spirit, fits in
+very well with John 3:5, 8, where the believer is said to be "begotten of the
+44
+Spirit," and seems to be the preferable one.
+So the way in which 1 John 3:9 speaks of "Gods seed," supports the
+translation of έκ τοΰ θεοΰ γεννασθαι as "to be begotten by God." This pas­
+sage from 1 John also confronts us with the limits of the metaphor of
+procreation in its application to God and his Spirit, for in the human pro­
+cess of procreation the seed does not "abide," whereas the Spirit "abides"
+with those in whom God has generated life (cf. John 14:16-17). The met­
+aphor is also, so to speak, transcended by the reality aimed at insofar as in
+the process of spiritual procreation, there is no female principle; there is
+only God, also called "Father," who begets, no mother is mentioned at the
+divine level. In this respect, Johannine thought shows some similarity
+to Philos thinking. In Her. 62, Philo argues that Sarah, identified with
+"Virtue," is the motherless principle έκ πατρός τοΰ πάντων θεοΰ μόνου
+γεννηθεισα, "begotten by her father, the God of all, alone" (Philo does so
+on the basis of Abrahams words to Abimelech in Gen 20:12: "She is truly
+my sister from the father, not from the mother"). Later in the same treatise
+(216), he says that God εβδομάδα την άμήτορα γεγέννηκεν έξ έαυτοΰ
+μόνου, "has begotten seven, the motherless one, from himself alone."
+Moses found, according to Philo {Mos. 2.210), that the holy seventh day
+was άμήτορα... έκ μόνου πατρός σπαρεισαν άνευ σποράς καί γεννηθεΐσαν
+άνευ κυήσεως, "motherless... sown by the Father alone without seed and
+begotten without conception." In both the Johannine writings and Philo,
+there is on the divine level only one generating principle, represented as
+male and begetting. How the child that is begotten, comes into the world,
+is a question that is not asked and that is actually irrelevant, because God's
+life-giving activity is the point of the metaphor.
+In spite of the almost universal tendency of Bible translators, both ancient
+and modern, to render the Johannine έκ τοΰ θεοΰ γεννασθαι as "to be born
+of God," the evidence collected in the preceding section clearly points in
+the direction of the alternative rendering "to be begotten by God" as
+the correct one. The same can be said, mutatis mutandis, about άνωθεν
+γεννασθαι and related expressions in John 3:3-8. We have seen that several
+modern commentators of John's Gospel and 1 John prefer to translate
+γεννασθαι in all these Johannine instances by "to be begotten"; they are
+right. Future Bible translators should no longer slavishly follow the transla­
+tion tradition, but instead take the evidence presented into account.
+Admittedly, the two translations "to be born" and "to be begotten" do
+not result in very divergent statements when the metaphor is transposed
+into direct language: in both, God is said to be the source of the believer's
+new life. However, either of the two translations involves other elements of
+the metaphorical field of human reproduction, and thus leads to another
+emphasis in direct statement. In contrast to "to be born," the translation
+"to be begotten" clearly ascribes a metaphorical male sexual role to God: he
+is compared to a father who begets children. Perhaps some will not like this
+male aspect in the representation of God very much, but it is simply
+the way the Johannine God is pictured. The male sexual role metaphori­
+cally ascribed to God emphasizes divine agency: God is the one who initi­
+ates the new life of the believer. A translation of John's Gospel or 1 John
+should leave the metaphor intact and pass on this side of the Johannine
+view of God to the reader or hearer. Only then hermeneutical questions
+can be asked.
+A final issue concerns the origin of the Johannine metaphor of divine
+begetting. Old Testament and Judaism yield some materials that may have
+served as inspiration for it, 45 but the overall result is not impressive. There
+are a few parallels in the NT. 4 6 It has been observed more than once that
+Hellenistic thought, mystery cults and gnosticism insofar as they are more
+or less contemporary with the Johannine writings, display verbal similari­
+ties but no exact parallels. 47 Closest to Johannine thought in this respect is
+Philo, who in his allegorical explanation has Sarah, the patriarchs or the
+number seven be begotten by God. 4 8 The difference is obviously that in
+Philo's thought, God begets abstract entities and souls, while in Johannine
+thought, he begets people of flesh and blood to a new life. The Johannine
+author (or authors) apparently takes up an extant but not very widespread
+motif, and makes it into one of his fundamental images to describe the
+relationship between God and the believer. This relationship is "eternal
+life" (see esp. John 17:3), and eternal life starts with the Christian being
+"begotten by God" through the Spirit in baptism as the confirmation of
+his or her belief in Jesus (John 3:5). 49

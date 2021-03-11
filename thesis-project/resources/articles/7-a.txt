@@ -1,0 +1,612 @@
+The "two source hypothesis" (henceforth "2SH"), the dominant theory
+explaining the relationship between the synoptic gospels, argues that Mark
+was written first, and that both Matthew and Luke independently used
+both Mark as well as another text, called Q. Crucial to this model is the
+independence of Luke from Matthew. If it can be demonstrated that one
+used the other then the existence of Q becomes redundant.
+If, within a parallel shared by all three synoptics, it can be shown that
+Matthew and Luke agree against Mark, this has the potential to demon­
+strate a literary relationship between Matthew and Luke, and so under­
+mine the 2SH. There are many such examples of this in the synoptics.
+However, these "minor agreements" are not all the same, and many do not
+demonstrate anything at all. For example, if both Matthew and Luke agree
+against Mark by using δε instead of καί, this does not prove anything other
+1
+than Marks poor grammar. Other agreements can be explained through a
+demonstrated overlap of Mark with Q. Other examples can be explained
+as coincidental agreements of independent redaction on the part of Mat­
+thew and Luke. Finally, there is a small remnant that can only be explained
+2
+as textual corruption. This remainder might also be explained by appeal­
+ing to different recensions or redactions of the canonical gospels.
+Michael Goulder argued, "Logically, it would take only one really strik­
+ing minor agreement to destroy [the 2SH]." 3 If there was one minor agree­
+ment that Goulder had in mind when he said this, it would likely be the
+"most notorious of the minor agreements" (2003): Matt 26:68|Luke 22:64
+(|Mark 14:65). 4 Matthew and Lukes inclusion of the question τίς έστιν ό
+παίσας σε ("who is striking you")—a question missing from the parallel
+text of Mark—is a minor agreement that, according to Mark Goodacre,
+"tests the [two-source hypothesis] and finds it wanting." 5 It is "the most
+difficult of all the minor agreements." 6
+This paper will investigate this minor agreement, exploring how advo­
+cates of the 2SH negotiate this "one really striking minor agreement," as
+well as how their opponents react. This minor agreement is often consid­
+ered in the light of textual criticism, and so this paper will start with schol­
+ars who adopt a text critical approach (such as Streeter, Tuckett and
+Neirynck). Some argue that the minor agreements result from recensions/
+redactions of the synoptics no longer extant, and this will be the next
+approach considered. Next are those who attempt to "make sense" of the
+text "as it is," including R.E. Brown, Michael Goulder and William Farmer.
+This paper will not attempt to solve this minor agreement, but it will con­
+sider what might be learnt from it.
+The reading of Mark 14:65 as found in the 27th Edition of Nestle-Aland,
+where τίνες ("some") demand that Jesus προφήτευσον ("prophesy!"), has
+strong support, including N, A, B, and D. 7 However, there are variants that
+read, προφήτευσον νυν 8 χρίστε τις εστίν ο παισας σε ("prophesy now
+Christ, who is striking you"). 9 The longer variant is "supported in each of
+the three main streams of textual tradition," 10 as is the shorter version. An
+agreement between K, A, B, and D (along with the absence of any contrary
+papyri witnesses) makes the case for the shorter reading considerably stron­
+ger. In spite of the weight of the external evidence, some have argued that
+the original text of Mark contained the longer variant (including Schmie-
+del, Lietzmann, Finegan, Kilpatrick, Burrows, and Schmithals). 11
+There is another variant in Mark 14:65 that often goes unnoticed:
+Αυτω... περικαλυπτειν ("to blindfold him") is missing from D, a, sy 5 , and
+bo m s s . Codex Bezae reads και ηρξαντο τίνες ενπτυειν τω προσωπω αυτού·
+και εκολαφιζον αυτό και ελεγεν αυτω προφήτευσον ("and certain men
+began to spit in his face and beat him, and said to him 'prophesy!' "). The
+external weight falls in favor of including these words. 12
+Finally, for the purposes of this paper, it is to be noted that there are no
+significant variants in Matt 26:68. 1 3
+Streeter argues that, although the longer variant might be original, and
+that it is possible that "the words have accidentally dropped out of the text
+of Mark both in K, B, L, D," it is more likely that the shorter reading of
+14
+Mark is original. This is a text, according to Streeter, "which has specially
+invited assimilation" and "the MS evidence suggests that... a certain mea­
+sure of assimilation has infected the Κ Β L text... at this particular con­
+15
+text." Streeter argues that τίς έστιν ό παίσας σε has been assimilated from
+Luke to Matthew, which would mean that textual corruption has occurred
+twice: once for the Markan variant, and once for a scribal harmonization
+of Matthew to Luke. In both Mark and Luke Jesus is blindfolded before
+being struck and commanded to prophesy (Mark l4:65|Luke 22:64). 16
+The blindfolding does not occur in Matthew and Streeter argued that Mat­
+thew "would have been unlikely to omit such a striking point, had it
+occurred in his source, more especially as the whole point of the taunt
+'Prophesy who it is that struck thee' depends upon the fact that He was
+prevented by the veil from seeing who did it." 17 Thus, Streeter concludes
+"the original text of Matthew and of Mark omitted the veiling and the
+words 'Who it is, etc.'." 18 For Streeter, both the authenticity of the Markan
+variant that does not have the blindfold, and the conjectured "variant" in
+Matthew that does not have the question "stand or fall together." 19
+Tuckett agrees with Streeter that the blindfolding in Mark and the ques­
+tion in Matthew are both not original. The variants in Mark that have the
+blindfolding read περικαλυπτειν αυτού το πρόσωπον ("they covered his
+face"), while the one that omits it reads ενπτυειν τω προσωπω αυτού ("they
+spit in his face"). In both there is πρόσωπον ("face"), but in both it is
+receiving different action. The omission of blindfolding connects spitting
+and the face (πρόσωπον). LXX-Isaiah 50:6 20 may stand behind Marks nar-
+rative, but this allusion is weakened in Matthew by the blindfolding. This
+leads Tuckett to conclude that it could be that the theme of blindfolding
+21
+was not original to Mark (1983, 73 and 1984, 137). Because "Matthew
+is clearly dependent on Mark alone for the passion narrative" and the ques­
+tion only makes sense in a Lukan context, the Streeter proposed emenda­
+22
+tion for Matthew "is by no mean impossible."
+Luke is following a different train of thought in this pericope from what
+is found in Matthew and Mark, and the whole scene has quite different
+overtones in Matthew/Mark from what is found in Luke. In Luke there is
+no mention of spitting or πρόσωπον and thus "has no allusion to the word­
+ing of Isa 50." 23 In Mark the demand to prophesy has a dark ironic quality,
+as even as this command is issued "one of Jesus' prophecies is being ful­
+filled at that very moment, just outside in the courtyard". 24 In other words,
+Jesus is suffering abuse as a prophet, and in this context "'Prophesying'
+thus involves prediction of the future." 25 Blindfolding is not relevant in
+this context, as it does not restrict the ability to predict the future. How­
+ever, within a Lukan context, the demand to prophesy "refers to exercising
+the gift of second sight, overcoming the limitations of the blindfold." 26
+Tuckett argues that because Matthew is clearly leaning on Mark alone as a
+source, Matthews scene operates within the Markan and not the Lukan
+assumptions of what prophesying mean. Thus, Tuckett concludes "the
+question 'Who hit you?' only has relevance in the Lukan text," suggesting
+that it is secondary in Matthew. 27
+Neirynck agrees with Streeter and Tuckett that the question was added
+to Matthew, but disagrees that the blindfolding in Mark is secondary. The
+variant in Mark that omits the blindfolding is explicable as a harmonization
+from Matthew, which also lacks blindfolding. 28 Neirynck also notes Kil-
+patrick's contention that the omission of blindfolding might be the result
+of homoeoteleuton: εμ αυτω και περικαλ αυτού το πρόσωπον became
+εμπτυειν το πρόσωπον, which was grammatically corrected to εμπτυειν τω
+προσωπω. 29 Neirynck does not clearly note what blindfolding accomplishes
+in Mark, where without the question there appears to be a demand to "play
+the prophet" (as contrasted to the a demand for a specific disclosure of
+someone's identity). Blindfolding does not restrict the ability to utter a
+prophetic utterance.
+Neirynck argues that the difference between Luke and Mark is plain:
+"Luke has six words only out of twenty-seven in common with Mark." 30
+Unlike Matthew, the blindfolding in Luke is thoroughly integrated into
+the story. There is no spitting to complicate things, and δέροντες in 22:63
+provides a nice antecedent for παίσας in 22:64. 31 Additionally the use of
+έπηρώτων in 22:64 means it is "scarcely possible to isolate the question τις
+έστιν ό παίσας σε as an added element in the Lukan context." 32
+Goulder had argued that because παίω is not a "Lukan word," occurring
+only here in Luke-Acts, that it is likely that Luke borrowed it from Mat­
+thew. 33 Neirynck counters this by noting that it is a hapax also in Matthew
+(as well as in Mark). Neirynck argues, "The verb παίω is not more Matthean
+than it is Lukan and the use of the verb can scarcely be the decisive factor
+in a confrontation between Goulder (the question original in Matthew)
+and Streeter (the question original in Luke)." 34 The elimination in Luke of
+the allusion to Isaiah is also something for which there is precedent, as
+Luke elsewhere demonstrates "considerable freedom" in his dealings with
+Markan uses of scripture. 35 Thus, Neirynck concludes that "the most prob-
+able origin of τίς έστιν ό παίσας σε in Luke 22:64 is Lukan redaction of
+36
+Mark 14:65."
+Neirynck has a preference for arguing that minor agreements are the
+result of coincidental and independent redaction by both Matthew and
+Luke. The present case is an exception to this, as Neirynck can think of
+no sound argument that can provide a redactional solution. The main
+problem for Neirynck is not as much the impossibility of both Luke and
+Matthew coincidentally choosing to add the same five words, but the fact
+that Matthew does so while leaving out the blindfolding, rendering the
+words meaningless. 37 Neirynck finds various attempts to render this epi­
+sode intelligible in Matthew (to be discussed at greater length below) not
+persuasive. Thus, that Matthew excised the blindfolding, so that Jesus
+could be spit upon in the face, or that Jesus is simply being asked to give
+the names of those hitting him (Gundry) indicates "exegetical inventive­
+ness" more than anything else for Neirynck. 38
+Neirynck believes that τίς έστιν ό παίσας σε must be an interpolation in
+Matthew, quoting C.H. Turner: "I prefer to conjecture that it is an unde­
+tected insertion by scribes, of the type of dozens of others that we can
+detect, into the text of Matthew from the text of Luke—seeing that, while
+the question makes sense in St. Luke, where the covering of our Lord's face
+has been mentioned, it makes no sense in St. Matthew, where nothing of
+the sort has been indicated." 39 The presence of τίς έστιν ό παίσας σε
+"remains the only refractory element in Matthew," and thus is best
+explained as an early addition to the text for which we have no textual
+evidence. Neirynck suggests the demand to prophesy is indigenous to
+Matthew and only becomes difficult once the question is added. 40 A scribe
+thus very early in the textual tradition imported the question from Luke.
+There is, as we have seen, a dynamic relationship between textual criti­
+cism and the minor agreements. Streeter, Tuckett and Neirynck argue for
+emendation of the text for which there exists no textual evidence. This
+raises some questions about the place of conjectural emendation within
+the practice of textual criticism. A standard view is articulated by Kurt and
+Barbara Aland in one of their twelve basic rules for textual criticism: "Tex-
+tual difficulties cannot be solved by conjecture, or by positing glosses or
+interpolations, etc., where the textual tradition itself shows no break; such
+attempts amount to capitulation before difficulties and are themselves vio-
+lations of the text." 41 Slightly more flexible are the views of Kenyon: "it has
+been usual to answer that in the criticism of the New Testament [conjec-
+ture] has no place at all. Where manuscript evidence is scanty, as it is for
+many of the classical authors, it happens at times that a passage is obvi-
+ously and certainly corrupt in all extant copies; and then the defect must
+be healed by conjecture, if it is to be healed at all." 42 Kenyon goes on to
+note that this practice, at times necessary with other antique authors, is
+hardly needed in with respect to the New Testament "where the evidence
+is so plentiful and varied." 43 Metzger essentially agrees with Kenyon, per-
+haps allowing more room for conjecture: "One must admit the theoretical
+legitimacy of applying to the New Testament a process which has so often
+been found essential in the restoration of the right text in classical authors." 44
+Nevertheless, Metzger also believes that at times this practice has been "at
+times carried to absurd extremes" even within the study of the classics. 45
+For Metzger any conjecture would be related primarily to the Catholic
+Epistles and the Apocalypse where the manuscript evidence is more lack-
+ing. 46 Strugnell goes further and affirmatively endorses the use of conjec-
+tural emendation. His position can perhaps best be summarized by
+Wetstein, whom Strugnell quotes: "Conjectural emendations are never to
+be rashly admitted or rashly rejected." 47 Strugnell disagrees with the view
+that because the evidence for the New Testament texts is so plentiful and
+varied (unlike the classics) that the use of conjecture is required. Strugnell
+suggests, "this Variety' would be a clear proof only of the badness of the
+tradition." 48
+Behind this debate lies another issue that directly relates to the text critical
+approach to the minor agreement in Matt 26:68. Kilpatrick argued, "We
+may assume as a rule of thumb that at each point the true text has survived
+somewhere or other among our manuscripts." 49 Strugnell responded to
+this bold claim by noting that for it to hold, the manuscript tradition must
+be uniform (which, of course, it is not), or "where the manuscript tradition
+is divided, the reading of the archetype, identical with that of the auto-
+graph, will have survived somewhere or other." 50 Outside of some type of
+"special Providence" watching over the transmission of the text, this view
+is untenable. Kilpatrick later agreed with this argument, and supplements
+it by saying that if there was some special Providence watching over the
+text of the New Testament, "we might wonder why this Providence has
+not exerted itself a little further to ensure that at each point of variation
+the original reading would be manifest and immediately demonstrable." 51
+Kilpatrick concedes "we cannot assert that the original form of the text has
+for certain survived at every point somewhere or other among our wit-
+nesses." 52 Nevertheless, Kilpatrick is still not convinced by Strugnell's argu-
+ment that conjecture ought to be used within New Testament textual
+criticism. One problem is that we may in fact correct mistakes that were in
+the autograph itself. 53 There is also the danger of a "considerable rewriting
+of the New Testament." 54 This is, after all, "guesswork" wrought with
+uncertainty. 55
+Strugnell argues "the editor who holds that Matthew and Luke indepen-
+dently used Mark must consider secondary those readings in Mark where
+Matthew and Luke conjunctively agree against Mark, and against all the
+manuscripts he must restore to Mark a text equivalent to that of Matthew
+and Luke." 56 This may be true in some cases, but it fails to note other
+explanations for minor agreements, such as overlap with Q, or plausible
+explanations of independent redaction. This policy offers a fair description
+of what Tuckett, Streeter, and Neirynck are doing, inasmuch as their views
+have compelled them (at least insofar as Matt 26:68 in concerned) to see
+the offending elements as secondary.
+Wheeler argues for a separation of textual criticism from source criti-
+cism, so that "the textual decision must be made prior to the discussion of
+source theory." 57 This is so textual criticism remains a tool to establish the
+text and not any given source theory. There is a certain obvious value to
+this, although there is no reason why a choice between these two functions
+of textual criticism need be absolute, as long as they are not conflated and
+confused. Tuckett responds that non-specialists in the field of textual criti-
+cism often defer to the experts, letting them perform their work so that a
+"pure text" might emerge with which exegetical and source-critical work
+can commence. 58 However, he continues that such a separation of textual
+criticism from other forms of analysis is ultimately not justifiable, unless
+New Testament textual critics were to stay exclusively within the realm of
+external evaluation of textual witnesses. 59 As soon as internal evidence is
+brought to play, textual criticism has entered into the realm of exegesis.
+This is more clearly the case when an argument in made based on how a
+variant does or does not accord with an author's theology. Thus, internal
+criteria are often a form of exegesis, and thus rely upon work being done
+in New Testament studies outside the "pure" realm of textual criticism.
+Tuckett argues that his suggestion for Matt 26:68 is not "changing the
+facts to fit the theory," as the only "facts" that we have are documents usu-
+ally hundreds of years removed from the original texts penned by the
+author(s). The Greek texts we have in front of us are simply "as good an
+approximation to the texts of the original as our evidence will allow us to
+achieve." 60
+Neirynck argues that his solution for Matt 26:68 is also not a misdi­
+rected conjecture, but rather falls comfortably within normal text critical
+criteria. Scribal harmonization between the synoptics is one of the more
+common forms of textual corruption, and this is exactly what his proposed
+emendation would address in this minor agreement. Τίς έστιν ό παίσας σε
+was introduced into Matthew be means of harmonization from Luke, and
+61
+as such arguing its secondary nature is not a "desperate measure."
+Goulder agrees that our textual witnesses might all be in error, but
+argues "we are justified in positing such only when we cannot make sense
+62
+of our texts without them." Whether we can "make sense of our texts," at
+least as far as Matt 26:68 is concerned, depends upon how persuasive
+Goulder's explanation of this text is (to be considered below). If Matthew
+is fully intelligible, then Goulder's point has some weight, but if his attempt
+is deemed a failure, then by his own admission, we are justified in positing
+an emendation.
+Farmer reacts by arguing if emendations were allowed that have no tex­
+tual witnesses whatsoever (such as what has been suggested for Matt 26:68)
+that this would revolutionize this discipline of textual criticism. 63 In spite
+of the argument forwarded above by Strugnell, Tuckett and Neirynck, it is
+hard to dismiss Farmer's concerns. The further we wander into conjecture,
+the less the evidence can provide a control. The further removed we are
+from controls, the more tenuous our conclusions become. Does a lack of
+clarity in the text give us a warrant to change the text when there is no
+textual evidence? If so, why have Streeter, Tuckett and Neirynck not been
+more concerned with Mark, who has Jesus being blindfolded for no appar­
+ent reason? Perhaps the reason is because that narrative flaw in Mark does
+not appear to directly threaten the two-source-hypothesis?
+What are Streeter, Tuckett and Neirynck really seeking to do? Do they
+actually desire that future versions of the Greek New Testament remove
+the question "who is striking you?" from Matthew? Given the context of
+the discussion, the arguments put forth have been intended, it seems, more
+to explain this particular minor agreement than to make actual changes in
+future texts of the Greek New Testament. Nevertheless, their claim that the
+text at this point is corrupt remains. Perhaps their conjectural emendation
+would be more palatable were we to think of it as something belonging
+within the critical apparatus than in the body of the text. It might be better
+to leave the text somewhat unintelligible than to introduce changes for
+which there is no textual evidence.
+Another way to solve this and other minor agreements involving conjec­
+ture includes postulating non-extant recensions/redactions of Mark as the
+source from which both Matthew and Luke derived their agreements against
+the canonical Mark. Compared to textual criticism, source criticism is less
+conservative a discipline. It was noted above that the use of conjecture
+within the discipline of textual criticism is highly suspect for many of its
+practitioners, but the use of conjecture within source criticism is common,
+being part and parcel of the discipline. With this in mind, it is not difficult
+to understand why, for many, solutions proposed upon source critical
+grounds are more attractive than those proposed upon text critical ones.
+However, we will see that there is some overlap between the text critical
+and source critical solutions, beyond the common use of conjecture.
+A. Ennulat and J.P. Brown argue that Luke and Matthew were familiar
+with a version of Mark that was later than the canonical version. 64
+J.P. Brown argues that Luke and Matthew were familiar with a version of
+Mark that was later than the canonical version. However, for Brown this
+later version was not so much a different recension or redaction, as it
+was a product of scribal alteration. Brown argues that Matthew and Luke
+were familiar with a version of Mark that had fewer (or perhaps no) minor
+agreements. Because "the text of Mark which eliminates the most agree­
+ments between Matthew and Luke is the 'Caesarean; particularly fam
+13," 65 it is in this textual family where we will find a version of Mark
+closest to what Matthew and Luke used. For example, the question τίς
+έστιν ό παίσας σε is present in the Caesarean text (Θ W fam 13 Ν Σ 700
+1071 geo). 66
+Sanday agrees with J.P. Brown, at least in that Luke and Matthew's used
+a version of Mark later than all extant manuscripts ("Deutero-Mark"), as
+"the coincidences [of Matthew and Luke agreeing against Mark] seem to
+67
+me to belong to a later form of text rather than an earlier." Because the minor
+68
+agreements often clarify and improve, they must be seen as secondary.
+Deutero-Mark for some is only slightly different from its canonical
+cousin (as with Abbot, Hawkins, Sanday, Strecker, Schnelle, and Luz),
+while for others it is significantly "expanded and revised" (as with Fuch,
+Kogler and Niemand). 6 9
+H. Koester agrees that, "the agreements between Matthew and Luke
+against Mark confirms that Mark's original text is not preserved." 70 He,
+unlike those just mentioned, believes that Matthew used a proto-Mark,
+and that Luke used an "expanded variant" of this proto-Mark. 71 Proto­
+Mark was later rewritten and became Secret Mark, which in turn was also
+re-written to become canonical Mark. 72
+Regardless of whether we believe Matthew and Luke used a version of
+Mark written earlier or later than canonical Mark, this hypothesis only
+addresses certain elements of the minor agreement under discussion in this
+paper. If Luke and Matthew used a version of Mark that had the question
+τίς έστιν ό παίσας σε, then we have explained the agreement of Matthew
+and Luke against Mark in respect to these five words. This, however, does
+not explain why Matthew omits the blindfolding. Unless one is persuaded
+by one of the explanations (to be considered below) that attempt to make
+sense of the absence of the blindfolding in Matthew without positing cor­
+ruption in its text, one half of the puzzle remains unsolved.
+Of course, one could suggest that a proto-Matthew rather than a proto/
+deutero-Mark, something argued by Vaganay. 73 If we move the problem
+away from Mark to Matthew, we still leave unanswered how it is through
+any recension Luke independently came to agree with Matthew with
+the inclusion of τίς έστιν ό παίσας σε. Of course, we could suggest there
+was a version of Matthew did not have the taunting question. We would
+then conclude that the question was added later to the canonical version
+of Matthew, but then we have come a complete circle by saying basi­
+cally what Streeter said. We have merely moved the rationale from a text
+critical ground to a source critical one, without any important change in
+content.
+R.E. Brown argues that no textual emendation is required to understand
+Matt 26:68. Matthew essentially follows Mark's theology, although he
+rearranges and clarifies it somewhat. 74 In Mark LXX Isa 50:6-7 is in the
+background, so that "in their contemptuous treatment of Jesus as a false
+prophet... the Sanhedrists are unconsciously fulfilling a prophecy—the
+great Isaian prophecy revealing that by self-giving a victim can turn the
+signs of human rejection into victory with God's help." 75 Matthew follows
+Mark's lead but makes the connection to Isaiah more explicit by changing
+"cover his face" to "spit in his face." 76 Brown writes, "not only would the
+double mention of Yace' be stylistically awkward, but one could scarcely
+spit in a covered face." 77
+This argument explains the removal of the blindfold, but not the demand
+of Jesus to prophesy. Brown argues that behind this incident in both Mark
+and Matthew is a game, mentioned by the 2nd century BCE Onomasticon
+of Pollux, that the readers of the gospel would have easily identified. This
+was a "guessing game" where a player's eyes are covered and someone strikes
+78
+him, and the person would have to guess who it was that hit him. Much
+like "Who's it?" in a modern context clearly identities what game is being
+referred to, so would "Who is it that hit you?" function in the first cen­
+79
+tury. Brown thus suggests this form of oral tradition is the source for the
+minor agreement in Matt 26:68|Luke 22:68. Although Mark does not use
+the words "Who is striking you?," Brown argues it would have been obvi­
+ous for an ancient reader that he was narrating a cruel version of this
+"blind-man bluff game." Matthew streamlines Mark's story, highlighting
+important features, and uses the words "Who is striking you?" as an overt
+means to denote this game. 80 Luke would have also recognized what Mark
+was doing and narrows down this story to only those elements that were
+required by this game, so that the spitting is removed. This removal had
+the effect of loosing Isaiah from the text. The widespread popularity of the
+game explains Matthew and Luke's independent redaction of Mark.
+Brown is rather vague about important details in the Matthean plot
+line. Are we to assume that "Who is striking you?" would have noted in
+shorthand for the ancient readers a series of un-narrated events, including
+a covering of Jesus' face after its being spit upon? Something like this would
+be necessary for Brown's interpretation to work, otherwise we are left with
+a version of blind man's bluff without a "blind man." Additionally, the καί
+in Matt 26:67 does not suggest the break in continuity between spitting
+and slapping that Brown's reading requires. Because we can not be certain
+whether the games mentioned in the 2nd century BCE Onomasticon of
+Pollux, upon which Brown's reading is based, would have been known at
+all to the readers of the gospels, Brown's interpretation will remain tenta­
+tive in any event. Arguing that this game would have would have been
+automatically recognized by the readers has not been verified. 81
+Making narrative sense of Matthew's Jesus being prompted to identify
+who is hitting him sans blindfold is important for Goulder if he wishes to
+undermine Streeter, Tuckett and Neirynck's argument for textual corrup­
+tion. For the latter it is Matthew's nonsensical quality that indicates a text
+critical solution. If Goulder can put forward a compelling interpretation
+within a Matthean context that integrates both the question and the
+absence of a blindfold, then an important argument in favor of textual cor­
+ruption will be undermined. As it happens, Goulder has offered a few
+different possibilities.
+Goulder argues the reason Matthew did not have Jesus blindfolded was
+simply because spitting in someone's face only makes sense without a
+blindfold. 82 Goulder notes that there are two groups in Matthew and Mark
+mocking Jesus. Mark has the two groups designated as τίνες, ("certain
+people"; those who do the spitting), and ύπηρέται ("attendants of the San­
+hédrin"; those who do the beating). Matthew follows Mark except that
+that he does not have Jesus blindfolded, knowing that spitting is more
+effective (or rather, simply is effective) on a bare face. Matthew also has the
+same two groups, except that for him they are distinguished by οι δε (Matt
+26:67c). Goulder argues one group in Matthew were spitting and punch­
+ing, and the other group was saying "Prophesy!" and έράπισαν Jesus.
+Goulder defines ραπίζω as "hitting with a cane," thus differentiating it
+from κολαφίζω which he defines as "punching." 83 By defining these terms
+like this, two groups are distinguished from each other by what they are
+doing and not merely by οι δε. Goulder's understanding of οι δε as mean­
+ing a subgroup distinguished from others in a larger group is not univer­
+sally accepted. His view is defended by van der Horst as a "well-known and
+frequently used syntactical device." 84 There is another possibility defended
+by Lagrange and Neirynck where οι δε repeats "subject of the preceding
+sentence." 85 If this were accepted in Matt 26:67, it would collapse the two
+groups into one, with a large part of Goulder's interpretation collapsing
+along with it. Be that as it may, if we accept Goulder's reading, the com­
+mand to prophecy and say τίς έστιν ό παίσας σε is still something of a
+problem for a Jesus who is not blindfolded. Goulder argues that some are
+behind Jesus, beating him "on the back or the head. These latter he cannot
+see, so it is suitable to include Mark's 'Prophesy!' " 8 6 Goulder continues by
+arguing Luke has both Mark and Matthew's accounts in front of him and
+knows that high courts judges do not usually abuse prisoners physically. 87
+Luke combines Mark and Matthew by putting the blindfold back on Jesus
+(from Mark) and including the abusive question (from Matthew). 88 This
+interpretation requires that the reader fill in important blanks in the text,
+which, while not impossible, brings to mind Neirynck's comment (men­
+89
+tioned above) about "exegetical inventiveness."
+Elsewhere Goulder suggests that perhaps Matthew might simply "have
+90
+left out the blindfolding by oversight." This inattentiveness Goulder says
+is something that Matthew does "all the time," and he cites three examples
+to demonstrate: Matt 14:3-12 has Herod, instead of Herodias, wanting
+to kill John (14:5), which creates a problem when later Herod is said to
+be grieved for needing to kill the Baptist (14:9); Matthew calls Herod
+"tetrarch" instead of following Mark in calling him "king," but slips up
+later and refers to him as "king" in 14:9; Matthew left out the detail about
+Herod having married Herodias but still has John telling him "you may
+91
+not have her" (14:4). Neirynck argues that these examples do not provide
+a fair parallel for 26:68, in that with each of them Matthew creates prob­
+lems for himself, because having departed from Mark at one point, he later
+"returns to the text of Mark." However the problem in 26:68 is that the
+added question (τίς έστιν ό παίσας σε) "is an addition to the parallel text
+in Mark." 92 Neirynck is certainly correct in substance, but has he ade­
+quately deflected Goulder's argument? Does one have to establish specific
+parallel examples of inattentiveness, or does merely demonstrating in gen­
+eral that Matthew was occasionally inattentive suffice?
+As has been mentioned, it serves Goulder to present the text, as it now
+stands as coherent and meaningful, if he wishes to undermine the view
+that the text as we have them is corrupt. However, at one point, through
+attempting to portray coherency, Goulder comes close to undermining his
+whole project. Arguing against Neirynck, who suggests that in Mark the
+demand "Prophesy!" means, "give us a prophecy," Goulder argues that
+Luke "expounds" the latent meaning in Mark. Goulder continues, "Mat­
+thew will have felt the same need of clarification," 93 and "the meaning of
+the taunt is clear from the veiling and hitting, but not crystal clear: it is
+made so by Matthew." 94 Unwittingly Goulder has argued for a solution
+that can be adopted by the 2SH: if the meaning "Who is hitting you?" is
+clearly latent within Mark, then it is not impossible to conclude that this
+minor agreement is a coincidental agreement by independent redactions.
+That Matthew and Luke use the exact same words is still something of a
+problem, but not an insurmountable one. If guessing who was doing the
+hitting is "clearly" latent within Mark for both Matthew and Luke, then it
+is not odd for both of these to redactionally add the question τίς έστιν ό
+παίσας σε. This question could have been expressed with different words,
+to be sure, but that two writers expressed it with these particular words is
+not an impossible supposition. In short, if the question is as "latent" within
+Mark as Goulder suggests, this minor agreement ceases to be the great
+problem for the 2SH that it has been. However, it is likely that few of those
+who adhere to the 2SH will agree that the question is clearly latent in
+Mark, which ironically bolsters Goulder's larger argument.
+Farmer takes exception to those, like Streeter, who attempts to solve this
+minor agreement through a textual emendation, and argues that no such
+drastic measure is required. Working within a neo-Griesbach framework,
+Farmer has little problem explaining the minor agreement itself—Luke
+copied it from his copy of the gospel of Matthew—but encounters prob­
+lems attempting to explain other components of this parallel. Starting with
+Matthew, Farmer creates a scenario not very different from one of Goul­
+der's above suggestions, namely, Jesus, with spittle running down his face
+and being hit by those mocking him, was "so distracted by this abuse he
+could only with difficulty have identified those who had struck him." 9 5
+Thus, "the text as it stands in Matthew is on all literary, historical, and
+form-critical grounds unimpeachable." 96 The same comments made above
+about Goulder's similar suggestion apply here. As was mentioned above, it
+is crucial for any, who wish to undermine a "Streeter-like" textual emenda­
+tion, to render Matthew intelligible at this point, and this Farmer claims
+to have achieved. Needless to say, many do not find Matthew's story as
+"unimpeachable" as Farmer argues, even with his exegetical suggestions. In
+any event, Farmer continues that Luke took over Matthew's story and
+made what was implied in his source explicit by putting a blindfold on
+Jesus. Farmer notes that Luke gains "verisimilitude" at this point but loses
+some of the pathos with the elimination of the spitting. 97 It seems that
+Farmer, without realizing it, acknowledges something less than full verisi-
+militude in Matthew by noting a gain in this respect in Luke.
+Be that as it may, Mark removes the question, but keeps the demand
+"Prophesy!" which implies the question. 98 Mark inexplicably retains the
+blindfold, and here Farmer runs into a problem: why would Mark elimi-
+nate something found in both Matthew and Luke (a double witness), and
+why would he take out an element that enhances and clarifies the story?
+Farmer argues that "Mark had an editor's right to omit the question." 99
+While this is certainly correct, it hardly serves as an explanation. Farmer
+argues that that, while the question was perhaps not "absolutely necessary
+to the narrative," its removal renders the taunt to "Prophesy!" pointless. 100
+Contradictorily, he argues that the omission of this question from Mark
+"does not change the narrative in any obvious way." 101 Turning a narrative
+element from meaningful to pointless can hardly be considered "not mak-
+ing a change." This inconsistency underscores the problem that significant
+minor agreements are for the Griesbach hypothesis.
+Certainly, Mark's version presents a problem for the 2SH, as well as
+Goulder's hypothesis, as they also have to make sense of the blindfold
+without the question. The blindfolding fulfills no narrative purpose within
+the second gospels narrative: being blindfolded offers no impediment to
+prophesy in general, which seems indicated in the Markan context (despite
+Farmer and Goulder's argument to the contrary). This problem, however,
+is more acute for the Griesbach hypothesis, as within that model Mark had
+two sources that both provided him with an excellent reason for Jesus
+being blindfolded. These, Mark chose to ignore, and in doing so created an
+unintelligible narrative moment.
+This paper started by Michael Goulder arguing, "Logically, it would take
+only one really striking Minor Agreement to destroy [the 2SH]." 102 If we
+find ourselves unhappy with Streeter, Tuckett and Neirynck's conjectural
+emendation, and are persuaded that Matthew can intelligibly stand as it is,
+then we might conclude that we have found Goulder's one striking exam-
+ple in Matt 26:68|Luke 22:64. Does this mean that the 2SH has now been
+destroyed? If this were the only piece of evidence allowed into consider-
+ation, we would likely conclude that Goulder was correct and abandon the
+2SH. However, this is not the only relevant evidence to consider. Streeter,
+Tuckett and Neirynck argue for textual corruption sans solid textual evi-
+dence here precisely because, at least in their minds, evidence elsewhere is
+compelling enough to warrant such a "drastic measure." The 2SH would
+have been "destroyed" by this minor agreement if the textual evidence were
+closed—that is, if we possessed or knew about all relevant texts and vari-
+ants. As it is, we clearly do not have access to all relevant recensions and
+versions of the synoptics, we do not know the "transmissional process by
+which one gospel came to be used by another evangelist," and we are not
+able "to reconstruct with absolute precision the Greek text." 103 In the light
+of these vast unknowns, Goulder's claim about "only one really striking
+Minor Agreement" falls short of the mark.
+We have found two basic types of argument: arguments that attempt to
+make sense of the narrative as we have it, and arguments that attempt to
+make sense of the text as we have it. In some respects both types of argu-
+ments are not of the sort that can be categorically accepted or rejected. For
+example, what are we to make of Browns suggestion that behind the slap-
+ping resided a type of blind-man's bluff? We noted above obstacles to this
+interpretation that give room to pause before accepting it. Likewise, there
+is ground for hesitance in accepting Goulder and Farmer's suggestion that
+Jesus did not need to be blindfolded for the demand to prophesy "who is
+striking you?" to be intelligible. Is the text truly "unimpeachable... as it
+stands in Matthew"? 104 Such an argument cannot be conclusively answered.
+These readings require the reader to supply vital information not explicitly
+found in the text, which of itself does not necessarily lead an interpretation
+into error, but lacks probative weight.
+Streeter, Tuckett and Neirynck's understanding of the incoherence
+within text at least stays close to the actual words as they are found in Mat-
+thew, even as they argue that these words are secondary. This makes their
+reading more persuasive, although perhaps not in an absolute fashion.
+Goulder's argument that Matthew was simply clumsy also stays close to
+the text. Whatever else we might think, it must be observed that Goulder's
+interpretations are not falsifiable, something he demands from his oppo-
+nents. 105 How can we falsify the level of attentiveness at work in the first
+evangelist?
+Nevertheless, conjectural emendation will never be a satisfying solution.
+This paper argued that even if one is persuaded by Streeter, Tuckett and
+Neirynck's arguments, the offending text should remain in all releases of
+the Greek New Testament. This will serve to maintain the integrity of the
+discipline of textual criticism. To change it would be to unfairly privilege
+one solution of the synoptic problem over rivals by hiding the problem.
+This would serve to aggravate a debate already often overloaded with
+polemic.
+Additionally, this minor agreement should stand in the text as a service
+to those who hold to the 2SH. This minor agreement can serve as a marker
+and reminder that this hypothesis is a model and not an exact one-to-one
+representation of reality "as it actually was." History is never "general
+happenings," but rather unrepeatable particularities. Without documenta-
+tion of these particularities historians must construct their histories as
+generalities—as models—even though history is never actually like this.
+Put another way, "parsimony... is a virtue of explanatory logic; it is not a
+feature of historical or literary realities." 106 Considered by itself, this minor
+agreement will offer no comfort for the 2SH, and it might be exactly this
+lack of comfort that can serve to remind us of the exact nature of this
+endeavor, with all its uncertainties and limitations. The actual and specific
+events that went towards the agreement of Matt 26:68 and Luke 22:64
+against Mark 14:65 are lost in the sands of time and will most likely never
+be recovered, leaving us with guesses and conjectures. Although we may be
+persuaded that the 2SH best integrates the data relating to the synoptic
+problem, this minor agreement can remind us that the synoptic problem
+is still a problem, and that all "solutions" proposed are provisional, includ-
+ing the 2SH.

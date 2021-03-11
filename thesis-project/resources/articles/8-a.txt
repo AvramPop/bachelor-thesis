@@ -1,0 +1,489 @@
+Midway through his 1964 study Memory and Manuscript, Birger Ger-
+hardsson noted that the Apostolic Fathers' use of the sayings of Jesus indi-
+cated either such a free reproduction of these sayings, or such adaptation
+to the context, that "we must be extremely careful when attempting to
+draw conclusions from sayings of Jesus used in this way, as to which ver-
+sion of the text the author knew, or the extent to which the gospel tradi-
+tion was fixed at this time." He then paused to observe that "the problem
+of the Apostolic Fathers' attitude to the gospel material is thus not easily
+solved." 1 Keeping Gerhardsson's warning in mind becomes more even
+more important when examining a specific figure like Ignatius of Antioch,
+whose use of scripture has been described as "inexact even as compared
+with his contemporaries," 2 wherein "even the more obvious reminiscences
+and quotations" betray a use of sources "characterized by inexactness and
+fragmentation." 3
+Century and half-century old warnings aside, however, recent publica-
+tions touching upon the presence of written gospel materials in the Igna-
+tian corpus signify not only a continuing lack of consensus on the issue of
+Ignatius and his sources, but also a lack of agreement as to how one should
+even commence approaching this issue. As is often the case with divergent
+conclusions and contrasting approaches, this situation indicates that the
+issue of whether this question is being formulated properly lurks not so far
+beneath the surface of the discussion. 4 Pier Franco Beatrice's recent asser-
+tion in the pages of this journal that Ignatius displays knowledge of the
+Gospel of the Hebrews, and that this knowledge "should be taken as the
+starting point of an unbiased analysis of all the evangelical and apocryphal
+material available in Ignatiuss epistles," 5 contrasts with my own cautious
+assessment that "there is a strong indication that, even were Ignatius
+acquainted with a written gospel, he would not necessarily use it as a nor-
+mative authority." 6 Neither of these views precisely match those of Hill,
+who has also recently argued that the term "gospel" in Ignatius may (some-
+times) have a textual referent, in addition to its meaning of "good news"
+(although Hill thinks it most likely that Ignatius is acquainted with the
+canonical gospels). 7 This divergence of opinion in regards to Ignatius is not
+new, of course. John Barton comments in passing during his 1997 study of
+the origins of the biblical canon that scholarly surveys quantifying (or
+attempting to quantify) Ignatius' preference for New Testament materials,
+as opposed to Old Testament references, vary so much in their results that
+Ignatius shows anywhere ^ram 5 to 50 times the use of the New Testament
+compared to the Old, depending upon the scholar doing the quantifying.
+Barton observes that this "wild discrepancy," as he rightly terms it, is
+dependent upon fluctuating definitions of what counts as verifiable "use"
+or "reference." 8 All of this previous scholarship, though, indicates that
+while any claims of "new" starting points such as Beatrice s do need to be
+taken seriously, they also need to be viewed with some reserve.
+There are thus three immediate areas of concern that arise in evaluating
+aspects of Beatrice's proposal. One is the web of methodological issues one
+steps into in any attempt to determine literary dependency in the Aposto-
+lic Fathers. 9 The second concern lies in assessing the numerous implica-
+tions of his "new" starting point (i.e., Ignatius' knowledge of the Gospel of
+the Hebrews) for any future "unbiased" analysis. The third concern is, not
+to put too fine a point on it, the sheer length of the article. Beatrices argu-
+ment is not easily summarized because of its 50 page length, as well as the
+complexity of the relationships he posits between the various sources with
+which he deals, and, most dauntingly, his essays overall erudition on a
+variety of topics. However, as he himself notes, Beatrice is not the first
+scholar to propose that Ignatius is acquainted with the Gospel of the
+Hebrews, and my response here is not intended to disprove any connection
+between Ignatius and the Gospel of the Hebrews (if one even could prove
+such a negative), but rather to probe some of the issues surrounding this
+alleged point of textual reliance displayed by Ignatius. 10
+Much of the evidence for Ignatius' knowledge of the Gospel of the
+Hebrews derives from a seemingly idiosyncratic phrase in his account of a
+resurrection appearance of Jesus. Smyrneans 3:2 contains what Beatrice
+terms a "strange" statement on the lips of the risen Jesus, ultimately deri­
+ving from the Gospel of the Hebrews: "I am not a bodiless demon." Or, as
+Kirsopp Lake more accurately renders it: "I am not a phantom without a
+body [Λάβετε, ψηλαφήσατέ με και ϊδετε, δτι ουκ ειμί δαιμόνιον
+άσώματον]." 11 Despite a cautionary tone, Beatrice notes that "the quota­
+tion in Smyrn 3 is alone sufficient" to establish Ignatian dependency on
+this Judaic gospel. 12 He bases this assessment upon the testimony of
+Jerome. 13 Since Jerome claims to have had firsthand knowledge of the ori­
+ginal Aramaic version of this gospel, and since Jerome clearly identifies this
+Ignatian passage as deriving from the Gospel of the Hebrews, Beatrice argues
+that "we have to acknowledge that Jerome told the truth," and that his
+testimony, rather than being viewed as (in the words of other scholars)
+"pure fantasy," or coming from "a questionable person," should instead be
+accepted with far less suspicion. 14 Before commenting critically upon these
+claims, however, we should first retrace Beatrice's steps more carefully. 15
+Beatrice argues that the presence of the saying "I am not a bodiless dae­
+mon" in both Ignatius and its attribution to "Petrine" materials in a slightly
+later period, indicates that all the subsequent references to this curious
+phrase, including the Ignatian occurrence, are most likely quotations from
+16
+a single source. According to his reconstruction this source is known
+alternately (and varyingly) by many of the later Fathers as the Didaskalia
+Petrou (or Petri Doctrina), Kerygma Petrou, or the Gospel of Peter. 17 Beatrice,
+however, argues that these Petrine materials are themselves all ultimately
+derived from a single Jewish-Christian gospel, the Gospel of the Hebrews,
+which is the immediate source for Ignatius. 18
+The statement in question runs as follows:
+For I know and believe that he was in the flesh even after the resurrection. And when
+he came to those who were with Peter, he said to them, "Reach out, touch me and see
+that I am not a bodiless daimon [Λάβετε, ψηλαφήσατέ με και ϊδετε, δτι ουκ είμι
+δαιμόνιον άσώματον]." And immediately they touched him and believed, having
+been intermixed with his flesh and spirit. For this reason they also despised death, for
+they were found to be beyond death. And after his resurrection he ate and drank with
+them as a fleshly being, even though he was spiritually united with the Father (Ign.
+Smyrn. 3:l-3). 1 9
+The nearest N T parallel to this Ignatian passage is found in Luke 24.
+While they were talking about this, Jesus himself stood among and said to them,
+"Peace be with you." They were startled and terrified, and thought that they were see­
+20
+ing a ghost [πνεύμα]. He said to them, "Why are you frightened, and why do doubts
+arise in your hearts? Look at my hands and my feet; see that it is I myself. Touch me
+and see; for a ghost does not have flesh and bones as you see that I have [ψηλαφήσατέ
+με και ϊδετε, δτι πνεύμα σάρκα καί όστέα ουκ έχει]" (Luke 24:36-39).
+Beatrice notes that "it is not difficult, however, to see that the differences
+between the two texts are much more significant than the similarities," and
+he thus rejects the view that Ignatius is dependent upon Luke. 21 Indeed, as
+many scholars of Ignatius have noted since the time of Lightfoot, if this is
+a reference to the Lukan tradition the changes in wording require at least
+some comment, if not explanation. 22 Thus William Schoedel observes in
+his commentary on the Ignatian corpus that this may be Lukan tradition
+if not Luke, or, most likely, a common tradition shared with Luke. 23
+However, Beatrice further observes that since the phrase, "I am not a
+bodiless demon" is associated by Origen with a source called the Petri doc­
+trina, glancing in the direction of Luke will not provide a satisfactory solu­
+tion. The evidence from Origen seems to indicate decisively that this saying
+comes from what we would term an apocryphal or non-canonical source.
+If somebody really wishes to set before us something from that book which is called
+the Doctrine of Peter in which the Saviour seems to say to the disciples: "I am not a
+demon without a body" [ubi salvator videtur ad discípulos dicere: "Non sum daemo-
+nium incorporeum"], then one has to answer him first of all that that book is not
+reckoned among the ecclesiastical books and one has to show that this same book is
+not Peter's nor by some other inspired by the Spirit of God. 2 4
+Thus, when we arrive at the discussion of Ignatius and his writings in Book
+3 of Eusebius's Church History, we find that Eusebius says he simply "does
+not know" the origin of this phrase.
+And the same man writing to the Smyrnaeans, used the following words: I do not
+know whence he took them [ουκ οίδ' οπόθεν ρητοις συγκέχρηται], with regard to
+Christ, saying: "But I know and believe that he was in the flesh after the resurrection.
+And when he came to Peter and those with him he said to them, Take me and feel me
+and see that I am not a demon without a body and immediately they touched him and
+believed (Eus. He. 3.36.11). 25
+Jerome, however, twice identifies it clearly with the Gospel of the Hebrews,
+once in passing {In Esaiam prol. 65), 2 6 and once in explicit connection to
+the occurrence of this saying in the Ignatian correspondence:
+Leaving from there [Smyrna] he wrote to the Philadelphians and Smyrnaeans and
+separately to Polycarp recommending the Antiochaean Church to him. In this he bore
+also witness to the gospel which I have recently translated, in respect of the person of
+Christ saying: "I indeed saw him in the flesh after the resurrection and I believe that it
+was he, and when he came to Peter and those who were with Peter, he said to them:
+'Behold, touch me and see me how that I am not a demon without a body, and
+straightway they touched him and believed' {De vir. ill. 16). 27
+Therefore, Beatrice reasons, not only has Eusebius's text unfortunately "so
+far prevented all the scholars from recognizing that it is only one and
+the same work that hides under the different titles Gospel of Peter, Kerygma
+Petrou, and Didaskalia Petrou' (the direct equation of these various sources
+being Beatrices own), 28 but Eusebius's admission that he does not
+recognize the source of this quotation in Ignatius has also unfairly caused
+scholars to ignore or discount the testimony of Jerome, because of his reli-
+ance upon Eusebius. 29 For Beatrice, then, Origen and Jerome are making
+use of the same non-canonical gospel, although they know it by different
+names, and this same gospel was also known to Ignatius, and is the source
+for Ign. Smyrn. 3:2.
+The last steps in Beatrice's reconstruction are to link this (now) single
+Petrine document s origin to the Gospel of the Hebrews (at this point
+Origen s testimony provides "obvious evidence" 30 of this connection), and
+thereby clarify the traditional web of associations surrounding the origins
+of the "Jewish-Christian gospels" and the Gospel of Matthew. As for the
+issues surrounding the various Jewish-Christian gospels and their commu-
+nities (e.g., the Nazoreans, the Ebionites), they can equally be resolved.
+Beatrice concludes: "However fragmentary the available documentation
+may be, and for this reason very difficult to interpret, the most sensible
+reply that I have managed to find to this question is that the Aramaic Gos-
+pel of Matthew and the Gospel of the Hebrews are one and the same gos-
+pel." 31 Moreover, "only one Judaeo-Christian gospel, the Gospel of the
+Hebrews, seems in fact to be sufficient to explain coherently and economi-
+cally all the data supplied by the ancient sources." 32 This conclusion stands
+in marked contrast to Klijn s more representative view that "the presence of
+three Jewish Christian gospels is an established fact." 33
+This solution would certainly have the additional appeal of tightening
+up the often frustrating attempts to connect these disparate early Jewish-
+Christian groups, and, significantly for Ignatian scholars, resolving some
+of the problems surrounding the identification of Ignatius' opponents and
+the issues he addresses in his letters. This overall clarification is achieved in
+part by reference to what would initially appear to be the chief stumbling
+block for Beatrice s proposal; Jerome s testimony seems to attribute a first-
+person eyewitness statement to Ignatius himself ("/ indeed saw him in the
+flesh"). Beatrice argues that, contrary to assertions of Jerome "misreading"
+Eusebius's εν σαρκί αυτόν οίδα και πιστεύω as "in carne eum vidi et credo,"
+or Jerome reading accurately an alternate version of the Eusebian text (that
+in turn had misread Ignatius), 34 Jerome is witness to an important textual
+variant, often mistranslated, and more accurately rendered as: "Ignatius
+quotes from the Gospel of the Hebrews a testimony which states: Ί saw... Z" 35
+This variant reading receives further support from the medieval Latin
+36
+recension of Ignatius.
+The only issue left, then, is the identity of the first-person speaker whose
+witness to the resurrection Ignatius (via the Gospel of the Hebrews) quotes.
+Beatrice thus closes the circle: Ignatius is quoting the Gospel of Hebrews, in
+which the apostle Matthew (not Peter, and certainly not Ignatius himself)
+gives first person testimony to his experiences. Thus, he has successfully
+traced back various Petrine materials to a common source and simultane­
+ously cleared up the perennial confusion over the Matthean-like material
+in Ignatius in one stroke; 37 by finding their common source in a single
+Jewish-Christian gospel, originally written in Aramaic, and associated with
+Matthew. 38
+One can naturally raise several questions concerning this proposal, many
+of which Beatrice has already anticipated, beginning with Lightfoot's
+observation that since Jerome himself only knows Ignatius' writings
+through Eusebius, and that as he wrongly attributes this quotation to the
+epistle to Polycarp, perhaps he is not wholly reliable in this matter. 39 This
+is not an insurmountable obstacle, of course, and the broader question of
+Jeromes reliability is really not as easily answered as many think, especially
+given Beatrice s recurring defense of Jerome s reliability throughout his
+essay. For example, the following question often arises: if there was a copy
+of the Gospel of the Hebrews in the library at Caesarea, why does Eusebius,
+who on other occasions seems to know something about this gospel, fail to
+recognize the source of Ignatius' quotation? Beatrice reverses the usual
+direction of this line of reasoning, noting that perhaps it is Eusebius (not
+Jerome) who actually does not know this gospel as well as he says, or, alter-
+nately, who has his own reasons for being less than forthcoming. 40 "When
+Eusebius speaks of the Gospel of the Hebrews in the chapters devoted respec-
+tively to Papias and to Hegesippus, he reports only what he had read in the
+works of these two authors, and nothing else." 41
+Neither is it necessarily an issue that scholars other than Beatrice who have
+seen Jewish-Christians in the background of the Ignatian correspondence
+still simply reckon Ign. Smyrn. 3:2 as a reference to Luke 24. 42 Seemingly
+more problematic, of course, is Jerome's attribution of words to Ignatius
+that more properly belong on the lips of an eyewitness to the resurrection,
+which Ignatius most certainly was not. As mentioned above, however, Bea-
+trice incorporates this problem into his account of the literary history of
+the Gospel of the Hebrews. One could, perhaps, respond by questioning the
+interpretation of the evidence from later recensions used to support
+Jerome s reading of "vidi." Given that later recensions such as the long
+Greek version of Ignatius explicitly connect both Luke 24:39 and John
+20:21-28 to this passage, Lightfoot's passing reference to a 19th-century
+suggestion that the Latin version's reading of "vidi" may simply result from
+echoes of John 20:8's και ειδεν καί έπίστευσεν (at least in the minds of
+later scribes) could be seen as more plausible. 43 This objection is liable to
+carry little weight, however, as it is the "original" association between Luke
+24 and Smyrneans 3:2 that is at issue anyway, not later readers' tendency to
+view these two passages as more or less the same.
+None of these objections, although they come to mind readily enough,
+properly address the issue of how one is to determine textual reliance and
+literary dependency, and whether or not such attempts makes sense either
+in our understanding of the development of the gospel traditions or the
+specific case of the Ignatian correspondence. As the issue of the presence of
+written gospels within the Ignatian epistles naturally occurs within broader
+scholarly discussions of the early second-century use and circulation of
+these materials, Beatrice's suggestion needs to be briefly contextualized,
+bearing in mind that it is always possible, of course, that these broader
+patterns of scholarship themselves need revising in light of Beatrice's
+proposal! 44
+A chief example of one regnant approach is Helmut Koester's work,
+now spanning several decades at this point in time, with his recent studies
+reaffirming many of the positions first spelled out in his 1957 study of the
+Synoptic traditions in the second century. 45 Koester argues for the fluidity
+of the gospel traditions in the second century; "fluid" with respect to the
+stability of the text of individual gospels, and fluid with respect to the
+division later made between canonical and apocryphal gospels (or "autho­
+rity and authenticity"). 46 For Koester, the instability of "the text" of any
+particular gospel is a result of the mixture of orally performed material,
+geographical differences, and religious diversity of the second century;
+"free tradition" that may or may not have been equally available to the
+writers of the canonical gospels. Yet scholars obviously can reasonably dis­
+agree, some arguing, for example, that Ignatius "knew" the gospel of
+Matthew and some of the Pauline corpus. 47 As I mentioned earlier, metho­
+dological differences as regards the definition of "use" can lead to widely
+varying results. 48 Perhaps, however, some of the many implications of
+Beatrice's proposal can be seen more clearly by examining an example of
+how this new starting point affects his analysis of Ignatius.
+One example of what Beatrices new unbiased starting point might mean
+for the Ignatian correspondence can be seen in his reading of an Ignatian
+locus ckssicus, a passage which gives us, in the words of Charles Hill's recent
+study, the "fundamental occasion for Ignatius' use of το εύαγγέλιον." 49
+But I urge you to do nothing in a contentious way, but in accordance with what you
+have learned in Christ. For I heard some saying: "If I do not find it in the ancient
+records [τα αρχεία], I do not believe in the gospel." And when I said to them, "It is
+written," they replied to me, "That is just the question." But for me, Jesus Christ is the
+ancient records; the sacred ancient records are his cross and death, and his resurrec-
+tion, and the faith that comes through him—by which things I long to be made
+righteous by your prayer. 50
+In Beatrice's reading, then, Ignatius' juxtaposition of the "gospel" and the
+"archives" is concerned with the "content and interpretation" of the Gospel
+of the Hebrews, a text that Beatrice is now able to propose was "at the centre
+of fierce debates in the Christian communities of the Syro-Asiatic area
+between the end of the first century and the first half of the second
+century. ?1
+This conclusion is unlikely to persuade many scholars for a variety of
+reasons, among them the hastily drawn connections between a possible
+quotation from a text to the view that it is the status of that very text that
+serves as the central component of the controversy in this important Igna-
+tian passage. I grant, of course, that one could possibly maintain that even
+if Ign. Phld. 8:2 is not read this way, and thus has nothing whatsoever to
+do with the Gospel of the Hebrews, this assessment may have nothing to do
+with the possibly separate question of whether or not Ign. Smyrn. 3:2 is a
+quote from that Gospel! However, if a new starting point is proposed, one
+might reasonably want to see the directions in which the author of the new
+point of departure thinks to travel. Thus, if Ign. Phld. 8:2 is simply a refe-
+rence to the Gospel of the Hebrews and its relationship to the Old Testament
+(the usual view of the "archives"), then how does this solution affect our
+understanding, either of this passage or of the Ignatian epistles? 52 Beatrice
+expands on his reading:
+It would certainly be useful to reconsider the whole controversy of Ignatius with the
+Docetists, such as has not been done, in the terms of a theological confrontation
+which hinges essentially upon the evaluation of the Gospel of the Hebrews, of its rela-
+tionship to the Old Testament, of its doctrinal context and of its normative authority
+for the faith. 53
+But as I have written earlier, interpretation of this passage in Philadelphians
+is always determined by the decisions one has previously made about a
+variety of issues:
+One can read either, "If I find it not in the archives, that is, in the gospel, I do not
+believe it," or the more common, "if I find it not in the archives, I do not believe in
+the gospel." έαν μη έν τοις άρχείοις εΰρω έν τω εύαγγελίω ου πιστεύω, of course, can
+be punctuated to read either way. This question of emphasis/punctuation is not readily
+separated, however, from the exegetical decisions one makes about the meaning of τα
+αρχεία, Ignatius' understanding of the gospel, or larger questions about the role of
+scripture in the early church. Rather, such decisions are determinative for one's under­
+standing of the proper punctuation of this passage. 54
+Thus, to clarify matters slightly, even in Hills assessment of this passage,
+where "gospel" could be a written source, if not the specific written text of
+the Gospel of the Hebrews, the gospel is still something quite different than
+Scripture (Old Testament). What does Beatrices solution mean, then,
+against the backdrop of so many previous studies of early second-century
+Christian literature that have not only expressed reservations about whether
+or not the term "gospel" really refers to a written document during this
+early time period (cf. Hills careful approach in this regard)? And what
+might this mean in the context of Ign. Phld. 8:2 where many scholars have
+equally argued that it seems that it is the very over-reliance on a traditional
+written authority that Ignatius is combating? 55 Assessing the use of written
+gospels and the attitudes towards them and their texts in the second cen-
+tury is difficult even where a relative abundance of evidence exists (not the
+case with the Gospel of the Hebrews) because of the long-standing recogni-
+tion of the gospels as oral material, even when encountered in written
+form. As John Barton has argued in some detail, even when the gospels
+were encountered as texts, they were often still conceived of as oral, albeit
+in a sense that "did not in practice rule out the use of books." 56 This state
+of affairs means, then, that arguing about the "status" of a specific Chri-
+stian text has an extremely high hurdle to overcome, and that Beatrice's
+intriguing proposal likely will need further argumentation to prove persu-
+asive as either a "starting point," or as an explanation of Ign. Phld. 8:2. By
+way of contrast, and as a means of establishing the framework in which my
+final reservations can be best expressed, I would first like to point out a few
+issues arising from perhaps the least controversial example of textual reli-
+ance in Ignatius.
+Given that the only Christian "text" that Ignatius clearly cites (and that he
+is universally recognized as citing) is 1 Corinthians, and he fails to reference
+it (as Scripture or in any other way whatsoever), despite his recognition of
+Pauls activity as a writer of letters (Ign. Eph. 12:2), what does it mean to
+so easily speak of Ignatius as "quoting" a written gospel? 57 The assessment
+I made earlier (without benefit of Bartons study) argued that Paul's wri-
+tings were only en route to becoming authoritative.
+The clarity with which Ignatius cites Paul and Ignatius' use of such an idiosyncratic
+passage as 1 Cor 15.8 as a stylistic model seem to indicate that 1 Corinthians is well
+on its way to gaining widespread use and recognition with Ignatius' audience. The
+references Ignatius makes to Paul and his use of Pauline vocabulary bear additional
+witness to the authoritative status, notoï 1 Corinthians, but to the figure of Paul him-
+self. . . . Pauls writings thus seem to be in a transitional state, not yet normative on the
+same level as biblical material, but recognizable enough to be used as stylistic and
+theological models based on their connection to the person of Paul. 58
+The issues peculiar to Ign. Phld. 8:2 s relativization of the "authority" of
+written sources like the Old Testament, then, at least in comparison to the
+authority of the "gospel" proclaimed by a bishop following "in the foot-
+steps" of the apostle Paul, should make one wary of overly confident scho-
+larly claims about having reached a point from which "unbiased" analysis
+of gospel materials can now proceed. 59 1 will repeat in simpler terms that
+there is every indication that 1 Corinthians is used, but not cited, by Igna-
+tius because / Corinthians is not an authority. The language of 1 Corinthi-
+ans, however, has authority because it is Pauls. 60 This point should not be
+misunderstood, since it seems to ignore an obvious association or a simple
+shorthand manner of saying that Pauls writings have authority because
+they are written by Paul. This is undoubtedly so, but Paul is not used as a
+written text. Another recent essay in the NTAF centennial project, David
+M. Reis s study of Ignatius' use of Paul as a mimetic model, mirrors this
+assessment insofar as he also notes that there is no need for Ignatius to cite
+Pauls words, since "the bishops close connection to Pauline vocabulary,
+ideas, and argumentation have the effect of inviting his readers to identify
+him with Paul." 61 Lest this idea seem overly subtle, it is very much the
+point Barton makes concerning the canonical Gospels throughout much
+of the second century. "The practical consequence of this [emphasis on the
+spoken word], once there were written Gospels, was that authority was
+accorded not to these books directly, but more obliquely to what they stood
+for or what was taken to be the heart of them." 62 This assessment would
+certainly fit the use of both Pauline and "gospel" materials (should they
+actually be present) in Ignatius, although it creates a problem for reconstruc-
+ting his sources. But if the only Christian text Ignatius can be universally
+agreed to have known was reproduced with some care as to wording, but
+with no care whatsoever to signal that the words are not his own, we clearly
+are in a state of great difficulty in terms of any "other" texts, particularly
+non-extant ones, since we also have the luxury of having 1 Corinthians at
+hand.
+Lastly, and most obviously, should our usual understanding of the circum-
+stances surrounding the composition of Ignatius' letters be accurate, it is
+unreasonable to expect written sources to have even been available, and
+thus recognizing they were even being referenced leaves us dependent on
+Ignatius' memory, and his notable lack of any citation formulas. 63 Four
+decades ago Robert M. Grant observed that Ignatius was "almost certainly
+not using books at the time he wrote, whether or not he had used them
+earlier." 64
+There are several separate issues here, and although they do need to be
+treated individually, they must be understood together. First, is the wor-
+ding in Ign. Smyrn. 3:2 so different from Luke that it is as easy to see as
+Beatrice and so many others claim? For scholars, especially textual critics,
+who spend their professional lives examining minor variations in the wor-
+ding of a text, the differences are extremely noteworthy. I am not so sure,
+however, that the differences would be so obvious to all readers in all places
+and times. Much depends on what sources we assume to be available to
+Ignatius, and whether or not he was capable of accurately reproducing that
+source (whether Luke, Lukan tradition, a tradition shared with Luke, or
+something else entirely such as a "sentence flottante"), 65 or if he even would
+have deemed such careful use of a written authority (or oral tradition) to
+be worthy of such attention had it been accessible. That is to say, Ignatius
+was likely simply unable (as I am) to "check his sources," whether or not he
+had sources he normally would have checked. 66 How much more difficult
+is this line of inquiry with an unflagged quotation from a non-extant
+Gospel?
+Once again Robert M. Grant neatly encapsulated all of these points.
+It is possible to hold that either that Ignatius was relying upon memories of what he
+had read (scripture) or that he was relying upon memories of what he had heard (oral
+tradition). To make a decision is very difficult. Analogies inevitably enter into consid-
+eration. The kind of memory ascribed to Ignatius tends to be the kind of memory
+possessed by the scholar discussing his work. 67
+Grant then notes, in reference to Ign. Smyrn. 3:2, that while "it is not
+absolutely impossible" that Ignatius used an apocryphal gospel, "it seems
+just as likely that he was using Luke." 68 This may seem a rather minimalist
+conclusion, and neither it, nor even the more cautious assessments of
+Schoedel or Bovon, carry the revolutionary implications of the confident
+conclusions reached by Beatrice. Yet proceeding from how Ignatius treats
+sources (like 1 Corinthians) acknowledged as definitely present in his let-
+ters seems far wiser, even when this procedure simply indicates further
+speculation to be precarious. This precariousness becomes most evident
+when Beatrice attempts in his closing paragraphs, however tentatively, to
+chart a new course for the Synoptic Problem based on the results of his
+proposal. The Q source, as it turns out, "is in fact no more than that por-
+tion of the Aramaic Gospel of the Hebrews which was reused and altered
+in various ways in the Greek canonical gospels of Matthew and Luke." 69
+Beatrice concludes by cleverly applying the words of Ign. Smyrn. 3:2 to
+scholarship on Q: "the Greek source Q seems to be condemned to remain
+a 'bodiless demon, or more simply an optical illusion." 70 Yet solidity is in
+the eye of the beholder; one scholar's firm ground is another scholar's house
+built on sand. Even arguments of textual reliance via seemingly compelling
+parallels to Ign. Smyrn. 3:2 can simply be reversed in terms of their impli-
+cations, as Vincent has already done in his late dating of the Ignatian mate-
+rials on the basis of the same passage. 71 It may well be possible that Q is
+nothing more than a portion of the Aramaic Gospel of the Hebrews, but it
+is a suggestion that I imagine will need additional argumentation to persu-
+ade many Synoptic specialists. Yet, however firmer the textual grounding
+an approach like Beatrice's appears to have beneath it (and this is surely its
+appeal, in addition to restoring a lost "original" Aramaic gospel), the temp-
+tation to step confidently onto this new ground must be resisted.
+The most notable reservation I have is, as it happens, one that does not
+require assessing Jerome or Eusebius (or anyone else) as reliable or unreli-
+able. It is also a reservation notably unmentioned in most of the studies I
+have cited thus far. Grant that Jerome encountered a group of Aramaic
+speakers who presumably represented themselves as standing in an unbro-
+ken lineage to the original Aramaic speaking community around Jesus,
+and thus their Aramaic gospel as an original of some sort, and let us also
+grant that this Aramaic gospel did indeed contain the passages that Jerome
+says it does. Let us grant all of these claims, and furthermore give Jerome
+the fullest benefit of the doubt as to his own memory and moral character.
+This does not mean that these claims that either Jerome (or the community
+whose gospel he uses) makes are historically accurate claims. By the fourth
+century, after-all, so-called orthodox Christians, heretical Christians, and
+Jewish Tannaim all claimed to represent traditions in an unbroken chain
+back to the original apostles or the Pharisaic "traditions of the elders," and
+all claimed to have traditions, stories, and texts that represented these
+unbroken chains of transmission. A broader perspective would likely see
+that, given the prevalence of claims of pure spiritual lineage (with an
+equally pure transmission of texts and teaching), and their repeated con-
+trast with the "impure" lineages of so-called heresies, one should not take
+these claims at face value. 72 In fact, without exception, many scholars now
+recognize these other claims as serving the contexts in which the commu-
+nities making these claims lived, not as historical reality. Thus, Jerome's
+testimony does not actually get us back to an original Aramaic gospel
+behind the text of Ignatius (who betrays no knowledge of non-Greek lan-
+guage materials at any rate) or the Synoptics for that matter, but it really
+only testifies to the belief of a 4th-century Christian sect concerning the
+authenticity of their gospel. It would be more surprising (and highly un-
+likely) were there a group not claiming apostolic authorship and authen-
+tication for such a text. Combined with the "generally accepted idea that
+the canonical Gospel of Matthew was originally written in Hebrew or
+Aramaic," 73 Jerome s views may simply be repeating the origin myth sur-
+rounding the group whose gospel he encountered.
+That many Christians were and are attracted to Jewish gospels because
+of their connection to the "original" community around Jesus is not to be
+doubted, but I fail to see how the claims made for this text are much stron-
+ger than those made for the "canonical" gospels. 74 Taken alongside of the
+problems which beset the study of Ignatius' sources, Beatrice's erudite
+reconstruction is ultimately more appealing than persuasive. In this regard
+I do agree with Beatrice that there is, as it happens, an analogy of sorts
+between the contents of Ign. Smyrn. 3:2 and Luke 24 to some scholarly
+writing, although I would apply this analogy quite differently than Bea-
+trice does. Fearing its phantasmal nature, the disciples are scared to touch
+the tangible body of the risen Jesus, while some scholars are scared to
+embrace the possibly phantasmal nature of gospel traditions in the Igna-
+tian letters, preferring to grasp at objects reassuring in their seeming
+solidity.
