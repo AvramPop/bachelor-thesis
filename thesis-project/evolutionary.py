@@ -31,17 +31,45 @@ def fitness(individual, similarity_matrix, summary_size, a=0.34, b=0.33, c=0.33)
     return (a * cohesion(individual, similarity_matrix, summary_size) + b * readability(individual, similarity_matrix) + c * sentence_position(individual)) / (a + b + c)
 
 
-def max_weight_dag_util(start, weights, similarity_matrix):
-    for i in range(len(similarity_matrix)):
-        if similarity_matrix[start][i] > 0 and weights[i] == 0:
-            weights[i] = max(weights[i], weights[start] + similarity_matrix[start][i])
-            max_weight_dag_util(i, weights, similarity_matrix)
+def topological_sort_util(current_node, stack, visited, adjacency_matrix):
+    visited[current_node] = True
+    for neighbor in adjacency_matrix[current_node]:
+        neighbor = neighbor[0]
+        if not visited[neighbor]:
+            topological_sort_util(neighbor, stack, visited, adjacency_matrix)
+    stack.append(current_node)
+
+
+def longest_path(adjacency_matrix):
+    stack = []
+    visited = [False for _ in range(len(adjacency_matrix))]
+    for i in range(len(adjacency_matrix)):
+        if not visited[i]:
+            topological_sort_util(i, stack, visited, adjacency_matrix)
+
+    dist = [np.NINF for _ in range(len(adjacency_matrix))]
+    dist[0] = 0
+    while len(stack) > 0:
+        current = stack[-1]
+        del stack[-1]
+        if dist[current] != np.NINF:
+            for neighbor in adjacency_matrix[current]:
+                cost = neighbor[1]
+                neighbor = neighbor[0]
+                if dist[neighbor] < dist[current] + cost:
+                    dist[neighbor] = dist[current] + cost
+    return dist
 
 
 def max_weight_dag(similarity_matrix):
-    weights = [0 for _ in range(len(similarity_matrix))]
-    max_weight_dag_util(0, weights, similarity_matrix)
-    return max(weights)
+    adjacency_matrix = [[] for _ in range(len(similarity_matrix))]
+
+    for i in range(len(similarity_matrix)):
+        for j in range(len(similarity_matrix)):
+            if similarity_matrix[i][j] > 0:
+                adjacency_matrix[i].append([j, similarity_matrix[i][j]])
+
+    return longest_path(adjacency_matrix)[len(similarity_matrix) - 1]
 
 
 def readability(individual, similarity_matrix):
@@ -58,7 +86,12 @@ def sentence_position(individual):
     result = 0
     for i in indices:
         result += np.sqrt(1 / i)
-    return result
+    size = len(indices)
+    normalisation_factor = 0
+    for i in range(size):
+        factor = i + 1
+        normalisation_factor += np.sqrt(1 / factor)
+    return result / normalisation_factor
 
 
 def cohesion(individual, similarity_matrix, summary_size):
@@ -68,8 +101,8 @@ def cohesion(individual, similarity_matrix, summary_size):
         for j in range(len(individual)):
             if individual[i] and individual[j]:
                 cohesion_sum += similarity_matrix[i][j]
-                if similarity_matrix[i][j] > maxi:
-                    maxi = similarity_matrix[i][j]
+            if similarity_matrix[i][j] > maxi:
+                maxi = similarity_matrix[i][j]
     cohesion_not_normalized = 2 * cohesion_sum / ((summary_size - 1) * summary_size)
     cohesion_normalized = np.log10(9 * cohesion_not_normalized + 1) / np.log10(9 * maxi + 1)
     return cohesion_normalized
@@ -130,11 +163,11 @@ def summary_from_individual(best_individual, text_as_sentences):
     return preprocessing.concatenate_text_as_array([text_as_sentences[i] for i in range(len(best_individual)) if best_individual[i] is True])
 
 
-def generate_population(number_of_sentences, summary_size, population_size=20):
+def generate_population(number_of_sentences, summary_size, population_size=100):
     return [generate_individual(number_of_sentences, summary_size) for _ in range(population_size)]
 
 
-def generate_summary_evolutionary(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, number_of_iterations=10):
+def generate_summary_evolutionary(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, number_of_iterations=100):
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embeddings)
     population = generate_population(len(similarity_matrix), summary_size)
