@@ -11,12 +11,16 @@ def generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embedding
     similarity_matrix = np.zeros([number_of_sentences, number_of_sentences])
     for i, row_embedding in enumerate(sentences_as_embeddings):
         for j, column_embedding in enumerate(sentences_as_embeddings):
-            similarity_matrix[i][j] = 1 - spatial.distance.cosine(row_embedding, column_embedding)
+            similarity_matrix[i][j] = cosine_distance(column_embedding, row_embedding)
     for i in range(number_of_sentences):
         for j in range(number_of_sentences):
             if j <= i:
                 similarity_matrix[i][j] = 0
     return similarity_matrix
+
+
+def cosine_distance(sentence1, sentence2):
+    return 1 - spatial.distance.cosine(sentence2, sentence1)
 
 
 def generate_individual(text_size, summary_size):
@@ -27,8 +31,52 @@ def generate_individual(text_size, summary_size):
     return individual.tolist()
 
 
-def fitness(individual, similarity_matrix, summary_size, a=0.34, b=0.33, c=0.33):
-    return (a * cohesion(individual, similarity_matrix, summary_size) + b * readability(individual, similarity_matrix) + c * sentence_position(individual)) / (a + b + c)
+def title_relation(individual, sentences_as_embeddings, title_embedding):
+    indices = [i for i in range(len(individual)) if individual[i]]
+    title_relation_metric = 0
+    for i in indices:
+        title_relation_metric += cosine_distance(sentences_as_embeddings[i], title_embedding)
+    title_relation_metric = title_relation_metric / len(indices)
+    backup_text_embeddings = copy.copy(sentences_as_embeddings)
+    backup_text_embeddings.sort(key=lambda x: cosine_distance(x, title_embedding), reverse=True)
+    backup_text_embeddings = backup_text_embeddings[:len(indices)]
+    best_title_relation_score = 0
+    for sentence in backup_text_embeddings:
+        best_title_relation_score += cosine_distance(sentence, title_embedding)
+    best_title_relation_score = best_title_relation_score / len(indices)
+    return title_relation_metric / best_title_relation_score
+
+
+def sentence_length_metric(individual, text_as_sentences):
+    indices = [i for i in range(len(individual)) if individual[i]]
+    sentences = [text_as_sentences[i] for i in indices]
+    lengths = [len(sentence.split()) for sentence in sentences]
+    average = np.average(lengths)
+    std = np.std(lengths)
+    length_metric = 0
+    for length in lengths:
+        length_metric += (1 - np.exp((-length - average) / std)) / (1 + np.exp((-length - average) / std))
+
+    backup_text = copy.copy(text_as_sentences)
+    backup_text.sort(key=lambda x: len(x.split()), reverse=True)
+    backup_text = backup_text[:len(indices)]
+    lengths_best = [len(sentence.split()) for sentence in backup_text]
+    average_best = np.average(lengths_best)
+    std_best = np.std(lengths_best)
+    length_metric_best = 0
+    for length in lengths_best:
+        length_metric_best += (1 - np.exp((-length - average_best) / std_best)) / (1 + np.exp((-length - average_best) / std_best))
+
+    return length_metric / length_metric_best
+
+
+def fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences, a=0.005, b=0.005, c=0.35, d=0.35, e=0.29):
+    return (a * cohesion(individual, similarity_matrix, summary_size) +
+            b * readability(individual, similarity_matrix) +
+            c * sentence_position(individual) +
+            d * title_relation(individual, sentences_as_embeddings, title_embedding) +
+            e * sentence_length_metric(individual, text_as_sentences)) \
+           / (a + b + c + d + e)
 
 
 def topological_sort_util(current_node, stack, visited, adjacency_matrix):
@@ -108,10 +156,11 @@ def cohesion(individual, similarity_matrix, summary_size):
     return cohesion_normalized
 
 
-def roulette_wheel_selection(population, similarity_matrix, summary_size):
-    fitness_sum = sum([fitness(x, similarity_matrix, summary_size) for x in population])
-    selection = random.choices(population, weights=[fitness(x, similarity_matrix, summary_size) / fitness_sum for x in population], k=2)
-    return selection[0], selection[1]
+def roulette_wheel_selection(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes):
+    fitness_sum = sum([fitness(x, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes) for x in population])
+    selection = random.choices(population,
+                               weights=[fitness(x, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes) / fitness_sum for x in population])
+    return selection[0]
 
 
 def bits_in_individual(individual):
@@ -144,11 +193,23 @@ def mutate(individual):
     return individual
 
 
-def iteration(population, similarity_matrix, summary_size):
-    population.sort(key=lambda individual: fitness(individual, similarity_matrix, summary_size), reverse=True)
+def rank_selection(population):
+    best = population[0]
+    medium_score = 0
+    for individual in population[1:]:
+        medium_score += abs(cosine_distance(best, individual))
+    medium_score = medium_score / (len(population) - 1)
+    scores = [(medium_score - 2 * (medium_score - 1) * i / (len(population) - 1)) / len(population) for i in range(len(population))]
+    selection = random.choices(population, weights=scores)
+    return selection[0]
+
+
+def iteration(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, sentences_without_footnotes):
+    population.sort(key=lambda individual: fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, sentences_without_footnotes), reverse=True)
     best_two = population[0], population[1]
     del population[:2]  # remove the elites since we always keep them
-    parent1, parent2 = roulette_wheel_selection(population, similarity_matrix, summary_size)
+    parent1 = roulette_wheel_selection(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, sentences_without_footnotes)
+    parent2 = rank_selection(population)
     child1, child2 = one_point_crossover(parent1, parent2, summary_size)
     mutate(child1)
     mutate(child2)
@@ -160,20 +221,23 @@ def iteration(population, similarity_matrix, summary_size):
 
 
 def summary_from_individual(best_individual, text_as_sentences):
-    return preprocessing.concatenate_text_as_array([text_as_sentences[i] for i in range(len(best_individual)) if best_individual[i] is True])
+    return preprocessing.concatenate_text_as_array(
+        [text_as_sentences[i] for i in range(len(best_individual)) if best_individual[i] is True])
 
 
-def generate_population(number_of_sentences, summary_size, population_size=100):
+def generate_population(number_of_sentences, summary_size, population_size=30):
     return [generate_individual(number_of_sentences, summary_size) for _ in range(population_size)]
 
 
-def generate_summary_evolutionary(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, number_of_iterations=100):
+def generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text_as_sentences_without_footnotes, summary_size,
+                                  number_of_iterations=30):
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embeddings)
     population = generate_population(len(similarity_matrix), summary_size)
     for i in range(number_of_iterations):
-        iteration(population, similarity_matrix, summary_size)
-    best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix, summary_size))
+        print(i)
+        iteration(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes)
+    best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes))
     generated_summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
     print("Evolutionary algorithm took ", time.time() - start_time, "s")
     return generated_summary

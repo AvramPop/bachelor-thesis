@@ -3,9 +3,9 @@ import string
 import stanza
 import nltk.data
 import unidecode
+import copy
 import tensorflow_hub as hub
 from pythonrouge.pythonrouge import Pythonrouge
-
 
 embed = hub.load("/home/dani/Desktop/code/scoala/licenta/use")
 
@@ -53,7 +53,8 @@ def split_in_tokens(text):
 
 # remove all stop words from given list of words, using as reference NLTK data
 def remove_stop_words(tokens):
-    stop_words = read_file_line_by_line("/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/util/stop-words.txt")
+    stop_words = read_file_line_by_line(
+        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/util/stop-words.txt")
     return [word for word in tokens if word not in stop_words]
 
 
@@ -68,7 +69,7 @@ def is_english(s):
 
 # lemmatize given list of words using Stanza (Standford NLP)
 def lemmatize(words):
-    nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos,lemma', tokenize_pretokenized=True)
+    nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos,lemma', tokenize_pretokenized=True, verbose=False)
     doc = nlp([words])
     return [word.lemma for sent in doc.sentences for word in sent.words]
 
@@ -103,11 +104,14 @@ def rouge_score(generated_summary, human_summary):
 
 def prepare_data(document_number=1):
     title = read_file_to_text(
-        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(document_number) + "-c.txt")
+        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
+            document_number) + "-c.txt")
     abstract = read_file_to_text(
-        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(document_number) + "-b.txt")
+        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
+            document_number) + "-b.txt")
     text_lines = read_file_line_by_line(
-        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(document_number) + "-a.txt")
+        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
+            document_number) + "-a.txt")
     text = concatenate_text_as_array(text_lines)
     text = remove_footnotes(text)
     text_as_sentences = parse_text_to_sentences(text)
@@ -119,11 +123,16 @@ def prepare_data(document_number=1):
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        # sentence = lemmatize(sentence)
+        backup = copy.copy(sentence)
+        try:
+            sentence = lemmatize(sentence)
+        except:
+            print("didn't do lemma")
+            sentence = backup
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
-    return sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title
+    return sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, sentence_to_embedding(title)
 
 
 def number_of_sentences_in_text(text):
