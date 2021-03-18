@@ -97,7 +97,7 @@ def read_file_to_text(filename):
 
 
 def rouge_score(generated_summary, human_summary):
-    rouge = Pythonrouge(summary_file_exist=False,
+    rouge = Pythonrouge(summary_file_exist=False, ROUGE_L=True, ROUGE_W=True,
                         summary=[[generated_summary]], reference=[[[human_summary]]])
     return rouge.calc_score()
 
@@ -124,11 +124,11 @@ def prepare_data(document_number=1):
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
         backup = copy.copy(sentence)
-        # try:
-        #     sentence = lemmatize(sentence)
-        # except:
-        #     print("didn't do lemma")
-        #     sentence = backup
+        try:
+            sentence = lemmatize(sentence)
+        except:
+            print("didn't do lemma")
+            sentence = backup
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
@@ -137,3 +137,16 @@ def prepare_data(document_number=1):
 
 def number_of_sentences_in_text(text):
     return len(parse_text_to_sentences(text))
+
+
+def final_results(scores):
+    result = {}
+    for score in scores:
+        for k, v in score.items():
+            if k in result:
+                result[k] = v
+            else:
+                result[k] += v
+    for k, v in result:
+        result[k] = v / len(scores)
+    return result
