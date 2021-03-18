@@ -70,7 +70,7 @@ def sentence_length_metric(individual, text_as_sentences):
     return length_metric / length_metric_best
 
 
-def fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences, a=0.005, b=0.005, c=0.35, d=0.35, e=0.29):
+def fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences, a=0.05, b=0.35, c=0.2, d=0.35, e=0.05):
     return (a * cohesion(individual, similarity_matrix, summary_size) +
             b * readability(individual, similarity_matrix) +
             c * sentence_position(individual) +
@@ -225,12 +225,12 @@ def summary_from_individual(best_individual, text_as_sentences):
         [text_as_sentences[i] for i in range(len(best_individual)) if best_individual[i] is True])
 
 
-def generate_population(number_of_sentences, summary_size, population_size=30):
+def generate_population(number_of_sentences, summary_size, population_size=50):
     return [generate_individual(number_of_sentences, summary_size) for _ in range(population_size)]
 
 
 def generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text_as_sentences_without_footnotes, summary_size,
-                                  number_of_iterations=30):
+                                  number_of_iterations=70):
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embeddings)
     population = generate_population(len(similarity_matrix), summary_size)

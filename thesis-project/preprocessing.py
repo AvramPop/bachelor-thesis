@@ -124,11 +124,11 @@ def prepare_data(document_number=1):
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
         backup = copy.copy(sentence)
-        try:
-            sentence = lemmatize(sentence)
-        except:
-            print("didn't do lemma")
-            sentence = backup
+        # try:
+        #     sentence = lemmatize(sentence)
+        # except:
+        #     print("didn't do lemma")
+        #     sentence = backup
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)

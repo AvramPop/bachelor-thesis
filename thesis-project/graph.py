@@ -1,9 +1,13 @@
 import numpy as np
+import oslom
 from scipy import spatial
 import time
 import infomap as im
 import networkx
 import preprocessing
+import community as community_louvain
+from argparse import Namespace
+from cdlib import algorithms
 
 
 def generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, threshold):
@@ -19,7 +23,7 @@ def generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, thre
     return similarity_matrix
 
 
-def get_clusters(similarity_matrix):
+def get_clusters_infomap(similarity_matrix):
     infomap = im.Infomap("--silent")
     for i in range(len(similarity_matrix)):
         for j in range(len(similarity_matrix)):
@@ -69,18 +73,68 @@ def get_clustering_data(similarity_matrix):
     graph = networkx.from_numpy_array(similarity_matrix)
     clustering_coefficients_for_each_node = networkx.clustering(graph)
     average_clustering_coefficient = networkx.average_clustering(graph)
-    return clustering_coefficients_for_each_node, average_clustering_coefficient
+    return clustering_coefficients_for_each_node, average_clustering_coefficient, graph
 
 
 def get_average_clustering_coefficient(coefficients_of_clusters):
     return np.average(list(coefficients_of_clusters.values()))
 
 
-def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, threshold=0.3):
+# def get_clusters_oslom(similarity_matrix):
+#     args = Namespace()
+#     args.min_cluster_size = 0
+#     args.oslom_exec = "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/util/OSLOM2/oslom_undir"
+#     args.oslom_args = oslom.DEF_OSLOM_ARGS
+#
+#     edges = []
+#     for i in range(len(similarity_matrix)):
+#         for j in range(len(similarity_matrix)):
+#             if similarity_matrix[i][j] > 0:
+#                 edges.append((i, j, similarity_matrix[i][j]))
+#     clusters = oslom.run_in_memory(args, edges)
+#     clusters = clusters[0]['clusters']
+#     result = {}
+#     for cluster in clusters:
+#         result[cluster['id']] = []
+#         for node in cluster['nodes']:
+#             result[cluster['id']].append(node['id'])
+#     return result
+
+
+def get_clusters_louvain(community_graph):
+    clusters = community_louvain.best_partition(community_graph)
+    result = {}
+    for k, v in clusters.items():
+        if v in result:
+            result[v].append(k)
+        else:
+            result[v] = [k]
+    return result
+
+
+def get_clusters_leiden(community_graph):
+    # clusters = algorithms.aslpaw(community_graph)
+    clusters = algorithms.label_propagation(community_graph)
+    clusters = algorithms.greedy_modularity(community_graph)
+    clusters = algorithms.markov_clustering(community_graph)
+    clusters = algorithms.walktrap(community_graph)
+    clusters = algorithms.leiden(community_graph)
+    clusters = algorithms.infomap(community_graph)
+    return clusters
+
+
+def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, cluster_strategy="leiden", threshold=0.3):
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, threshold)
-    clustering_coefficients_for_each_node, _ = get_clustering_data(similarity_matrix)
-    clusters = get_clusters(similarity_matrix)
+    clustering_coefficients_for_each_node, _, community_graph = get_clustering_data(similarity_matrix)
+    if cluster_strategy == "infomap":
+        clusters = get_clusters_infomap(similarity_matrix)
+    elif cluster_strategy == "louvain":
+        clusters = get_clusters_louvain(community_graph)
+    elif cluster_strategy == "leiden":
+        clusters = get_clusters_leiden(community_graph)
+    print(get_clusters_infomap(similarity_matrix))
+    print(get_clusters_leiden(similarity_matrix))
     solution = []
     while True:
         coefficients_of_clusters = get_coefficients_for_clusters_sorted(clustering_coefficients_for_each_node, clusters)
