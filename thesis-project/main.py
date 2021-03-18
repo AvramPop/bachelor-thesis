@@ -1,12 +1,11 @@
 import evolutionary
 import graph
 import processing
-from numpy import average
 import time
 
 
 def main():
-    number_of_texts = 3
+    number_of_texts = 20
     evolutionary_scores = []
     graph_scores = []
     start_time = time.time()
@@ -27,10 +26,13 @@ def main():
         evolutionary_scores.append(score_evolutionary)
         graph_scores.append(score_graphs)
 
+    print("RESULTS:")
+
+    print("Evolutionary average score:")
     print(processing.final_results(evolutionary_scores))
+    print("Graphs average score: ")
     print(processing.final_results(graph_scores))
-    # print("Evolutionary average score: " + str(average(evolutionary_scores)))
-    # print("Graphs average score: " + str(average(graph_scores)))
+
     print(str(number_of_texts), " articles processing took exactly ", time.time() - start_time, "s")
 
 

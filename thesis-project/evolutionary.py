@@ -71,12 +71,37 @@ def sentence_length_metric(individual, text_as_sentences):
 
 
 def fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences, a=0.05, b=0.35, c=0.2, d=0.35, e=0.05):
-    return (a * cohesion(individual, similarity_matrix, summary_size) +
-            b * readability(individual, similarity_matrix) +
-            c * sentence_position(individual) +
-            d * title_relation(individual, sentences_as_embeddings, title_embedding) +
-            e * sentence_length_metric(individual, text_as_sentences)) \
-           / (a + b + c + d + e)
+    try:
+        cohesion_value = cohesion(individual, similarity_matrix, summary_size)
+    except:
+        cohesion_value = 0
+        a = 0
+
+    try:
+        readability_value = readability(individual, similarity_matrix)
+    except:
+        readability_value = 0
+        b = 0
+
+    try:
+        sentence_position_value = sentence_position(individual)
+    except:
+        sentence_position_value = 0
+        c = 0
+
+    try:
+        title_value = title_relation(individual, sentences_as_embeddings, title_embedding)
+    except:
+        title_value = 0
+        d = 0
+
+    try:
+        sentence_length_value = sentence_length_metric(individual, text_as_sentences)
+    except:
+        sentence_length_value = 0
+        e = 0
+
+    return a * cohesion_value + b * readability_value + c * sentence_position_value + d * title_value + e * sentence_length_value
 
 
 def topological_sort_util(current_node, stack, visited, adjacency_matrix):
