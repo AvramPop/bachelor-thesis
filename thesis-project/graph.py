@@ -23,25 +23,25 @@ def generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, thre
     return similarity_matrix
 
 
-def get_clusters_infomap(similarity_matrix):
-    infomap = im.Infomap("--silent")
-    for i in range(len(similarity_matrix)):
-        for j in range(len(similarity_matrix)):
-            if similarity_matrix[i][j] > 0:
-                infomap.add_link(i, j, similarity_matrix[i][j])
-    infomap.run()
-    clusters = {}
-    for node in infomap.tree:
-        if node.is_leaf:
-            if node.module_id in clusters:
-                clusters[node.module_id].append(node.node_id)
-            else:
-                clusters[node.module_id] = [node.node_id]
-    return clusters
+# def get_clusters_infomap(similarity_matrix):
+#     infomap = im.Infomap("--silent")
+#     for i in range(len(similarity_matrix)):
+#         for j in range(len(similarity_matrix)):
+#             if similarity_matrix[i][j] > 0:
+#                 infomap.add_link(i, j, similarity_matrix[i][j])
+#     infomap.run()
+#     clusters = {}
+#     for node in infomap.tree:
+#         if node.is_leaf:
+#             if node.module_id in clusters:
+#                 clusters[node.module_id].append(node.node_id)
+#             else:
+#                 clusters[node.module_id] = [node.node_id]
+#     return clusters
 
 
-def indexes_from_pagerank(scores, summary_size):
-    return sorted([k for k, v in sorted(scores.items(), key=lambda item: item[1], reverse=True)][:summary_size])
+# def indexes_from_pagerank(scores, summary_size):
+#     return sorted([k for k, v in sorted(scores.items(), key=lambda item: item[1], reverse=True)][:summary_size])
 
 
 def summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes):
@@ -51,17 +51,20 @@ def summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_wit
 def get_clusters_with_max_coefficients(clusters, clustering_coefficients):
     result = {}
     for cluster, nodes in clusters.items():
-        maxi = 0
-        for node in nodes:
-            if clustering_coefficients[node] > maxi:
-                maxi = clustering_coefficients[node]
-        result[cluster] = maxi
+        if len(nodes) > 0:
+            maxi = 0
+            for node in nodes:
+                if clustering_coefficients[node] > maxi and node < len(clustering_coefficients):
+                    maxi = clustering_coefficients[node]
+            result[cluster] = maxi
     return result
 
 
 def best_from_cluster(clustering_coefficients_for_each_node, clusters, cluster_number):
     nodes = {k: v for k, v in clustering_coefficients_for_each_node.items() if k in clusters[cluster_number]}
-    return list({k: v for k, v in sorted(nodes.items(), key=lambda item: item[1], reverse=True)}.keys())[0]
+    res = list({k: v for k, v in sorted(nodes.items(), key=lambda item: item[1], reverse=True)}.keys())
+    if len(res) > 0:
+        return res[0]
 
 
 def remove_best(best, cluster_number, clusters, clustering_coefficients_for_each_node):
@@ -80,36 +83,36 @@ def get_average_clustering_coefficient(coefficients_of_clusters):
     return np.average(list(coefficients_of_clusters.values()))
 
 
-def get_clusters_oslom(similarity_matrix):
-    args = Namespace()
-    args.min_cluster_size = 0
-    args.oslom_exec = "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/util/OSLOM2/oslom_undir"
-    args.oslom_args = oslom.DEF_OSLOM_ARGS
+# def get_clusters_oslom(similarity_matrix):
+#     args = Namespace()
+#     args.min_cluster_size = 0
+#     args.oslom_exec = "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/util/OSLOM2/oslom_undir"
+#     args.oslom_args = oslom.DEF_OSLOM_ARGS
+#
+#     edges = []
+#     for i in range(len(similarity_matrix)):
+#         for j in range(len(similarity_matrix)):
+#             if similarity_matrix[i][j] > 0:
+#                 edges.append((i, j, similarity_matrix[i][j]))
+#     clusters = oslom.run_in_memory(args, edges)
+#     clusters = clusters[0]['clusters']
+#     result = {}
+#     for cluster in clusters:
+#         result[cluster['id']] = []
+#         for node in cluster['nodes']:
+#             result[cluster['id']].append(node['id'])
+#     return result
 
-    edges = []
-    for i in range(len(similarity_matrix)):
-        for j in range(len(similarity_matrix)):
-            if similarity_matrix[i][j] > 0:
-                edges.append((i, j, similarity_matrix[i][j]))
-    clusters = oslom.run_in_memory(args, edges)
-    clusters = clusters[0]['clusters']
-    result = {}
-    for cluster in clusters:
-        result[cluster['id']] = []
-        for node in cluster['nodes']:
-            result[cluster['id']].append(node['id'])
-    return result
 
-
-def get_clusters_louvain(community_graph):
-    clusters = community_louvain.best_partition(community_graph)
-    result = {}
-    for k, v in clusters.items():
-        if v in result:
-            result[v].append(k)
-        else:
-            result[v] = [k]
-    return result
+# def get_clusters_louvain(community_graph):
+#     clusters = community_louvain.best_partition(community_graph)
+#     result = {}
+#     for k, v in clusters.items():
+#         if v in result:
+#             result[v].append(k)
+#         else:
+#             result[v] = [k]
+#     return result
 
 
 def get_clusters(community_graph, strategy):
@@ -135,6 +138,7 @@ def get_clusters(community_graph, strategy):
 
 
 def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, cluster_strategy="leiden", threshold=0.3):
+    print(cluster_strategy)
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, threshold)
     clustering_coefficients_for_each_node, _, community_graph = get_clustering_data(similarity_matrix)
@@ -148,9 +152,10 @@ def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_fo
                 del coefficients_of_clusters[cluster_number]
                 clusters.pop(cluster_number)
             elif len(solution) < summary_size:
-                best = best_from_cluster(clustering_coefficients_for_each_node, clusters, cluster_number)
-                solution.append(best)
-                remove_best(best, cluster_number, clusters, clustering_coefficients_for_each_node)
+                if len(clusters[cluster_number]) > 0:
+                    best = best_from_cluster(clustering_coefficients_for_each_node, clusters, cluster_number)
+                    solution.append(best)
+                    remove_best(best, cluster_number, clusters, clustering_coefficients_for_each_node)
         if len(solution) >= summary_size:
             break
     solution.sort()
@@ -166,12 +171,12 @@ def get_coefficients_for_clusters_sorted(clustering_coefficients_for_each_node, 
     return coefficients_of_clusters
 
 
-def generate_summary_graph_text_rank(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size):
-    start_time = time.time()
-    similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, 0)
-    graph = networkx.from_numpy_array(similarity_matrix)
-    scores = networkx.pagerank(graph)
-    sentence_indexes_sorted_by_score = indexes_from_pagerank(scores, summary_size)
-    summary = summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes)
-    print("Text rank algorithm took ", time.time() - start_time, "s")
-    return summary
+# def generate_summary_graph_text_rank(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size):
+#     start_time = time.time()
+#     similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, 0)
+#     graph = networkx.from_numpy_array(similarity_matrix)
+#     scores = networkx.pagerank(graph)
+#     sentence_indexes_sorted_by_score = indexes_from_pagerank(scores, summary_size)
+#     summary = summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes)
+#     print("Text rank algorithm took ", time.time() - start_time, "s")
+#     return summary

@@ -7,7 +7,7 @@ import copy
 import tensorflow_hub as hub
 from pythonrouge.pythonrouge import Pythonrouge
 
-embed = hub.load("/home/dani/Desktop/code/scoala/licenta/use")
+embed = hub.load("/home/dani/Desktop/licenta/use")
 
 
 # read a file to an array in which each item is a line from that respective file
@@ -54,7 +54,7 @@ def split_in_tokens(text):
 # remove all stop words from given list of words, using as reference NLTK data
 def remove_stop_words(tokens):
     stop_words = read_file_line_by_line(
-        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/util/stop-words.txt")
+        "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/util/stop-words.txt")
     return [word for word in tokens if word not in stop_words]
 
 
@@ -104,13 +104,13 @@ def rouge_score(generated_summary, human_summary):
 
 def prepare_data(document_number=1):
     title = read_file_to_text(
-        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
+        "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
             document_number) + "-c.txt")
     abstract = read_file_to_text(
-        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
+        "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
             document_number) + "-b.txt")
     text_lines = read_file_line_by_line(
-        "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
+        "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
             document_number) + "-a.txt")
     text = concatenate_text_as_array(text_lines)
     text = remove_footnotes(text)
@@ -123,12 +123,12 @@ def prepare_data(document_number=1):
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        # backup = copy.copy(sentence)
-        # try:
-        #     sentence = lemmatize(sentence)
-        # except:
-        #     print("didn't do lemma")
-        #     sentence = backup
+        backup = copy.copy(sentence)
+        try:
+            sentence = lemmatize(sentence)
+        except:
+            print("didn't do lemma")
+            sentence = backup
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)

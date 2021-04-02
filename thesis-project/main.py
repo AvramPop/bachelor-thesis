@@ -23,6 +23,9 @@ def main():
         print(score_evolutionary)
         print(score_graphs)
 
+        print(generated_summary_evolutionary)
+        print(generated_summary_graph)
+
         evolutionary_scores.append(score_evolutionary)
         graph_scores.append(score_graphs)
 
@@ -37,3 +40,67 @@ def main():
 
 
 main()
+#
+# def main_graphs():
+#     number_of_texts = 20
+#     # evolutionary_scores = []
+#     graph_scores1 = []
+#     graph_scores2 = []
+#     graph_scores3 = []
+#     graph_scores4 = []
+#     graph_scores5 = []
+#     graph_scores6 = []
+#     graph_scores7 = []
+#
+#     start_time = time.time()
+#     for i in range(1, number_of_texts + 1):
+#         print("Current article: " + str(i))
+#         sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding = processing.prepare_data(i)
+#         print("text length is: " + str(len(text_as_sentences_without_footnotes)))
+#
+#         try:
+#             generated_summary_graph1 = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract), cluster_strategy="aslpaw")
+#             generated_summary_graph2 = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract), cluster_strategy="label_propagation")
+#             generated_summary_graph3 = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract), cluster_strategy="greedy_modularity")
+#             generated_summary_graph4 = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract), cluster_strategy="markov_clustering")
+#             generated_summary_graph5 = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract), cluster_strategy="walktrap")
+#             generated_summary_graph6 = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract), cluster_strategy="leiden")
+#             generated_summary_graph7 = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract), cluster_strategy="infomap")
+#
+#
+#             score_graphs1 = processing.rouge_score(generated_summary_graph1, abstract)
+#             score_graphs2 = processing.rouge_score(generated_summary_graph2, abstract)
+#             score_graphs3 = processing.rouge_score(generated_summary_graph3, abstract)
+#             score_graphs4 = processing.rouge_score(generated_summary_graph4, abstract)
+#             score_graphs5 = processing.rouge_score(generated_summary_graph5, abstract)
+#             score_graphs6 = processing.rouge_score(generated_summary_graph6, abstract)
+#             score_graphs7 = processing.rouge_score(generated_summary_graph7, abstract)
+#
+#
+#             # print(score_graphs)
+#
+#             graph_scores1.append(score_graphs1)
+#             graph_scores2.append(score_graphs2)
+#             graph_scores3.append(score_graphs3)
+#             graph_scores4.append(score_graphs4)
+#             graph_scores5.append(score_graphs5)
+#             graph_scores6.append(score_graphs6)
+#             graph_scores7.append(score_graphs7)
+#         except:
+#             print("exception at i = " + str(i) + ". skipping.")
+#
+#
+#     print("RESULTS:")
+#
+#     # print("Graphs average score: ")
+#     print(processing.final_results(graph_scores1))
+#     print(processing.final_results(graph_scores2))
+#     print(processing.final_results(graph_scores3))
+#     print(processing.final_results(graph_scores4))
+#     print(processing.final_results(graph_scores5))
+#     print(processing.final_results(graph_scores6))
+#     print(processing.final_results(graph_scores7))
+#
+#     print(str(number_of_texts), " articles processing took exactly ", time.time() - start_time, "s")
+#
+# main_graphs()
