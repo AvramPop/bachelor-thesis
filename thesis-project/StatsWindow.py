@@ -1,6 +1,4 @@
-from PySide6 import QtCore, QtWidgets, QtGui
-from PySide6.QtCore import (Signal, QMutex, QMutexLocker, QPointF, QSize, Qt,
-        QThread, QWaitCondition)
+from PySide6 import QtCore, QtWidgets
 import processing
 import evolutionary
 import graph
@@ -13,9 +11,10 @@ class StatsWindow(QtWidgets.QWidget):
         self.layout = QtWidgets.QVBoxLayout(self)
 
         self.__setup_number_ui()
+        self.__setup_titles_ui()
         self.__setup_params_ui()
-        # self.__setup_stats_ui()
-        # self.__setup_graph_ui()
+        self.__setup_stats_ui()
+        self.__setup_graph_ui()
 
     def __setup_number_ui(self):
         container = QtWidgets.QHBoxLayout()
@@ -27,11 +26,17 @@ class StatsWindow(QtWidgets.QWidget):
 
         self.layout.addLayout(container)
 
+    def __setup_titles_ui(self):
+        container = QtWidgets.QHBoxLayout()
+
+        container.addWidget(QtWidgets.QLabel("Graphs algorithm metaparameters"))
+        container.addWidget(QtWidgets.QLabel("Evolutionary algorithm metaparameters"))
+        self.layout.addLayout(container)
+
     def __setup_params_ui(self):
         container = QtWidgets.QHBoxLayout()
 
         graphs_container = QtWidgets.QVBoxLayout()
-        graphs_container.addWidget(QtWidgets.QLabel("Graphs algorithm metaparameters"))
         threshold_container = QtWidgets.QHBoxLayout()
         threshold_container.addWidget(QtWidgets.QLabel("Cosine similarity threshold: "))
         self.__similarity_threshold_input = QtWidgets.QLineEdit()
@@ -53,7 +58,6 @@ class StatsWindow(QtWidgets.QWidget):
         graphs_container.addLayout(algorithm_container)
 
         evolutionary_container = QtWidgets.QVBoxLayout()
-        evolutionary_container.addWidget(QtWidgets.QLabel("Evolutionary algorithm metaparameters"))
 
         iters_container = QtWidgets.QHBoxLayout()
         iters_container.addWidget(QtWidgets.QLabel("Number of iterations: "))
@@ -109,3 +113,67 @@ class StatsWindow(QtWidgets.QWidget):
 
         self.layout.addLayout(container)
 
+    def __setup_stats_ui(self):
+        container = QtWidgets.QVBoxLayout()
+
+        stats_button = QtWidgets.QPushButton("Get statistics")
+        stats_button.clicked.connect(self.__generate_statistics)
+        container.addWidget(stats_button)
+
+        graphs_container = QtWidgets.QVBoxLayout()
+        graphs_container.addWidget(QtWidgets.QLabel("Graphs statistics"))
+        self.__graphs_rouge_1_f_label = QtWidgets.QLabel("")
+        graphs_container.addWidget(self.__graphs_rouge_1_f_label)
+        container.addLayout(graphs_container)
+
+        evolutionary_container = QtWidgets.QVBoxLayout()
+        evolutionary_container.addWidget(QtWidgets.QLabel("Evolutionary statistics"))
+        self.__evolutionary_rouge_1_f_label = QtWidgets.QLabel("")
+        evolutionary_container.addWidget(self.__evolutionary_rouge_1_f_label)
+        container.addLayout(evolutionary_container)
+
+        self.layout.addLayout(container)
+
+    @QtCore.Slot()
+    def __generate_statistics(self):
+        number_of_texts = int(self.__number_input.text())
+        evolutionary_scores = []
+        graph_scores = []
+        for i in range(1, number_of_texts + 1):
+            sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(i)
+
+            generated_summary_evolutionary = \
+                evolutionary.generate_summary_evolutionary(sentences_as_embeddings,
+                                                           title_embedding,
+                                                           text_as_sentences_without_footnotes,
+                                                           processing.number_of_sentences_in_text(abstract),
+                                                           number_of_iterations=int(self.__iters_input.text()),
+                                                           population_size=int(self.__pop_size_input.text()),
+                                                           a=float(self.__cohesion_input.text()),
+                                                           b=float(self.__readability_input.text()),
+                                                           c=float(self.__sentence_input.text()),
+                                                           d=float(self.__title_input.text()),
+                                                           e=float(self.__length_input.text()))
+            generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract), cluster_strategy=self.__clustering_algorithm_input.currentText(), threshold=float(self.__similarity_threshold_input.text()))
+
+            score_evolutionary = processing.rouge_score(generated_summary_evolutionary, abstract)
+            score_graphs = processing.rouge_score(generated_summary_graph, abstract)
+
+            evolutionary_scores.append(score_evolutionary)
+            graph_scores.append(score_graphs)
+
+        self.__evolutionary_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(evolutionary_scores)["ROUGE-1-F"]))
+        self.__graphs_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(graph_scores)["ROUGE-1-F"]))
+
+    def __setup_graph_ui(self):
+        container = QtWidgets.QVBoxLayout()
+
+        plots_button = QtWidgets.QPushButton("Generate plots")
+        plots_button.clicked.connect(self.__generate_plots)
+        container.addWidget(plots_button)
+
+        self.layout.addLayout(container)
+
+    @QtCore.Slot()
+    def __generate_plots(self):
+        print("plots")

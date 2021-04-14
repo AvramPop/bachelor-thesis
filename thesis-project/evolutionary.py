@@ -181,10 +181,10 @@ def cohesion(individual, similarity_matrix, summary_size):
     return cohesion_normalized
 
 
-def roulette_wheel_selection(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes):
-    fitness_sum = sum([fitness(x, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes) for x in population])
+def roulette_wheel_selection(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes, a, b, c, d, e):
+    fitness_sum = sum([fitness(x, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes, a, b, c, d, e) for x in population])
     selection = random.choices(population,
-                               weights=[fitness(x, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes) / fitness_sum for x in population])
+                               weights=[fitness(x, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes, a, b, c, d, e) / fitness_sum for x in population])
     return selection[0]
 
 
@@ -229,11 +229,11 @@ def rank_selection(population):
     return selection[0]
 
 
-def iteration(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, sentences_without_footnotes):
-    population.sort(key=lambda individual: fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, sentences_without_footnotes), reverse=True)
+def iteration(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, sentences_without_footnotes, a, b, c, d, e):
+    population.sort(key=lambda individual: fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, sentences_without_footnotes, a, b, c, d, e), reverse=True)
     best_two = population[0], population[1]
     del population[:2]  # remove the elites since we always keep them
-    parent1 = roulette_wheel_selection(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, sentences_without_footnotes)
+    parent1 = roulette_wheel_selection(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, sentences_without_footnotes, a, b, c, d, e)
     parent2 = rank_selection(population)
     child1, child2 = one_point_crossover(parent1, parent2, summary_size)
     mutate(child1)
@@ -255,14 +255,14 @@ def generate_population(number_of_sentences, summary_size, population_size):
 
 
 def generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text_as_sentences_without_footnotes, summary_size,
-                                  number_of_iterations=10, population_size=10):
+                                  number_of_iterations=10, population_size=10, a=0.05, b=0.35, c=0.2, d=0.35, e=0.05):
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embeddings)
     population = generate_population(len(similarity_matrix), summary_size, population_size)
     for i in range(number_of_iterations):
         print(i)
-        iteration(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes)
-    best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes))
+        iteration(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes, a, b, c, d, e)
+    best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes, a, b, c, d, e))
     generated_summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
     print("Evolutionary algorithm took ", time.time() - start_time, "s")
     return generated_summary

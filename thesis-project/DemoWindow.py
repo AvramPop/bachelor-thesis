@@ -1,6 +1,4 @@
 from PySide6 import QtCore, QtWidgets, QtGui
-from PySide6.QtCore import (Signal, QMutex, QMutexLocker, QPointF, QSize, Qt,
-        QThread, QWaitCondition)
 import processing
 import evolutionary
 import graph
@@ -49,8 +47,13 @@ class DemoWindow(QtWidgets.QWidget):
         evolutionary_button = QtWidgets.QPushButton("Evolutionary Summary")
         evolutionary_button.clicked.connect(self.__get_evolutionary_abstract)
 
+        self.__wheel_label = QtWidgets.QLabel()
+        self.__wheel_label.setFixedWidth(30)
+        self.__wheel_label.setFixedHeight(30)
+
         buttons_box.addWidget(graphs_button)
         buttons_box.addWidget(evolutionary_button)
+        buttons_box.addWidget(self.__wheel_label)
 
         self.layout.addLayout(buttons_box)
 
@@ -72,30 +75,68 @@ class DemoWindow(QtWidgets.QWidget):
     @QtCore.Slot()
     def __get_evolutionary_abstract(self):
         article_index = self.__titles_list.currentRow() + 1
-        sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(article_index)
+        self.__show_wheel()
+        self.__evolutionary_thread = EvolutionaryThread(article_index)
+        self.__evolutionary_thread.signal.connect(self.__update_abstract_view)
+        self.__evolutionary_thread.start()
+
+    @QtCore.Slot()
+    def __get_graphs_abstract(self):
+        article_index = self.__titles_list.currentRow() + 1
+        self.__show_wheel()
+        self.__graphs_thread = GraphsThread(article_index)
+        self.__graphs_thread.signal.connect(self.__update_abstract_view)
+        self.__graphs_thread.start()
+
+    def __show_wheel(self):
+        wheel_movie = QtGui.QMovie("resources/ajax-loader.gif")
+        self.__wheel_label.setMovie(wheel_movie)
+        wheel_movie.start()
+
+    def __remove_wheel(self):
+        empty = QtGui.QMovie("resources/blank.gif")
+        self.__wheel_label.setMovie(empty)
+        empty.start()
+
+    @QtCore.Slot()
+    def __update_abstract_view(self, thread_data):
+        self.__summary_text.setText(thread_data[0])
+        self.__summary_text.show()
+        self.__abstract_text.setText(thread_data[1])
+        self.__abstract_text.show()
+        self.__automatic_summary_label.show()
+        self.__manual_abstract_label.show()
+        self.__remove_wheel()
+
+
+class EvolutionaryThread(QtCore.QThread):
+    signal = QtCore.Signal(tuple)
+
+    def __init__(self, article_index):
+        self.__article_index = article_index
+        QtCore.QThread.__init__(self)
+
+    def run(self):
+        sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(self.__article_index)
         generated_summary_evolutionary = evolutionary.generate_summary_evolutionary(sentences_as_embeddings,
                                                                                     title_embedding,
                                                                                     text_as_sentences_without_footnotes,
                                                                                     processing.number_of_sentences_in_text(
                                                                                         abstract))
+        self.signal.emit((generated_summary_evolutionary, rough_abstract))
 
-        self.__summary_text.setText(generated_summary_evolutionary)
-        self.__summary_text.show()
-        self.__abstract_text.setText(rough_abstract)
-        self.__abstract_text.show()
-        self.__automatic_summary_label.show()
-        self.__manual_abstract_label.show()
 
-    @QtCore.Slot()
-    def __get_graphs_abstract(self):
-        article_index = self.__titles_list.currentRow() + 1
-        sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(article_index)
+class GraphsThread(QtCore.QThread):
+    signal = QtCore.Signal(tuple)
+
+    def __init__(self, article_index):
+        self.__article_index = article_index
+        QtCore.QThread.__init__(self)
+
+    def run(self):
+        sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(
+            self.__article_index)
         generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings,
                                                                text_as_sentences_without_footnotes,
                                                                processing.number_of_sentences_in_text(abstract))
-        self.__summary_text.setText(generated_summary_graph)
-        self.__summary_text.show()
-        self.__abstract_text.setText(rough_abstract)
-        self.__abstract_text.show()
-        self.__automatic_summary_label.show()
-        self.__manual_abstract_label.show()
+        self.signal.emit((generated_summary_graph, rough_abstract))
