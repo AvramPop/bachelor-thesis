@@ -107,7 +107,8 @@ import ui
 # main_graphs()
 
 def main_ui():
-    ui.launch_ui()
+    titles = processing.get_titles(20)
+    ui.launch_ui(titles)
 
 
 main_ui()

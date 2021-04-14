@@ -159,3 +159,13 @@ def final_results(scores):
     for k, v in result.items():
         result[k] = v / len(scores)
     return result
+
+
+def get_titles(bound):
+    titles = []
+    for i in range(1, bound + 1):
+        title = read_rough_file_to_text(
+            "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
+                i) + "-c.txt")
+        titles.append(title)
+    return titles

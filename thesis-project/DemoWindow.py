@@ -1,4 +1,6 @@
 from PySide6 import QtCore, QtWidgets, QtGui
+from PySide6.QtCore import (Signal, QMutex, QMutexLocker, QPointF, QSize, Qt,
+        QThread, QWaitCondition)
 import processing
 import evolutionary
 import graph
@@ -47,10 +49,7 @@ class DemoWindow(QtWidgets.QWidget):
         evolutionary_button = QtWidgets.QPushButton("Evolutionary Summary")
         evolutionary_button.clicked.connect(self.__get_evolutionary_abstract)
 
-        self.__movie_label = QtWidgets.QLabel()
-
         buttons_box.addWidget(graphs_button)
-        buttons_box.addWidget(self.__movie_label)
         buttons_box.addWidget(evolutionary_button)
 
         self.layout.addLayout(buttons_box)
@@ -72,7 +71,6 @@ class DemoWindow(QtWidgets.QWidget):
 
     @QtCore.Slot()
     def __get_evolutionary_abstract(self):
-        self.__start_wheel()
         article_index = self.__titles_list.currentRow() + 1
         sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(article_index)
         generated_summary_evolutionary = evolutionary.generate_summary_evolutionary(sentences_as_embeddings,
@@ -80,7 +78,7 @@ class DemoWindow(QtWidgets.QWidget):
                                                                                     text_as_sentences_without_footnotes,
                                                                                     processing.number_of_sentences_in_text(
                                                                                         abstract))
-        self.__stop_wheel()
+
         self.__summary_text.setText(generated_summary_evolutionary)
         self.__summary_text.show()
         self.__abstract_text.setText(rough_abstract)
@@ -91,28 +89,13 @@ class DemoWindow(QtWidgets.QWidget):
     @QtCore.Slot()
     def __get_graphs_abstract(self):
         article_index = self.__titles_list.currentRow() + 1
-        sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(
-            article_index)
+        sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(article_index)
         generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings,
                                                                text_as_sentences_without_footnotes,
                                                                processing.number_of_sentences_in_text(abstract))
-        self.__stop_wheel()
         self.__summary_text.setText(generated_summary_graph)
         self.__summary_text.show()
         self.__abstract_text.setText(rough_abstract)
         self.__abstract_text.show()
         self.__automatic_summary_label.show()
         self.__manual_abstract_label.show()
-
-    def __start_wheel(self):
-        wheel_movie = QtGui.QMovie("resources/ajax-loader.gif")
-        self.__movie_label.setMovie(wheel_movie)
-        # self.__movie_label.show()
-        wheel_movie.start()
-
-    def __stop_wheel(self):
-        self.__movie_label.hide()
-
-
-
-
