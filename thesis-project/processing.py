@@ -102,11 +102,20 @@ def rouge_score(generated_summary, human_summary):
     return rouge.calc_score()
 
 
+def read_rough_file_to_text(filename):
+    lines = read_file_line_by_line(filename)
+    text = concatenate_text_as_array(lines)
+    return text
+
+
 def prepare_data(document_number=1):
     title = read_file_to_text(
         "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
             document_number) + "-c.txt")
     abstract = read_file_to_text(
+        "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
+            document_number) + "-b.txt")
+    rough_abstract = read_rough_file_to_text(
         "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
             document_number) + "-b.txt")
     text_lines = read_file_line_by_line(
@@ -123,16 +132,16 @@ def prepare_data(document_number=1):
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        backup = copy.copy(sentence)
-        try:
-            sentence = lemmatize(sentence)
-        except:
-            print("didn't do lemma")
-            sentence = backup
+        # backup = copy.copy(sentence)
+        # try:
+        #     sentence = lemmatize(sentence)
+        # except:
+        #     print("didn't do lemma")
+        #     sentence = backup
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
-    return sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, sentence_to_embedding(title)
+    return sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, sentence_to_embedding(title), rough_abstract
 
 
 def number_of_sentences_in_text(text):
