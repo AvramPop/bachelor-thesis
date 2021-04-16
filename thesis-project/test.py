@@ -48,5 +48,24 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(["allelon"], processing.transliterate_non_english_words(["αλλήλων"]))
         self.assertEqual(["dani allelon"], processing.transliterate_non_english_words(["dani αλλήλων"]))
 
+    def test_remove_footnotes(self):
+        text = "Dani said something.1 He2 is a cool guy. We3 would rather love him!4 \"Or go skying\"5 (Or not)6"
+        self.assertEqual("Dani said something. He is a cool guy. We would rather love him! \"Or go skying\" (Or not)",
+                         processing.remove_footnotes(text))
+
+    def test_rouge_score(self):
+        self.assertEqual(1, processing.rouge_score("a", "a")["ROUGE-1-F"])
+        self.assertEqual(0, processing.rouge_score("a", "b")["ROUGE-1-F"])
+
+    def test_number_of_sentences_in_text(self):
+        text = "Dani has apples. Maria has peaches. Dave! Come here, Dr. John. Sami?"
+        self.assertEqual(5, processing.number_of_sentences_in_text(text))
+
+    def test_final_results(self):
+        score1 = {"ROUGE-1-L": 0.25, "ROUGE-1-F": 0.5}
+        score2 = {"ROUGE-1-L": 0.65, "ROUGE-1-F": 0.1}
+        self.assertEqual({"ROUGE-1-L": 0.45, "ROUGE-1-F": 0.3}, processing.final_results([score1, score2]))
+
+
 if __name__ == '__main__':
     unittest.main()

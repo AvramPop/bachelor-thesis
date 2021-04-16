@@ -87,7 +87,7 @@ def sentence_to_embedding(sentence):
 
 
 def remove_footnotes(text):
-    return re.sub(r"([a-zA-Z?!;,.\"])[0-9]*", r"\1", text)
+    return re.sub(r"([a-zA-Z?!;,.\")\]])[0-9]*", r"\1", text)
 
 
 def read_file_to_text(filename):
