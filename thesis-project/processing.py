@@ -35,6 +35,7 @@ def parse_text_to_sentences(text, sentences_in_batch=1):
             if i + j < len(sentences):
                 temp += sentences[i + j] + " "
         result.append(temp)
+    result = [sentences.strip() for sentences in result]
     return result
 
 
@@ -108,6 +109,10 @@ def read_rough_file_to_text(filename):
     return text
 
 
+def number_of_sentences_in_text(text):
+    return len(parse_text_to_sentences(text))
+
+
 def prepare_data(document_number=1):
     title = read_file_to_text(
         "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/articles/" + str(
@@ -132,20 +137,16 @@ def prepare_data(document_number=1):
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        # backup = copy.copy(sentence)
-        # try:
-        #     sentence = lemmatize(sentence)
-        # except:
-        #     print("didn't do lemma")
-        #     sentence = backup
+        backup = copy.copy(sentence)
+        try:
+            sentence = lemmatize(sentence)
+        except:
+            print("didn't do lemma")
+            sentence = backup
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
     return sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, sentence_to_embedding(title), rough_abstract
-
-
-def number_of_sentences_in_text(text):
-    return len(parse_text_to_sentences(text))
 
 
 def final_results(scores):
