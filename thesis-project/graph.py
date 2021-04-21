@@ -23,27 +23,6 @@ def generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, thre
     return similarity_matrix
 
 
-# def get_clusters_infomap(similarity_matrix):
-#     infomap = im.Infomap("--silent")
-#     for i in range(len(similarity_matrix)):
-#         for j in range(len(similarity_matrix)):
-#             if similarity_matrix[i][j] > 0:
-#                 infomap.add_link(i, j, similarity_matrix[i][j])
-#     infomap.run()
-#     clusters = {}
-#     for node in infomap.tree:
-#         if node.is_leaf:
-#             if node.module_id in clusters:
-#                 clusters[node.module_id].append(node.node_id)
-#             else:
-#                 clusters[node.module_id] = [node.node_id]
-#     return clusters
-
-
-# def indexes_from_pagerank(scores, summary_size):
-#     return sorted([k for k, v in sorted(scores.items(), key=lambda item: item[1], reverse=True)][:summary_size])
-
-
 def summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes):
     return processing.concatenate_text_as_array([text_as_sentences_without_footnotes[i] for i in sentence_indexes_sorted_by_score])
 
@@ -83,38 +62,6 @@ def get_average_clustering_coefficient(coefficients_of_clusters):
     return np.average(list(coefficients_of_clusters.values()))
 
 
-# def get_clusters_oslom(similarity_matrix):
-#     args = Namespace()
-#     args.min_cluster_size = 0
-#     args.oslom_exec = "/home/dani/Desktop/code/scoala/licenta/bachelor-thesis/thesis-project/resources/util/OSLOM2/oslom_undir"
-#     args.oslom_args = oslom.DEF_OSLOM_ARGS
-#
-#     edges = []
-#     for i in range(len(similarity_matrix)):
-#         for j in range(len(similarity_matrix)):
-#             if similarity_matrix[i][j] > 0:
-#                 edges.append((i, j, similarity_matrix[i][j]))
-#     clusters = oslom.run_in_memory(args, edges)
-#     clusters = clusters[0]['clusters']
-#     result = {}
-#     for cluster in clusters:
-#         result[cluster['id']] = []
-#         for node in cluster['nodes']:
-#             result[cluster['id']].append(node['id'])
-#     return result
-
-
-# def get_clusters_louvain(community_graph):
-#     clusters = community_louvain.best_partition(community_graph)
-#     result = {}
-#     for k, v in clusters.items():
-#         if v in result:
-#             result[v].append(k)
-#         else:
-#             result[v] = [k]
-#     return result
-
-
 def get_clusters(community_graph, strategy):
     if strategy == "aslpaw":
         clusters = algorithms.aslpaw(community_graph)
@@ -137,7 +84,7 @@ def get_clusters(community_graph, strategy):
     return result
 
 
-def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, cluster_strategy="leiden", threshold=0.3):
+def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, cluster_strategy="infomap", threshold=0.3):
     print(cluster_strategy)
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, threshold)
@@ -148,11 +95,12 @@ def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_fo
         coefficients_of_clusters = get_coefficients_for_clusters_sorted(clustering_coefficients_for_each_node, clusters)
         average_clustering_coefficient = get_average_clustering_coefficient(coefficients_of_clusters)
         for cluster_number in list(coefficients_of_clusters):
-            if coefficients_of_clusters[cluster_number] < average_clustering_coefficient:
-                del coefficients_of_clusters[cluster_number]
-                clusters.pop(cluster_number)
-            elif len(solution) < summary_size:
-                if len(clusters[cluster_number]) > 0:
+            if len(solution) < summary_size:
+
+                if coefficients_of_clusters[cluster_number] < average_clustering_coefficient:
+                    del coefficients_of_clusters[cluster_number]
+                    clusters.pop(cluster_number)
+                elif len(clusters[cluster_number]) > 0:
                     best = best_from_cluster(clustering_coefficients_for_each_node, clusters, cluster_number)
                     solution.append(best)
                     remove_best(best, cluster_number, clusters, clustering_coefficients_for_each_node)

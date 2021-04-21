@@ -136,34 +136,9 @@ class StatsWindow(QtWidgets.QWidget):
 
     @QtCore.Slot()
     def __generate_statistics(self):
-        number_of_texts = int(self.__number_input.text())
-        evolutionary_scores = []
-        graph_scores = []
-        for i in range(1, number_of_texts + 1):
-            sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(i)
-
-            generated_summary_evolutionary = \
-                evolutionary.generate_summary_evolutionary(sentences_as_embeddings,
-                                                           title_embedding,
-                                                           text_as_sentences_without_footnotes,
-                                                           processing.number_of_sentences_in_text(abstract),
-                                                           number_of_iterations=int(self.__iters_input.text()),
-                                                           population_size=int(self.__pop_size_input.text()),
-                                                           a=float(self.__cohesion_input.text()),
-                                                           b=float(self.__readability_input.text()),
-                                                           c=float(self.__sentence_input.text()),
-                                                           d=float(self.__title_input.text()),
-                                                           e=float(self.__length_input.text()))
-            generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract), cluster_strategy=self.__clustering_algorithm_input.currentText(), threshold=float(self.__similarity_threshold_input.text()))
-
-            score_evolutionary = processing.rouge_score(generated_summary_evolutionary, abstract)
-            score_graphs = processing.rouge_score(generated_summary_graph, abstract)
-
-            evolutionary_scores.append(score_evolutionary)
-            graph_scores.append(score_graphs)
-
-        self.__evolutionary_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(evolutionary_scores)["ROUGE-1-F"]))
-        self.__graphs_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(graph_scores)["ROUGE-1-F"]))
+        self.__statsThread = StatsThread()
+        self.__statsThread.signal.connect(self.__update_stats_view)
+        self.__statsThread.start()
 
     def __setup_graph_ui(self):
         container = QtWidgets.QVBoxLayout()
@@ -177,3 +152,57 @@ class StatsWindow(QtWidgets.QWidget):
     @QtCore.Slot()
     def __generate_plots(self):
         print("plots")
+
+    @QtCore.Slot()
+    def __update_stats_view(self):
+        self.__evolutionary_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(evolutionary_scores)["ROUGE-1-F"]))
+        self.__graphs_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(graph_scores)["ROUGE-1-F"]))
+
+
+class StatsThread(QtCore.QThread):
+    signal = QtCore.Signal(tuple)
+
+    def __init__(self, number_of_articles, number_of_iterations, population_size, cohesion, readability, sentence, title, length, clustering_algorithm, cosine_threshold):
+        self.__number_of_articles = number_of_articles
+        self.__number_of_iterations = number_of_iterations
+        self.__population_size = population_size
+        self.__cohesion = cohesion
+        self.__readability = readability
+        self.__sentence = sentence
+        self.__title = title
+        self.__length = length
+        self.__clustering_algorithm = clustering_algorithm
+        self.__cosine_threshold = cosine_threshold
+        QtCore.QThread.__init__(self)
+
+    def run(self):
+        number_of_texts = int(self.__number_of_articles)
+        evolutionary_scores = []
+        graph_scores = []
+        for i in range(1, number_of_texts + 1):
+            sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(i)
+
+            generated_summary_evolutionary = \
+                evolutionary.generate_summary_evolutionary(sentences_as_embeddings,
+                                                           title_embedding,
+                                                           text_as_sentences_without_footnotes,
+                                                           processing.number_of_sentences_in_text(abstract),
+                                                           number_of_iterations=self.__number_of_iterations,
+                                                           population_size=self.__population_size,
+                                                           a=self.__cohesion,
+                                                           b=self.__readability,
+                                                           c=self.__sentence,
+                                                           d=self.__title,
+                                                           e=self.__length)
+            generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings,
+                                                                   text_as_sentences_without_footnotes,
+                                                                   processing.number_of_sentences_in_text(abstract),
+                                                                   cluster_strategy=self.__clustering_algorithm,
+                                                                   threshold=float(self.__cosine_threshold))
+
+            score_evolutionary = processing.rouge_score(generated_summary_evolutionary, abstract)
+            score_graphs = processing.rouge_score(generated_summary_graph, abstract)
+
+            evolutionary_scores.append(score_evolutionary)
+            graph_scores.append(score_graphs)
+        self.signal.emit((evolutionary_scores, graph_scores))

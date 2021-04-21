@@ -6,7 +6,7 @@ import ui
 
 
 # def main():
-#     number_of_texts = 1
+#     number_of_texts = 20
 #     evolutionary_scores = []
 #     graph_scores = []
 #     start_time = time.time()
@@ -41,7 +41,7 @@ import ui
 #
 #
 # main()
-#
+
 # def main_graphs():
 #     number_of_texts = 20
 #     # evolutionary_scores = []

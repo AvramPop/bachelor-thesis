@@ -61,7 +61,7 @@ def remove_stop_words(tokens):
 
 # lowercase all the words given
 def tokens_to_lower_case(tokens):
-    return [word.casefold() for word in tokens]
+    return [word.casefold() for word in tokens]  # TODO is this needed?
 
 
 def is_english(s):
@@ -95,12 +95,6 @@ def read_file_to_text(filename):
     text = concatenate_text_as_array(lines)
     text = text.casefold()
     return text
-
-
-def rouge_score(generated_summary, human_summary):
-    rouge = Pythonrouge(summary_file_exist=False, ROUGE_L=True, ROUGE_W=True,
-                        summary=[[generated_summary]], reference=[[[human_summary]]])
-    return rouge.calc_score()
 
 
 def read_rough_file_to_text(filename):
@@ -137,12 +131,12 @@ def prepare_data(document_number=1):
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        backup = copy.copy(sentence)
-        try:
-            sentence = lemmatize(sentence)
-        except:
-            print("didn't do lemma")
-            sentence = backup
+        # backup = copy.copy(sentence)
+        # try:
+        #     sentence = lemmatize(sentence)
+        # except:
+        #     print("didn't do lemma")
+        #     sentence = backup
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
@@ -160,6 +154,12 @@ def final_results(scores):
     for k, v in result.items():
         result[k] = v / len(scores)
     return result
+
+
+def rouge_score(generated_summary, human_summary):
+    rouge = Pythonrouge(summary_file_exist=False, ROUGE_L=True, ROUGE_W=True,
+                        summary=[[generated_summary]], reference=[[[human_summary]]])
+    return rouge.calc_score()
 
 
 def get_titles(bound):
