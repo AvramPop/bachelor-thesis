@@ -1,13 +1,64 @@
-import lxml
 from bs4 import BeautifulSoup as bs
 import os
 import re
+from pathlib import Path
 
 
-def run():
-    for a in generate_docs(read_duc_documents(get_doc_folders())):
-        print(a)
+def get_summary_folders():
+    root = "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/duc/summaries/"
+    sub_folders = [f.path for f in os.scandir(root) if f.is_dir()]
+    return sub_folders
 
+
+def summaries_paths(folders):
+    summaries = {}
+    for folder in folders:
+        path = folder + "/perdocs"
+        my_file = Path(path)
+        if my_file.is_file():
+            summaries[re.findall(r"([^\/]+$)", folder)[0]] = path
+    return summaries
+
+
+def get_summary_titles(path):
+    with open(path, "r") as file:
+        content = file.readlines()
+        content = "".join(content)
+    titles = re.findall(r"DOCREF=\"(.*)\"", content)
+    return titles
+
+
+def get_summary_body(path, title):
+    with open(path, "r") as file:
+        content = file.readlines()
+        content = "".join(content)
+        bs_content = bs(content, "lxml")
+    all_matches = bs_content.find_all("sum")
+    for at in all_matches:
+        if at["docref"] == title:
+            text = at.get_text()
+            text = " ".join(text.split())
+            return text
+    return ""
+
+
+def generate_summaries(summaries_paths_data):
+    summaries = []
+    for document, path in summaries_paths_data.items():
+        titles = get_summary_titles(path)
+        for title in titles:
+            summary = {}
+            summary["doc"] = document
+            summary["title"] = title
+            summary["body"] = get_summary_body(path, title)
+            summaries.append(summary)
+    return summaries
+
+
+def get_duc_data():
+    docs = generate_docs(read_duc_documents(get_doc_folders()))
+    summaries = generate_summaries(summaries_paths(get_summary_folders()))
+    return docs, summaries
 
 def get_doc_folders():
     root = "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/duc/docs/"
@@ -35,7 +86,6 @@ def parse_document_body(doc_path):
         current = current.strip()
         current = " ".join(current.split())
         text = text + " " + current
-    print(text)
     return text
 
 

@@ -116,6 +116,18 @@ import duc
 
 
 def main_duc():
-    duc.run()
+    r1, r2 = duc.get_duc_data()
+    c1 = 0
+    c2 = 0
+    for a in r1:
+        print(a)
+        c1 = c1 + 1
+    print("c1 " + str(c1))
+    print("aaaaaaaaaaa")
+    for a in r2:
+        c2 = c2 + 1
+        print(a)
+    print("c2 " + str(c2))
+
 
 main_duc()
