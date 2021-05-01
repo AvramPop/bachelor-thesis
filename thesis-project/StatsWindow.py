@@ -1,4 +1,4 @@
-from PySide6 import QtCore, QtWidgets
+from PySide6 import QtCore, QtWidgets, QtGui
 import processing
 import evolutionary
 import graph
@@ -118,7 +118,13 @@ class StatsWindow(QtWidgets.QWidget):
 
         stats_button = QtWidgets.QPushButton("Get statistics")
         stats_button.clicked.connect(self.__generate_statistics)
+
+        self.__wheel_label = QtWidgets.QLabel()
+        self.__wheel_label.setFixedWidth(30)
+        self.__wheel_label.setFixedHeight(30)
+
         container.addWidget(stats_button)
+        container.addWidget(self.__wheel_label)
 
         graphs_container = QtWidgets.QVBoxLayout()
         graphs_container.addWidget(QtWidgets.QLabel("Graphs statistics"))
@@ -136,7 +142,8 @@ class StatsWindow(QtWidgets.QWidget):
 
     @QtCore.Slot()
     def __generate_statistics(self):
-        self.__statsThread = StatsThread()
+        self.__show_wheel()
+        self.__statsThread = StatsThread(int(self.__number_input.text()), int(self.__iters_input.text()), int(self.__pop_size_input.text()), float(self.__cohesion_input.text()), float(self.__readability_input.text()), float(self.__sentence_input.text()), float(self.__title_input.text()), float(self.__length_input.text()), self.__clustering_algorithm_input.currentText(), float(self.__similarity_threshold_input.text()))
         self.__statsThread.signal.connect(self.__update_stats_view)
         self.__statsThread.start()
 
@@ -149,14 +156,25 @@ class StatsWindow(QtWidgets.QWidget):
 
         self.layout.addLayout(container)
 
+    def __show_wheel(self):
+        wheel_movie = QtGui.QMovie("resources/ajax-loader.gif")
+        self.__wheel_label.setMovie(wheel_movie)
+        wheel_movie.start()
+
+    def __remove_wheel(self):
+        empty = QtGui.QMovie("resources/blank.gif")
+        self.__wheel_label.setMovie(empty)
+        empty.start()
+
     @QtCore.Slot()
     def __generate_plots(self):
         print("plots")
 
     @QtCore.Slot()
-    def __update_stats_view(self):
-        self.__evolutionary_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(evolutionary_scores)["ROUGE-1-F"]))
-        self.__graphs_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(graph_scores)["ROUGE-1-F"]))
+    def __update_stats_view(self, thread_data):
+        self.__evolutionary_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(thread_data[0])["ROUGE-1-F"]))
+        self.__graphs_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(thread_data[1])["ROUGE-1-F"]))
+        self.__remove_wheel()
 
 
 class StatsThread(QtCore.QThread):
@@ -164,15 +182,25 @@ class StatsThread(QtCore.QThread):
 
     def __init__(self, number_of_articles, number_of_iterations, population_size, cohesion, readability, sentence, title, length, clustering_algorithm, cosine_threshold):
         self.__number_of_articles = number_of_articles
+        print(number_of_articles)
         self.__number_of_iterations = number_of_iterations
+        print(number_of_iterations)
         self.__population_size = population_size
+        print(population_size)
         self.__cohesion = cohesion
+        print(cohesion)
         self.__readability = readability
+        print(readability)
         self.__sentence = sentence
+        print(sentence)
         self.__title = title
+        print(title)
         self.__length = length
+        print(length)
         self.__clustering_algorithm = clustering_algorithm
+        print(clustering_algorithm)
         self.__cosine_threshold = cosine_threshold
+        print(cosine_threshold)
         QtCore.QThread.__init__(self)
 
     def run(self):

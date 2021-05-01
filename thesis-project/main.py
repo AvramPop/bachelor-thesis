@@ -3,6 +3,7 @@ import graph
 import processing
 import time
 import ui
+import duc
 
 
 # def main():
@@ -106,9 +107,15 @@ import ui
 #
 # main_graphs()
 
-def main_ui():
-    titles = processing.get_titles(20)
-    ui.launch_ui(titles)
+# def main_ui():
+#     titles = processing.get_titles(20)
+#     ui.launch_ui(titles)
+#
+#
+# main_ui()
 
 
-main_ui()
+def main_duc():
+    duc.run()
+
+main_duc()
