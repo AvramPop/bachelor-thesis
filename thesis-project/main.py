@@ -121,27 +121,18 @@ def main_duc():
     evolutionary_scores = []
     graph_scores = []
     start_time = time.time()
-    for i in range(1, number_of_texts + 1):
-        print("Current article: " + str(i))
-        print(docs[i]["doc"])
-        print(docs[i]["name"])
+    for i in range(number_of_texts):
         sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.preprocess_duc(docs[i], duc.get_summary(docs[i], summaries))
-        print("text length is: " + str(len(text_as_sentences_without_footnotes)))
+        if sentences_as_embeddings is not None:
+            generated_summary_evolutionary = evolutionary.generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+            generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
 
-        generated_summary_evolutionary = evolutionary.generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
-        generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+            score_evolutionary = processing.rouge_score(generated_summary_evolutionary, abstract)
+            score_graphs = processing.rouge_score(generated_summary_graph, abstract)
 
-        score_evolutionary = processing.rouge_score(generated_summary_evolutionary, abstract)
-        score_graphs = processing.rouge_score(generated_summary_graph, abstract)
-
-        print(score_evolutionary)
-        print(score_graphs)
-
-        print(generated_summary_evolutionary)
-        print(generated_summary_graph)
-
-        evolutionary_scores.append(score_evolutionary)
-        graph_scores.append(score_graphs)
+            evolutionary_scores.append(score_evolutionary)
+            graph_scores.append(score_graphs)
+            print("Done article: " + str(i))
 
     print("RESULTS:")
 

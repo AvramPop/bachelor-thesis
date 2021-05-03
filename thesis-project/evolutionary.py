@@ -265,3 +265,4 @@ def generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text
     generated_summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
     print("Evolutionary algorithm took ", time.time() - start_time, "s")
     return generated_summary
+

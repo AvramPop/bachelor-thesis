@@ -198,6 +198,8 @@ def get_duc_sentences(text):
 
 
 def preprocess_duc(doc, summary):
+    if doc is None or summary is None:
+        return None, None, None, None, None, None
     sentences_as_embeddings = get_duc_embeddings(doc["body"])
     duc_as_sentences = get_duc_sentences(doc["body"])
     abstract = summary["body"]
