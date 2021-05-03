@@ -4,6 +4,7 @@ import processing
 import time
 import ui
 import duc
+import chatterjee
 
 
 # def main():
@@ -115,32 +116,65 @@ import duc
 # main_ui()
 
 
-def main_duc():
-    docs, summaries = duc.get_duc_data()
-    number_of_texts = len(docs)
-    evolutionary_scores = []
-    graph_scores = []
+# def main_duc():
+#     docs, summaries = duc.get_duc_data()
+#     number_of_texts = len(docs)
+#     evolutionary_scores = []
+#     graph_scores = []
+#     start_time = time.time()
+#     for i in range(number_of_texts):
+#         sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.preprocess_duc(docs[i], duc.get_summary(docs[i], summaries))
+#         if sentences_as_embeddings is not None:
+#             generated_summary_evolutionary = evolutionary.generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+#             generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+#
+#             score_evolutionary = processing.rouge_score(generated_summary_evolutionary, abstract)
+#             score_graphs = processing.rouge_score(generated_summary_graph, abstract)
+#
+#             evolutionary_scores.append(score_evolutionary)
+#             graph_scores.append(score_graphs)
+#             print("Done article: " + str(i))
+#
+#     print("RESULTS:")
+#
+#     print("Evolutionary average score:")
+#     print(processing.final_results(evolutionary_scores))
+#     print("Graphs average score: ")
+#     print(processing.final_results(graph_scores))
+#
+#     print(str(number_of_texts), " articles processing took exactly ", time.time() - start_time, "s")
+#
+# main_duc()
+
+
+def main_papers():
+    number_of_texts = 5
+    scores = []
     start_time = time.time()
-    for i in range(number_of_texts):
-        sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.preprocess_duc(docs[i], duc.get_summary(docs[i], summaries))
-        if sentences_as_embeddings is not None:
-            generated_summary_evolutionary = evolutionary.generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
-            generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+    for i in range(1, number_of_texts + 1):
+        print("Current article: " + str(i))
+        sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(i)
+        print("text length is: " + str(len(text_as_sentences_without_footnotes)))
 
-            score_evolutionary = processing.rouge_score(generated_summary_evolutionary, abstract)
-            score_graphs = processing.rouge_score(generated_summary_graph, abstract)
+        pagerank = graph.generate_summary_graph_text_rank(text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+        if pagerank is None:
+            print("FAILURE")
+            continue
+        else:
+            score = processing.rouge_score(pagerank, abstract)
 
-            evolutionary_scores.append(score_evolutionary)
-            graph_scores.append(score_graphs)
-            print("Done article: " + str(i))
+        print(score)
+
+        print(pagerank)
+
+        scores.append(score)
 
     print("RESULTS:")
 
-    print("Evolutionary average score:")
-    print(processing.final_results(evolutionary_scores))
-    print("Graphs average score: ")
-    print(processing.final_results(graph_scores))
+    print("Pagerank average score:")
+    print(processing.final_results(scores))
 
     print(str(number_of_texts), " articles processing took exactly ", time.time() - start_time, "s")
 
-main_duc()
+
+main_papers()

@@ -47,7 +47,7 @@ def fitness(individual, similarity_matrix, summary_size, a, b):
     return a * cohesion_value + b * readability_value
 
 
-def generate_summary_evolutionary(text_as_sentences_without_footnotes, summary_size, number_of_iterations=25,
+def generate_summary_chatterjee(text_as_sentences_without_footnotes, summary_size, number_of_iterations=25,
                                              population_size=20, a=0.05, b=0.5):
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix(text_as_sentences_without_footnotes)
