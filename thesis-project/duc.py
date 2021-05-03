@@ -16,7 +16,10 @@ def summaries_paths(folders):
         path = folder + "/perdocs"
         my_file = Path(path)
         if my_file.is_file():
-            summaries[re.findall(r"([^\/]+$)", folder)[0]] = path
+            title = re.findall(r"([^\/]+$)", folder)[0][0:4]
+            all_titles = [t[0:4] for t in summaries.keys()]
+            if title not in all_titles:
+                summaries[title] = path
     return summaries
 
 
@@ -41,18 +44,6 @@ def get_summary_body(path, title):
             return text
     return ""
 
-
-def generate_summaries(summaries_paths_data):
-    summaries = []
-    for document, path in summaries_paths_data.items():
-        titles = get_summary_titles(path)
-        for title in titles:
-            summary = {}
-            summary["doc"] = document
-            summary["title"] = title
-            summary["body"] = get_summary_body(path, title)
-            summaries.append(summary)
-    return summaries
 
 
 def get_duc_data():
@@ -118,8 +109,28 @@ def generate_docs(paths):
             doc_path = str(key) + "/" + str(doc)
             document = {}
             document["title"] = parse_document_title(doc_path)
-            document["doc"] = re.findall(r"([^\/]+$)", key)[0]
+            document["doc"] = re.findall(r"([^\/]+$)", key)[0][0:4]
             document["name"] = doc
             document["body"] = parse_document_body(doc_path)
             documents.append(document)
     return documents
+
+
+def generate_summaries(summaries_paths_data):
+    summaries = []
+    for document, path in summaries_paths_data.items():
+        titles = get_summary_titles(path)
+        for title in titles:
+            summary = {}
+            summary["doc"] = document[0:4]
+            summary["title"] = title
+            summary["body"] = get_summary_body(path, title)
+            summaries.append(summary)
+    return summaries
+
+
+def get_summary(doc, summaries):
+    for s in summaries:
+        if doc["doc"] == s["doc"] and doc["name"] == s["title"]:
+            return s
+    return None

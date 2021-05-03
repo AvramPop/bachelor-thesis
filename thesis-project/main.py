@@ -116,18 +116,40 @@ import duc
 
 
 def main_duc():
-    r1, r2 = duc.get_duc_data()
-    c1 = 0
-    c2 = 0
-    for a in r1:
-        print(a)
-        c1 = c1 + 1
-    print("c1 " + str(c1))
-    print("aaaaaaaaaaa")
-    for a in r2:
-        c2 = c2 + 1
-        print(a)
-    print("c2 " + str(c2))
+    docs, summaries = duc.get_duc_data()
+    number_of_texts = len(docs)
+    evolutionary_scores = []
+    graph_scores = []
+    start_time = time.time()
+    for i in range(1, number_of_texts + 1):
+        print("Current article: " + str(i))
+        print(docs[i]["doc"])
+        print(docs[i]["name"])
+        sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.preprocess_duc(docs[i], duc.get_summary(docs[i], summaries))
+        print("text length is: " + str(len(text_as_sentences_without_footnotes)))
 
+        generated_summary_evolutionary = evolutionary.generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+        generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+
+        score_evolutionary = processing.rouge_score(generated_summary_evolutionary, abstract)
+        score_graphs = processing.rouge_score(generated_summary_graph, abstract)
+
+        print(score_evolutionary)
+        print(score_graphs)
+
+        print(generated_summary_evolutionary)
+        print(generated_summary_graph)
+
+        evolutionary_scores.append(score_evolutionary)
+        graph_scores.append(score_graphs)
+
+    print("RESULTS:")
+
+    print("Evolutionary average score:")
+    print(processing.final_results(evolutionary_scores))
+    print("Graphs average score: ")
+    print(processing.final_results(graph_scores))
+
+    print(str(number_of_texts), " articles processing took exactly ", time.time() - start_time, "s")
 
 main_duc()

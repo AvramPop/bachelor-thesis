@@ -84,8 +84,15 @@ def get_clusters(community_graph, strategy):
     return result
 
 
+def no_available_nodes(clusters):
+    for k, v in clusters.items():
+        if len(v) > 0:
+            return False
+    return True
+
+
 def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes, summary_size, cluster_strategy="infomap", threshold=0.3):
-    print(cluster_strategy)
+    # print(cluster_strategy)
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, threshold)
     clustering_coefficients_for_each_node, _, community_graph = get_clustering_data(similarity_matrix)
@@ -104,7 +111,7 @@ def generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_fo
                     best = best_from_cluster(clustering_coefficients_for_each_node, clusters, cluster_number)
                     solution.append(best)
                     remove_best(best, cluster_number, clusters, clustering_coefficients_for_each_node)
-        if len(solution) >= summary_size:
+        if len(solution) >= summary_size or len(solution) >= len(text_as_sentences_without_footnotes) or no_available_nodes(clusters):
             break
     solution.sort()
     summary = summary_from_indexes(solution, text_as_sentences_without_footnotes)

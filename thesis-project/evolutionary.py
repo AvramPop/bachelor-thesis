@@ -260,7 +260,6 @@ def generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text
     similarity_matrix = generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embeddings)
     population = generate_population(len(similarity_matrix), summary_size, population_size)
     for i in range(number_of_iterations):
-        print(i)
         iteration(population, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes, a, b, c, d, e)
     best_individual = max(population, key=lambda individual: fitness(individual, similarity_matrix, summary_size, title_embedding, sentences_as_embeddings, text_as_sentences_without_footnotes, a, b, c, d, e))
     generated_summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
