@@ -1,13 +1,11 @@
 import numpy as np
-import oslom
+import chatterjee
 from scipy import spatial
 import time
-import infomap as im
 import networkx
 import processing
-import community as community_louvain
-from argparse import Namespace
 from cdlib import algorithms
+from nltk.tag import pos_tag
 
 
 def generate_similarity_matrix_for_graph_algorithm(sentences_as_embeddings, threshold):
@@ -169,4 +167,86 @@ def generate_summary_graph_text_rank(text_as_sentences_without_footnotes, summar
     sentence_indexes_sorted_by_score = indexes_from_pagerank(scores, summary_size)
     summary = summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes)
     print("Text rank algorithm took ", time.time() - start_time, "s")
+    return summary
+
+
+def get_words_set(sentences):
+    words = []
+    for sentence in sentences:
+        for word in sentence:
+            if word not in words:
+                words.append(word)
+    return words
+
+
+def term_position(term, word_set):
+    for i in range(len(word_set)):
+        if word_set[i] == term:
+            return i
+    return None
+
+
+def sentences_for_dutta(text_as_sentences_without_footnotes):
+    result = []
+    for sentence in text_as_sentences_without_footnotes:
+        sentence = processing.remove_punctuation(sentence)
+        sentence = processing.split_in_tokens(sentence)
+        sentence = processing.remove_stop_words(sentence)
+        tagged_sentence = pos_tag(sentence)
+        sentence_without_proper_nouns = [word for word, pos in tagged_sentence if pos != 'NNP']
+        result.append(sentence_without_proper_nouns)
+    return result
+
+
+def get_embeddings(sentences):
+    words_set = get_words_set(sentences)
+    embeddings = []
+    for sentence in sentences:
+        embedding = [0 for _ in range(len(words_set))]
+        for word in sentence:
+            embedding[term_position(word, words_set)] = 1
+        embeddings.append(embedding)
+    return embeddings
+
+
+def generate_similarity_matrix_for_dutta(sentences_as_embeddings, threshold):
+    number_of_sentences = len(sentences_as_embeddings)
+    similarity_matrix = np.zeros([number_of_sentences, number_of_sentences])
+    for i, row_embedding in enumerate(sentences_as_embeddings):
+        for j, column_embedding in enumerate(sentences_as_embeddings):
+            if i == j:
+                similarity_matrix[i][j] = 0
+            else:
+                value = chatterjee.cosine_similarity(row_embedding, column_embedding)
+                similarity_matrix[i][j] = value if value > threshold else 0
+    return similarity_matrix
+
+
+def generate_summary_dutta(text_as_sentences_without_footnotes, summary_size, threshold=0.3):
+    start_time = time.time()
+    sentences = sentences_for_dutta(text_as_sentences_without_footnotes)
+    embeddings = get_embeddings(sentences)
+    similarity_matrix = generate_similarity_matrix_for_dutta(embeddings, threshold)
+    clustering_coefficients_for_each_node, _, community_graph = get_clustering_data(similarity_matrix)
+    clusters = get_clusters(community_graph, "infomap")
+    solution = []
+    while True:
+        coefficients_of_clusters = get_coefficients_for_clusters_sorted(clustering_coefficients_for_each_node, clusters)
+        average_clustering_coefficient = get_average_clustering_coefficient(coefficients_of_clusters)
+        for cluster_number in list(coefficients_of_clusters):
+            if len(solution) < summary_size:
+
+                if coefficients_of_clusters[cluster_number] < average_clustering_coefficient:
+                    del coefficients_of_clusters[cluster_number]
+                    clusters.pop(cluster_number)
+                elif len(clusters[cluster_number]) > 0:
+                    best = best_from_cluster(clustering_coefficients_for_each_node, clusters, cluster_number)
+                    solution.append(best)
+                    remove_best(best, cluster_number, clusters, clustering_coefficients_for_each_node)
+        if len(solution) >= summary_size or len(solution) >= len(
+                text_as_sentences_without_footnotes) or no_available_nodes(clusters):
+            break
+    solution.sort()
+    summary = summary_from_indexes(solution, text_as_sentences_without_footnotes)
+    print("Graphs algorithm took ", time.time() - start_time, "s")
     return summary

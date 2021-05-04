@@ -156,22 +156,24 @@ def main_papers():
         sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, title_embedding, rough_abstract = processing.prepare_data(i)
         print("text length is: " + str(len(text_as_sentences_without_footnotes)))
 
-        pagerank = graph.generate_summary_graph_text_rank(text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
-        if pagerank is None:
-            print("FAILURE")
-            continue
-        else:
-            score = processing.rouge_score(pagerank, abstract)
+        # pagerank = graph.generate_summary_graph_text_rank(text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+        # if pagerank is None:
+        #     print("FAILURE")
+        #     continue
+        # else:
+        #     score = processing.rouge_score(pagerank, abstract)
+        dutta = graph.generate_summary_dutta(text_as_sentences_without_footnotes, processing.number_of_sentences_in_text(abstract))
+        score = processing.rouge_score(dutta, abstract)
 
         print(score)
 
-        print(pagerank)
+        print(dutta)
 
         scores.append(score)
 
     print("RESULTS:")
 
-    print("Pagerank average score:")
+    print("Dutta average score:")
     print(processing.final_results(scores))
 
     print(str(number_of_texts), " articles processing took exactly ", time.time() - start_time, "s")
