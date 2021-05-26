@@ -1,0 +1,685 @@
+In arguing for the basic historicity of Jesus' dispute with the Sadducees over
+resurrection in Mark 12:18-27 parr., 1 John Meier emphasizes the criterion
+of discontinuity. 2 He points to such factors as the lack of a realistic Sitz
+im Leben that could explain the story's invention by the early church and
+the complete absence in both Jewish and early Christian literature of other
+appeals to Exod. 3:6 as a proof for resurrection. The main force of his argu-
+ment from discontinuity, however, falls on his observation that Jesus'
+manner of arguing for a general resurrection in this passage differs mark-
+edly from the manner in which the early Christians argued for a general
+resurrection:
+In the debate in Mk 12.18-27, Jesus handles both the how (manner) and the that (fact)
+of the resurrection quite differently from the early Christians. Jesus answers the how by
+a comparison to the angels and the that by an appeal to Exod. 3.6. The early Chris-
+tians, instead, handle both the how (see Phil. 3.21) and the that (1 Cor. 15.12-20)
+simply by pointing to the risen Jesus. 3
+In short, Meier argues for the pericope's historicity by suggesting that early
+Christians who wanted to prove a general resurrection would have appealed
+to Jesus' resurrection rather than invent a story that sought to achieve this
+polemical task simply by citing a single scripture passage whose relevance
+to the discussion was far from established.
+Meier's cogent observations naturally raise the question of whether this
+difference in theological reasoning between Jesus and the N T authors
+implies a corresponding difference in their underlying theologies of resurrec-
+tion. That is to say, are the N T authors' christological justifications of resur-
+rection ultimately grounded in the same scriptural understanding that Jesus'
+answer here presupposes? Or, to put the matter in yet another way, how
+well does the understanding of resurrection expressed in Mark 12:26-27a
+cohere with the wider N T portrayal of a general resurrection?
+Given the proposed historicity of Mark 12:18-27, 4 the threefold inclu-
+sion of this pericope in the NT, and the foundational significance of both
+Jesus and resurrection in early Christian theology, one might expect the
+portrayal of resurrection in this passage to have a fairly integral and reso-
+nant relationship to other N T discussions of resurrection. Scholarship,
+however, has often argued otherwise, frequendy interpreting Mark 12:26-27a
+in a way that renders its theology of resurrection essentially incompatible
+with and/or irrele\ ant to the understanding of resurrection expressed else­
+where in the NT. This state of affairs can be traced directly to two related
+exegetical difficulties in the passage.
+First, it is not immediately clear how Jesus' citation of Exod. 3:6—"I
+[am] the God of Abraham and the God of Isaac and the God of
+5
+Jacob" —concerns resurrection at all, let alone how the verse could pos­
+sibly prove that the dead will be raised. Second, Jesus' seeming inference
+from this citation that " [God] is not a god of dead people but of living"
+(Mark 12:27a) sounds as if it would be more appropriate concluding an
+argument for some kind of immortality rather than an argument for resur­
+rection. A twofold quandary thus faces the interpreter: Jesus' argument
+does not actually seem to prove anything, but if it does prove anything, it
+seems to prove immortality, not resurrection.
+The latter of these difficulties has led some scholars to conclude that
+Jesus here defines resurrection in terms of immortality. John Donahue, for
+instance, argues that the
+view of resurrection [in \4ark 12:26-27] is... different from... [the view in] 1 Cor
+15:35-41 since in Alark there is virtually no hint of the resurrection and/or transfor­
+mation of the body, but rather a way of speaking closer to a doctrine of immortality....
+[For the Markan Jesus,] [r]esurrection is not return from the grave, but enduring life
+hidden in the power of God. 6
+In other words, Jesus here describes a non-physical form of resurrection
+that stands in stark contrast to the emphasis on the physical resurrection of
+both Christ and believers elsewhere in the N T (and, it must be added, in stark
+contrast to the usual meaning of the word άνάστασις, "resurrection").
+The NT's later christological justifications that tie a general resurrection of
+believers to the physical resurrection of Christ would thus oppose the view
+of resurrection implied by this reading of Jesus' scriptural proof. 8
+Even for scholars who contend that the passage does concern physical
+resurrection, the former of the exegetical difficulties listed above often
+gives rise to an interpretation that renders Jesus' theology of resurrection
+irrelevant to the rest of the N T witnesses. One of the most common expla-
+nations of the function of Exod. 3:6—that the assumed present tense of
+the implied verb suggests that the patriarchs are still living—essentially
+interprets Jesus as arguing based on the fact of the patriarchs' continuing
+existence rather than on the reason for that existence. This interpretive
+move means that the later appeals to Christ's resurrection would have
+effectively replaced this scriptural argument: rather than pointing to the
+patriarchs, whose continuing existence presumably ensures their eventual
+resurrection, Christians could simply point to an already resurrected Jesus.
+(The resulting irrelevance of Jesus' argument has an added theological
+benefit for many Christian scholars: it frees them to dismiss his, in this
+reading, less-than-compelling logic without having to surrender their own
+belief in resurrection.)
+Is Jesus' justification of resurrection in Mark 12:26-27a truly as theolo-
+gically dissonant with the witness of the later N T authors as these inter-
+pretations indicate? I suggest that it is not, and that the perceived dissonance
+arises from a misunderstanding of Jesus' argument. Of course, to prove this
+claim thoroughly would require that I analyze the theology of resurrection
+in Mark 12:26-27a and then compare the resulting picture with the theol-
+ogy indicated by the rest of the resurrection-related passages in the NT.
+Such comprehensive analysis lies well beyond the scope of this article.
+Instead, the article will focus primarily on the first (and more manageable)
+part of this project, namely, the analysis of resurrection in Mark 12:26-
+27a: how, exactly, does Jesus' argument work?
+I will argue that God's faithfulness to his continuing covenant with
+Abraham provides the key to understanding Jesus' line of reasoning. There
+is a sense in which this suggestion is not new. An increasing number of
+scholars have, after all, claimed that God's covenantal faithfulness forms an
+important part of Jesus' argument. 9 Yet even these interpreters seem to have
+overlooked what I regard as the crucial step of Jesus' logic: God s faithfulness
+to his covenant implies the patriarchs continuing existence since the patriarchs
+death would have released God from his covenantal obligations.
+In order to make its case, this article will consider the context of the
+larger pericope, seeking to understand both the Sadducees' question and
+the cohesiveness of Jesus' answer as a response to that question. As part of
+this analysis, I will examine the two exegetical cruxes in 12:26-27a (and
+their proposed resolutions) in greater detail. Finally, lest the prompting
+question of theological coherence be forgotten, I will briefly discuss how
+this interpretation resolves the theological difficulties identified above.
+Appearing as the second of three vignettes in which religious leaders ques-
+tion Jesus, Mark 12:18-27 describes a dispute between Jesus and the Sad-
+ducees over resurrection. The pericope itself constitutes a self-contained
+unit composed of two main parts: the Sadducees' rather involved question
+(12:18-23) and Jesus' response (12:24-27). I will discuss each of these
+components in turn.
+The Sadducees present Jesus with a hypothetical scenario: seven brothers
+successively marry the same woman in accordance with the Mosaic law of
+levirate marriage. Nevertheless, the woman, who outlives all seven of her
+husbands, eventually dies childless. The Sadducees then want to know
+whose wife she will be in the resurrection.
+The inquiry, of course, is not sincere; as Mark informs us at the outset of
+the episode, the Sadducees did not actually believe in resurrection (12:18). 10
+Accordingly, their constructed scenario appears to have been specifically
+designed to bring out the absurdity of a belief in resurrection. At its most
+basic level, the story highlights a perceived logistical problem with such a
+belief: a woman who had outlived several spouses would suddenly find
+them all simultaneously alive again. On what basis could one man's claim
+to be her husband be legitimated over the others' claims?
+The Sadducees' presentation, however, significantly strengthens the
+force of this basic question. As their introductory citation of Deut. 25:5
+indicates, the Mosaic law itself requires the woman to have taken these
+seven husbands. In other words, it is precisely her obedience to God's com­
+mand that would have created this absurd situation in the resurrection. 11
+Nor would this problem arise only in inconsequential cases: the Sadducees'
+additional allusion to the fulfillment of this law in the lives of Judah and
+Tamar ("raise up seed for your brother," Gen. 38:8; cf. Mark 12:19) implies
+that the resolution of this issue affects even the patriarchs, the founders of
+the faith. 12 Viewed in this light, a belief in resurrection threatens to make
+a mockery of both the Mosaic law (scripture) and the patriarchs by impli­
+cating them in this absurd scenario. That is to say, it threatens to make a
+mockery of the very foundations of Jewish belief.
+In addition to this overt attack, a wordplay involving the concept of
+"raising up" (έξανίστημι, 12:19 / άνάστασις, άνίστημι, 12:23) suggests
+that the scenario also levels a subtler critique against resurrection. The levi-
+rate marriage law provides for the preservation of a man's place in Israel
+through the "raising up" of offspring in his name. In the Sadducees' story,
+however, none of the seven brothers are able to "raise up" such a child. J. Gerald
+Janzen therefore argues that the scenario implies the following critique:
+If God by the very means divinely provided in the Torah—the Levirate law—cannot
+or will not raise up children to a dead man (not even after an ideal number of oppor­
+tunities), on what basis is one entitled to hope that God either will or can raise up that
+dead man himself—something for which the Mosaic Torah makes no provision at all? 13
+The suggested lesser-to-greater logic of this implied argument follows a
+common first-century Jewish exegetical principle {qal vahomer) 14 and
+essentially critiques resurrection on two fronts: 1) if the natural "raising
+up" of childbirth has failed, how much more so will the more difficult
+"raising up" of resurrection, and 2) if the means for "raising up" provided
+by the Torah have failed, how much more so will a "raising up" that is not
+ordained by Torah. 15
+Granting for the moment the presence of this implied critique, the Sad-
+ducees' argument against resurrection operates on two levels. On a surface
+level, they have constructed a scenario in which the application of the
+scriptural levirate marriage law seems to render a belief in resurrection
+problematic on logistical grounds. Lurking behind this seemingly innocent
+request for logistical resolution, however, lies the more sinister suggestion
+that the very existence of a scenario in which the levirate law could fail to
+raise up offspring implicitly rules out the possibility of resurrection. The
+question therefore functions as a trap: Jesus must address the proposed
+logistical objection to resurrection, but any resolution he could give would
+presumably entail an acceptance of the basic scenario that in and of itself
+renders resurrection problematic.
+Does such an analysis—based, as it is, on a proposed implied argu-
+ment—read too much into the text? Two factors in addition to the word-
+play suggest that it does not. First, the literary context leads a reader to
+expect that the Sadducees' question will have some hidden twist. The pas-
+sage comes as part of an escalating conflict between Jesus and the Jewish
+leaders in the Temple courts. In Mark 11:27-33, Jesus traps the chief
+priests, scribes, and elders with an unanswerable question of his own: "Was
+the baptism of John from heaven or from men?" (11:29). He then further
+infuriates them by speaking the parable of the vineyard against them
+(12:1-11). As a result, these leaders desire to seize him, yet they cannot do
+so because they fear the reactions of the crowd (12:12). They accordingly
+withdraw from the scene and send people to question Jesus "so that they
+might trap [άγρεύσωσιν] him in a statement" (12:13). In the ensuing series
+of vignettes, representatives of various Jewish groups approach Jesus and
+question him: the Pharisees and Herodians in 12:13-17, the Sadducees in
+12:18-27, and a scribe in 12:28-34. Jesus responds masterfully to each
+question, with the result that, after the third episode, "no one any longer
+dared to ask him [anything]" (12:34). The proposal of an implicit trap in
+the Sadducees' question fits perfectly into such a framework. 16
+Three potential objections to this analysis of the literary context need to
+be addressed. It is true, for instance, that the Jewish leaders are only explic-
+itly said to send the Pharisees and Herodians to trap Jesus with their ques-
+tion about paying taxes to Caesar (12:13). Nevertheless, the arrival of the
+Sadducees with an equally hypocritical question immediately after the first
+group's failure to ensnare Jesus suggests that they also form a part of the
+leaders' plot, 1 especially since the Sadducees—who can be linked to the
+high priests of 11:18 on socio-political grounds as well 18 —appear nowhere
+else in Mark's gospel. The suggested trap in the Sadducees' question is also
+admittedly subtler than the Pharisees' trap, but such escalation should be
+expected after Jesus had so cunningly discerned and avoided the first
+attempt. Finally, the scribe's question about the greatest commandment in
+12:28-34—the third and final question in the series—does not seem to
+function as a trap, thereby seeming to break the proposed pattern. The text
+explicitly states, however, that he asks his question after being drawn to the
+group by the earlier arguments (12:28), i.e., he is clearly not involved in
+the leaders' plot. Significantly, he is also the only questioner whom Jesus
+praises instead of rebuking (12:34). 19
+In addition to the wordplay and the literary context, Jesus' response
+itself argues for the presence of this implicit trap in the Sadducees' ques-
+tion. As the following section of this article will contend, Jesus not only
+solves the Sadducees' logistical problem, he also addresses and refutes their
+implied critique that denies resurrection on the grounds that it 1) repre-
+sents a more difficult "raising up" than the natural reproduction that has
+failed and 2) is not prescribed in Torah. While Jesus could theoretically
+have discerned a deeper theological issue of which his questioners were
+unaware, his harsh rebuke and the other indications of a hidden trap
+imply the Sadducees' duplicity.
+Jesus' response consists of three parts: a frame asserting that the Sadducees
+are mistaken (12:24, 27b), a statement that there will be no marrying in
+the resurrection (12:25), and a proof that the dead will be raised (12:26-
+27a). As I intend to show below, the three components function as a cohe-
+sive whole that effectively addresses both aspects of the Sadducees' challenge.
+The analysis will begin with the frame.
+Jesus' charge that the Sadducees are mistaken (12:24, 27b) appears some-
+what curious, at least initially. After all, the Sadducees have simply pre-
+sented a possible scenario and asked a question; they have not made any
+overt claims. As we saw above, however, their "question" actually implies
+two claims: 1) the surface claim that the scriptures (and the levirate mar-
+riage law in particular) render a belief in resurrection problematic and
+2) the underlying claim that God's failure to act in the simpler "raising up"
+of offspring precludes the possibility of his "raising up" the dead. Jesus
+accordingly asserts through his opening rhetorical question that the Saddu-
+cees are mistaken because they understand neither the scriptures (claim #1)
+nor the power of God (claim #2). In other words, Jesus' opening remark
+reveals that he has discerned the Sadducees' trap.
+The twofold nature of this opening critique naturally suggests a pro-
+grammatic correspondence to the two internal segments of Jesus' response.
+I accordingly propose that the two internal components (12:25 and 12:26-
+27a) demonstrate how the Sadducees have misunderstood the scriptures
+and the power of God respectively. That is to say, I will argue that the state-
+ment in 12:25 regarding the lack of marrying in the resurrection refutes
+the Sadducees' actual question about the woman and her seven husbands
+(claim #1) by revealing their misunderstanding of the very scripture to
+which they have appealed. The resurrection proof in 12:26-27a then refutes
+the underlying challenge posed by the scenario as a whole (claim #2) by
+showing that such a critique essentially questions God's power.
+This suggestion reverses the typical scholarly conclusion. Having rightly
+sensed the programmatic nature of Jesus' opening remark, many scholars
+identify the explicit appeal to scripture in 12:26-27a as evidence that this
+latter segment corresponds to the initial charge of misunderstanding the
+scriptures. Such an association then leaves 12:25 to complete the chiasm as
+the explanation of God's power. 20 1 will illustrate the difficulties with this
+interpretation—which characteristically argues that the Sadducees have
+misunderstood both the manner (12:25) and the fact (12:26-27a) of the
+resurrection 21 —as I proceed through the analysis of the internal compo-
+nents of Jesus' response.
+esus begins his actual rebuttal of the Sadducees' question in 12:25 with a
+statement about the lack of marrying in the resurrection:
+For when they rise from among the dead, they neither marry nor are given in marriage,
+but they are like angels in the heavens.
+As part of the chiastic analysis of Jesus' response, many scholars interpret
+this statement to mean that God's power will so transform the body in the
+resurrection—"they are like angels"—that the marriage state will be tran-
+scended. 22 Jesus thus refutes the Sadducees by highlighting the new state of
+resurrection existence that God's power will bring about.
+The chief problem with the chiastic explanation of Jesus' answer lies
+in this analysis of 12:25: this reading assumes that it is the nature of the
+resurrection that renders the Sadducees' argument irrelevant. In fact, this
+assumption appears even in interpretations that do not tie this verse to
+God's power. Craig Evans, for instance, finds Jesus here to be making a
+point about scripture, namely, that scripture nowhere suggests that "the
+marriage state continues after the resurrection" (italics added). 23 Although
+he understands Jesus' logic differently, Evans still identifies resurrection as
+the event that enables a transcending of the marital bond.
+While this scholarly emphasis on resurrection is understandable given
+the pericope's topic, it does not adequately account for the sole emphasis
+on the process of marrying in Jesus' response. 24 This emphasis is all the more
+curious since it at first seems to form a non sequitur to the preceding ques-
+tion. The Sadducees, after all, had not asked, "Which of the seven will she
+marry?" No, their question—"Whose wife will she be?"—presumes that
+the woman's marital relationship with at least one of the brothers would
+continue into the resurrected state. 2 ^ Indeed, the absurdity that their ques-
+tion is intended to imply with regard to resurrection depends upon this
+assumption: the scenario presents a conundrum only if the resurrected
+woman would suddenly find herself with seven living husbands. As a cri-
+tique of resurrection, then, the Sadducees' question becomes moot if the
+woman would have to re-marry one of the brothers. 26
+Contrary to the Sadducees' assumption, Jesus' reply effectively implies
+that for this hypothetical woman to be the wife of one of the brothers, she
+would have to re-marry. This implication then leads to the question of
+when her previous marriages would have ended, the answer to which helps
+explain why Jesus phrases his response solely in terms of re-marriage. I sug­
+gest that Jesus does not refer to the dissolution of the woman's marital
+bonds at the resurrection because those bonds would already have been
+annulled. That is to say, I suggest that he refers only to re-marriage because
+it is death—not, as the commentators all suggest, resurrection—that ter­
+minates the marriage covenant. 2
+This conclusion should not be surprising; even modern couples pledge
+to love one another "'til death do us part." Paul's letters to the Romans and
+the Corinthians establish this principle as the prevalent first-century under­
+standing of marriage:
+Or do you not know brothers (for I speak to those who know the law) that the law
+rules over a person [only] as long as that person lives? For the married woman is bound
+by law to a living husband. But if the husband dies, she is released from the law of the
+husband. So then, while her husband lives, she will be called an adulteress if she is
+joined to another man. But if her husband dies, she is free from the law, so as not to
+be an adulteress even though she is joined to another man. (Rom. 7:1-3)
+A woman is bound as long as her husband lives. But if the husband dies, she is free to
+be married to whomever she desires, only in the Lord. (1 Cor. 7:39)
+The Romans passage is especially significant since there Paul cites the prin­
+ciple that death annuls a marriage bond as the shared premise from which
+he then proceeds to argue his case. In other words, it is a premise with
+which "those who know the law" could be assumed to agree. 28
+We need not look to modern wedding ceremonies or to the letters of
+Paul, however, in order to establish death as the moment when a marriage
+ceases. The very levirate law that the Sadducees have cited depends upon
+this fact. Otherwise, the woman marrying her late husband's brother(s)
+would be an adulteress (cf. Rom. 7:3). The Sadducees have therefore mis-
+understood, not God's power to transform the resurrected body, but the
+nature of the marriage covenant implied by the very scripture passage on
+which they have based their attack. Death breaks the marriage covenant,
+releasing the surviving party from further obligation. Once Jesus exposes
+this mistake, the absurdity of the Sadducees' scenario (and its accompany-
+ing critique of resurrection) disappears.
+Having thus refuted the Sadducees' explicit critique of resurrection, Jesus
+then addresses their implied critique with his proof of resurrection in
+12:26-27a:
+But concerning the dead, that they are raised, have you not read in the book of Moses
+[in the passage] about the bush how God spoke to him saying, "I [am] the God of
+Abraham and the God of Isaac and the God of Jacob." He is not a god of dead people
+but of living.
+I will argue below that this proof is grounded in the same principle as the
+first part of Jesus' response, namely, that death ends a person's covenantal
+obligations. Before explaining my interpretation, however, it will first be
+helpful to survey and critique briefly the various other interpretations of
+this passage. Explanations of Jesus' proof tend to ground the argument in
+one of three factors: 1) lexical-grammatical issues, 2) God's nature as a
+"god of the living," or 3) the literary context of the Exodus citation. More-
+over, although mixtures and slight variations occur, scholars have essentially
+proposed two distinct ways of construing Jesus' logic for each of these three
+factors, leading to six main proposals. I will discuss each of these in turn.
+Beginning with the lexical-grammatical solutions, Frédéric Manns sug-
+gests that Jesus' logic here depends on an instance of al tiqra, a method of
+exegeting Hebrew texts by reading the consonants with a different vowel
+pointing. Basically, Manns argues that the phrase "[Moses calls] the Lord
+the God of Abraham" (κύριον τον θεον Αβραάμ) in Luke 20:37 reflects the
+ΕΠ"Ζ^... Ti^tf 7ΓΓΓ of Exod. 3:15. He then suggests that the initial ¡TiiT
+("Lord") behind Luke's κύριον could, with a different vowel pointing, be
+understood as a hiphil of ΓΓΠ ("to be") or even (by Jesus' listeners) as a
+hiphil of ΓΓΠ ("to live"), yielding the meaning in Hebrew, "God causes
+Abraham to be/live." 29 Although creative, this analysis makes Jesus' argu­
+ment hinge on a Hebrew word play that is only recoverable through a
+deconstruction of Luke's version. If correct, it would render Jesus' argu­
+ment unintelligible in Matthew and Mark, not to mention in the surface
+reading of Luke.
+While Manns's interpretation has garnered little scholarly support, a
+second grammatical explanation has long been one of the more influential
+interpretations. In this widely held construal, the tense of the implied verb
+provides the key to Jesus' case: the Lord says that he is the God of Abra­
+ham, Isaac, and Jacob, not that he was their God. Thus, the argument goes,
+Jesus takes the implied present tense of the reference to the patriarchs as
+evidence that they must have still been alive in some sense. 30
+Despite its widespread appeal, this proposal is problematic on several
+grounds, foremost of which is that the all-important present-tense verb does
+not even appear in Mark, Luke, or the M T of Exod. 3:6. In other words, the
+single element on which, in this reading, the whole argument depends is
+omitted, an odd circumstance to say the least. 31 Second, even assuming the
+implied present tense of the verb, Exod. 3:6 is primarily a statement about
+God (for whom the present tense would be appropriate), not about the patri­
+archs: he is the God whom they ivorshipped. This observation then leads to a
+third objection, namely that this reading of the citation violates the origi­
+nal meaning of the verse in its Exodus context, transforming the passage
+into a rather awkward proof-text.
+Not surprisingly considering these difficulties, few scholars who advocate
+this explanation find it a very convincing proof of resurrection. They there­
+fore often qualify their analyses with statements to the effect that, although
+such arguments might not be convincing today, a first-century audience
+would have found Jesus' reasoning compelling, a claim often buttressed by
+vague appeals to rabbinic methods of exegesis. 32 Rabbi D.M. Cohn-Sherbok,
+however, has argued that this type of reasoning does not bear any resemblance
+to known Tannaitic exegetical practices, raising the question of whether this
+argument would actually have been convincing even in the first century. 33
+Turning to the two modes of interpretation that focus on God's nature,
+they both suggest that Jesus ultimately grounds his proof in the principle
+that God cannot be in relationship with the dead, a principle that finds
+expression in 12:27a. Nevertheless, they differ in their analyses of Jesus'
+logic. They differ, that is, in their understanding of how 12:27a functions
+in the flow of Jesus' argument.
+One interpretation regards 12:27a as the second of two parallel prem-
+ises: God is 1) God of the patriarchs (12:26) and 2) a god of the living
+(12:27a). As Otto Schwankl suggests, the juxtaposition of these two prem-
+ises then implies, in typical rabbinic fashion, the desired-but-unstated con-
+clusion (that the patriarchs are alive and therefore) that there is a resurrection
+of the dead. 34 The strength of this view lies in its recognition that Jesus'
+argument must have some type of implied conclusion; 12:27a, after all,
+does not state the point that Jesus is purportedly proving, namely, that
+God raises the dead. Yet even granting the cultural validity of 12:27a as an
+independent premise, 3 ^ this line of reasoning still has a major difficulty: as
+the parentheses indicate, the logical combination of these two premises
+yields only the result that the patriarchs are alive. 36 How this result might
+imply resurrection will be considered below. For now I simply note that
+this suggestion awkwardly requires Jesus' argument to have not one but
+two implied conclusions. 3
+In the second type of interpretive appeal to Gods nature, 12:27a pro­
+vides the key to resolving a temporal or philosophical conundrum per­
+ceived to be inherent in the citation of Exod. 3:6. Unfortunately, such
+proposals often depend on problematic assertions about first-century Jew­
+ish thought. 3 8 F. Gerald Downing, however, provides a more nuanced
+version. Noting Philo's embarrassment in DeAbr. 50-55 that the immor­
+tal God would define himself in Exod. 3:15 in relation to mortal men,
+Downing suggests that God's identification of himself as the God of the
+patriarchs was perhaps more widely perceived as "rais[ing] awkward and
+inescapable questions about mortality." 39 While the platonist Philo could
+resolve the immortal/mortal tension simply by allegorizing the three patri­
+archs, Jesus instead reasons that God's relatedness to the patriarchs requires
+that they still be alive. According to Downing, this particular case can then
+be expanded by implication to include all who respond to God, perhaps
+even indicating that "relatedness to God constitutes a life that death can­
+not disrupt." 40
+Downing's proposal for the flow of Jesus' logic seems basically correct;
+I will similarly argue that the citation of Exod. 3:6 raises a question about
+mortality that Mark 12:27a resolves. I also agree with his conclusion that
+Jesus is here describing "a life that death cannot disrupt." Nevertheless,
+there seems to be little evidence for grounding these observations in the
+perceived philosophical difficulty that arises from relating the immortal to
+the mortal. 41 As Downing himself admits, even the evidence from Philo is
+ambiguous as to whether or not this relationship represents a true difficulty 42
+E Dreyfus offers a more promising approach for understanding Jesus'
+reasoning by contextualizing the citation, an approach whose aptness is
+suggested by the fact that Jesus himself points to the context ("[in the pas-
+sage] about the bush"). Based on a survey of contemporary Jewish litera-
+ture, Dreyfus argues that the phrase "God of Abraham, God of Isaac, God
+of Jacob" usually emphasizes God's role rather than the role of the patri-
+archs. That is to say, the phrase most often signifies, not the God whom the
+patriarchs worshipped, but the God who protected them. 43 The literature
+typically invokes this name (and its equivalents) as an appeal for similar
+protection (e.g., T. Mos. 3.9). Dreyfus finds the revelation of the name to
+have this same significance in Exod. 3-4: as God protected the patriarchs,
+so he will now protect Israel through the Exodus. 44
+How does this understanding of Exod. 3:6 relate to resurrection? Accord-
+ing to Dreyfus, Jesus here adds a new dimension to the traditional under-
+standing of God's sovereign protection by implying that for God to allow
+his people to die—even after a long life—would make a mockery of his
+claim to protect. God's protection must therefore ultimately entail resur-
+rection. 45 Dreyfus then suggests that Jesus' conclusion represents the natu-
+ral outworking for the individual of God's covenantal promises to restore
+the nation of Israel (e.g., Ezek. 16:60; 37:1-28; Lev. 26:42; Ps. 106:45). 46
+While Janzen applauds Dreyfus s sensitivity to the original Exodus con-
+text of the citation, he suggests that the Markan context of the citation
+further sharpens our understanding of Jesus' argument: "Jesus is not just
+invoking in a general way the tradition of God's protection and power; he
+is countering [the Sadducees'] story [of hopeless sterility and death] with a
+reminder of the ancestors' story " 4 ~ For Janzen, the reference to God as the
+God of Abraham, Isaac, and Jacob recalls the repeated bouts of sterility in
+the patriarchal families and, more importantly, God's subsequent miracu-
+lous provision of heirs. Similarly, in the Exodus story from which the cita-
+tion comes, God arises to preserve his now-numerous people miraculously
+from a new "sterility" imposed by the murderous decrees of Pharaoh. In
+this reading, then, Jesus argues for resurrection by taking this foundational
+Jewish tradition of God as the one who overcomes sterility and death and
+applying it to the fate of the individual after death. 48
+Dreyfus and Janzen both helpfully advance the discussion by pointing to
+the interpretive significance of the OT and N T contexts. Yet both also con-
+clude that Jesus' argument ultimately hinges on the principle of situational
+analogy, a form of argument that, by its very nature, cannot be conclusive.
+Indeed, Dreyfus and Janzen both admit that the inferences they attribute to
+Jesus stand in some tension with the very biblical texts that, in their view,
+gave rise to those inferences in the first place. For Dreyfus, Jesus' grounding
+of resurrection in God's saving power goes beyond the Pentateuchal por-
+trayal of God's salvation as resulting simply in a long, fulfilled life. 49 For Jan-
+zen, God's character as the one who overcomes sterility leads Jesus to infer
+resurrection in spite of the fact that the levirate marriage law itself essentially
+attests to the reality that God does not always overcome even sterility D °
+While it is true that ways can be found to resolve these tensions—e.g.,
+Janzen notes that "[retrospectively," the levirate marriage law could be
+viewed as a promissory sign of God's ultimate plan to overcome sterility
+and death 51 —it remains to be seen how Jesus could have expected the Sad-
+ducees to draw the correct analogies and inferences from these texts. To
+put the matter another way, why does Jesus rebuke them so harshly if his
+own argument is less than decisive?
+It could, of course, be argued that the desire for a reasoned proof unjustly
+imposes modern concerns onto an ancient text. Richard Hays, e.g., sug-
+gests that Jesus offers here not so much a logical proof as a reminder of
+God's power designed to serve as "a stimulus to the theological imagina-
+tion." 52 It is always possible, too, that Jesus' criticism is simply unjustified, or
+that his critique depends on some unmentioned factor such as his knowl­
+edge of the Sadducees' hardened hearts or the need for the Spirit's guidance
+in interpretation. Such proposals, however, should only come into consid­
+eration if a more logical explanation of Jesus' argument cannot be dis-
+3
+cerned.^ 1 suggest that paying greater attention to the idea of covenant in
+Jesus' argument both makes sense of his critique of the Sadducees and
+reveals his citation of Exod. 3:6 to be a reasoned proof of resurrection—a
+proof, that is, as long as one grants God the power to resurrect the dead.
+As Dreyfus and Janzen suggest, the key to understanding Jesus' proof seems
+to lie in the O T and N T contexts of the Exodus citation. In its original
+context, Exod. 3:6 introduces God's plan to deliver his people from their
+slavery in Egypt through Moses and the Exodus. Significantly, this burning
+bush episode is immediately preceded by the observation that God heard the
+groaning of his people and "remembered his covenant with Abraham, Isaac,
+and Jacob" (Exod. 2:24). By invoking the three names again in 3:6, the text
+indicates that the Exodus to which God is calling Moses arises out of God's
+faithfulness to his covenantal obligations to Abraham, Isaac, and Jacob.
+It is at this point that the N T context becomes significant. In the discus­
+sion of the first part of Jesus' response (12:25) above, I argued that Jesus
+criticizes the Sadducees for not inferring from the levirate marriage law
+that death ends a marriage covenant. D4 The same principle appears to ground
+this segment of his response, only in reverse. That is to say, if the death of a
+covenantal party effectively annuls the covenant, then the fact that the Exodus
+represents an act of God's faithfulness to his covenant with Abraham, Isaac,
+and Jacob must imply that the three patriarchs are in some sense still alive to
+God. Otherwise their deaths would have annulled the covenant.^ Just to
+be clear, it is not God's covenant with Abraham, Isaac, and Jacob that pre-
+serves their lives beyond physical death but their life beyond physical death
+that preserves the covenant. Jesus draws this implied conclusion: "He is
+not a god of dead people but of living" (12:27a). Luke makes the reasoning
+even more explicit by adding "for all live to him" (20:38). 56 With respect
+to God, human life extends beyond the death of the physical body. 5 "
+This argument, of course, only proves some kind of post-mortem existence,
+not resurrection. The proof therefore requires the presence of an implied
+conclusion, as Schwankl correctly observes. 58 In other words, the "conclu-
+sion" given in 12:27a functions only as a preliminary conclusion, a pre-
+liminary conclusion that then implies resurrection so clearly that, as often
+occurs in the rabbinic literature, the remainder of the argument goes
+unstated. How r does the rest of the argument go?
+Interpreters used to justify the jump from immortality to resurrection
+by appealing to the unity of human nature. H.B. Swete, for instance, argues
+that "God would not leave men with whom He maintained relations in an
+imperfect condition." 59 The continuing presence of these immortal souls
+apart from their physical bodies undermines this suggestion. Alternatively,
+N.T. Wright contends that the patriarchs' immortality necessarily implies
+a general resurrection because the two main Jewish understandings of the
+afterlife were 1) the Pharisaic, two-stage view in which an intermediate
+state was followed by bodily resurrection and 2) the Sadducean, no-stage
+view in which physical death marked the end of a person. Proving the
+existence of an interim state would therefore prove the Pharisaic two-stage
+view. 60 More promising because it does not require the prior assumption of
+a Pharisaic view of the afterlife is E. Earle Ellis's suggestion that "God's
+[covenantal] relationship to the dead presupposes that the relationship will
+be actualized by their deliverance from Sheol." 61 Although Ellis leaves his
+suggestion at this fairly vague level, the basic thrust seems correct.
+I propose that Jesus' argument runs as follows. Because it is based on
+God's faithfulness to his covenant with the patriarchs, the Exodus out of
+Egypt proves that the patriarchs are in some sense still alive to God, the
+conclusion drawn in 12:27a. But if they are still alive, then God remains
+obligated to fulfill all of his covenantal promises, one of which is to give
+the land of Canaan as an everlasting possession to the patriarchs (e.g.,
+Gen. 17:8; Exod. 6:4; Num. 14:23; Deut. 11:21) and their descendants. 62
+Indeed, the Exodus context of the verse that Jesus cites evokes this very
+promise: almost immediately after revealing himself as the God of Abra-
+ham, Isaac, and Jacob, Yahweh goes on to identify the giving of this prom-
+ised land as part of the motivation for the Exodus itself (Exod. 3:8, 17; cf.
+Gen. 15:13-16). For the patriarchs to receive the land personally as an
+everlasting possession, however, would presumably require their eventual
+resurrection. 63
+The purportedly Tannaitic proofs of resurrection in San. 90b provide
+parallels to this suggested logic: 64
+It has been taught: R. Simai said: Whence do we learn resurrection from the Torah?—
+From the verse, And I also have established my covenant with them, [sc. the Patriarchs]
+to give them the land of Canaan [Exod 6:4]: '[to give] you' is not said, but '[to give]
+them' [personally] ; thus resurrection is proved from the Torah
+Sectarians [minim] asked Rabban Gamaliel: Whence do we know that the Holy One,
+blessed be He, will resurrect the dead?... [Rabban Gamaliel did not satisfy them] until
+he quoted this verse, which theLordsware unto your fathers to give to them [Deut 11:21];
+not to you, but to them is said; hence resurrection is derived from the Torah. 6 "
+Although little is known of R. Simai, Rabban Gamaliel was a prominent
+rabbi who lived at the end of the first century. 66 According to Cohn-Sherbok,
+his reasoning here exemplifies Hillel's seventh exegetical principle, "the expla-
+nation derived from the context." 6 Of course, the attribution of this proof
+to Gamaliel could be apocryphal. Even if the attribution represents a later
+development, however, the type of reasoning nevertheless seems consistent
+with first-century Jewish exegetical practices. 68 The above interpretation of
+Jesus' argument thus places him squarely in his first-century context.
+I argued above that the Sadducees' basic scenario of a woman who is
+unable to bear children despite having seven lawful husbands essentially
+attacks resurrection on two fronts since resurrection is 1) more difficult
+than natural childbearing and 2) not prescribed in the Torah. Jesus responds by
+referring to God's fulfillment of his covenantal obligations in the Exodus
+(Exod. 3:6). By alluding to this event, he implies that the Torah does pre-
+scribe resurrection: 69 while God never promises that he will provide chil-
+dren through the levirate marriage law, he does promise to give the land of
+Canaan to the patriarchs and their descendants. This promise saw an initial
+fulfillment in the Exodus out of Egypt; its complete fulfillment will require
+the eventual resurrection of the patriarchs and their (deceased) descendants.
+If the Torah thus establishes resurrection as a component of God's
+intended plan, then the Sadducees' critique effectively amounts to little
+more than a questioning of God's power. The Exodus story itself, however,
+is the story of God's miraculous ability to overcome the seemingly insur-
+mountable obstacles that threaten the fulfillment of his promises. As the
+Lord explains in Exod. 6:6-8,
+I will bring you out from under the burdens of the Egyptians... and I will redeem you
+with an outstretched arm and with great judgments. And I will take you for my people,
+and I will be your God, and you will know that I am the Lord your God who brought
+you out from under the burdens of the Egyptians. And I will bring you into the land
+that I swore to give to Abraham, Isaac, and Jacob, and I will give it to you as a posses-
+sion. I am the Lord.
+Israel's Exodus out of Egypt demonstrates the lengths to which God is
+both able and willing to go in order to fulfill his covenantal promises. The
+God who sustains life beyond physical death, the God who delivered his
+people from the mighty Pharaoh through miraculous judgments and pro-
+vision, this God is surely capable of resurrecting the dead. Tlie Sadducees
+are thus mistaken because they do not understand God's power.
+I began this examination of Mark 12:18-27 by arguing that the Sadducees'
+proposed scenario functions as a trap. On a surface level, it points to a
+seeming conflict between the scriptural levirate marriage law and a belief
+in resurrection. On a deeper level, however, the very scenario itself, a sce-
+nario in which a woman and her multiple husbands are unable to "raise
+up" children despite the provisions of the Torah, represents an implicit
+denial of the more difficult "raising up" of resurrection. Any attempt to
+resolve the logistical difficulties of the presenting problem would presum-
+ably involve an acceptance of the scenario itself and, thus, its implicit cri-
+tique of resurrection.
+Jesus, however, manages to refute the Sadducees' critiques while also
+avoiding their trap. He first demonstrates that their perceived conflict
+between resurrection and the levirate marriage law rests on the Sadducees'
+misunderstanding of the very scripture that they cite: since the levirate
+marriage law requires that death annuls the covenantal bond of marriage,
+none of the woman's prior marital relationships would continue into the
+resurrected state. Jesus then addresses the implied critique, proving resur-
+rection through a citation of Exod. 3:6. If, as he has just demonstrated,
+death annuls a covenantal bond, then the fact that God initiates the Exo-
+dus out of Egypt on the basis of his covenant with the patriarchs must
+imply that they are still alive to God. In fact, the Exodus story itself dem-
+onstrates God's desire and power to fulfill his promise to give the land of
+Canaan to the patriarchs and their descendants, a promise whose fulfillment
+will ultimately require resurrection. The Sadducees have therefore also mis-
+understood God's power.
+Not only does this reading interpret Jesus' answer as a coherent whole that
+makes logical sense in both the first-century and modern contexts, it also
+reveals a response that coheres quite well with the presentation of resurrec­
+tion in other N T texts. I noted at the beginning of this article that current
+interpretations of Mark 12:18-27 often yield little if any theological reso­
+nance with the rest of the NT. On the one hand, the suggestion that Jesus
+here defines resurrection in terms of immortality renders his logic incom­
+patible with texts such as 1 Cor. 15:35-41 that clearly envision a bodily
+resurrection. On the other hand, the tendency for scholars to view Jesus as
+arguing from the fact of the patriarchs' continuing existence rather than
+the reason for their continuing existence renders his logic largely irrelevant
+once believers could point to Jesus' own resurrection. The interpretation
+offered in this article, in contrast, effectively resolves the theological dis­
+sonance that both of these readings create.
+First, as I argued above, Jesus' reasoning in Mark 12:24-27 does point
+to the future bodily resurrection of the patriarchs. The passage does not, of
+course, argue that resurrection is bodily, but such an argument is unneces­
+sary since it represents the underlying assumption inherent both in the
+language of "resurrection" and in the Sadducees' scenario. Indeed, my sug­
+gested analysis of Jesus' logic requires that "rising from among the dead"
+(εκ νεκρών άναστώσιν, 12:25) refers to bodily resurrection: if the patri­
+archs' current non-corporeal existence represents a resurrected rather than
+an interim state, then they would presumably have already undergone a
+death sufficient to annul God's covenant, and Jesus' whole argument
+would falter.
+The problem is that resurrection requires a death, but death annuls a
+covenant. To argue for resurrection based on God's covenantal faithfulness
+therefore requires a kind of preliminary death, a death sufficient to experi­
+ence resurrection, yet not so complete as to annul the covenant. In other
+words, Jesus' argument requires a person's continued existence in a non-
+corporeal interim state after physical death. The assumption of such an
+interim state then enables the following distinction: whereas physical
+death suffices to annul covenants (such as marriages) between physical
+beings, it cannot annul covenants with God since all people—not just the
+patriarchs—continue living with respect to God even after physical death
+(cf. Luke 20:38). "Resurrection" must therefore refer, as it always does, to
+the restoration of an embodied state.
+Second, the above analysis of Jesus' response suggests that he does base
+his proof of resurrection on the reason for—and not just the fact of—the
+patriarchs' impending resurrection. That is to say, he grounds his resurrec-
+tion belief in God's faithfulness to the covenant with the patriarchs. Far
+from being irrelevant, this principle represents a fundamental tenet of N T
+theology. In Gal. 3:15-18, for instance, Paul identifies God's covenant with
+Abraham and his "seed" as the reason for Jesus' receiving of the promised
+inheritance, an inheritance that his resurrection presumably indicates and
+enables (cf. Luke 1:55, 72-73; Acts 3:25-26; 7:2-53). Paul then goes on to
+state that his readers' own hope rests in their status as heirs of Abraham
+through Christ (3:29; cf. Heb. 2:16). The debates with Jewish leaders
+recorded in the N T concerning who constitutes a true heir of Abraham
+and his covenant (e.g., Matt. 3:7-10 / Luke 3:7-9; John 8:39-40; cf. Rom. 4)
+similarly attest to the theological importance of this principle.
+This brief analysis does not exhaust the theological implications of this
+passage and their resonances within the rest of the NT. ° For now, howe\^er,
+it must suffice simply to note that, in the reading proposed by this article,
+not only does Jesus refer to a bodily resurrection, but he also grounds his
+proof in the same theological understanding that emerges in the appeals to
+Jesus' own resurrection made by the early church. This reading of the logic
+in Mark 12:26-27a thus achieves coherence with the other N T portrayals
+of resurrection at precisely those points where it might be expected, points
+where more traditional interpretations have tended to see dissonance.

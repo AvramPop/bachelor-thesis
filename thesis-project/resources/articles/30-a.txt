@@ -1,0 +1,472 @@
+The language of the Apocalypse has long been the source of much confusion
+and dispute. Much discussed are the apparent grammatical infelicities or
+so-called solecisms in Revelation, as well as the larger question of the pre­
+cise nature of John's Greek. Most of the discussion has centered on whether
+the usage of Greek reflects incompetence on the part of the author of the
+Apocalypse, or whether it falls within the range of possible registers of the
+Greek of the 1st century, or whether it reflects significant Semitic influence,
+as a kind of Christianized, Jewish-Greek. 1 In the ensuing investigation I
+want to examine only one feature of the Apocalypse s grammar—the use of
+verb tenses in the visionary segments.
+One intriguing phenomenon of the Apocalypses visions is the manner
+in which the author employs a range of tense forms (present, imperfect,
+aorist, perfect, future) to depict the processes that form the narrative
+account (cf. e.g. 4:1-11; 5:1-14; 11:1-13; 13:1-18), apparently with refer­
+ence to the same temporal sphere. This shifting of tenses has not gone
+unnoticed. W. Bousset characterized the shifting tenses in the Apocalypse
+as "das regellose Schwanken." 2 S. Thompson also observed the "sudden
+and seemingly inexplicable shifts among aorist/present/future tenses of
+verbs... without a corresponding shift in the time during which the action
+being described actually takes place." 3 At least two prominent explanations
+(not unrelated) have been postulated as a means of accounting for the
+phenomenon of shifting tenses in Revelations visions. First, based on the
+assumption that Greek tenses primarily grammaticalize temporal relations
+(aorist, imperfect tenses = past; present tense = present; future tense =
+future), some think that Johns use of tenses reflects time in relationship to
+the visionary experience of the seer. G. Mussies insists that the tense usage
+in John s visionary segments is temporally motivated and reveals a pattern
+where the author commences with a past tense (aorist) to recount what he
+saw or heard in the past, followed by a cluster of present tenses which pro­
+vide "the life pictures of events and situations" and indicate "lively repre­
+sentation" as he recounts or relives his visionary experience in the present
+(the so-called "historical present"). 4 The present tenses, then, form a transi­
+tion to future tenses which convey the prophetic character of the vision—
+they predict future events. Consequently, the shifting of tenses is temporally
+motivated and is a reflection of the authors need to recount his apocalyptic
+visionary experience.
+Second, perhaps the most common theory is that John's tense usage
+reflects some level of Semitic influence. Given that Johns use of tenses does
+not appear to conform to the standard conception of Greek tenses (usually
+temporal, see above), several scholars have maintained that Johns "seem-
+ingly inexplicable" usage of tenses in his visions could be accounted for
+by assuming influence from the Biblical Hebrew tense system. Earlier,
+A. Lancellotti proposed a rational for Johns ostensible confused use of
+tenses in the timelessness of the underlying Hebrew tense system. 5 More
+recently, S. Thompson has attempted to provide an explanation for the
+"anomalous" use of the tenses in the Apocalypse by pointing to corre-
+sponding shifts in the LXX reflecting the underlying Semitic verbal sys-
+tem. 6 He illustrates this phenomenon by drawing attention to examples
+from Theodotion and the LXX (Dan. 4:31-32, 35; 7:26; Hos. 4:10) where
+the tense variations in the LXX and Theodotion are apparently based on
+corresponding shifts in the underlying Hebrew text.
+In light of some of the attention that the verbal system in the Apoca-
+lypse has garnered, in the rest of this paper I wish to analyze the usage of
+Greek verb tenses in one segment of Johns visionary portrayal, Revelation 5.
+In doing so I want to apply the results of recent research into the theory of
+verbal aspect, a theory that has not yet been systematically applied to the
+Apocalypse, as a potential tool for sorting out the shifting verb tenses in
+this discrete visionary segment. While grammarians traditionally have
+understood either time and/or Aktionsart (kind of action) as the primary
+feature grammaticalized in the verb tense endings, 7 there is now increasing
+recognition that the Greek verbal tense system is fundamentally an aspec-
+tual system. According to its major catalyst, S.E. Porter, verbal aspect is "a
+synthetic, semantic category (realized in the forms of verbs) used of mean­
+ingful oppositions in a network of tense systems to grammaticalize the
+author's reasoned subjective choice of conception of a process." 8 Or,
+"Aspects pertain... to the focus of the speaker with reference to the action
+or state which the verb describes, his way of viewing the occurrence and its
+make-up, without any necessary regard to the (actual or perceived) nature
+of the situation itself." 9 What is significant about these definitions is the
+recognition that Greek verb endings do not so much signify when the
+action occurred (time), or the way the action actually occurred (Aktion­
+sart), the main focus of traditional grammatical discussion, but rather how
+the author chooses to represent, view, or conceive of the process (aspect). That
+is, the author s perspective on a given process is the semantic feature gram-
+maticalized by the verb morphological endings, irrespective of time or
+Aktionsart. Porter proposes three primary aspectual categories or ways of
+viewing processes: action viewed as a complete whole; action viewed as in
+progress, as developing; action viewed as a state of affairs. These three
+aspects are grammaticalized by the aorist, present (imperfect), and perfect
+(pluperfect) tense forms respectively. 10
+While much of the work done on verbal aspect in the Greek New Testa­
+ment has necessarily been done at a theoretical level, what remains is to
+demonstrate how verbal aspect actually functions over stretches of N T
+discourse. 11 The application of aspect theory to the book of Revelation has
+not yet been systematically undertaken. Given the recent attention devoted
+to the Greek verbal system reconceptualized in terms of verbal aspect, the
+shifting tenses in the visionary segments of the Apocalypse provide poten­
+tially fertile ground for the application of aspect theory. It is the purpose of
+this paper to examine only one such visionary segment of Johns work,
+Revelation 5. After introducing this section with an aorist tense (είδον),
+the author employs a full range of tense forms (aorist, imperfect, present,
+and perfect) in both indicative and non-indicative moods throughout the
+12
+rest of his visionary construct. In particular, 5:7 has elicited a fair amount
+of commentary, where the author shifts from the aorist (ήλθεν) to the
+perfect (εΐληφεν), with grammars and commentators providing varying
+(sometimes conflicting) explanations for the seeming anomalous presence
+of the perfect form here. It is the contention of this analysis that verbal
+aspect can sufficiently explain Johns usage of the tenses in chapter 5, and
+that appeals to temporal values (Mussies) or underlying Semitic substrates
+(Lancellotti, Thompson) are unnecessary, raising the need for further
+application of verbal aspect to other sections of the Apocalypse.
+D.E. Aune has demonstrated that the dramatic scene in Revelation 5
+depicts the investiture of the Lamb (cf. Daniel 7; Ezekiel 1-2), where the
+Lamb is invested with the authority to open the scroll and divulge its con­
+tents (Rev. 5:7, 11-14). 13 Chapter 4 introduces key visual elements which
+will play integral roles throughout the remaining visionary segments: God
+who sits on the throne, the heavenly throne/temple, the four living crea­
+tures, and the twenty-four elders. Though G.K. Beale correctly observes
+that structurally the "scene in ch. 4 continues uninterrupted in 5:1," 1 4
+chapter 5 nevertheless exhibits several novel features: the scroll, the Lamb
+who was slain, and the transference of the scroll from God to the Lamb. In
+depicting the processes that make up this visionary drama, the author uti­
+lizes a full array of tense forms in his narration. 15
+How do we account for the author s propensity to shift between the vari­
+ous tenses throughout this vision? As suggested above, verbal aspect is now
+being recognized as a theory with explanatory power to account for the
+verbal structure of NT Greek. The tenses, or aspects, depict the author s
+conception of a process, irrespective of temporal relations or Aktionsart.
+Moreover, in addition to communicating the authors conception of a pro­
+cess, there is increasing recognition of the role verbal aspect can play in
+indicating levels of prominence in a discourse. There has been much inter­
+est recently in the concept of prominence (salience, foreground, emphasis)
+in discourse, a notion related to information flow, or how the status of
+information changes throughout a discourse. 16 Prominence can usefully be
+defined as the "semantic and grammatical elements of discourse that serv
+set aside certain subjects, ideas, or motifs of the text as more or less semantically
+and pragmatically significant than others? 11 In other words, rather than being
+flat, discourse exhibits peaks where certain entities in the discourse are set
+apart from others. 18
+Discourse analysts have suggested at least three levels of prominence in
+discourse. 19 Drawing ultimately on the language of Gestalt psychology,
+linguists make a distinction between background (ground) and foreground
+(figure) information. "The background includes events of lesser importance,
+subsidiary procedures, secondary points, descriptions, elaborations, digres-
+sions, and minor characters or things." 20 Foreground refers to those events
+or characters which are of major importance and which stand out against
+background material, signifying the information central to the authors
+purpose (theme). In addition, a third category, frontground, has also been
+suggested to refer to those linguistic elements that stand out unexpectedly
+in the discourse, and upon which the readers are called to focus special
+attention. 21
+Though there is much work to be done on determining what linguistic
+phenomena signal prominence in discourse, there is general agreement
+that verbal aspect can have as one of its pragmatic functions the creation of
+discourse prominence, 22 since prominence, like aspect, is concerned with
+different levels of perspective (background, foreground, frontground) on
+various elements in a given discourse. Thus, Porter conceives of the Greek
+verbal system as a coordinated system consisting of a series of semantic
+choices, with the aorist the least heavily marked choice and the present and
+23
+perfect representing more semantically significant choices. The aorist
+aspect, then, as the basic narrative tense, can be used to carry the story
+along and form the backbone of the narrative, or provide supporting mate­
+rial for the main thematic elements (background). By contrast, the present
+and imperfect aspects, which view the action as in progress, can function to
+select certain actions to dwell upon, or to draw attention to thematic mate­
+rial (foreground). Finally, as the more semantically marked aspect the per­
+fect aspect (and pluperfect), which conceives of the action as a state of affairs,
+can function to draw attention to selected events or actions in the dis­
+course that stand out unexpectedly (frontground). While it cannot be con­
+cluded that the aspects always function in this manner, a common
+pragmatic use of aspect can be to demonstrate various levels of discourse
+prominence.
+As observed above, past scholarly attempts to account for the shifting verb
+tenses in the Apocalypse s vision have commonly appealed to temporal
+shifts or ostensible Semitic influence. However, it seems to me that the
+shifting aspects in Revelations visions provide fertile ground for the appli­
+cation of aspect theory in terms of how the aspects function to communi­
+cate the author's perspective on the processes and how they potentially
+function to structure the discourse and indicate levels of prominence. The
+following analysis will give particular attention to how the author s choice
+of verbal aspect serves to shape the discourse in Revelation 5. The ensuing
+comments will extend to both indicative and non-indicative verbal forms.
+Beginning with the background aorist aspect, the vision in Revelation 5
+commences in v. 1 with the aorist ειδον which serves to introduce and
+24
+summarize John s vision. Its recurrence in 6:1 (είδον), then, functions to
+frame a discrete visionary segment. However, είδον occurs three additional
+times in this chapter (w. 2, 6, 11 [είδον καί ήκουσα]) to mark a change of
+scene or focus in the visionary narrative. 25 Thus, the aorist είδον functions
+to introduce the vision as a whole, as well as to introduce and summarize
+new scenes, marking out the main units of the vision (5:1,2-5,6-10,11-14) , 26
+Other verbs in the aorist also serve to carry the narrative along and indicate
+background information. The basic dilemma in the visionary drama, that
+no one is found who is worthy to open the book, is indicated by aorist
+tenses (άνοιξαι, λΰσαι, ευρέθη, w. 2-4); they serve to summarize these
+actions and move the story along. Aorist tenses also occur in w. 5-10 with
+the introduction of the Lamb, where the Lamb's activity of overcoming
+(ένίκησεν, v. 5) for the purpose of opening (άνοιξαι, v. 5) the book is sum­
+marized (the frontgrounding perfect aspect is reserved for the actual
+appearance of the Lamb in v. 6, see below). The Lambs initial approach
+(ήλθεν) to the throne of God in v. 7 is also summarized using the back­
+ground aorist aspect.
+The response of the four living creatures and twenty four elders of fall­
+ing down (έπεσαν), as well as the reason for their response, the Lamb tak­
+ing (ελαβεν) the book, are both summarized in the background aorist
+aspect in v. 8. The content of the song they sing in w. 9, 12 likewise recalls
+the fact that the Lamb is worthy to receive (λαβείν, recalling the aorist
+ελαβεν in v. 8) and to open (άνοιξαι) the book. I will return to a discus­
+sion of the aorist forms of λαμβάνω in discussing the perfect tense in Rev­
+elation 5, since it is in v. 7 that the author, in the midst of aorists, abruptly
+switches to the perfect aspect. The basis (οτι) for the acclamation of the
+Lamb s worthiness is indicated in a subordinate clause with three verbs in
+the background aorist aspect, depicting the activities of being slain
+(έσφάγης), purchasing (ήγόρασας), and making (έποίησας) the nations
+priests (cf. 1:6). 27 All three verbs function as supporting the assertion of the
+Lamb s worthiness, thus the suitability of the background aorist aspect.
+The aorist ήκουσα then summarizes what John heard in v. 13, and two
+background aorists, έπεσαν and προσεκυνησαν, summarize the physical
+response of the twenty-four elders (v. 14).
+Consequently, the aorist tense functions to summarize the authors
+vision (ειδον), serving to introduce the vision as a whole and mark out
+discrete units within it. The background aorist is also utilized, not as a
+temporal indicator of past time {contra Mussies), but to summarize key
+events and provide the backbone of the narrative, and to indicate support­
+ive material, such as the reason for the Lambs worthiness.
+In contrast to the background aorist tense, the present and imperfect
+tenses occur throughout the vision to add descriptive color and highlight
+or foreground certain events and features. By utilizing the aspect which
+views the action in progress the author dwells on the action in more
+descriptive detail. 28 The present participle καθήμενου serves to characterize
+the one seated on the throne in w. 1, 7, 13, and recalls the description in
+4:2, 3, 9 also using the present participle as descriptive of God, thus estab­
+lishing cohesion within the discourse. Moreover, the preaching of the angel
+is foregrounded when the author uses the present participle κηρύσσοντα in
+v. 2 to draw attention to the strong angels speech. 29 Furthermore, the
+remaining speeches and hymns spoken/sung by the elders and living crea­
+tures are all prefaced by verbal forms in the present tense (λέγει in v. 5;
+αδουσιν and λέγοντες in v. 9; λέγοντες in v. 12; λέγοντας in v. 13) which
+serves to introduce the speeches and hymns, all an integral feature of chap­
+ter 5. Thompson claims that the present participle λέγοντες/-ας in the
+Apocalypse is a Semitism, representing the infinitive contruct Ί1ΏΚ*λ 30
+However, as Porter has demonstrated, based on secular Greek parallels, this
+participle form is at best "a well-accepted Greek idiom enhanced by the
+LXX." 31 The appearance of the present here can be accounted for by verbal
+aspect. The present tense which introduces these hymns functions to high­
+light these songs since they play a crucial role in liturgically interpreting
+the significance of the focal event of the Lamb's reception of the scroll in
+v. 7 (see below): it is an investiture of the Lamb with authority. Thus, the
+speech in v. 5 announces the main figure, the Lamb, while w. 9-10 and
+w. 11-12 celebrate the Lambs reception of the scroll (authority) in v. 7,
+the central event of the visionary narrative, a scene capped with a doxology
+sung by the entire cosmos in w. 13-14.
+The present tense appears twice in infinitive form, βλέπειν, paired with
+the aorist infinitive άνοιξαι in w. 3 and 4. Mussies notes that the usual
+pattern in Revelation is present-aorist infinitive, but observes the reverse
+case (aorist-present) here in 5:3, though without offering any explanation
+for the apparently divergent order. 32 G. Osborne contrasts the two actions
+in terms of a single opening of the book (aorist) followed by a careful
+perusal (present) of its contents. 33 Osborne's conception, however, is too
+dependent on an Aktionsart model for Greek tenses (point action vs. dura­
+tive action). 34 Rather, aspectually the switch to the present suggests that
+the author chooses to draw more attention to the act of looking into the
+contents of the scroll as the more salient activity of the pair, with the activ­
+ity of opening the book in the aorist forming the background for the act of
+looking into it. Three participle forms also occur in the present tense within
+this stretch of discourse to foreground important descriptive visionary fea­
+tures. In v. 6 the Lamb is described as possessing (έχων) seven horns, 35
+while in v. 8 the twenty-four elders, prior to their act of singing, are
+described as having (έχοντες) lyres and golden bowls. Further, the bowls
+are depicted as being full (γεμούσας) of incense. In v. 10, as a result of
+being redeemed (v. 9) and being made kings and priests, the saints reign
+(βασιλεύουσιν), the primary reward for the martyrs (20:4; 22:5). Thus,
+the present aspect is utilized to highlight certain processes or descriptive
+features of main characters or elements in the vision.
+Further, though the imperfect tense is comparatively sparse in the Apoc-
+alypse, it occurs three times in this chapter. 36 First, the inability of anyone
+to open çhe book is depicted in v. 3 with an imperfect tense form (έδύνατο),
+while the seer s response to this in v. 4 is likewise depicted with an imper­
+fect form (εκλαιον). 37 The angel then commands John not to weep in a
+corresponding imperfective (present) imperative, μη κλαίε. 38 Finally, fol­
+lowing the hymn sung by all creation in v. 13, the final responsory word
+from the four living creatures (Αμήν) is introduced by a verb of speaking
+in the imperfect tense (ελεγον). According to Porter, the imperfect tense,
+as a more heavily marked form than the aorist, occurs as the foreground
+narrative tense. Based on Porter s analysis, Aune concludes that the imper­
+fects in w. 3-4 serve to foreground these aspects of the episode over against
+the background aorists. 39 Thus, along with the presents, in depicting the
+action as in progress the imperfects contrast with the aorists to select cer­
+tain activities to describe and highlight. Yet as the tense which also gram-
+maticalizes the semantic feature of "remoteness," the imperfects are less
+marked than the presents, yet in contrast with the aorist they function to
+foreground certain processes. 40 In summary, the present and imperfect
+tenses, which grammaticalize aspectually imperfective action, serve to
+highlight certain events (e.g. the speech of the heavenly beings) and func­
+tion to add descriptive color in the visionary narrative. 41
+The perfect tense form is also conspicuous throughout Johns visionary
+portrayal, viewing different processes as existing states. The perfect tense,
+in semantic opposition to the aorist and present (and imperfect) tenses,
+serves to focus attention on certain (frontground) elements of the discourse
+as more well-defined and contoured, and which stand out unexpectedly
+within the visionary narrative. Yet the perfect aspect is not used indis­
+criminately, but serves to structure the discourse in significant ways. Except
+for its occurrence in an indicative verb in v. 7 (see below), the perfect
+occurs with participles which cluster around the two most significant
+features of the vision introduced in two of the discreet units of the vision
+(w. 1,6): the scroll and the Lamb. In v. 1 the introduction of the βιβλίον
+is achieved with two perfect participles which highlight the significant
+characteristics of the scroll: γεγραμμένον, κατεσφραγισμένον. 42 The writ­
+ten contents of the scroll are sealed from human consumption, causing the
+subsequent dilemma in w. 3-4 and anticipating its solution (w. 5-7).
+Perfect participles recur again in v. 6 to describe the second main visual
+feature, the Lamb (άρνίον), as in the state of standing (έστηκός) and being
+slain (έσφαγμένον), the latter description occurring again of the Lamb in
+the hymnic section in v. 12 (έσφαγμένον). Moreover, the eyes of the Lamb,
+which are identified as the seven spirits, are also described with a perfect
+participle (απεσταλμένοι). The fact that the Lamb has already been intro­
+duced in v. 5 does not contravene its treatment as a frontground element
+here. The Lamb who will overcome has already been mentioned in the
+elders speech in v. 5 (what John hears), with verbs in the aorist summariz-
+ing his activity. However, though John is told about the Lamb in v. 5, the
+Lamb s actual appearance is delayed until w. 6-7; now with the appearance
+of the Lamb (what John sees) the perfect tense is utilized to frontground
+the main character of the vision, the Lamb. 43 The function of the perfect
+participles, then, is to frontground important features of the elements/
+characters that are introduced for the first time and play the most significant
+role in chapter 5: the scroll and the Lamb. Scholars have typically per-
+ceived the worthiness of the Lamb to open the scroll to be the "centre de
+la présente vision." 44 According to Aune, "The sealed scroll and the Lamb
+constitute the narrative focus of Rev. 5." 45 This observation receives lin-
+guistic corroboration from the author s use of the frontground perfect
+aspect to introduce and characterize these paired features of the visionary
+narrative.
+The occurrence of the perfect aspect of εϊληφεν in v. 7 has been the subject
+of some discussion and requires extended comment. 4 6 Thompson thinks
+that it is probably the result of Semitic influence, though he gives no ratio­
+nale for this. 47 Mussies, followed by a number of other commentators and
+grammarians, endorses the view that εϊληφεν purportedly constitutes an
+example of what grammarians commonly label an "aoristic perfect," that
+is, a perfect tense in narrative whose perfective force has been significantly
+diminished or neutralized. 48 In this case the perfect functions as a "simple
+narrative tense to report past occurrences without attention paid to the
+present consequences." 49 At least three reasons exist as to why scholars
+think that this is the case: 1) the aorist and perfect tense forms were appar­
+ently being confused by this time (lack of reduplication; similarity of end­
+ings [cf.—καν]); 50 2) the perfect tense is utilized in tandem with the aorists
+within the same contextual framework (temporal), suggesting similarity of
+meaning; 3) a semantic distinction between the aorist and perfect tense is
+imperceptible in idiomatic English translation. 51 Nevertheless, the follow­
+ing observations mitigate the force of these arguments. First, though
+εϊληφεν could be the result of a confusion of aorist and perfect forms, the
+fact that John utilizes the aorist form of λαμβάνω three times in 5:8, 9, 12
+(ελαβεν, λαβείν), as well as elsewhere in Revelation (3:11; 4:11; 6:4; 10:8,
+9, 10; 17:12; 18:4; 20:4; 22:17), suggests that the author uses the perfect
+form intentionally here, making confusion with the aorist improbable. 52
+Second, the usage of the perfect alongside aorist tenses may just as easily
+indicate a semantic distinction rather than similarity in meaning; the fact
+that both aspects are used in identical temporal contexts does not justify
+the conclusion that they are semantically identical. Finally, just because an
+English translation (or any other target language) fails to distinguish the
+perfect tense in translation does not justify the conclusion that the seman­
+tic force of the perfect has been diminished or neutralized. 53
+Several others assert that the authors use of the perfect in 5:7 is indeed
+deliberate. Following H.B. Swete, S.S. Smalley, in his recent commentary
+on the Greek text of Revelation, suggests that the perfect in 5:7 may indi­
+cate realistic action, apparently due to an assumed rhetorical temporal
+54
+transfer of the presumed present results of the perfect tense. This seems
+also to be the approach of A. T. Robertson who postulates that 5:7 is an
+example of a "Dramatic Historical Present Perfect," which indicates "an
+action completed in the past... conceived in terms of the present time for
+the sake of vividness." 55 This construal of the perfect, however, is overly
+dependent on temporal notions and requires postulating an otherwise
+unspecified temporal shift. H. Giesen proposes that εϊληφεν indicates that
+the book should be understood "als bleibende Gabe." 56 Giesens concep­
+tion of the perfect as indicating "bleibende Gabe," however, is likewise
+overly dependent on a temporal understanding of the perfect tense: a past
+action with ongoing results in the present. Problematic for both of these
+explanations is that, as suggested above, the perfect aspect grammaticalizes
+the conception of the process as a state of affairs, but does not indicate
+whether the state is temporally perpetuated (abiding) or not.
+A more plausible assessment is to analyze the perfect εϊληφεν in light of
+verbal aspect and its potential function within this discourse, especially in
+relation to the other aspects. As the frontground aspect the perfect εϊληφεν
+functions here to focus attention on the process of the reception of the
+scroll. As most treatments of Revelation 5 almost intuitively recognize, the
+center of the action seems to be the Lambs reception of the scroll (author­
+ity) from the one seated on the throne. This assessment receives linguistic
+justification in the authors usage of verbal aspect. At the juncture where
+the crucial transition takes place, the author chooses the frontground per­
+fect aspect εϊληφεν to highlight the transfer of the scroll from the hand of
+God to the Lamb as the central narrative event (the approach to the throne
+[ήλθεν] is the background feature to this event). 57 Once the transition
+occurs, the author then switches back to the background aorist tense of the
+same verb ελαβεν (v. 8) and βαλειν (w. 9, 12) to recall and summarize
+what has taken place. 58 As Aune states, "the act of 'taking' or 'reception'
+(εϊληφεν) of the scroll from the right hand of God (v. 7) signifies the 'recep­
+tion (λαβείν) of the honors mentioned in v. 12: power, wealth, wisdom,
+might, honor, glory, and praise." 59 Thus, the focal activity of the visionary
+discourse is marked with the frontgrounding perfect aspect in v. 7, an
+event which is subsequently celebrated liturgically in w. 9-14. This also
+confirms linguistically Aunes assessment of chapter 5 as "the investiture of
+the Lamb."
+In summary, in contrast to the aorist and present aspects the perfect
+aspect performs an important discourse function of frontgrounding new
+and discrete elements within the discourse which are introduced for the
+first time and which play a key role in the vision: the sealed book and the
+slain lamb. The perfect aspect also serves to highlight the activity which is
+central to the narrative: the transfer of the book from the hand of the one
+who sits on the throne to the Lamb; indeed it is this transfer of the book
+(authority) to the Lamb which sets the stage for the liturgical celebration
+of this act in the remainder of the vision.
+The purpose of this article has been to demonstrate that the shifting of
+verbal aspects in Revelation 5, far from being "regellos," confusing, or
+inexplicable, plays an integral role in structuring the visionary segment. I
+have attempted to demonstrate that the author shifts aspects throughout
+his visionary narrative, not to signal temporal shifts which reflect his
+visionary experience (Mussies), nor because of Semitic intervention
+(Thompson), but to indicate his perspective on the processes and to signal
+discourse prominence. Therefore, the aorist aspect (ειδον) is utilized to
+introduce and summarize the vision as a whole and to mark out discrete
+units within the vision. Within each unit the aorist serves to background
+various features of the vision as the basic narrative tense and to carry the
+narrative along. By contrast, within each unit the present and imperfect
+aspects, against the backdrop of the aorist, function to highlight particular
+actions that the author wants to dwell on (looking into the scroll; reigning)
+and which add descriptive color to the vision (the one seated on the throne;
+the Lamb having seven eyes; the elders having gold bowls which are full of
+incense) as well as to introduce the liturgical speeches of the various heav­
+enly creatures which effectively serve to interpret the significance of the
+Lamb's reception of the scroll. The perfect aspect, then, is reserved for ele­
+ments of the vision that stand out unexpectedly—the book which is writ­
+ten on and sealed; the Lamb who stands and was slain and whose eyes are
+the seven spirits sent out into the earth. The perfect aspect is also reserved
+to highlight the most significant and pivotal activity in the vision—the
+transfer (εϊληφεν) of the scroll (authority) from the hand of God to the
+Lamb (v. 7) which is celebrated liturgically in w. 9-12.
+Two important conclusions can briefly be drawn more broadly from the
+preceding analysis of verbal aspect in Revelation 5. First, at least for Reve­
+lation 5, verbal aspect functions in a similar way as elsewhere in the NT. 6 0
+According to Mussies (see above), the shifting tenses should be construed
+temporally, as a reflection of the apocalyptic genre and the seer's experi­
+61
+ence. However, first, the pattern of tenses in Revelation 5 does not easily
+conform to the pattern discerned by Mussies, where the aorist tense com­
+mences the vision, followed by presents, and then concluding with future
+tense forms. As seen above, the various tenses appear distributed through-
+out the entirety of the vision. Second, due the manner in which the author
+shifts tenses throughout the vision, it is highly doubtful that the readers are
+meant to so rapidly shift temporal spheres of reference. 62 In this visionary
+segment of the Apocalypse, rather than indicating time or Aktionsart, ver-
+bal aspect functions to depict the author's perspective on the action and to
+signal prominence in the discourse. 63 More work remains to be done on
+other visionary segments in Revelation which shift aspects to demonstrate
+how aspect serves to indicate the author's conception of processes, and to
+show how aspect structures discourse. But at least for Revelation 5, the
+Greek verb tenses of this visionary segment comport well with the seman-
+tics of the Greek verbal system in terms of verbal aspect.
+Second, the results of this study also make a modest contribution to the
+debate regarding the nature of Revelation's Greek. The conclusions from
+the preceding analysis suggest that at least for Revelation 5 it is unneces-
+sary to postulate an underlying Semitic substructure to account for John's
+tense shifts (e.g. Charles, Lancellotti, Thompson). When the Greek tenses
+in John's visionary depictions are no longer evaluated from a temporal
+perspective, but are rather construed as indicating verbal aspect, it is no
+longer necessary to appeal to Semitic intervention to account for the osten-
+sible "irregularities" in tense usage. Thompson regards the shifting tenses
+in Revelation as "inexplicable from a Greek viewpoint," 64 by which he
+must mean a strictly "temporal" viewpoint. But as argued above, John's
+usage of verbal aspect in chapter 5 coheres with what is found elsewhere in
+the N T in depicting the author's perspective on a process and at times
+establishing prominence within the discourse. And particularly in narra-
+tive, such tense shifts are not uncommon elsewhere in the NT. 65 Though
+further analysis is required on other visionary segments, given the above
+analysis, this would appear to substantiate Porter's claim that the utiliza-
+tion of the verbal system in the Apocalypse falls well "within the range of
+possible registers of Greek usage of the 1st century." 66 Thus, for Revelation
+5 the burden of proof lies with those who would postulate Semitic influence
+in John's shifting of verb tenses. 67 I have tried to show that verbal aspect
+plays a more important role in structuring the visionary segment as a
+whole.

@@ -1,0 +1,274 @@
+Έάν μή in Gal. 2:16 sat on the sidelines of debates in Pauline studies until
+James Dunn challenged the traditional understanding of 2:16a, that justi­
+fication is by faith, not by works of the law. Some scholars, following
+Dunn's lead, now interpret the first part of the verse to mean that one
+could be justified by works of the law as long as these works are accompa­
+nied by faith in Christ. 1 The difference in interpretation hinges on έαν
+μή. The verse reads, είδότες [δε] δτι ου δικαιούται άνθρωπος εξ έργων
+νόμου εάν μή δια πίστεως Ίησοΰ Χρίστου, και ημείς εις Χριστόν Τησοΰν
+έπιστεύσαμεν, ίνα δικαιωθώμεν εκ πίστεως Χρίστου και ούκ εξ έργων
+νόμου, οτι εξ έργων νόμου ου δικαιωθήσεται πάσα σαρξ.
+The two traditional views are that έαν μή is adversative or that it is
+exceptive only of the principal part of the statement, namely, ού δικαιούται
+άνθρωπος. 2 If έαν μή is adversative in Gal. 2:16, it sets έργα νόμου and
+πίστις Χρίστου in antithesis. The idea then is that one is not justified
+through works of the law but only through faith in Jesus Christ. On the
+other hand, if έαν μή is exceptive only of the main point, Paul says that one
+is not justified at all except by faith. The two views differ more in emphasis
+than essence, and both are consistent with 2:16b.
+Dunn, however, reads έαν μή as exceptive of the entire preceding state­
+ment, ού δικαιούται άνθρωπος έξ έργων νόμου, so that justification is not
+by works of the law unless faith in Christ attends the works. Dunns view
+has the advantage that έαν μή is normally exceptive of the entire statement
+preceding (or, in some cases, following) it. The most obvious problem with
+this understanding in Gal. 2:16, however, is that it contradicts the rest of
+the verse. Verse 16 would first say that the law justifies so long as there is
+faith and then reverse itself to say that faith justifies and works of law do not.
+To handle this problem, Dunn proposes that the difference is purposeful
+because Paul is recording the changes his understanding of justification
+underwent as he spoke to Peter. 3 As a result, justification by faith in Christ
+and justification through works of the law "[which] were initially juxtaposed
+as complementary [in 2:16a], are now posed as straight alternatives [in
+2:16b] ." 4 However, if Paul only apprehended mid-sentence that justification
+is unrelated to works of law, why did he begin to rebuke Peter in the first
+place? At that time he had not yet realized the flaw in Peter s thinking.
+William Walker, Jr., who is convinced that Dunn has properly under-
+stood the grammatical use of έαν μή as exceptive of the entire preceding
+clause, supplies in brackets a clause he believes to be an ellipsis in the verse.
+He translates, " . . . knowing that a person is not justified by works of law
+([a person is not justified] except through faith in Jesus Christ), we also have
+come to faith in Christ Jesus in order that we might be justified by faith in
+Christ and not by works of law, because by works of law no one is justified." 5
+This additional clause preserves both the common grammatical function
+of εάν μή and the consistency of Paul's thought. However, if έαν μή could
+only relate to a clause in its entirety, Paul elided more than he could afford
+to because he would necessarily be understood exactly as Dunn has under­
+stood him.
+Although I believe that other scholars have rightly criticized Professor
+Dunns analysis, I have not found in their criticisms the grammatical evi­
+dence necessary to support other positions. Έαν μή as exceptive of an
+entire statement is the rule both inside and outside the NT. If Paul does
+not use it as exceptive of the whole preceding statement (including εξ
+έργων νόμου) in 2:16, does the grammar of his time permit him the options
+scholars suggest? Out of approximately fifty occurrences of έαν μή in the
+NT, Andrew Das found John 5:19 and 15:4 to use it adversatively. 6 And
+aside from Gal. 2:16 I found no additional candidate in the N T for either
+traditional category. In fact, in most cases the statement έαν μή qualifies
+cannot be divided into two or more components to allow either contrast
+with or exception to a single part. This adds to the scarcity of such exam­
+ples outside the N T as well. But such examples do exist. In this article I
+intend to fill in the gap in the literature by citing examples to support both
+of the traditional positions and then to show that έαν μή in Gal. 2:16 best
+fits the adversative category.
+Plutarch's Moralia contains an example of έαν μή that excepts only the
+principal part of a statement. In De cohibenda ira ("On the Control of
+Anger") Fundanus explains to Sulla that anger fills the soul with confusion
+and noise so that the soul cannot see or hear what might help it. A ship
+abandoned at sea in the midst of a storm has a better chance of taking on
+board a pilot from the outside than a man tossed by anger has of admitting
+the reasoning of another unless (αν μή) he had prepared his own powers of
+reason to receive it. So an angry man who had previously prepared himself
+to listen to reason is an exception to the rule that angry men close their ears
+to reason, and αν μή here is clearly exceptive. Seeing the way αν μή func­
+tions in this sentence is necessary for understanding the role of έαν μή a
+few lines later.
+Fundanus continues by saying, ουδέ γαρ ακούει των έκτος ή ψυχή δια
+τον θόρυβον, έαν μή καθάπερ κελευστήν ενδοθεν έ'χη {Moralia 454Α).
+W.C. Helmbold translates, "For the soul hears nothing from the outside
+because of its tumult [the noise inside] unless it has its own reason within."
+If έαν μή were exceptive of the entire statement preceding it, it would
+mean that if the soul has its own reason, it hears from the outside because
+of the noise inside—clearly not Plutarch's point. If έαν μή were adversative,
+it would mean that "the soul hears nothing from the outside (because of its
+noise), but it has its own reason within," which denies the possibility of ever
+hearing from the outside when there is noise inside. But the statement a
+few lines earlier (with the exceptive αν μή) allows the possibility that an
+angry man could accept another's reason if prepared to do so. Therefore,
+also, Plutarch does not set "noise" and "reason" in antithesis since he acknowl­
+edges that they may co-exist. Έαν μή here is exceptive of the principal part
+of the sentence: Plutarch says that noise prevents the soul from hearing
+what is outside except in the case that the soul has kept its reasoning power
+within itself.
+Other examples exist having the form "X cannot be done otherwise
+(άλλως) except by Y." Origen, for instance, writes of people who are persuaded
+that μή άλλως οίκειωθήναι δύνασθαι τω θεώ, έαν μή και δια σωφροσύνης
+άναβώσι προς αυτόν. 8 Frederick Crombie translates, "they cannot otherwise
+have communion with God, unless they ascend to Him through the exer-
+cise of temperance." 9 If έαν μή were exceptive of the entire preceding state­
+ment, it would mean that people have other ways to commune with God
+while they commune with him by temperance, which is not the author's
+point. In addition, because Origen does not contrast temperance with a
+specific or significant alternative but only with "otherwise," έαν μή does
+not set up a meaningful adversative relationship. Instead the quote is
+equivalent to "they cannot have communion with God unless they ascend
+to him through the exercise of temperance," which simply omits "other­
+wise" from the original. Therefore it seems best to classify έαν μή in this
+example as exceptive of the main part of the preceding statement. 10
+Origen supplies another example in his commentary on Matthew. He
+suggests that Jesus worked miracles so that οι μή άλλως πιστεύοντες, έαν
+μή ΐδωσι σημεία και τέρατα, πιστεύσωσι. 11 John Patrick translates, "those
+who would not otherwise have believed unless they saw signs and wonders
+might believe." 12 Here Origen writes of people who would not have believed
+in Christ without signs and wonders. Again, he does not say that if the
+people saw signs and wonders they would believe on some basis other than
+signs and wonders, and thus έαν μή is not exceptive of "those who would
+not otherwise have believed." And again, έαν μή does not set up a meaningful
+adversative relationship. Instead Origen says that some people would believe
+only on the basis of signs and wonders, and έαν μή is exceptive of "those
+who would not have believed," i.e., the principal part of the statement.
+Epictetus in his Encheiridion says, άλλως δε ούχ οίον τε τοΰτο γίνεσθαι,
+έαν μή αρης από των ουκ έφ' ήμίν καί έν τοις έφ' ήμίν μόνοις θής το αγαθόν
+και το κακόν (31.2). W.A. Oldfather translates, "But this result [of piety
+toward the gods] cannot be secured in any other way [άλλως] than [έαν
+μή] by withdrawing your idea of the good and the evil from the things
+which are not under our control, and placing it in those which are under
+our control, and in those alone." 13 The same argument applies here as to
+the examples from Origen. Epictetus does not say that if people apply the
+idea of good and evil only to things under their control, then they will
+secure piety some other way. Nor does he set up a contrast. Therefore, έαν
+μή can be neither adversative nor exceptive of the entire preceding state­
+ment. The author says, rather, that people only obtain piety by changing
+their idea of good and evil. Thus έαν μή excepts the preceding statement
+minus άλλως.
+These examples show έαν μή as exceptive of the main clause minus the
+phrase δια τον θόρυβον in Plutarch and minus the word άλλως in Origen
+and Epictetus. Although I do not believe the έαν μή as a partial exception
+is the best fit for Gal. 2:16, these examples do show that that interpretation
+cannot be ruled out a priori.
+Andrew Das cites two examples of adversative έαν μή in the NT. John 5:19
+says, ού δύναται ό υιός ποιείν αφ έαυτοΰ ουδέν έαν μή τι βλέπη τον πατέρα
+ποιοΰντα. Das translates, "the Son can do nothing on his own, but only
+what he sees the Father doing." 14 Das argues that έαν μή does not offer an
+exception to the entire preceding statement as if the Son could do some­
+thing on his own as long as he sees the Father doing it. Instead John pits
+"the Son doing nothing" against "the Son doing something." John 15:4 is
+similar when it says, το κλήμα ού δύναται καρπον φέρειν αφ" έαυτοΰ έαν
+μή μένη έν τή άμπέλω. ("The branch cannot bear fruit by itself but only
+[as] it abides in the vine" [my translation].) Here again έαν μή does not
+give an exception to the entire preceding statement but contrasts "by itself"
+with "abiding in the vine." 15
+Das does not consider that έαν μή might be exceptive only of the main
+point, so we consider it now. 'Εάν μή in John 5:19 and 15:4, if exceptive
+of the main point, would mean "the Son can do nothing except what he
+sees the Father doing" and "the branch cannot bear fruit unless it abides in
+the vine," respectively. Both make good sense. However an exceptive inter­
+pretation renders "on his own" in John 5:19 and "of itself " in 15:4 superfluous
+and thus loses the emphasis clearly intended in the text. Έαν μή, therefore,
+is better understood here as adversative.
+Uses of adversative έαν μή exist also in the Greek of Paul's time outside
+the NT. Origen quotes John 5:19, complete with αφ'έαυτοΰ, as in Das's
+example. 16 More significantly, in his Commentary on Matthew, Origen uses
+adversative έαν μή when he says, Δοκει δέ μοι, δτι ώσπερ έπι των σωματικών,
+οΰτε αυτάρκης γεωργία προς συγκομιδήν καρπών, έαν μή το περιεχόμενον
+εις τοΰτο συνεργή. 1 ^ John Patrick translates, "Now it seems to me that, as
+in the case of material things, tillage is not sufficient in itself for the gather­
+ing in of the fruits, unless the air cooperates to this end." 18 Origen is not
+saying that if the air cooperates with the tillage then the tillage is sufficient
+by itself, i.e., without the cooperation of the air, for growing crops. There­
+fore, έαν μή is not exceptive of the whole of the prior statement. In addition,
+if Origen had omitted "of itself," the gist of his statement would remain
+intact; but, as in the case of the N T examples, it would lose its emphasis.
+Origen contrasts tillage by itself with tillage in combination with the air, as
+the context verifies. Therefore έαν μή as adversative is preferable to έαν μή
+as exceptive of only the main part of the leading statement.
+A third example is from Origen's Against Celsus. When Celsus fails to
+see the reason for the coming of the Son of God, he explores whether it
+might be for the purpose of making people better. Then he objects, ~Ap*
+ούχ οίον τε αύτω δυνάμει θεία έπανορθοΰν, έαν μή φύσει τινά έπι τοΰτο
+πέμψη; 19 Frederick Crombie translates, "Is it then not possible for him
+[God], by means of his divine power, to make (men) better, unless he send
+some one for that special purpose?" 20 Again, έαν μή is not exceptive of the
+entire previous statement. Otherwise, it would say that if God sent some­
+one to improve humanity, he could then improve them directly by his
+divine power, i.e., without anyone else's involvement—a self-contradictory
+statement. Instead, with adversative έαν μή, Celsus sets God's use of direct
+divine power against his sending someone to accomplish his purpose.
+Clement of Alexandria uses έαν μή similarly when he says, ού γαρ μόνον
+ή εύνουχία δίκαιοι, ουδέ μήν το του ευνούχου σάββατον, έαν μή ποιήση
+τάς έντολάς. 21 John Ferguson translates, "To be a eunuch does not of itself
+make a person righteous, still less the eunuch's keeping of the sabbath, unless
+he performs the commandments." Simply becoming a eunuch would not
+guarantee a man a righteous standing: for this he must also keep the com­
+mandments. By means of έαν μή, Clement contrasts "of itself" with "[also]
+performs the commandments," a contrast comparable to those in the pre­
+vious examples.
+Dionysius of Halicarnassus provides an earlier example of adversative έαν
+μή in Roman Antiquities 10.31.5 when he says, τοις δ" άρα πασιν ή ν ταύτα
+κατ' αρχάς δεδογμένα μήτ είσηγήσασθαί τίνα καινον πολίτευμα μηθέν έφ*
+έαυτοΰ βαλόμενον, έαν μή πασι το αυτό δοκή, μήτε έναντιωθήναί τίνα τοις
+πραττομένοις οσ" αν αί πλείους γνώμαι δοκιμάσωσι. Earnest Cary trans­
+lates, "Now the tribunes had all come to this decision at the outset, that no
+one of their number should either introduce any new measure on his own
+initiative, unless they all concurred in it, or oppose any proceedings which
+met with the approval of the majority 7 ." 23 Again έφ" έαυτοΰ ("on his own
+initiative") prevents έαν μή from being exceptive of the entire initial state­
+ment. Here Dionysius' point is that the tribunes did not want any of their
+number acting independently, and he uses adversative έαν μή to contrap­
+ose acting on one's own initiative and working together as a body.
+The citations from Dionysius of Halicarnassus, Plutarch, the Gospel of
+John, Epictetus, Clement of Alexandria, and Origen were written between
+I B.c.E. and III C.E. The list of examples is long enough to substantiate the
+flexibility of έαν μή to state both a partial exception and an adversative
+relationship. The difference between the two functions is primarily one of
+emphasis, as explanations with the examples cited show. If the extra word
+or phrase in the main clause is important enough to serve as a point of
+contrast, έαν μή is adversative. If not, it is exceptive. Does Gal. 2:16 fit
+either category?
+Andrew Das argues for an ambiguous use of έαν μή in Gal. 2:16. He
+finds in Galatians three perspectives of early Jewish Christianity: (1) Gen­
+tile Christians are obligated to keep the law; (2) Gentile Christians are not
+obligated by the law except at times of table fellowship with Jewish Chris-
+tians; (3) Gentile Christians have no obligation to the law. Das then argues
+that since 2:16a clearly states common ground between Paul and his listeners,
+it must be ambiguous enough to include all three positions, with Paul
+interpreting it one way and his opponents another. Its very ambiguity,
+however, forces Paul to restate his position in the latter part of the verse.
+Das suggests that 2:16a may have been a statement Paul's opponents taught
+which Paul co-opted in order to reinterpret. 24
+By speaking in 2:15 of "we Jews" and beginning 2:16 with "knowing
+that," Paul clearly does seek to establish common ground. Reinterpreting
+to his own advantage the statement on which all had agreed, however, is a
+bait-and-switch that destroys the common ground he built, and his oppo-
+nents would easily shoot down such an argument. Paul defeats his own
+purpose if he uses 2:16a ambiguously.
+Das argues against an adversative possibility in Galatians on the grounds
+that έαν μή occurs only eleven other times in the undisputed Pauline cor­
+pus and is exceptive of the entire preceding statement in each case. 25 But to
+require that Paul use a term more than once in any particular way is com­
+parable to classifying the hapax legomena in his letters as interpolations
+simply because he does not repeat them in his few extant writings. Writers
+may develop a word or phrase as something of a technical term—such as
+"in Christ" in Paul or John. Yet their language is not so stylized that they
+could not avail themselves of the broad range of meaning, proper to the
+Greek of the time, for a common conjunction or preposition.
+As we have seen, έαν μή in Gal. 2:16 cannot be exceptive of the entire
+main clause. To see whether it is adversative or whether it allows a partial
+exception, we consider the phrase, έξ έ'ργων νόμου, in verse 16a to see
+whether it serves as a contrast to δια πίστεως Ιησοΰ Χρίστου or whether it
+is an extraneous phrase simply to be skipped over (as in Plutarch). To state
+the issue, however, is almost to solve the problem. In 2:16b Paul unques­
+tionably contrasts έ'ργα νόμου and πίστις Χρίστου. In 2:19, 21 he continues
+writing about the law (νόμος) and in 3:2, 5 he contrasts έ'ργα νόμου with
+ακοή πίστεως. Έργα νόμου is not an extraneous phrase in Gal. 2-3 but an
+integral part of the context. Therefore, έαν μή in Gal. 2:16 is adversative. 26
+That έαν μή in Gal. 2:16 indicates a contrast or a partial exception was
+accepted until recent times. Against this, James Dunn argued that έαν μή
+can only function to give an exception to the entire main clause and there­
+fore concluded from Gal. 2:16 that Paul only came to comprehend the
+implications of the gospel as he spoke to Peter. The problem here, however,
+is that Paul could not begin to rebuke Peter before he understood the fault
+in Peter's behavior, and Paul must therefore have understood the implica­
+tions of the gospel before he spoke to him. Although the impossibility of
+Dunn's view does not establish the existence of adversative or partially
+exceptive έαν μή, other koine texts confirm both in the Greek of Paul's
+time.
+Έαν μή in Gal. 2:16 cannot state an exception to the entire main clause.
+Does it fit into the category of either alternative considered here? Our
+examination of the examples shows the difference between the two alterna­
+tives to depend upon the word or phrase with the main clause which could
+not be part of the exception. Έαν μή is adversative if the context sets up a
+contrast between that word or phrase and another in the sentence. Other­
+wise, έαν μή states a partial exception. In Galatians Paul sets πίστις Χρίστου
+and έ'ργα νόμου in opposition. He introduces the contrast in Gal. 2:16
+with adversative έαν μή according to the proper, albeit infrequent, practice
+of his day.

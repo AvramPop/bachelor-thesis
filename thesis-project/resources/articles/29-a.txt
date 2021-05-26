@@ -1,0 +1,339 @@
+Jude 5 contains several textual problems. Most problematic is certainly the
+identification of the subject of this verse, "which constitutes the principal
+basis for viewing Jude 5 as a crux interpretum? 1 Who "saved the people out
+of the land of Egypt" and "later destroyed those who did not believe?"
+Basically three different subjects of Jude 5 are extant in the manuscript
+evidence (see tables below): (reading 1) "Lord" [κύριος]; (reading 2) "Jesus"
+[Ίησοΰς] and (reading 3) "God" [θεός]. All readings appear with or with­
+out the article. Of these readings, Ίησοΰς seems to be the most difficult,
+but many have suggested that this reading is too hard, since it attributes to
+Jesus an active involvement in the events of the Exodus and the dealings
+with the wilderness generation. Hort even denotes it as "a blunder." 2 Metzger s
+Textual Commentary on the Greek New Testament states that "a majority of
+the Committee was of the opinion that the reading was difficult to the point
+of impossibility." 3 Thus, the reading [ό] κύριος is generally preferred not
+only by NA 27 and UBS 4 but also by the vast majority of English translations
+(including [N]KJV, NASB[95], NIV, TNIV, NLT, CEV, HCSB) as well as
+by the editions of Tischendorf, von Soden, Hort, Weiss, and Merk. Both
+Richard Bauckham and Charles Landon (in a doctoral dissertation on the
+text of Jude) have substantially defended the traditional view of [ό] κύριος as
+the original text. 4 The most significant defense of the strikingly difficult
+reading Ίησοΰς (of which there have generally been very few) was done by
+Carroll Osburn, yet in the past this reading has never been reflected in any
+major textual edition or translation (with the exception of UBS 1/2 and the
+editions of Lachmann and Bover). 5 This has changed, however, since now
+the Editto Crìtica Maior (published in 2005) as well as the ESV and the
+NET Bible have chosen to adopt the reading Ίησοΰς in Jude 5. 6 Most
+recendy, Tommy Wasserman, in an extensive study on the text of Jude, has
+again argued for the κύριος-reading, thus challenging the textual decision of
+the editors of the Editto Critica Maior. 7 This recent development justifies a
+re-examination of the evidence. The purpose of this study, therefore, is to take a
+fresh look at both the external and internal evidence of this particular textual
+problem in Jude 5 from the viewpoint of reasoned eclecticism.
+Other readings that occur are:
+Reading 4: κύριος Ίησοΰς—1735 Pq; 1 591 ρα] (both "Byzantine"); Did t n U 9
+Reading 5: θεός χριστός—φ 72 [III/IV] ("other")
+The following manuscripts mentioned in the charts are not listed by NA 2 7
+or UBS 4 , but only by Tischendorf, von Soden, Merk or Bover:
+(1) For [ό] κύριος: 630. Ps-Ath. Thphyl. Oec. (Tischendorf only); 175. 632.
+1717. 1857. 1890. John Dam. (von Soden only); 181. 216. 307. 489. 1518.
+1829. 1836. 1874. 1898. (Merk only); 383. 429. 913. 1765. 1852. 2147.
+(von Soden, Merk); 104. 255. 326. 460. (von Soden, Merk, Bover - von
+Soden has 255 as a θεός reading); 337.1738. (Merk, Bover); 927.1311. (von
+Soden, Bover); Ephr (Tischendorf, Bover).
+(2) For [ό] Ίησοΰς: 6. (Tischendorf only); 88. (von Soden, Merk, Bover); Did.
+(Tischendorf, Bover).
+(3) For [ό] θεός: 442. (Tischendorf only); 5. (Merk only); 1845. (von Soden,
+Merk).
+Before we take a closer look at the external evidence, two readings (i.e.,
+readings 4 and 5) may be excluded right from the start: κύριος Ίησοΰς is
+tn U 9
+only read early on by Didymus (Did
+) as well as by very few late manu­
+scripts (1735 [X]; / 591 [XI]) and is most likely a conflation. The unique
+72
+θεός Χριστός has the support of $P , a third/fourth century papyrus. For it
+to be original, however, one would have expected at least some traces of
+8
+this reading in other witnesses.
+Certainly, the most inferior reading externally is [ό] θεός. Besides the
+second corrector of C and one Alexandrian manuscript (1243), only a few
+Byzantine minuscules (5 442 1845 [623 1846]) testify to this reading as
+well as one Latin Father and some early versions. This reading must have
+entered the Alexandrian texttype relatively early in the transmission proc­
+ess (possibly through Clement of Alexandria in the early third century). 9
+With regard to the other two readings, the external evidence seems to be
+in favor of reading 2, [ό] Ίησοΰς. Although the manuscripts of the Alexan­
+drian texttype are not genealogically solid, it should be noted that reading 2
+has the significantly strongest support from the more reliable manuscripts
+of the primary Alexandrian text. It is found in important and early Alex­
+andrian uncials (A B) as well as in a significant number of important
+minuscules (33 81 322 323 1241 1739 1881). Moreover, [ό] Ίησοΰς is
+witnessed as early as the mid-third century (Origen 1739mg ). This, together
+with the strong support from many early Alexandrian manuscripts sug­
+gests that [ό] Ίησοΰς is the earlier reading.
+Though reading 1, [ό] κύριος, finds its strongest support in the Byzan­
+tine text, it is significant that it is also found in several manuscripts repre­
+senting the Alexandrian texttype; among those are the early uncials Κ and
+C* (also from two different streams of transmission!) as well as the later Ψ.
+In addition, some early fathers (Ephraem, Theophylus) confirm the early
+existence of this reading. In spite of this impressive evidence for reading 1,
+[ό] Ίησοΰς has the stronger support from the early and most reliable pri­
+mary Alexandrian sources. Furthermore, it may well be that the late sec­
+ondary Alexandrian witnesses in favor of [ό] κύριος are marked by a
+Byzantine influence.
+In addition to being earlier, [ό] Ίησοΰς is also more geographically
+widespread. It seems to be found in diverse locations already in the first
+few centuries as it existed in Egypt/North Africa as well as western areas of
+the Roman Empire (Jerome, Bede [although later]). It also influenced sev­
+eral of the early versions (besides Jerome s Vulgate, also the Sahidic and
+[possibly later] Ethiopie versions, et al.). This geographical diversity is yet
+another strong argument for the primacy of the Ίησοΰς reading.
+In light of the probable earlier date together with the support from the
+majority of the most reliable witnesses (although there is no complete
+genealogical solidarity within the Alexandrian texttype) and the geograph­
+ical diversity of the manuscripts that favor [ό] Ίησοΰς, I conclude that
+reading 2 has to be regarded as superior externally.
+Because all three variants were written as nomina sacra, the tendency has
+been to account for the different readings by unintentional change. For
+example, the majority of the UBS Committee has explained the origin of
+the Ίησοΰς reading in terms of transcriptional oversight, arguing that one
+could easily imagine that a scribe would take the original Re as ÎC. 10 This
+is entirely possible, since Κ and ι have a vertical stroke in common. Actu­
+ally, we find in the New Testament several places where the supposedly
+original κύριος is replaced by either Ίησοΰς (Luke 7:13, 10:41, 13:15,
+22:61) or θεός (Acts 12:11, Rom 14:4, 1 Cor 7:17, 2 Thess 3:3, Jude 9) in
+some manuscripts. However, in most—if not in all—of these places the
+changes appear to be intentional, i.e., due to contextual or theological
+reasons. 11 While the possibility of an intentional change does not rule out
+the possibility that the different readings in Jude 5 were the result of scribal
+confusion, two other observations tip the balance in favour of the former:
+(a) It seems unlikely that Κ (in KC= κύριος) and -θ- (in S c = θεός) would be
+easily mixed up. (b) The change made by the second corrector of C was
+obviously deliberate, thus we have to reckon with the fact that there were
+reasons for a scribe to be uncomfortable with the κύριος reading and inten­
+tionally alter it (see below). Further, an unintentional confusion of nomina
+sacra could account for any of the three readings as original (and not neces­
+sarily only for the κύριος reading, as some seem to suggest). 12 Thus, while
+one might conclude that it is possible that scribal accidents led to different
+variants, there is sufficient reason to suspect that it was not purely a case of
+accidental, transcriptional error.
+Indeed, on closer examination, the variants appear to be the result of
+intentional changes. The distribution of variants seem to suggest that scribes
+replaced the more specific term Ίησοΰς with the less specific terms κύριος
+or even θεός, because they might have conceived it as anachronistic and
+theologically problematic to talk about "Jesus" saving the people out of
+Egypt and destroying them in the wilderness. The presumption underlying
+the Ίησοΰς reading is "that the pre-incarnate Christ, as the agent of God
+in relation to creation, was active in the work of Israels redemption; and
+that the name he was to bear in the days of his flesh could be appropriately
+used of him in connection with this great historical type of salvation cen­
+turies prior to his incarnation." 13 Since "Jesus" was perceived to be a mans
+name (associated with Christ's humanity), one can easily imagine how
+scribes would consider as too bold the notion of "Jesus," the man, being
+pre-existent. Therefore, if the original reading had been κύριος, we would
+have to assume that a certain group of scribes deliberately created a diffi­
+culty by inserting the more specific Ίησοΰς. This is unlikely. Rather, it
+seems more probable that scribes changed the more problematic Ίησοΰς
+into κύριος, the name typically used for Christ the Lord, and thereby
+avoided what they might have conceived as an improper human designa­
+tion of the pre-existent Lord.
+However, there is reason to suspect that this is not the sole theological
+problem that could have played a role here. The evidence suggests that at
+least part of the textual problem has to be seen against the backdrop of the
+Christological controversies of the first few centuries as a general attempt
+to avoid the idea of Jesus' pre-existence. This seems to be the most likely
+explanation for the θεός reading. Θεός would clearly indicate God, the
+Father, as the one active in the Old Testament and thus, delete any refer­
+ence to the pre-existent Son. In this respect, one should note that for those
+who denied the concept of pre-existence, changing Ίησοΰς into κύριος in
+Jude 5 would only make the whole statement a bit more ambiguous, since,
+in the light of v. 4 (which reads κύριον Ίησοΰν Χριστόν), the κύριος read­
+ing would still give the impression that Jesus is in view. At least the scribal
+correction in uncial C (from κύριος to θεός) is probably best explained by
+assuming that the corrector was aware of the remaining ambiguity and
+wanted to remove every Christological meaning from the statement. The
+somewhat similar textual problem in 1 Cor 10:9 supports the view that
+these kinds of changes could occur in light of different Christological con­
+ceptions. 1 Cor 10:9 almost certainly reads "And let us not put Christ to
+the test as some of them did [in the wilderness], and were destroyed by
+snakes." 14 Textual variants for "Christ" in this verse are "Lord" and "God."
+Since it can be shown that the "Christ" reading of this verse was used as
+proof for Christological assertions in the third century, 15 one can easily
+imagine a scribe's motivation to insert "Lord" or "God" in 1 Cor 10:9 (and
+consequently in Jude 5 as well). 16 While this seems to be a reasonable asser­
+tion, the following restrictive considerations need also to be taken into
+account: if the possibility of a theological alteration in this Christological
+text in Jude 5 away from the concept of pre-existence is supposed (which
+would, of course, imply a change from Ίησοΰς to κύριος or θεός), it can,
+at the same time, not be excluded that the Ίησοΰς reading had its origin in
+the later anti-adoptionist tendency to stress the divinity of Christ. We have
+to keep in mind, however, that both of these explanations regarding Jude 5
+are somewhat problematic, since it is unlikely that the letter itself, still
+significantly debated in terms of canonicity, would have been a focal point
+of these Christological debates.
+Finally, several scholars have tried to explain the transcriptional circum­
+stances on different grounds. They have argued that κύριος should be pre­
+ferred as the reading that best explains the others: Ίησοΰς and θεός should
+both be seen as attempts to resolve the ambiguity inherent in the κύριος
+17
+reading. While this is possible, it seems unlikely, because even when a
+copyist understood κύριος as a reference to Christ and wanted to empha­
+size his pre-existence, he would have almost certainly supplied a Christo­
+logical title as in 1 Cor 10:9 or at least adjusted his variant to the context
+in v. 4. Even in this respect, Ίησοΰς is the harder reading and a scribe
+would probably not have inserted it.
+It is, therefore, reasonable to conclude that the Ίησοΰς reading, with its
+presumption that Jesus acted in the early history of Israel, is more difficult,
+and thus more prone to change in terms of transcriptional probability. This
+variant can be conceived as difficult in at least two possible respects: [a] the
+designation of the pre-incarnate Christ with the personal name "Jesus" and
+[b] the general concept of pre-existence. While it is hard to imagine why a
+scribe may have changed the subject of Jude 5 to Ίησοΰς, there seem to be
+reasonable explanations for the rise of both other readings assuming
+Ίησοΰς as the original variant. 18
+At this point, a few short comments about the relation to other textual problems in Jude
+5 must suffice. 19 There are good reasons for assuming that άπαξ should be read before
+πάντα instead of in the δτι-clause. 20 If this is the case, it is interesting that K, C*, Ψ,
+630 and 1505 contain the inferior άπαξ reading, so that we could suspect that these
+manuscripts have a tendency to change the wording. [A Β 33 81 et al. have the supe­
+rior άπαξ reading and Ίησοΰς.] Since the scribes generally had the tendency to add
+the article, we should probably read the subject of the sentence without the article.
+Turning to the intrinsic probability of the variants in Jude 5, our main task
+is to evaluate the argument mentioned in the introduction that Ίησοΰς is
+not only the most difficult reading but even difficult to the point of impos­
+sibility. Is it really impossible for Jude to have written Ίησοΰς in v. 5? We
+need to consider the following points:
+(1) Jude could refer to Joshua, Son of Nun, since Ίησοΰς is the Greek
+equivalent to the Hebrew name Joshua (see Acts 7:45 and Heb 4:8). How­
+ever, in light of the context, it is hard to understand Ίησοΰς simply as
+"Joshua," since v. 6 seems to require the same subject as v. 5. Now, although
+Joshua led the people into the holy land and might have contributed to the
+destruction of the unbelievers through his testimony (v. 5), the keeping of
+the angels in eternal chains can certainly not be ascribed to him (v. 6). In
+light of this, a typological usage of Ίησοΰς (i.e., Joshua being a type for
+Christ) has been considered to be more likely (e.g., by Allen Wikgren),
+since such a general typological concept can be found as early as the Epistle
+of Barnabas (12:8-10) and in the writings of Justin Martyr {Dial. I'b.l-,
+113.2-3 et al.). 21 In this case, Jude would have supplied an ambiguous, yet
+possibly common, reference to Joshua that ultimately points to Jesus. Such
+an interpretation would not only explain why Jude employed the term
+Ίησοΰς as opposed to his normal usage of Ίησοΰς Χριστός (Jude 1,4, 17,
+21, 25), but it would also shed light on the ambiguous character of the
+κύριος variant itself, which could now be understood as an attempt to
+prevent misunderstandings of the "Joshua-reading" by making explicit
+that "Jesus, the Lord" is in view. However, the possibility for Jude using
+this Joshua-typology remains doubtful for at least two reasons: (a) As we
+said earlier, several of the actions attributed to the subject of v. 5 do not
+directly apply to Joshua, (b) It seems unlikely that Jude—after directly
+referring to Christ in v. 4—would take a step backwards and employ
+Joshua as a way of pointing to Jesus.
+Interestingly enough, Charles Landon has followed Richard Bauckham in applying
+the Joshua-Jesus typology as a major argument for the primacy of the κύριος reading.
+They reason that Ίησοΰς was introduced by a scribe who was influenced by "the
+22
+Joshua-Jesus typology which became popular in the second century." A scribe would
+have been attracted to such an insertion by the reference to the Exodus, without notic­
+ing "as an author would, the pitfalls it would encounter as the statement continues
+23
+[i.e., without looking ahead at w. 6-7] ." Though this is a possible conjecture, it seems
+unlikely that a scribe mindful enough to think about such a typology would miss the
+inappropriateness of his interpolation. Further, it is not probable that an orthodox
+scribe who understood κύριος as a reference to Christ would downgrade the reference
+to a Joshua-Jesus typology, thus representing a lower Christology.
+(2) In what way then could Jude have used Ίησοΰς here? The mention of
+"Jesus" in Jude 5 is not as strange and unparalleled as many have said. Car­
+roll Osburn has pointed out that a common feature frequently observed in
+second century literature is the involvement of Christ in Old Testament
+history, such as Justin Martyr, Dial. 120.3, who specifically mentions "Jesus"
+as "the one who led your fathers out of Egypt." 24 Osburn further argues
+that Christ can also be credited with imprisoning the fallen angels described
+in v. 6 in view of 1 Pet 3:22 and 1 Enoch 69:26-29, "where the Son of Man
+sits in judgment upon these angels imprisoned in chains." 25 Additionally,
+early witnesses like Origen (in 1739 mg ) and Didymus were obviously com­
+fortable with the implications of the Ίησοΰς reading. Further, the general
+idea of the pre-existence of Christ in the Old Testament does not seem to
+be only some later tradition found in the writings of the Church Fathers,
+but shows up in New Testament passages like John 8:58, Heb 11:26, and
+especially (in a similar Exodus context) in 1 Cor 10:1-11. 26 However, it is
+exactly in light of this passage from 1 Corinthians that Richard Bauckham
+has argued that Jude did not intend any direct reference to Christ in v. 5 at
+all. In his view, 1 Cor 10:4, 9 should be given a purely typological inter­
+pretation, which he understands to mean that "Israel tempted and pro­
+voked the Lord God, but the corresponding behavior of Paul's readers
+would be a tempting and provoking of the Lord Jesus." 27 For Bauckham, a
+similar understanding of Jude 5-7 is most plausible, namely that κύριος in
+v. 5 (which he considers as the original reading) refers to the Lord God,
+whose role as judge is a type for the Lordship now exercised by Christ. I
+would argue, however, that the difficult passage in 1 Cor 10 is still best
+understood as indicating the reality of Christ's presence and involvement
+in Israel's history. 28 Therefore, in light of the somewhat parallel passage in
+1 Cor 10:9 (a tradition certainly predating Jude) where the testing of
+Christ is followed by destruction, it is entirely possible that the subject in
+v. 5 is the Lord Jesus and that Jude even attributed "the destruction of
+those who did not believe (v. 5b)" to him. 29 Although the usage of Ίησοΰς
+might have a slightly anachronistic notion, Jude may well have conceived
+it as an appropriate reference to Christ. 30 And in light of a continuous early
+Christian tradition that regarded Jesus as pre-existent and operative in Old
+Testament events, "there is certainly no aprìori reason why Jude could not
+have written Ίησοΰς in v. 5 during the mid-first century [or in the late 60s
+31
+which is a more likely date for Jude]."
+In fact, there is further contextual evidence in favor of a reference to
+Jesus in v. 5. In the preceding context Jude exhorts his readers because of
+ungodly men who had entered their community denying "our only Master
+and Lord, Jesus Christ [τον μόνον δεσπότην καΐ κυριον ημών Ίησοΰν
+Χριστόν]" (ν.4). This article-noun-Kocí-noun construction fits the Gran-
+ville Sharp rule (since the nouns are singular, personal, and not proper
+names), which means that δεσπότην and κυριον have the same referent,
+Jesus Christ. 32 Since the noun δεσπότης is applied to God the Father sev­
+eral times in the New Testament (see Luke 2:29; Acts 4:24; 2 Tim 2:21;
+Rev 6:10), its attribution to Jesus could be interpreted as reflecting a rather
+high Christology, including an emphasis of the deity and rule of Christ.
+Now, in light of this exaltation language, it does seem to be entirely appro­
+priate to have the same referent as subject in v. 5. The reference to "Jesus"
+in Jude 5 is contextually linked to the denial of the only Master and Lord,
+Jesus Christ. Therefore, it seems reasonable to read Jude 5-7 as a vibrant
+portrayal of Christ as the pre-existent judge and thus as an implicit warn­
+ing by which the readers are exhorted not to follow the men mentioned in
+v. 4 who had already made the same mistake in rejecting the exalted Christ
+as was made in the events narrated in Num l4:29-37. 33
+Having established Ίησοΰς as the harder reading in terms of transcrip­
+tional probability, it becomes evident that a reference to Jesus acting in the
+early history of Israel is far less unreasonable than most members of the UBS
+committee have asserted because (1) although the usage of the personal name
+"Jesus" remains somewhat striking, the association of the pre-existent Christ
+with the Exodus may not only be observed in New Testament writings, but
+in second century literature as well, and (2) the portrayal of Jesus as the
+exalted judge fits the context in Jude well. Moreover, the observation that the
+34
+author never employs Ίησοΰς alone, but always Ίησοΰς Χριστός, does not
+necessarily suggest that Ίησοΰς is the inferior reading. Jude may well be
+35
+capable of variance, while it is more unlikely that a scribe would create a
+reading that could be obviously considered as against the author's style.
+Most text-critical scholars would concede that the external evidence is
+clearly in favor of Ίησοΰς as the original reading. Metzger and Wikgren
+state in the Textual Commentary that "critical principles seem to require the
+adoption of Ίησοΰς, which admittedly is the best attested reading among
+Greek and versional witnesses." 36 Most scholars would further agree that
+Ίησοΰς is the most difficult reading. However, while the transcriptional
+probabilities favor Ίησοΰς as the original reading, many have concluded
+that this reading is simply too difficult. But in this paper I have sought to
+demonstrate that even in light of intrinsic probability the Ίησοΰς reading
+is indeed not too hard. Although difficulties remain, in light of v. 4 and in
+light of the evidence both in the New Testament and other early Christian
+writings, it seems totally reasonable. The internal evidence in no way pre­
+cludes Ίησοΰς as the original variant, yet, in fact it even seems to prefer it.
+This is in agreement with the external evidence in its support of Ίησοΰς as
+the superior reading. I therefore conclude that the textual decision about
+the subject of Jude 5 reflected in the Editto Critica Maior (as opposed to
+several recent text-critical studies) is justified.
+If Ίησοΰς may indeed be considered as the original reading in Jude 5,
+this would clearly highlight the pre-existence of Christ. Further, Jesus' des­
+ignation as the one who executes judgment comports well with Jude 4
+(where Christ is described as the ruling Master), thus implicitly arguing for
+his deity. Therefore, based on our text-critical considerations given above,
+both verses taken together could be used as an argument for the existence
+of a high Christology (including Christ's pre-existence) by the time the
+Epistle of Jude was written.

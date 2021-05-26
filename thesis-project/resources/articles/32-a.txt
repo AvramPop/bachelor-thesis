@@ -1,0 +1,459 @@
+My interest in this manuscript was stirred up when I came across an early
+variant from the story of the rich man and Lazarus (Luke 16:19-31). It
+follows P 75 in giving a name to the rich man. It reads: O*HS¿¿ *-O-A»»I (ονόματι
+Νινευής). 1 This was the key variant which triggered my enthusiasm to
+study its variant readings in the Gospel of Luke. Some of the findings
+are included in this article. 2
+It is generally believed that the VorUgen of the Arabic Gospel Manuscripts
+are Greek, Syriac, Coptic or Latin. An examination of over two hundred
+manuscripts shows that Greek and Syriac were the chief source. 3 The
+majority of these manuscripts originated in and around Palestine and
+Syria. It is still not clear when the Gospels were first translated into
+Arabic. Some would argue for a pre-Islamic date (pre-seventh century, as
+early as the fourth/fifth century) and others during the Abbasid period
+(post-750 A.D). This debate will not be discussed here. It is worth noting,
+however, that the common ground between both schools is that during
+the ninth century the Gospels in Arabic had been extensively copied and
+used, and that the majority of the ninth century manuscripts are copies
+of earlier manuscripts.
+Some have believed that the Arabic manuscripts of the New Testament,
+with the exception of the Arabic Diatessaron, have little to offer to textual
+criticism. 4 This paper aims to show that this perception can no longer be
+maintained: the Arabic Gospel manuscripts have much to contribute to
+the history of the transmission of the text, as well as to enhancing our
+knowledge of the biblical tradition.
+The article will focus on the textual features of the Gospel of Luke. I
+shall begin with a concise description of the codex, and then introduce the
+critical apparatus followed by discussion of the Vorhge of the Arabic text.
+A general conclusion will follow the Apparatus. This article is intended
+as an introduction to a full edition of this manuscript, to be presented
+in a separate volume.
+The only reference to Sinai ar. N.F. parch. 8 and 28 is found in Meimariss
+Greek-Arabic catalogue of the Arabic manuscripts, published in 1985. 5
+This is a catalogue of the Arabic manuscripts of the newly-discovered
+Sinai Collection. The information given in the catalogue is minimal and
+a new description should be given before any attempt is made to study
+the two manuscripts textually. 6
+MSS Sinai ar. N.F. parch. 8 and 28 were originally one codex, and
+Meimaris seems not to have detected this. Sinai ar. N.F. parch. 8 ends with
+John 17:25a and Sinai ar. N.F. parch. 28 starts with John 17:25b, so that
+the text is continous. Moreover, linguistically, as well as on codicological
+and palaeographic ground, there is no doubt that these two manuscripts
+were originally one codex. 7 Therefore they will be referred to as "Codex
+Sinaiticus Arabicus" (CSA). 8
+CSA is a palimpsested parchment codex, originally with 144 folios in
+18 quires of which 143 folios survived (the first folio is missing). Each
+gathering is made of eight leaves. It is undoubtedly one of the earliest
+surviving Arabic Gospel manuscripts. It was possibly copied in the second
+half of the eight century or early ninth century. Layers of Greek, Latin,
+and Arabic were detected in some of its folios, and this makes this codex
+unique. Some of the Greek and Latin palimpsested texts might go back
+to the fourth and fifth century.
+The make-up of CSA is also unique; many of the folios of this codex are
+made up from small pieces of parchment (some with four or five pieces for
+each folio) and sewing these pieces into a folio would have required hard
+work and perseverance. The size of folio varies throughout the manuscript.
+It ranges between 170-190 cm long and 124-138 cm wide. The written
+surface ranges between 155- 175 cm and 115-120 cm, with 24 to 29 lines
+per page. All that has survived of the binding is a detached and worn-out
+spine. The parchment is extremely thin and fragile, especially when it is
+compared with ninth century Arabic Gospel parchment codices. Generally
+speaking, the leaves are in good enough condition to enable us to read
+the Arabic script and some of the palimpsested texts. Some of the folios,
+especially at the beginning and the end of the codex are worn out on the
+external edges. In a few places the original writing (mainly Greek) was
+not scraped and washed off and so can be read easily.
+The Content of CSA
+CSA contains the following: (1) Sinai ar. N.F. parch. 8:
+1.
+2.
+3.
+4.
+5.
+An apology—the first folio of which is missing (folios lr-7r)
+Matthew (folios 7r-44r)
+Mark (folios 44r-65r)
+Luke (folios 65r-102v)
+John l:l-17:25a (folios 103r-127v)
+(2) Sinai ar. N.F. parch. 28 continues with the following:
+6. John 17:25b-21:25 (folios lr-7r)
+7. A sermon g ¿mil) £9-^ LÌA^JUJ J^L-O ^J {In natalem Christi diem) by
+Saint John Chrysostom (folios 7r-l4r) 9
+8. A canon of the Apostles: & -N I \w II jü\ 9-0 &* IIA (folios I4r-l4v)
+9. A sermon for the monks: ¿LAJJU AL·*. 9-0 (folios l4v-16v)
+PaUeographic Features of CSA
+The script is known as Küfic. It is copied using thick black ink. The text
+seems to have been copied by one scribe. When a palaeographic com-
+parison is made between this manuscript and other extant Arabic Gospel
+manuscripts (of which over 200 have already been examined), it becomes
+obvious that CSA has the least diacritical marks of them all.
+The alif(i) has no turning of the hand to the right (the turning of the
+hand to the right is common for manuscripts of Makkah and al-Madïnah),
+but lengthening of the strokes to below the line.
+The Dal, Dhâl and Käf have an upward stroke bend to the right of
+the top of the letter.
+The letters Säd and Däd, as well as the Käf are elongated horizontally.
+The ending Fa, Ta and Ba do not have an upward stroke at the end
+of the horizontal stroke.
+The Nun looks similar to the modern Ra without a final upward
+stroke.
+The tail of the final Käf resembles the Ra in being elongated at the
+beginning of the tail, vertically instead of horizontally.
+The base stroke of the initial 'ayn is elongated backward to the right.
+The tail of the final Lâm is similar to the modern Ra with a small
+curve turning to the left.
+Occasionally the tail of the final Ya extends horizontally to the right
+and goes under the word.
+There is little, if any, space between the words and, as a result, words
+can be divided across lines. A pause in sense is sometimes indicated by
+two forward slashes (//).
+All these palaeographic features indicate the archaic nature of this
+manuscript. Moreover, the defective writing of ûizAlif{ïot instance Baraka
+instead o( Baraka; Kidas instead of kidäs) is a seventh and eighth century
+feature and adds weight to the early dating of this manuscript. 10
+Rubrics are present at the beginning of each Gospel (as well as of
+Chrysostom's homily, the canon of the Apostles, and the sermon for
+the monks). Moreover, there is one rubric in Matt 1:18 which reads AJIJÍ
+JUJLI Λ . ut r (ju-uül ^À \yú ¿u¿ü (a second reading to be read in the mass
+on Christmas night). This is the only liturgical calendar division in the
+manuscript. The last rubric is found on folio lOr. It has been struck out by
+the copyist. It might have come from a different source and have not been
+erased properly. It reads j-o[Tia-iiJU] (ÜS «,ιΐΐϊ LJ, JUUUUJU ¿$JL> IJUÜ [
+]
+JL2J9 «Hîrlh J-o-c (jjL· &JL09 pLê$ IJUÜI ^J ¿$-S> <-*; L· c-JLi ^.iiJ.1 J±¿XÍ
+(¿»¿Jul ££;9 ¿-¿fl$ UJXI (O-JÜJL) dJjjuuuo . Only the letter o in ÍJUÜ, ¿üxLb and
+¿IJ^JUULO has the two dots, as well as the letter «_> in IJJÜI. All the rest are
+left without diacritical marks. The dating of this rubric does not seem
+to be much earlier than the Arabic text; it might even have been written
+by the same hand.
+The aim of the apparatus is not just the variant in question. I have provided
+on many occasions the textual context of the variant to help the reader
+to better evaluate the variant and the Arabic translation. In the apparatus
+below the Byzantine reading 11 is presented first, then a square bracket
+followed by the Greek reconstructed variant based on the Arabic text, then
+the Arabic reading between brackets, and finally the Greek manuscripts
+and the early versions which support the reading in question. The main
+source of Greek and early version witnesses come from The Gospel accord­
+ing to St Luke 12 as well as the Nestle-Aland 27th edition. The manuscript
+sigla and signs are taken from the IGNTP, an explanation of which is not
+given here since those who find this paper useful should be familiar with
+them. It is worth mentioning, however, that the Greek Codex Sinaiticus
+in IGNTP has the sigla S instead of κ. The patristic quotations are only
+mentioned when none of the extant Greek manuscripts and early versions
+supports an Arabic variant in question. This seems to be the case with
+only one variant (see variant 21 below).
+The variants selected are far from being exhaustive. The intention was
+to select variants which disagree with the Byzantine text-type and which
+are less likely to have coincidentally converged with Greek, Latin, Syriac,
+Coptic etc. readings. This is a difficult task and requires a careful exami­
+nation of each variant, as well as a wider knowledge of the translation
+techniques which were used for making Arabic versions. When a variant
+is ambiguous or doubtful (on whether or not it is a textual variant), the
+preference in general was to include the variant rather than exclude it.
+And by doing so the reader is provided with an opportunity to make his
+own judgment.
+Arabic as a Semitic language shares many of these techniques with the
+Syriac language, so that our knowledge of the translation techniques used
+in the Syriac versions can help us better understand Arabic translation
+techniques. 13
+This article does not allow the opportunity to expand on the tech-
+niques used in Arabic translations. It is worth noting however, that
+the general attempt of the scribes was to translate literally from the
+Vorlage. Occasionally, the reader is left bewildered by sentences awkward
+syntactically. 14 Yet divergence from the Vorlage happens. This divergence
+is also present in other languages (e.g. Latin, Syriac etc.), so that Arabic
+is not exceptional. It could have happened during the translation (because
+of internal syntactical demands), or the copying process.
+The list below gives guidelines to help us put little emphasis on variants
+which seem to be merely of translation convenience and not necessarily
+a reflection of a textual variant. These include:
+1. Inclusion or omission of a definite article
+2. Inclusion of possessive pronouns (e.g. oiuuo^lj instead of ÍO-QMLII),
+especially inherent possession (e.g. ÙJU ; ¿uL>j)
+3. Word order, especially reversal of paired items and subject-verb
+transposition
+4. Inclusion, omission and variation in the use of conjunctions (esp.
+και and δε)
+5. Inclusion of the name ^ u ('Ιησούς)
+6. Replacing a pronoun in the Vorlage with a proper noun in the
+translation
+7. Addition of UJ^JI (Κύριος) to the proper noun ¿^-ULJ (Ίησοΰς)
+8. The addition of objective pronouns, especially the following
+construction: preposition + attached pronoun added to the verb
+JLS (λέγω)
+9. Variations in the number of the noun (esp. ol$U mll/*lq mil)
+Coptic or Syriac is less likely to be the Vorlage of this manuscript. Many
+of the textual and linguistic variants contained in these versions are not
+reflected in the text of CSA. The two possible Vorhgen of this Arabic
+version are Greek or an Old Latin version. Three hypotheses present
+themselves: First, the version is translated from an Old Latin text and
+thus becomes automatically less important for Greek textual scholars.
+The second hypothesis is that the manuscript is translated from an Old
+Greek Vorlage, which the latter shares traditionally with the Vorhge of
+the Old Latin versions, and if so makes it of great value for both Greek
+and Latin textual scholars. The third hypothesis is that this text has been
+translated from Greek and then corrected at some point later against an
+Old Latin text.
+None of the hypotheses suggested above should be rejected in total.
+The first hypothesis, a Latin origin, seems to be least likely, though not
+impossible. The following argument aims to show the improbability of a
+Latin origin. This will be done by giving a few linguistic examples and
+then presenting textual evidence in favour of a Greek Vorlage.
+The pool of linguistic variety found in the old Latin texts, and which
+reflects not only textual Greek variants but also different linguistic ren­
+derings of a specific Greek word, makes the argument of a Vorlage based
+solely on linguistic features almost impossible. The first example below
+reflects some of this reality.
+a. In Luke 1: 3a the Greek reads εδοξε κάμοί. Friberg points out that
+here the verb is "used with the dative of person and an infinitive to
+express ones will or pleasure it seems best or good, decide (LU 1.3)". 15
+The Arabic scribe seems to be familiar with this construction and
+translated εδοξε κάμοί with L±J L»l O^-JO* (I was also pleased). The
+Vulgate as well as the Old Latin witnesses (except Lvt b f 1 q) read
+visum (perfect tense of video) and has the meaning of "to see, view,
+behold, survey etc" and also "to please, like". 16 The Old Latin MSS
+b f 1 q read here phcuit from placeo and means "to pleased or satisfied
+with ones self". 17 The Arabic reading follows either the Greek or
+MSSbflq.
+b. Luke 1:3b the Arabic text reads ¿$i <>o ^¿¿4»! ¿>l (lit to follow
+them from above). This ambiguous reading renders literally the
+Greek άνωθεν (adv. "from above"—Latin desuper). This rendering
+is not found in the extended Latin tradition. The majority of Latin
+manuscripts read a pnncipio (at the beginning) and MS c reads ab
+initio (from the beginning). This reading seems to follow the Greek
+and not Latin.
+c. Luke 1:3c The Arabic text translates Θεόφιλε with ¿11) <.M«>» (Θεό­
+φιλε—the lover of God). This translation is hardly justified if the scribe
+is translating from any language other than Greek. The Latin as well
+as the Syriac transliterate this noun since it is considered a proper
+noun. Latin has Theophile/Theofile/Theopile and the Syriac rdLaar^fcv.
+This might show that the scribe was translating from Greek and not
+Latin. However, it could also be possible that the scribe translating
+from Latin was familiar with the Greek language and decided to give
+the fidi Greek meaning of Θεόφιλε in Arabic.
+d. Luke 10:25a the Arabic reads AJ^^J ¿±A$J pli ¿Lfc AJLC. The noun
+£duo$j (noumik) is a transliteration of the Greek νομικός and is found
+in Greek only. The Latin has Legis peritus. It is most probable that
+the scribe is translating from Greek. Otherwise we would expect
+dJLj^JüüJI f p í Τ O O r 4JBJ^JüüJI i ^ i QTÍ ΙΙΛ - S Í O.
+e. Luke 11:45-6: Here once again the noun ¿^09-ì is found and is
+repeated twice in plural. In Luke 11:45 we read j-o ±>\$ UÍL>I
+jiih¿ofriJI {al-Noumìkiìrì) and in Luke 11:46 JJ»¿«QQ¡1I àJ (*S¡J$ JLLà
+(al-Noumìkiìn). In both locations the Greek reads των νομικών and
+τοις νομικοις respectively. The Latin, however, has Legis peritis.
+f. Luke 12:6 The Greek reads έξωμολόγησεν from έξωμολογέω and
+means "agree, consent," and also "praise, thank". The Latin has
+spopondit/sponpondit from spondeo and means "to promise solemnly,
+to bind, engage, to enter into an agreement" or "to warrant, give
+assurance of". 18 The Arabic reads Q$J^ UM$ (and thank him) and
+renders the Greek and not Latin Vorlage.
+g. In Luke 21:30a the Arabic MS translates προβάλωσιν with J^>J
+¿>$JI (sprout leaves). The Latin however, prefers fructus instead of
+folia and translates with minor variations as producunt iam ex se
+fructum. If the Arabic scribe is translating from Latin we expect
+him to use J-OJ/O^J (fruit(s)) instead of ¿,9 (leaves). This certainly
+supports the hypothesis of a Greek Vorlage. However, there is only
+one Old Latin MS which reads folia instead of fructum is MS r 1 .
+The fact that MS r 1 read folia makes the probability of a Greek
+VorUge less certain. The following variant of the same verse might
+push the argument a little bit further.
+h. In Luke 21:30b the Arabic text reads c-u^i JLAJJ ¿Ι \^1ΔΛ. The
+expression ¿L^M (harvest) has no textual support. The Greek has
+θέρος (summer) and the Latin aestas (summer). The expression
+jLaJ.| in Greek is (θερισμός) and has the same root as summer
+(θέρος). Moreover, the first and last letters are similar, and replacing
+one word with another word (with similar initials and endings) is
+19
+common in the transcription of manuscripts. The Latin however,
+reads aestas (summer). "Harvest" in Latin is messis. The two words
+do not share a common root (as is the case with Greek) and are far
+from being similar. A mistake of this kind in unlikely if the scribe
+was translating from Latin. It is more likely that the Greek is the
+Vorkge of this verse.
+i. Luke 22:17 and 22:19: In verse 17 Jesus "took the cup" and in
+verse 19 "took the bread". The Greek has two different verbs for
+"take". In verse 17 and 19 the verbs δέχομαι and λαμβάνω are used
+respectively This distinction is faithfully preserved in the Arabic
+text as opposed to the Latin witnesses. The Arabic has in verse 17
+QuiS Jxi (δέξομαι) (a very unusual usage with the noun Q»IZ) and
+in verse 19 1^-1 (λαμβάνω). This distinction shows that Greek and
+not Latin is the Vorlage of this reading. The majority of Old Latin
+MSS, as well as the Vulgate, have in both places accepto. MS d has
+in both places accipiens, MS c has in verse 17 accepit and in verse
+19 accepto, and finally MS e has accepit in verse 17 and omits the
+reading in verse 19.
+The few examples mentioned above favour a Greek as opposed to a Latin
+VorUge. However, these examples do not eliminate the possibility that the
+Arabic text once translated from Greek, has been subject to emendation
+made against the Latin. This can hardly be proven and requires a more
+thorough textual and linguistic examination of the text, and in general
+the result is far from satisfactory The following discussion is an attempt
+to show that textually, and not only linguistically, it is unlikely that this
+manuscript has been translated from Latin.
+The textual argumentation, on whether or not the Arabie text is translated
+from Latin, all depends to what extent the extant Latin texts reflect the
+holistic Latin tradition. If the extant Latin texts reflect very little of the
+variants found in this tradition, a textual comparison of the Arabic and
+Latin texts become less important and any hypothesis less conclusive. Since
+the presupposition is that the extant Latin texts reflect part and not the
+whole Latin tradition, no conclusive decision will be taken here.
+The critical apparatus below shows that about seventy variants, out of
+two hundred and thirty, have no textual support in the extant Latin texts.
+Seven readings seem to follow only the Latin texts. 20
+In addition, since the apparatus below overlooks variants which agree
+with Byzantine text, another exercise is worth undertaking: finding vari-
+ants which agree with the Byzantine text-type but disagree with Old Latin
+witnesses. For instance, in Luke 23:25 the Arabic reads J¿eJI$ U n> mil
+(στάσιν καί φόνον) and agrees with the Byzantine text-type. However, the
+extant Latin manuscripts transpose and read homicidium et seditionem.
+Here the Arabic disagrees with the Latin and is not referred to in the
+apparatus below—simply because the Arabic agrees with the Byzantine
+text-type (against the Latin). Another example could be Luke 9:1 The
+Arabic reads JJUULC Lutfl £$-uu ^ - ^ (Συγκαλεσάμενος δε τούα δώδεκα) and
+agrees with the Byzantine text (as well as Ρ 75 A Β D etc.) against the Latin
+extant texts (except MS d).
+In summary, although the apparatus below shows a close agreement
+with Old Latin MSS, about 30% of the readings disagree completely
+with the extant Latin MSS. Moreover, further investigation might show
+some textual disagreement might be present between some Arabic read­
+ings (supported by the Byzantine text-type, or Byzantine and Alexandrian
+text-types against the Western text-types—and thus not mentioned in the
+Apparatus below) and Old Latin witnesses.
+If the first hypothesis is less likely to be the case, then the inclination is
+to support the second or third hypothesis, which suggests an Arabic text
+translated from Greek with or without being corrected against an Old Latin
+text. The common factor between the last two hypotheses is that Greek
+is the original Vorlage of this version. Anything beyond that is mere
+speculation. It is almost impossible to know with some certainty whether this
+manuscript has been corrected against the Latin or not. Take, for instance,
+Luke 1:28. The Angel said to Mary ¿LL-O LJJJI Λ Q Τ \ Ì) AJLU L dJ (du*. This
+is one of the most confusing verses in this manuscript. If the scribe is trans-
+lating from Greek we would expect l^Jr fo-s^il (passive participle; Greek
+κεχαριτωμένη) instead of Λ Q t \ t) 4±u L (full of grace), a reading found in
+no Greek witnesses but rather in the Latin tradition; gratia plena (and also
+the Peshitta rfàxo-m^ fcuisa; the Old Syriac is defective here). And if the
+scribe is translating from Latin (or Syriac) we expect Λ Ο Τ ; tí ¿Lu L but also
+benedicta tu in mulieribus (ευλογημένη συ έν γυναιξίν). The last addition is
+omitted in the Arabic manuscript and disagrees with the Latin tradition (as
+well as the Syriac Peshitta). The omission is only attested by S Β L W Ψ 1
+131 565 579 700 1215 1241 1582 Sj (4 mss.) Cs Cb (mss.) Ar Gg (I). If
+this manuscript is translated from or corrected against the Latin we expect
+this important addition, "blessed art thou among women", to be present.
+And if this manuscript is translated from Greek we expect l¿) Ar ^ΛΛ\
+(κεχαριτωμένη) instead of Λ Ο Τ ; il 4±LO (gratia plena), unless the scribe was
+influenced by external textual or liturgical factors. To suggest that this manu­
+script is only translated from Greek, we find ourselves trapped with some
+variants hard to justify, and to say that this manuscript is corrected against
+a Latin witness, would not solve the problem that there are many important
+variants found in the Latin tradition omitted in this manuscript.
+I shall turn now to the apparatus of the textual variants of the Gospel
+of Luke.
+CSA seems to be a mixture of Alexandrian and Western text types. 23 The
+apparatus above consists of 230 variants, 36 of which are not witnessed by
+the extant Greek manuscripts. This does not mean however, that none of
+them reflect a textual Greek variation. Some of the readings are witnessed
+by more than one version, and might show a Greek Vorlage which has
+not survived to our day. For instance, the variant in Luke 7:1a is attested
+by the Old Latin MSS a aur b c fP 1 q, and also the Syriac Harclean ver­
+2
+1
+sion. Luke 7:1b is attested by Old Latin MSS Lvt a b c ff 1 r , and also
+the Syriac Sinaiticus, the Peshitta and Georgian versions. Luke 9:26b is
+supported by the Syriac Curetonian and the Peshitta, and also Sahidic,
+Bohairic and the Ethiopian versions. However, one should not eliminate
+the possibility that some of them have diverged from the Greek Vorlage
+because of internal linguistic demands and have coincided with readings
+found in other biblical versions.
+The apparatus reveals some valuable textual information, it includes:
+The chart below shows the agreements between CSA and a specific Greek
+manuscript. The first column has the MS number; the second column gives
+the number of times a specific Greek manuscript agrees with the Arabic.
+The number in brackets is the percentage based on the total number of
+unit-variants of the Apparatus (230 unit-variants); the third column gives
+the percentage based only on variants which have at least one Greek witness
+supporting the variant in question (230 - 36= 194); and the last column
+gives the average of the figures in column two and three.
+The chart above clearly supports the hypothesis that CSA's Vorlage
+is a mixture of Alexandrian and Western text types. The Caesarean is
+unlikely to be the text type of the VorUge. Another important statistic is
+that 50/230 (21.74%) (or 50/195 (25.64%)) are the number of variants
+which agree with Codex Bezae against Codex Sinaiticus.
+As far as the Latin MSS are concerned:
+• 158/230 (68.70%) readings agree with one or more Old Latin MS/MSS
+(and some Greek MSS etc.)
+• 64/230 (27.83%) readings agree with one or more Vulgate MS/MSS
+(plus Greek, Old Latin MSS etc.)
+• 7/230 (3.04%) readings agree only with one or more Old Latin MS/
+MSS
+• 2/230 (0.87%) readings agree with the Vulgate (plus Greek, etc.) but
+not the Old Latin MSS.
+From the apparatus above, it seems obvious that there is a common
+tradition behind the Old Latin and CSA. The chart below shows to
+which Latin manuscript CSA is closer. (Fragmentary Old Latin MSS
+were discarded.)
+The chart above shows that MS d has the highest percentage of readings
+which agree with CSA. The Old Latin d is the Latin text of Codex Bezae
+(about 400 A.D.), 24 and the Greek text of this codex also agrees closely
+with CSA.
+Old Latin MS a of the 4th century, which is considered to represent the
+early form of the European Latin text, has one of the highest percentages
+(47.47%) as opposed to MS q (considered to have an Italian text) which
+has one of the lowest percentages (25.32%).
+MS e (which is, after k, the most important witness to the African
+Latin text) has a relatively high percentage of agreements with CSA. If
+we include the defective readings as a possible supportive to CSA (five
+variants) then MS e will have a higher percentage than a.
+Firstly, as far as the Coptic manuscripts are concerned, 101/230 read-
+ings agree with one or more Bohairic MSS; 91/230 readings agree with
+one or more Sahidic MSS. In general both the Sahidic and the Bohairic
+versions agree with the Alexandrian text type. Nevertheless, it is gener-
+ally agreed that the Sahidic has many Western readings, especially in the
+Gospels and Acts.
+Secondly, as far as the Syriac MSS are concerned, 75/230 readings
+agree with the Sinaiticus; 64/230 with the one or more Peshitta MSS;
+56/230 with the Curetonian; 50/230 with Syriac Jerusalem Lectionaries;
+and three readings agree with the Syriac only.
+Thirdly, 61/230 readings agree with one or more Ethiopian MS/MSS,
+and 3/230 agree with the Ethiopian versions only.
+Fourthly, 48/230 readings agree with the Arabic Diatessaron and two
+readings agree with the Arabic Diatessaron only; 39/230 readings agree
+with the Persian Diatessaron and one reading agrees with the Persian
+Diatessaron only.
+CSA has an unusual mixture of Alexandrian and Western text-types. On
+the one hand there are variants showing clear affinities with the Sinaiticus,
+Vaticanus, P 75 , P 45 (and also with the Sahidic (partially Alexandrian) and
+Bohairic Coptic versions), and on the other hand with Codex Bezae,
+Old Latin version, and the Syriac Sinaiticus text. Some of the readings
+are extremely archaic; they are supported by a few of the earliest Greek
+manuscripts, and reflect the archaic nature of the Vorkge. CSA agrees
+with a relatively high number of Old Latin readings, but also Old Syriac
+readings and reflects a Greek Vorhge which underlines both Latin and
+Syriac traditions. Textually speaking, CSA stands as unique among the
+extant Arabic Gospel manuscripts. It witnesses to the richness of the Greek
+biblical text which was in circulation before the eighth century.
+There are still important areas in CSA which need further investiga-
+tion. A Greek reconstruction of the Arabic text (of the Four Gospels) is
+first needed to help non-Arabicists to benefit most from this codex, and
+to make their own contribution. An extensive textual examination of the
+Four Gospels of CSA is certainly essential, and will follow this study in
+the near future. A clear relationship between the Arabic text and old Latin
+versions still needs to be established.
+On a linguistic level, Arabicists might find this text crucial and a
+publication of the Four Gospels is certainly worth undertaking. A closer
+palaeographic examination might help us date it with more accuracy. It
+remains extremely difficult to be confident whether CSA was copied in
+the early eighth century, middle eighth century or early ninth century.
+The second half of the eighth century seems to be most likely. The ques-
+tion which remains unanswered is when the Archetype of CSA was first
+produced. Is it in the fifth, sixth or seventh century? This question may
+never receive a satisfactory answer. All that we know is that the text of
+CSA was in circulation in the eighth century.
+The geographical location of this manuscript is still a mystery. Generally
+speaking the ninth century Arabic Gospel manuscripts have emerged in
+South Palestine and Syria. Is this true for CSA? Should we consider other
+possibilities? Which church did this manuscript belong to? What kind of
+relationship exists between CSA and other Arabic Gospel manuscripts of
+the ninth century? All these questions await an answer.
+It is the authors hope that this article will stimulate interest in the
+Arabic gospel manuscripts, so that, with the involvement of more scholars,
+new light may be shed on the history of the biblical text.

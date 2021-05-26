@@ -1,0 +1,615 @@
+In an article written in Novum Testamentum ten years ago, Abraham J.
+Malherbe made an important contribution to the interpretation of Luke
+12:13-34. His study demonstrates "the extent to which the entire text
+is shot through with items from the topos on greed." 1 Reviewing the delib-
+erations on covetousness by Greco-Roman philosophers and moralists—
+especially Dio Chrysostom's Oration 17—Malherbe identifies several
+conventional themes for the topos περί πλεονεξίας ("concerning covetous­
+ness"). He then argues persuasively that Luke employs many of these
+conventions, including the superfluity of covetousness (12:15), the insa­
+tiable dimension of greed (12:16-21), and the theme of anxiety (12:22-32).
+Malherbe observes, however, that Luke is not slavish in his development of
+the topos on greed, for the third evangelist also places his own particular
+2
+theological stamp on it. One of the significant outcomes of Malherbe's
+analysis is that he shows how Luke 12:13-34 can be read as a coherent unit
+with its own inner logic.
+The following study is intended to complement the work of Malherbe.
+I suggest that much light is shed on the unity and logic of Luke 12:13-34
+when one reads it as an elaboration of a saying, or chreia, of Jesus concern­
+ing covetousness. Specifically, I submit that this passage contains all of the
+elements that are outlined in a progymnastic exercise attributed to the
+second century C.E. rhetorician Hermogenes of Tarsus—elements that,
+taken together, make up what classical rhetoricians called the "complete
+argument." Where Malherbe brings the world of Greco-Roman moral
+philosophy to bear on his interpretation, this study applies insights gained
+from the arena of rhetorical education—or more precisely, of a pre-
+rhetorical handbook exercise. And where Malherbes analysis illuminates
+several material features of the Lukan text, this study focuses more on its
+formal aspects.
+In what follows, I set forth the steps of Hermogenes s elaboration of a
+chreia (Part II). Then, after suggesting how Luke 12:13-34 aligns with the
+Hermogenean form of a complete argument, I offer an analysis of the pas­
+sage by means of this template (Part III). I conclude with some observa­
+tions on the significance of this study. It is first necessary, however, to
+justify using a text of a school exercise that/w.tf-dates Luke's gospel in order
+to interpret a passage contained therein (Part I).
+This question actually contains two questions—one that concerns dating
+and another that concerns relevance. First, the question about chronology:
+how does one avoid the charge of anachronism? That is, how can a text
+3
+attributed to Hermogenes —thus dated to the latter half of the second
+century C.E.—be used as a template for reading Luke 12:13-34? As we
+will see in Part II, the eight steps of Hermogenes's progymnastic exercise
+περί χρείας ("On the Chreia") resemble very closely the components that
+make up what the author of the Rhetorica ad Herennium calls "the most
+complete and perfect argument" (absolutissima et peyfectissima argumen­
+tation} Based on earlier Greek sources, the Rhetorica ad Herennium is a
+rhetorical handbook from the early first century B.C.E. 5 Hermogenes's
+elaboration exercise was thus not something de novo, but rather a develop­
+ment of a pedagogy that was established well before the time when the
+evangelist Luke received his education.
+The latter observation leads naturally to the question concerning rele­
+vance. For the past quarter century, New Testament scholars have become
+increasingly aware of the importance of understanding the rhetorical train­
+ing of early Christians who put into writing stories and traditions about
+Jesus, including the authors of those texts that were eventually canonized.
+As George A. Kennedy has observed, it is crucial to appreciate that "the
+writings of early Christians beginning with the gospels... were molded by
+the habits of thinking and writing learned in schools." 6 The progymnasmata—
+handbooks containing exercises for students who, having completed their
+basic grammar and literary courses, were beginning their formal rhetorical
+education—are surely a valuable source for gaining insight into such learned
+habits of thinking and writing." In this vein, Todd Penner has recently
+called scholars to "reshift" their rhetorical focus by attending to progym-
+nastic pedagogy, to "the mental formation that is promoted by the exer­
+8
+cises themselves
+" There is thus a growing appreciation of the relevance
+and importance of the progymnasmata for New Testament studies in gen­
+9
+eral and for the gospels in particular. The burden of the following sections
+is to show the relevance of a single exercise, Hermogenes's περί χρείας^ for
+understanding the mode of argumentation and the logical progression of
+Luke 12:13-34.
+Περί χρείας is the third chapter of Hermogenes's Progymnasmata.TM The
+author begins by offering a definition of the chreia: "a reminiscence of
+some saying or action or a combination of both which has a concise resolu­
+tion, generally for the purpose of something useful" (lines 2-4). n Next he
+classifies chreiai into three forms: sayings-chreiai, action-chreiai, and mixed
+(sayings + action) chreiai (lines 5-15). He then distinguishes chreiai from
+reminiscences and maxims (lines 16-26). According to Hermogenes, the
+chreia differs from the reminiscence in that, where the latter tends to be
+lengthy, chreiai are concise. 12 The chreia also differs from the maxim in
+that, where the latter is expressed in a simple statement by no particular
+character, chreiai involve a historical person and are frequently expressed
+with a question and answer. Following a brief comment about the different
+species of chreiai (lines 27-29), Hermogenes moves on to "the chief mat-
+ter," namely the elaboration (εργασία) of a chreia (lines 30-62). The elabo­
+ration exercise consists of the following eight steps: 13
+(1) A note oí praise (έπαινος) for the one who spoke (and/or acted)—
+This brief encomium (έγκώμιον) functions both to introduce what follows
+and to establish the ethos and authority of the figure in question.
+(2) The chreia (χρεία) itself, which is to be amplified—In terms of the
+complete argument, the recitation of the chreia is tantamount to propos­
+ing a thesis statement.
+(3) The rationale (αιτία)—Because by their very nature chreiai tend to
+be provocative, even enigmatic, they require an explanation. The rationale
+serves to provide such explanation. Burton L. Mack observes that the
+rationale has both interpretive and argumentative purposes. It is interpre­
+tive in that it selects or isolates a point to be developed. The argumentative
+aspect arises from the fact that the chreia and rationale together constitute
+an enthymeme, a rhetorical syllogism in which a premise or conclusion is
+left unexpressed (but which should be ascertainable from the overall con­
+text). Mack then points out, "Taken together, and viewed as argumenta­
+tion, the combination of chreia plus rationale establishes the primary proof
+or basic argument." 14
+(4) A statement of the opposite or contrary (κατά το εναντίον)—Techni­
+cally speaking, the actual elaboration begins here (and continues through
+Step 7). This first supporting argument operates by inverting the terms of
+the rationale. If after inverting the terms of the rationale the resulting state­
+ment makes sense, then the truth of the chreia (thesis) is bolstered.
+(5) A statement from analogy (εκ παραβολής)—The second supporting
+argument appeals to the natural and/or social orders to corroborate the
+chreia. An effective analogy succeeds by showing that what is claimed in
+the thesis statement pertains to other orders of observable reality. Indeed,
+the strategy is to suggest the universal truth of the original claim.
+(6) A statement from example (εκ παραδείγματος)—The third support­
+ing argument enlists a well-known figure from history who illustrates in
+dramatic fashion the general principle contained in the chreia. The effect
+is the establishment of an important historical precedent.
+(7) A statement by an authonty (εκ κρίσεως)—The last supporting argu­
+ment enlists one or more authoritative figures from the past who have, in
+their own ways, advocated what is set forth in the thesis statement. When
+the thesis calls for a particular action (or a warning against such), the author­
+ities are usually taken from the canons of literature and philosophy.
+(8) A closing exhortation (παράκλησις)—The elaboration concludes with
+an admonition to heed the one who has spoken (and/or acted). 15
+What is significant about this eight-step school exercise is that it practically
+replicates the pattern established by Rhetorica ad Herennium for a complete
+argument. 16 According to this treatise, such an argument is made up of the
+following components: 1) a proposition (propositio), 2) a rationale {ratio),
+3) a confirmation of the rationale (rationis confirmatio), 4) an embellish­
+ment {exornatio), and 5) a summary {conplexio). 17 A little later the author
+oí Rhetorica ad Herennium explains that the exornatio consists of four types
+of argument: 1) an analogy {simile), 2) an example (exemplum), 3) an
+amplification {amplificano), and 4) a previous judgment {res iudicata). 18 A
+cursory comparison with Hermogenes's exercise reveals that the only item
+missing in the lists in Rhetorica ad Herennium is the argument from the
+contrary. Interestingly, this type of argument {contrarium) appears in yet
+another list in Rhetorica ad Herennium—in the outline for the embellish-
+ment of a theme or thesis {expolitio) . 19 The critical point here is that the
+περί χρείαςprogymnasma was designed to train students to develop their
+abilities to elaborate on a theme in such a way as to produce a complete
+argument. Although this exercise was designed for students in the early
+stages of their rhetorical education, its mastery would have demanded an
+20
+advanced level of training.
+Precisely what is the logic embedded in the complete argument? Accord­
+ing to the eleventh century commentator John Doxapatres, the particular
+sequence of the elaboration exercise involved a rational progression. 21
+Doxapatres compared the rationale with the main argument of a speech.
+This corresponds to Macks observation that the chreia + rationale consti­
+tutes the primary proof or basic argument. In terms of the actual elabora­
+tion, Doxapatres insisted that the statement of the contrary has primacy of
+place because it is a "demonstrative" argument. In contrast, the analogy
+and example are "celebratory" arguments. The analogy precedes the exam­
+ple because, logically, the general is prior to the specific; moreover, the
+specific (i.e., the example) functions to corroborate the general. Doxapa­
+tres then remarked that the statement from authority—which is an "unin-
+vented" proof, and thus is more persuasive than "invented" proofs 22 —serves
+as a ratification of the preceding arguments.
+Having set forth the content of Hermogenes's περί χρείας exercise and
+the logic of the complete argument, we are now in position to argue the
+thesis of this paper—namely, that Luke 12:13-34 is an elaboration of a
+saying of Jesus that follows closely upon the Hermogenean pattern.
+A quick glance at this passage reveals that it contains a number of the ele­
+ments found in Hermogenes's elaboration of a chreia. Following a request
+to Jesus that he settle an inheritance dispute (12:13), we see the following
+elements: an enigmatic and sharp retort from Jesus (12:14) followed by a
+warning against covetousness (12:15a); a rationale or reason ("because
+ones life does not consist in the abundance of his or her possessions"—
+23
+12:15b); analogies from nature (ravens and lilies—12:24-28); and clos­
+ing exhortations ("sell your possessions and give alms"; "store up treasure
+in heaven"—12:33). Moreover, the parable of the rich fool (12:16-20)
+illustrates the fate of someone who believes that life consists in the abun­
+dance of possessions, a principle that is the contrary or opposite of Jesus'
+rationale in 12:15b. We also see that in this passage Jesus appeals to the
+(admittedly negative) example of the "Gentiles"/"nations" (12:30) and
+evokes a famous person from the past (Solomon—12:27). Finally, we see
+Jesus alluding to his own authority as one who knows what God's good
+pleasure is (12:32).
+Given these observations, I propose the following structure as the basis
+for the analysis that follows:
+Two caveats before proceeding: First, my purpose is not to provide an
+exhaustive analysis of Luke 12:13-34. Rather, I employ the template of
+Hermogenes's elaboration in order to highlight and clarify the flow and
+logic of the Lukan Jesus' discourse in these verses. To be sure, this passage
+does not follow the Hermogenean form exactly, and it will thus be neces-
+sary to flag important differences. Nevertheless, I suggest that, while Mal-
+herbe is correct in arguing that the topos on greed is developed throughout
+this pericope, there is a more fundamental structure that holds it together—
+namely, a specific manner of argumentation that develops Jesus' warning
+against covetousness through rationale, contrast, analogy, example, and
+authoritative support. 24
+Second, it is important to acknowledge the underlying complexity of
+Luke 12:13-34. This passage consists of materials from Luke's special
+source (12:13-15, an admonishment against greed; 12:16-20, a parable),
+from Q(12:22b-31, teachings about anxiety [cp. Matt. 6:25-33]; 12:33b-
+34, exhortations concerning possessions [cp. Matt. 6:19-21]), and from
+the third evangelist himself. 25 Therefore, a certain degree of nuance is
+required for my argument. Luke's production of a rhetorically complete
+argument here is largely the result of arranging and editing materials
+already available to him. Does such ordering of materials offer a clue to
+what Luke means when he announces in the prologue his intention, using
+various sources, to write a narrative "in proper order" (καθεξής—1:3)? I
+will return to this question in the concluding section.
+The passage begins with a request from "someone in the crowd" (τις έκ του
+δχλου) who asks Jesus to arbitrate in a family dispute over inheritance. The
+main function of 12:13 is to introduce the scene of a passage in which
+Jesus warns against the dangers of greed. Obviously, the reader of Lukes
+gospel is in no need of an introduction to Jesus at this point in the narra­
+tive. Nor has there been any lack of honorific titles used in connection
+with him. 2 6 Nevertheless, the fact that the unnamed man approaches
+Jesus as one having authority and addresses him with a title of respect—
+διδάσκαλε ("Teacher")—functions to enhance the portrait of Jesus. He is
+clearly perceived as a person of learning and integrity, such as a scribe or
+rabbi, who has authority to settle legal disputes and whose words carry
+persuasive weight. 2 " Thus 12:13 not only introduces the scene but also
+places Jesus in an authoritative role. How will he exercise that authority?
+Jesus' response to the man's request is not, we can presume, what the latter
+expected to hear: "Man, who appointed me as judge (κριτής) or appor-
+tioner (μεριστής) 28 over you?" (12:14). The vocative άνθρωπε ("Man") is
+here a term of reprimand, and the tone is acerbic and brusque. 29 Jesus'
+pithy, confrontational reply fits Theon's description of a chreia—"a concise
+statement or action which is attributed with aptness to some specified
+character." 30 More specifically, it is a responsive chreia, a saying that answers
+a question or request made by someone else. 31 Indeed, recall that, for
+Hermogenes, the dement of responding to another is what distinguishes a
+chreia from a maxim. Jesus' initial response unsettles expectations. He was
+addressed as "Teacher" and was presumed to have the authority and com-
+petence of a scribe for adjudicating an inheritance dispute. Jesus' sharp
+question, however, indicates that he rejects the role of arbitrator in this
+case. But his response also functions to raise a number of questions: Who
+then is κριτής and μεριστής? What exactly is meant by the latter term? And
+what role is Jesus going to take if not that of κριτής or μεριστής? 32
+The last question is immediately answered in 12:15a. Observe that Jesus
+does not reject being called "Teacher." Indeed, he immediately turns to the
+crowd—note the addressees are αυτούς—and admonishes them: "Watch
+out and be on guard against all [forms of] covetousness." 33 As we will see,
+throughout the remainder of the passage Jesus assumes the role of teacher,
+first warning the crowd against the dangers of greed (12:15-21), and then
+exhorting his disciples to trust in God to provide for their needs (12:22-
+34). I propose that his initial warning to the crowd in 12:15a functions as
+an amplification of his initial response to the unnamed man of 12:13. 34
+Recall that the Hermogenean exercise calls for an amplification of the chreia
+itself. Luke thus expands on a historical recollection of Jesus' encounter with
+a man who sought him out as arbitrator by adding a strong warning against
+the dangers of πλεονεξία (likely taken from another Jesus-tradition). 35 In
+doing so, the Lukan Jesus gives specification to the topos to be developed
+(and which Malherbe astutely analyzes).
+At this point, I anticipate an objection to combining Jesus' question to
+the man in 12:14 with his warning to the crowd in 12:15a to form the
+amplified chreia that serves as the basis of the elaboration to follow. Does
+not the change in addressee argue against such a conjoining? In response:
+Observe that the crowd has already been present since 12:1, where Jesus
+started to instruct his disciples on the need to persevere in faithfulness in
+the face of persecution. The man's intrusive question in 12:13 leads Jesus,
+after an initial rebuke of the former's request, to turn to the crowd to warn
+against covetousness. Given Luke's overarching concern about the right
+use of possessions, this is a natural move for him to make. 36 Moreover, we
+should not lose sight of the presence of the disciples who also hear this
+warning. As we will see, Jesus directly addresses them again starting in
+12:22 where he encourages them to trust in God to provide for their needs.
+But this teaching also takes place within earshot of the crowds. As Joel B.
+Green remarks, "Luke often portrays Jesus teaching one group in the hear­
+ing of another because of the general suitability of Jesus' message." 3 Thus
+the significance of the change of audience ought not to be overstated here.
+Immediately following Jesus' warning against greed, he offers an explana­
+tion: "because ones life does not consist in the abundance of his or her
+possessions" (12:15b). 38 This explanation functions as the rationale for the
+chreia. Recall from the discussion in Part II that the rationale entails both
+interpretive and argumentative aspects. In terms of offering an interpreta­
+tion, 12:15b makes explicit the theme of possessions (τα υπάρχοντα) and
+introduces the theme of life (ζωή). 39 In terms of argumentation, the chreia +
+rationale establishes the basic argument that is to be supported by the
+remaining steps of the elaboration. Thus, the basic argument in 12:15 is,
+skeletally: Beware of greed, for life consists in more than possessions.
+Moreover, because this basic argument takes the form of an enthymeme, it
+contains an unexpressed premise. The implicit premise is: covetousness
+seeks fulfillment in the abundance of possessions. 40 Such a manner of
+human existence is tragically illustrated in the parable that immediately
+follows (12:16-20). But the Lukan Jesus' rationale raises a further ques­
+tion: in what or, perhaps better, in whom does life consist? The answer to
+this question is forthcoming only later in the elaboration. 41
+Jesus then tells the crowd a parable to exemplify his warning against greed
+(12:16-20). This parable functions to posit and illustrate a statement of the
+opposite or contrary, which is the step in Hermogenes's exercise that fol­
+lows the rationale (and which begins the elaboration proper). 42 Here Luke
+adapts the Hermogenean form; that is, instead of giving a contrary state­
+ment in propositional form, the third evangelist offers an argument from
+the opposite via a parable of Jesus. In the context of Lukes complete argu­
+ment in 12:13-34, 43 this parable communicates the position that, instead
+of giving life, possessions in fact take away one's life.
+Jesus' parable begins thus: "The land of a certain rich person produced
+abundantly" (12:16b). It is noteworthy that the subject of the sentence is
+χώρα, "land" or "field." Notice that the rich person—presumably a large
+land owner—is not the agent of production here. Implied, of course, is
+that it is God who is the provider of the man's abundance, a theme that the
+Lukan Jesus will make explicit in 12:22-32. Seeing the abundant harvest,
+in 12:17 the land owner soliloquizes (literally, "discusses with himself"),
+"What shall I do, because I have no [adequate place] where I may store my
+(μου) crops?" That the man consults only himself already points to the
+answer at which he will arrive. Observe how, from the very beginning, he
+excludes others—including God—from the "conversation." To say the
+least, the land owner is far away from the righteousness set forth, for
+instance, in Ps. 112. The latter is a song of praise of the person who fears
+the Lord (Ps. 112:1) and who imitates God's generosity by dealing open-
+handedly with others (112:5) and by distributing freely to the poor (1 \2'3). u
+The land owner's decision is given in Luke 12:18-19. Still speaking to
+himself, he resolves, "I will do this: I will tear down my barns (άποθήκας)
+and I will build larger ones, and there I will gather all my grain and all
+my goods. Then I will say to my soul, 'Soul (ψυχή), 45 you have many
+good things laid up for several years. Rest, eat, drink, celebrate!' " There
+are several striking features in these verses upon which to remark. First,
+the repetition of first person singular pronouns points to the land owner s
+self-centeredness. Second, the prevalence of future tense verbs indicates that the
+man thinks he is in full control of his own future. 46 Third, the asyndeton
+(that is, the suppression of conjunctions) of the climax of the soliloquy—
+"Rest, eat, drink, celebrate (εύφραίνου)!"—reveals his supreme self-confidence
+and -assertion. 4 ^ Indeed, as Bernard Brandon Scott points out, in Jesus'
+way of telling the parable, the rich man at this point usurps the story from
+48
+the narrator, just as he has usurped the bounteous harvest for himself.
+Let us now take stock of what we have learned about the land owner
+from 12:17-19. Although already abundantly wealthy, he decides to keep
+more (πλειον), thereby succumbing to πλεονεξία. His decision manifests
+the view that life does consist in abundance of possessions, a view that
+directly contradicts the rationale given in 12:15b. He completely ignores
+the needs of others in his deliberations and thus fails to recognize that
+wealth should be shared with those in need. 49 At a more fundamental level,
+the land owner's fateful decision reveals his belief that he is in complete
+control of his fate and future. He fails to acknowledge that God is the giver
+of life and prosperity. In short, the rich man exhibits what Peter Rhea Jones
+calls "practical atheism"—thinking and acting as if God does not exista 0
+Finally, in 12:20, God makes a sudden appearance and intrudes on
+the land owner's solitude. God confronts him, saying, "Fool (άφρων)!
+This night they are demanding (άπαιτοΰσιν) your soul (ψυχήν) from you!
+Now, to whom will belong the things you have prepared?" The rich man
+is exposed and condemned as a "fool," a judgment made all the more
+poignant by the alliteration and consonance between his last word—
+εύφραίνου—and God's first word in reply—άφρων. Indeed, the epithet
+άφρων recalls the words of LXX Ps. 13:1 : "The fool said in his heart, 'There
+is no God.' " Moreover, God's words in Luke 12:20 make clear that posses­
+sions do not give life. While most translations and commentaries take the
+third person plural verb άπαιτοΰσιν (without a subject) as expressing the
+divine passive—signifying that the land owner's life is now being demanded
+by God—the sentence makes perfect sense grammatically and contextually
+by taking "goods" (αγαθά in 12:19 = possessions) as the subject of the
+verb. That is, it is the man's possessions that literally take his soul/life
+from him. Dl
+Observe how God's words in 12:20a reverse the rich man's words to
+himself in 12:17-19. The one who solipsistically conversed with himself as
+ψυχή is told that his ψυχή is now being demanded from him. Rather than
+having "several years" to enjoy his possessions, he will die "this night." And
+instead of having "goods" laid up, he loses the only thing of ultimate value,
+namely life. Furthermore, God's rhetorical question in 12:20b hauntingly
+sets forth the ephemeral quality of possessions. As Luke Timothy Johnson
+remarks, "The shattering of his life and the scattering of his possessions are
+equally outside his control." 52
+Jesus' parable of the rich fool therefore serves two key functions in Luke's
+elaboration. First, it expresses in dramatic imagery the inversion of the
+rationale given in 12:15b. The land owner's working assumption—that life
+consists in an abundance of possessions—is shown to be false. Rather, the
+Lukan Jesus insists here that not only do possessions fail to give life, they
+even take it away. This is to argue from the contrary or opposite. Second,
+Luke's elaboration via an illustrative story takes up a critical theological
+point. Recall that Jesus' harsh response in 12:14 left open the question:
+Who is κριτής? Jesus' story suggests in no uncertain terms that it is God
+who wall judge those who greedily hoard possessions and who do not
+acknowledge God as the giver of life and goods. 53 God is thus portrayed in
+12:20 as the κριτής who condemns those who conduct themselves as if life
+consisted in abundance of possessions.
+The Lukan Jesus then adds his own commentary to the parable in 12:21 :
+"So it is with the person who stores up treasure for himself and is not rich
+unto God." These words perform a Janus-like function. They look back as
+a summary of what has preceded (12:13-20). They also look ahead to the
+following verses, as two inter-related themes are introduced—treasure and
+being rich unto God—that will become key components of Luke's further
+elaboration.
+Having warned the crowd against the dangers of covetousness, Jesus turns
+his attention to his disciples to whom he directs the rest of this discourse
+(12:22-34). :>4 In 12:22 Jesus offers guidance vis-à-vis possessions to his
+closest followers—they are not to live as if attaining security were the real
+meaning of life: "do not be anxious about [your] life, what you shall eat,
+nor about [your] body, what you shall wear."^ Then, in 12:23, he grounds
+this exhortation with a rationale that echoes 12:15: "For (γαρ) life is more
+than food, and the body is more than clothing." While Jesus challenges his
+disciples to avoid πλεονεξία, they are to strive for what is "more" (πλειον).
+What this "more" consists of will become clear in 12:31. But first, the
+Lukan Jesus offers two analogies from nature, the fifth step in Hermo­
+genes's elaboration that produces a complete argument. In Luke's elabora­
+tion, these arguments from analogy directly support Jesus' warning and
+rationale in 12:22-23 (which are a refinement of the original chreia + ratio­
+nale in 12:14-15).
+The first analogy takes up the theme of life/eating/food. In 12:24 Jesus
+instructs his disciples to "consider'V'think about" (κατανοείν) the ravens
+(κόρακες)^ 6 What can one learn by observing ravens? They neither sow
+nor reap; they do not have storehouses or barns (the same term, αποθήκη,
+found in the parable of the rich land owner). Nevertheless—and this is the
+crucial point—God feeds them. Jesus' teaching here echoes Ps. 147:9 and
+Job 38:41, both of which proclaim that, when the ravens cry out for food,
+God responds by providing them sustenance. Moreover, given that ravens
+were considered byTorah to be unclean (Lev. 11:15; Deut. 14:14), God's
+provision for them highlights God s superabundant goodness and perva­
+sive care for all creatures. 57 The Lukan Jesus then argues from the lesser to
+the greater {a minori ad maius): if God takes such care of the (unclean)
+ravens, how much more will God provide for human beings who are of
+much more value than birds?
+The second analogy from nature picks up the issue of body/wearing/
+clothing. In 12:27 Jesus bids his disciples to think about the lilies (κρίνα). 58
+What can be learned from considering lilies? Although they neither toil
+nor spin, they are clothed in more glory than the renowned Solomon,
+whose glory (including his servants' vesture) took away the Queen of She-
+ba's breath (1 Kgs. 10:4-5). Jesus then argues again from the lesser to the
+greater in 12:28. Observe how he refers now, not to lilies, but to grass
+(χόρτος—a possible allusion to Isa. 40:6-8): if God clothes the grass, which
+is here today and gone tomorrow, how much more will God see to the
+needs of people? 59
+Recall from Part II that an effective argument from analogy has two
+characteristics—it pertains to the empirical order and is universal in scope.
+The Lukan Jesus' analogies in 12:24-28 reflect these characteristics. He
+appeals to two highly observable phenomena, birds and flowers. And his
+analogies are all-encompassing at three levels. First, as Robert C. Tannehill
+notes, ravens and lilies function here as "resonant images for a reality that
+extends far beyond them." 6 0 Second, as Richard J. Dillon points out,
+12:22-28 contains a series of pairings—life/body, food/clothing, eat-drink/
+wear—that imply totality. Third, by referring to the labors of men (sowing
+and reaping) and women (spinning and weaving), Jesus' analogies sub­
+sume "the two constituents of the human race at large." 61
+How do the two analogies from nature advance Jesus' admonition against
+greed (12:15a) and, more specifically, his exhortation to his disciples not to
+be overly anxious about food and clothing? In the first place, they make an
+anthropological point, namely that human beings are part of God's cre­
+ation. Used in tandem with Jesus' rhetorical questions in 12:25-26—which
+remind human beings of their creaturely limits—the analogies make clear
+that human beings are in the position of receiving life. The a minori ad
+maius mode of argumentation (12:24, 28) then adds the nuance that
+human beings, who stand at the pinnacle of creation, make a special claim
+on the Creator. 62 This leads to a second, even more fundamental point.
+Similar to how Luke's narrative adaptation of the argument from the con­
+trary led to a theological claim in 12:20—it is God who is κριτής—the
+third evangelist's two-fold argument from analogy makes a theological
+point. The Lukan Jesus now answers the second question raised in 12:14—
+namely, Who is μεριστής? In 12:24-28 he presents God as the gracious
+"apportioner," the giver of life who providently provides for the works of
+creation. Jesus reveals God as the One who lovingly and wisely dispenses
+what is conducive for life, especially for human beings. Therefore, what
+was implied by the divine passive in 12:16 is now made explicit: God is the
+provider of life and of what is needed to sustain it. 63
+Before proceeding, a word about God as μεριστής (in the sense of
+"apportioner"). 64 Admittedly, the substantive μεριστής is never used of
+God in Scripture. God is, however, the subject (both implied and explicit)
+of μερίζειν in contexts in which this verb means "to apportion," and
+that which is apportioned provides sustenance for life. For instance, in
+LXX Num. 26:52-56 God instructs Moses how to apportion the promised
+land to the twelve tribes (using the passive of μερίζειν three times). The
+sense of this passage is that Moses is to facilitate God s provision of the
+land, taking into account the different sizes and needs of the individual
+tribes. It is significant to note, moreover, that what God apportions to the
+tribes is called Israels "inheritance" (κληρονομιά—the term used by the
+man who approached Jesus in Luke 12:13). The same association of God's
+provision of land to Israel as "inheritance" is made in LXX Jer. 12:14 and
+LXX Sir. 44:23, except now God is named as the explicit subject of the
+verb μερίζειν. The Lukan Jesus' analogies from nature expand this image
+of God as μεριστής to include the latter's care and provision for all of cre­
+ation, and especially for those people who respond to Jesus' proclamation
+of the kingdom. 65
+Immediately following the two analogies from nature, Jesus exhorts his
+disciples, "And you (ύμείς), do not seek what you are to eat and what you
+are to drink, and do not be anxious" (12:29). This admonition recapitu­
+lates his exhortation to the disciples in 12:22. Then, in 12:30a, Jesus adds
+the comment, "for all these things are [what] the Gentiles of the world
+seek." 66 The latter remark functions in Luke's elaboration as a statement
+from example—albeit a negative one—which is the sixth step of the Her­
+mogenean exercise. As C.E Evans observes, this comment is the only
+6
+explicit characterization of the Gentiles in the synoptic gospels: ^ their
+godless lives are marked by the endless pursuit for security. Jesus thus sets
+before his followers the odious example of people who do not acknowledge
+God and God's providential care. In failing to turn in trust to God as
+μεριστής—as the beneficent provider of needs—Gentiles are shown to be
+lacking in comparison with the unclean ravens, the lilies, even the grass of
+the field. Surely the disciples can do better!
+Does the Lukan Jesus resort to using only a negative example? Might
+the reference to Solomon in 12:27 have deeper resonances than appear at
+first glance? Recall from the previous section that Solomon serves here as a
+point of comparison (with the lilies) in order to illustrate God s providen­
+tial care for creation. The nature analogy, however, does not exhaust the
+"thickness" of the reference to Solomon. On the basis of an "intertextual
+reading," 68 I suggest that there is no better example than Solomon of the
+type of human response that Jesus calls for in these verses, namely trust in
+God as μεριστής to provide for one's needs. In his famous dream vision in
+Gibeon (1 Kgs. 3:3-15), the young Solomon—after acknowledging his
+small status before both God and the multitudes of Israel—begged God
+for the gift of an understanding mind so that he might fittingly govern the
+people. So pleased was God with Solomon's request that God not only
+granted him what he prayed for but also long life and prosperity. Observe
+how this story exemplifies well the basic points of Jesus' teaching in Luke
+12:24-28: that his followers ought to turn in trust to God for help and that
+God's provision is superabundant. The third evangelist thus employs the
+negative example of the Gentiles and the positive example of Solomon to
+give "flesh" to the teaching set forth in the analogies from nature. 69
+The seventh step of Hermogenes's elaboration is the statement from authority.
+If the foregoing analysis has merit, we should expect to find a statement
+from some authoritative figure to bolster Jesus' warning against the danger
+of πλεονεξία. The Lukan Jesus, however, cites neither Scripture nor any
+great figure from Israel's past at this point. Nevertheless, the content of
+12:30b-32 is suggestive of authority as Jesus himself discloses "insider
+information" concerning God. That is, in the process of seeking to instill
+in his disciples greater confidence and trust in God, Jesus refers to God as
+"your Father" in 12:30b. God the generous μεριστής is now portrayed as a
+loving father or parent who knows the needs of his children. Thus Jesus
+reveals knowledge of God's knowledge. ° And in response to such a loving
+God, he encourages his disciples to "strive for [God's] kingdom, and these
+things [i.e., food, clothing, etc.] will be given to you" (12:31). Observe
+that it is here that Jesus suggests what the "more" (πλειον—12:23) of life
+involves, namely seeking the things of the kingdom. What this means pre­
+cisely will become clear in the closing exhortations that follow (12:33).
+Jesus' authority is even more evident in 12:32, a verse that is unique to
+Luke: "Do not fear, little flock, because your Father has taken delight
+(εύδόκησεν) in giving the kingdom to you." Two points are noteworthy in
+this connection. First, the reference to Jesus' followers as "little flock"
+evokes images of God as the loving shepherd of Israel (e.g. Ezek. 34:11-24;
+Ps. 78:52-55); now it is Jesus who is the agent of God's care. 71 Second,
+Jesus speaks as one who knows the mind of God, what it has pleased God
+to do. 2 As one who has such knowledge of the ways of God, there is no
+greater (human) authority to whom Jesus can defer. Thus his assertions in
+12:30b and 12:32 function as statements from authority. And by having
+Jesus himself speak with such authority, Luke adapts the Hermogenean pat-
+tern in order to make a christological point that builds on 10:21-22—Jesus
+as God's Son has privileged knowledge of the Father and of the latter's will.
+As in Hermogenes's elaboration exercise, the Lukan Jesus concludes with a
+series of exhortations in 12:33. These exhortations are grounded in what
+God has already done—namely, God has not only given life and suste-
+nance to the disciples (12:24b, 28, 30b) but also, and more importantly,
+God has bestowed on them the kingdom (12:32). In light of these gifts,
+Jesus first urges his followers to sell their possessions (υπάρχοντα) and give
+alms (12:33). By doing so, the disciples will facilitate the in-breaking of
+God's kingdom as they promote what Sharon H. Ringe calls "the ethos of
+the reign of God." This reign is "not marked by poverty and deprivation
+of material goods that are due to the competitive accumulation of posses­
+sions, but by their abundance that flows out of God's own sufficiency and
+generosity." 3 In effect, Jesus calls the disciples to take on God's character,
+to imitano Dei, by being merciful and generous to others as God has been
+merciful and generous to them. 4 Such generosity is also, on a practical
+level, the most effective antidote to πλεονεξία. D Moreover, observe that
+the reference here to υπάρχοντα forms a literary inclusio with the rationale
+in 12:15b. There, Jesus told the crowd that life does not consist in the
+abundance of possessions; now, he instructs the disciples on the proper use
+of possessions—they are to be sold and given to those in need.
+Jesus continues his exhortation in 12:33b: "Make for yourselves purses
+that do not grow old, an inexhaustible treasure in heaven, where no thief
+approaches and no moth destroys." With this admonition Jesus draws
+on traditional Jewish piety that almsgiving brings heavenly reward." 6 He
+thus portrays another aspect of God s role as κριτής: God will not only
+punish those who hoard possessions (12:16-21) but also reward those who
+strive for the kingdom by imitating the generosity of God as μεριστής.
+Indeed, striving for heavenly "treasure" (θησαυρός), which is another way
+of expressing the notion of being "rich toward God," effectively reverses
+the earlier reference in 12:21 to "the one who stores up treasure for him­
+7
+self" (ό θησαυρίζων έαυτω). ' Finally, in 12:34 Jesus offers a maxim—"For
+where your treasure is, there also will your heart be"—that functions to sup­
+port the exhortations in 12:33 as well as the entire preceding discourse.
+Jesus' lengthy discourse in Luke 12:13-34 follows the steps of an elabora­
+tion of a chreia as set forth by Hermogenes in a school exercise designed
+to produce a complete argument. To be sure, there are some important
+differences between the Lukan account and the example set forth by Her­
+mogenes. Luke places the elaboration of Jesus' initial question and warn­
+ing on the latter's own lips. The third evangelist also has Jesus change
+audiences, and the discourse is permeated with several exhortations. The
+statement to the contrary must be extrapolated from a parable, while
+the example of Solomon is embedded in an argument from analogy. The
+explicit example (of the Gentiles) is a negative example, and the authorita­
+tive statement comes from Jesus himself. Moreover, the materials of the
+elaboration derive, for the most part, from already existing traditions. Nev­
+ertheless, the formal similarities are striking, and using the Hermogenean
+progimnasma as a template offers a way of understanding the progression
+of the logic in the discourse.
+A more complete treatment would require demonstrating how the inter­
+pretation of 12:13-34 offered above sheds light on the passage's immedi­
+ately preceding and following contexts as well as on the larger context of
+Luke-Acts. Space limitations prohibit such further analysis here. Even so,
+several significant features emerge:
+(1) This study gives formal support for reading 12:13-34 as a coherent
+literary unit. While Malherbe's article advances our understanding of the
+passage's logical unity via elements from the topos on covetousness, my
+analysis sets forth the argumentative progression of the discourse. Vernon
+K. Robbins has raised the important issues of "culture-transmitting tradi­
+tion" and of what early hearers of the gospel would consider as convincing
+argumentation. 8 1 propose that this article contributes to that discussion—
+which leads to a second point of significance.
+(2) If my treatment of 12:13-34 is on target, then further investigation
+of Luke's gospel in light of our knowledge of the various progymnasmata is
+called for. Mikeal C. Parsons observes that, while such analyses have been
+done on the speeches in Acts, there have been few such studies on the third
+gospel. 9 This article, hopefully, makes a modest contribution to fill part of
+that void.
+(3) This study sheds further light on what Luke means when he explains
+his purpose in writing. In 1:3 the third evangelist states that he intends to
+offer an account that is "orderly" or "in proper order" (καθεξής). Johnson
+has argued that Luke meticulously orders the events he relates so as to
+show forth clearly God's plan of salvation behind those events. 80 My analy­
+sis suggests that the third evangelist also organizes his materials so as to
+create, at least in 12:13-34, a rhetorically ordered and persuasive discourse.
+(4) Finally, this article brings to the fore the theological bases of the
+Lukan Jesus' discourse. 81 Indeed, where Luke adapts and expands the steps
+of the elaboration—in the argument from the contrary and the nature
+analogies—he sets forth God as κριτής and μεριστής, respectively. More­
+over, the fact that it is Jesus himself who offers the authoritative judgment
+has important christological implications. While Malherbe succeeds in show­
+ing how the third evangelist "christianizes" the topos on πλεονεξία, the
+above analysis highlights the theological and christological dimensions
+of 12:13-34.
