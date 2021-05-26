@@ -1,0 +1,384 @@
+New Testament scholars almost universally accept that Hellenistic influences
+exclusively lie behind instructions to husbands, wives, parents, children
+and slaves. This is so much the case that it is zfait accompli that Greek
+influences are completely responsible for the form and content of these
+so-called New Testament "household codes" (e.g. Col 3-4; Eph 5-6). In
+light of newer Jewish documents, particularly 4QInstruction (4Q415-418,
+423; 1Q26), however, this position should be re-evaluated. Although Hel-
+lenistic tradition remains important, Jewish interpretive traditions are
+potentially relevant to the study of New Testament Haustafeln as well.
+Before addressing the importance of 4QInstruction, however, we must first
+comment on the relevant passages of Philo. Until now, they proved to be
+one of the closest Jewish parallels to the form of instruction to family
+members in the New Testament. Philo has long been discussed in regard to
+household codes because he finds the fifth commandment of the Deca-
+logue, to honor one's father and mother, as a natural point of departure for
+discussing marriage and child rearing and, moreover, groups family mem-
+bers in distinct pairs. 2
+More specifically, Philos treatise on the Decalogue 165-167 (cf. Despee.
+Leg. 11.225-227) is arguably one of the closest parallels to New Testament
+instruction directed at the family. In Philo s discourse on the Decalogue, he
+describes how groups of pairs are subordinate to one another. He suggests
+that honoring parents helps one understand how to deal with relations
+between old and young, ruler and subjects, as well as slave to master. Philo s
+interest in pairs also leads him to comment more broadly on the subjuga-
+tion of children and the young.
+Significant for the discussion about influences on Philo when he inter-
+prets the fifth commandment, in the late-1950s David Schroeder argued
+that Philo s ethic derived from the Decalogue within a Jewish Hellenistic
+context. 3 This was, in fact, a break from previous research on Haustafeln
+and never gained broad acceptance in scholarly circles. 4 Schroeder draws
+parallels between Philo and the New Testament, especially in Colossians
+and Ephesians. More recently, Mariis Gielen has supported the conclusion
+of Schroeder based on a stylistic argument about apodictic law. Direct
+exhortations in household codes are seen to derive from the laws of the
+Hebrew Bible, and she suggests readers of the New Testament would have
+turned to the Septuagint in order to understand such teachings. 5
+In the last decades David Balch has made significant contributions
+to understanding influences on both the form and content of family codes
+in New Testament writings. 6 Similar to a number of his predecessors on
+the subject, Balch draws attention to the significance of the fifth com­
+mandment in Philo as a parallel to New Testament instruction. Of par­
+ticular significance is the following passage in Philos Special Laws {De spec.
+Leg. 11.224-227):
+/ now proceed to the fifth, which states the duty of honouring parents, a matter of which, as
+I have shewn in the discussion devoted to this in particular, stana on the border-line
+between [μεθόριον] the human and the divine? For Parents are midway between the
+nature of God and man, and partake of both; the human obviously because they have
+been born and will perish, the divine because they have brought others to the [sic]
+birth and have raised not-being into being. Parents, in my opinion, are to their chil­
+dren what God is to the world, since just as he achieved existence for the non-existent, so
+they in imitation of His power, asfar as they are capable, immortalize the race. And a
+father and mother deserve honour, not only on this account, but for many other reasons?
+For in the judgement of those who take account of virtue, seniors are placed above
+juniors, teachers above pupils, benefactors above beneficiaries, rulers above subjects,
+and masters above servants. Now parents are assigned a place in the higher of these two
+orders, for they are seniors and instructors and benefactors and rulers and masters:
+sons and daughters are placed in the lower order, for they are juniors and learners and
+9
+recipients of benefits and subjects and servants.
+In this passage, Philo sets views on pairs within a framework comparing
+parents with God. Balch concludes that when Philo interprets the fifth
+commandment it is "in light of Platonic and Aristotelian political ethics." 10
+Balch focuses considerable attention on three pairs of relationships—
+master/slave; husband/wife; father/children—which he views ultimately as
+Aristotelian political ideals passed down from the Peripatetics, outlined by
+Arius Didymus, rejected by Philodemus and known to Cicero and Philo.
+Indeed, so pervasive are these political ideas that Balch concludes "Philo
+used them to interpret the Old Testament Decalogue!" 11
+James Crouch is another contributor to the conversation who merits
+attention. He concludes that family ethics in the New Testament were
+significantly influenced by oriental Judaism. 12 Like Schroeder, Crouch
+finds the Jewish Hellenistic (esp. in Ps.-Phocylides and Philo) expression of
+the form of this ethic to be distinctive. However, unlike Schroeder, Crouch
+does not view New Testament family ethics as having developed from the
+Decalogue. Indeed, he comments on Philo s use of the fifth command­
+ment that it provides him with "his best opportunity to press the Stoic
+καθήκον schema into the service of the Jewish Torah." 13
+Schroeder, Balch, Crouch and Gielen have each offered appraisals of
+traditions that influenced Philo. Schroeder and subsequently Gielen sug­
+gest that family ethics grow out of the fifth commandment. Balch finds
+Platonic and Aristotelian political ideas behind Philos interpretation of the
+Decalogue and, thus, does not find significant Jewish influence on New
+Testament family ethics. Crouch, finding Stoic influence on Philo s inter­
+pretation of the Decalogue, minimizes the commandment s significance
+and argues that New Testament ethics are heavily influenced by a conjectured
+Jewish oriental missionary source. For Crouch and Balch, reflection on the
+fifth commandment is not where family ethics derived, but rather the
+command served as a convenient departure point for Philo to expound
+upon ideals gleaned from well-known Greek sources.
+Scholars have often commented and disagreed with Schroeder s conclu­
+sions about the background of New Testament instruction to family mem­
+bers. Most recently, Gielen has supported the thesis of Schroeder, but her
+work has been sharply criticized and does not appear to have been persua­
+sive. 14 For the present conversation, the issue is not whether form and
+content are influenced by Greek discussions on οικονόμοι and follow
+Greek schémas, but rather whether Jewish Palestinian influences could ako
+be viewed as exerting influence on family ethics. 15 Accordingly, when we
+demonstrate that Philo s interpretation of the fifth commandment may
+reflect a Jewish interpretive tradition such as attested in 4QInstruction, it
+becomes necessary to rethink the intellectual background to New Testa-
+ment Haustafeln.
+Before we compare Philos interpretation of the fifth commandment with
+that of 4QInstruction, some relevant background information needs to be
+given. 4QInstruction is the longest document of its kind among the Dead
+Sea Scrolls. It shares characteristics of "traditional" wisdom and apocalyp-
+tic genres. 16 As the title of the document suggests, it is concerned with
+instruction about how to conduct oneself in both a this-worldly and other-
+worldly way. 17 Regarding the latter, the one addressed is exhorted how to
+behave towards angelic beings and gain esoteric hidden wisdom (rVHJ Π).
+Instruction related to this-worldly behavior teaches about how family
+members should relate to each other as well as financial issues, such as
+debt. As we shall see, both aspects of the documents theology are impor­
+tant for our evaluation of influences on Philo.
+4QInstruction was likely composed in the 3rd century BCE. The docu­
+ment is written in Hebrew and survives in at least eight manuscripts, how­
+ever these manuscripts taken together preserve less than 40% of the
+document. Although the work clearly indicates that the addressee has an
+elect status, there is no reason to classify it as deriving from the "Essene"
+community. Indeed, the opinio communis is that 4QInstruction should be
+categorized as a "pre-Essene" (or "non-Essene") work based, in large part,
+on the conjectured date of composition and absence of distinctive termi­
+nology. 18 Furthermore, although the document is not preserved outside of
+Qumran, there is no reason to conclude that it could not have been circu­
+lated more broadly in Palestinian Jewish communities.
+The part of the document that is most relevant for the present conver­
+sation is 4Q416 2 iii lines 15-19. This passage belongs to the largest
+fragment of 4QInstruction which preserves large parts of four columns
+(4Q416 2 i-iv). In the latter two columns of this fragment, teachings occur
+about how members of the family should relate to one another. Not only
+is the fifth commandment rewritten, but there are also numerous allusions
+to Gen 2-3, which will be commented on further below. Allusions to
+these portions of the creation narrative figure significantly in instruction to
+both husbands and fathers concerning the taking of a wife or giving of a
+daughter. 19
+An interest in relations between husbands and wives as well as parents
+and children in 4QInstruction is not limited to 4Q416 2 ii-iv however.
+4Q415 2 ii preserves a rare second person feminine singular address teach­
+ing women to honor their husbands. 20 While one may construe that a
+woman is directly addressed, another likely possibility is that the addressee
+is told how to instruct his wife. 21 These lines may originally have been
+introduced with a statement that "the understanding one should teach his
+wife in this manner: 'honor [your husband] like a father' [2 ii 1; and] c do
+not remove your heart[...; 2 ii 2]. Another fragment, 4Q415 11, is con-
+cerned with instructing a father how to deal with a situation of giving away
+a daughter and a would be son-in-law in taking a wife. This teaching
+appears to be derived from reflections on Gen 2: the establishment of the
+first pair and later separation of children from parents. Another notewor-
+thy fragment in 4QInstruction for considering exhortations about family
+relations is 4Q415 9. Although fragmentary, one may decipher a descrip-
+tion of men having dominion over women (4Q415 9 8, "male having
+dominion over the f [emale] ").
+4QInstruction was first made available in a critical edition in 1999. 22 In
+less than a decade numerous publications have been produced on the doc-
+ument. Among contributions have been several that suggest the significance
+for reading the New Testament. 23 One issue that has not been fully explored
+is the relationship of exegetical traditions in the document with those in
+the New Testament and early Jewish and Christian literature. In this regard,
+not only is the interpretation of the fifth commandment in Philo relevant
+as one background of family instruction in the New Testament, but also
+possible roles creation traditions may have in this connection are too.
+While the focus of this study is an interpretation of the Decalogue in
+4QJnstruction, creation traditions surround the re-writing of the fifth com­
+mandment and are an integral part of teachings to family members.
+A great deal of literature is available for exploring the subject of Greco-
+Roman Haustafeln and New Testament instruction to the family. To date,
+however, there has been no effort to draw attention to the significance of
+documents in the Qumran library to better understand possible influences
+on teachings to family members in the New Testament. Perhaps one reason
+for this has been the misperception that Qumran literature only represents
+a minority group of monastic Jews. In the case of 4QInstruction, and more
+specifically the fifth commandment in 4Q416 2 iii lines 15-19, this docu­
+ment was not available to Schroeder, Balch, and Crouch for their estima­
+tions of Philos use of the command.
+4QInstruction invokes the fifth commandment in a way similar enough
+to Philo that one may surmise they could know a common interpretation
+of it. These and surrounding lines of 4QInstruction teach the addressee
+how to behave in family relations and, similar to Philo s Special Laws (De
+spec. Leg. 11.225-227), consider earthly parentage as an act of creation
+which shares similarities with the divine. I translate and interpret these
+lines as follows:
+rownn rima TQD Ί Ι Λ pino nm wtà ID no vm mi υ*αη (15
+Ό IDK ρ ηηΛ trrwoi irraa ρ wtò btv Ό nsni^Di naoKi (16
+"IWÎOI Dilli) ρ ηηπ bv i m nm noVwon nw*ai ronin το non (17
+noma ττπ[
+]m nanna ]vnb mia ΓΤTM nn nsjriK rb* (18
+Vacat n^D 1 » τη« Π3»η ]vnb (19
+(15) Gaze and then know what is bitter for a man
+and what is sweet to a man. 24
+Honor your father in your low estate,
+(16) and your mother in your youth.
+For as God 25 is to a man so is his father,
+and as angelic beings are to a man so is his mother.
+For (17) they [both] are the oven of your parentage,
+and as he set them in authority over you,
+and fashioned you according to the spirit,
+so serve them.
+And as (18) he uncovered your ear to the mystery of existence,
+honor them for your own honor
+[
+and ] venerate their presence.
+(19) [Do this] for the sake of your life and length of your days.
+On the one hand, a straightforward exhortation to honor father and
+mother occurs in these lines, on the other, however, is an unusual analogy
+that a father is like God and a mother like angelic beings (DTTND). This
+analogy appears to be the basis upon which the command to honor parents
+is structured.
+4Q416 2 iii lines 15-19 exhort children to honor parents because as a
+pair they brought them into existence. The creative act of fathers and moth­
+ers is analogous to the creation of humanity by God and the angels, which
+appears to be part of the documents broader theology (cf. 4Q417 1 i 15-18
+and its interpretation of the plural address in Gen 1:26, "come let us make
+man in our image and likeness"). 27
+Philo conceives of parents as μεθόριος (see De spec. Leg. 11.224 above)
+between mortal and divine while in 4Qlnstruction there is a simile of a
+mother being like an angelic being. The rare occurrences of μεθόριος in
+Philo describe the mediating roles of: (1) Jacob-Israel between God and
+the world (e.g. De mut. Nom. 45); (2) the divine Logos between elements
+of the created world and the harmony of the universe (e.g. De Phnt. 10); 28
+(3) the high priest between the people Israel and God (e.g. De Somn.
+11.187-188); (4) the "perfect man" between the borderline of uncreated
+and corruptible (e.g. De Somn. 11.234-235); (5) the First Man with a nature
+between mortal and immortal; and (6) parents. 29 Parents in Philo stand
+alongside other exalted entities who serve as a boundary between mortal
+and immortal natures.
+Angelic beings are a crucial aspect of 4QInstructions theology and play
+several important functions. They serve as role models for the addressees
+because they pursue wisdom with greater diligence (4Q418 55, 69). The
+addressee, who is described and reminded that he is poor, shares in a type
+of heavenly wealth with angels (4Q416 2 iii). 30 Even though angelic beings
+are superior to the addressee, they are inferior to God. Therefore, the com-
+parison between father/mother with God/angels is a distinction between
+two natures. One may conceive of angels playing a divine mediating role
+in 4QInstruction as venerated beings who are subordinate to God (see esp.
+4Q418 81). 31 Moreover, exhortations about how men and women are to
+relate are likely part of instruction about the behavior of pairs in the docu-
+ment more generally (e.g. spirit/flesh in 4Q417 1 i 15-18). 32 However, the
+elect addressees in 4QInstruction are distinguished from others in the com-
+munity because they achieve understanding in varying degrees. Thus, one
+could summarize that when one gains wisdom vis-à-vis the cryptic mystery
+of being (TXTll Π), some of the elect draw nearer than others to the
+"μεθόριος" figures (= angelic beings).
+Another significant theme in 4QInstruction is teaching the addressee
+how to behave and relate to his wife. The lines that immediately follow the
+use of the fifth commandment may be reconstructed and translated as
+dealing with a wife's origins (In. 20 "in your low-estate you took a wife,
+understand [her] origins") 33 and are followed by an allusion to Gen 2:18
+where woman is described as mans helper (In. 21 "walk together with the
+helpmeet of your flesh"). Both of these ideas—the derivation of woman
+and her description as a helper—are formulated with allusions to Gen 2
+and provide the backdrop for instruction that immediately follows. In a
+running allusion to Gen 1-3, the author describes that: (a) a woman leaves
+her mother and father and the newly married pair becomes one flesh
+(4Q416 2 iv 1,4); (b) authority transfers from her mother and father to the
+new husband (iv 2-4); and (c) the joining of man and woman leads to
+unity or oneness with her (iv 5).
+While 4Q416 2 ii-iv are among the best preserved columns in 4QIn~
+struction, they are still fragmentary and at points difficult to decipher. They
+appear to struggle with the role of women based on creation narratives. On
+the one hand, she is a co-creator and should be honored. Although she
+becomes a unity with her husband (iv 5), the author is certain to describe
+that both parents and husband enjoy a superior status. Rather than an
+equal she is a "helper" who leaves the protection of her parents only to be
+ruled by another (iv 7, "[she is to] walk according to your pleasure"). These
+lines warn against the mistreatment of women and on one occasion the
+one addressed is exhorted not to "dishonor the vessel of his bosom" (4Q416
+2 ii 21). Furthermore, the epithet "wife of your bosom," which occurs
+twice in these lines (ropTI TWH; 2 iv 5, 12), may stress male dominance or
+superiority to women. 34
+Given the paucity of Jewish material from antiquity that may have
+interpreted the fifth commandment but is no longer available for consid-
+eration, it is feasible that Philo was aware of a Jewish tradition preserved in
+a Palestinian Jewish document: 4QInstruction. Philo's comments on the
+commandment could be indebted to an interpretive tradition which was
+broadly known. Indeed, if this is the case then evidence from 4QInstruc-
+tion should be taken into consideration when discussing family ethics in
+the New Testament.
+Similar to 4QInstruction, on three occasions in the New Testament (1 Cor 11;
+Eph 5; 1 Tim 2) relationships between different members of the household
+are discussed in the framework of Genesis creation traditions, most often
+in allusion to Gen 2. 4QInstruction, in addition to elucidating a possible
+tradition known in some form by Philo, provides information for evaluat-
+ing the role interpretations of Genesis creation narratives play in reflecting
+on the family. Two sustained allusions to creation in Eph 5 and 1 Cor 11
+merit attention in this regard. 35 Shared ideas between 4QInstruction, Philo
+and the New Testament illustrate that the Decalogue and Gen 2-3 were
+both significant in forming traditions about the ordering of relations
+between members of the family.
+1 Cor 11:2-16 considers a sequence of authority beginning with Christ
+to man and then from man to woman. Subjugation of woman to man is
+based upon a reading of Gen 2:21-23. Man was created in the image of
+God while woman was created from Adam (11:7-9). In 1 Cor 11:11-12,
+the view that Adam produced Eve, but woman now bears man, is seized
+upon by Paul to stress the interdependence of the genders (vs. 12 "for as
+woman was made from man, so man is now born of woman").
+Both Corinthians and 4QInstruction preserve similar interpretive tradi-
+tions of creation: the natural order known now, that all human life comes
+from woman, is an inversion of the first act of creation when woman was
+begotten by the first man Adam. In 4QInstruction, the origin of woman
+appears to be significant when instructing husband and wives. In this
+regard, 4Q417 1 i lines 8-9 are of interest. These lines may be reconstructed
+and translated as describing the separation of woman from man:
+1
+ΓΡΠ3 ra no** τιο rrann bx wa [ ΟΓΡ]Β;Ι)Ο[3 in] ? afro] pa pin mi iv (8
+rrwn ntonni mir nni[v ]W?i no[an W]coo rropoi ÎWH ηκ uns (9
+(8) ... eternity,
+and then you shall know [the difference] between good and evil,
+according to their deeds,
+for the God of knowledge is a foundation of truth,
+and by the mystery of existence (9) he separated woman,
+and her deeds o..[ in all wis]dom,
+and all [cra]ftiness he fashioned her,
+and dominion of her deeds.. . 36
+Meditation on creation in 4QInstruction results in exhorting husbands to
+rule over their wives. On at least two occasions the addressee is told to have
+dominion over her ( m Vwon in 4Q416 2 ii 3; ΠΠ V*1PDn in 4Q416 2 iv
+2-3). Here in 4Q417 1 i, the woman could be seen as being separated from
+man and fashioned. Language related to woman's deeds and dominion
+over them may allude to the final phrase in Gen 3:16 that "he shall rule
+over her" Cp Vwo* Kim).
+References to the origin of woman (esp. 4Q416 2 iii) is also an indica­
+tion that this is an important theme in 4QInstruction. In 4Q415 2 ii, where
+the second person feminine singular addresses occur, are references to the
+origins of woman as well (Ins. 7, 9). While the context is too fragmentary
+to determine with certainty how they should be understood, it is reason­
+able to consider that woman's derivation from man is the basis for instruct­
+ing her. 37
+Eph 5:22-33 and 4Q416 2 iii-iv both instruct husbands and wives.
+There are some similarities between these two passages, the clearest parallel
+being the use of Gen 2:24 (Eph 5:31; 416 2 iv 1). The pronominal suffixes
+of "his" father and "his" mother are damaged beyond recognition. When
+these two texts take up the idea of becoming one flesh, they separately
+consider that a wife is part of the husband's body (Eph 5:28 σώματα, 416
+2 iv 5 ΊΚ&). In Eph 5:30, Eve's derivation from Adam is the source of an
+analogy between the church and Christ: "for we [the church] are part of his
+38
+[Christ's] body". Indeed, in 5:32 this is described as a mystery (μυστήριον).
+One aspect of the mystery (ΓΡΓΉ Π) in 4QInstruction is a unity and yet
+division between woman and man. The mystery of being in 4QInstruction is
+related to meditation on the nature and order of the created cosmos, and
+interpretations of creation are crucial for deciphering this mystery.
+Eph 5-6 are especially significant for relating teachings to the family in
+4QInstruction to those of Paul. Directly after reference to creation in chap­
+ter 5, chapter 6 continues instruction to family members in connection
+with the fifth commandment: "Children, obey your parents, for it is right
+that you should; 'honor your father and mother' is the first commandment
+with a promise attached." (6:1).
+In Ephesians and 4QInstruction how men and women relate is inter­
+twined with views on creation and the commandment for children to
+honor their parents. Similarly, the order of creation, specifically woman's
+creation after and from man, is contemplated in 1 Corinthians and Ephe­
+sians for determining family roles. 39 When 4QInstruction teaches the
+addressees how to relate to family members, particularly one's wife, two
+biblical traditions are alluded to and rewritten: the fifth commandment
+and Gen 2. That these two passages are interpreted together should come
+as no surprise as they both share an interest in creation and the response of
+the created to their creator(s).
+As we have seen, 4QInstruction interprets the fifth commandment which
+has affinities with Philo. The suggestion that Philo may know traditions
+preserved in a Palestinian Jewish document, particularly a scroll from
+Qumran, need not be a claim to any direct connection between them.
+Particular hearers and readers would have taken interpretations with them
+in the same way sea currents take flotsam and jetsam to different shores.
+That the fifth commandment was used to reflect on parents as creators as
+well as mediating figures between mortal and divine—and is preserved in
+these two compositions—suggests that these traditions could have been
+more broadly known and scattered, but only preserved in two places.
+Philos interpretation of the fifth commandment could certainly be
+viewed as reflecting Stoic or Aristotelian political ideals. However, he was
+also familiar with Jewish traditions that interpreted biblical literature and
+should not so easily be dismissed as using the Bible as a point of departure.
+Moreover, Philo often seeks to demonstrate the value of biblical interpreta-
+tion, in this case he appears to be engaged as an exegete who links Greek
+views on pairs to a particular Jewish view on the created order and an anal-
+ogy of parents as participants in the divine act of creation.
+Philo s comments on the fifth commandment are seen as a crucial pre-
+cursor to New Testament instruction to the family. Presently, evaluations
+of Philo s comments on the Decalogue view him as being almost wholly
+dependent on Hellenistic traditions. The evidence from 4QInstruction may
+help us not only to better view influences on teachings about the family in
+the New Testament, but also call into question that Philo, in this instance,
+is Hellenizing Jewish ideas rather than Judaizing Greek ideas. At the very
+least, a balanced view of the intellectual background to New Testament
+Haustafeln should be one that is open to the possibility that Palestinian
+exegetical traditions play a role in their formulation.

@@ -255,7 +255,7 @@ def generate_population(number_of_sentences, summary_size, population_size):
 
 
 def generate_summary_evolutionary(sentences_as_embeddings, title_embedding, text_as_sentences_without_footnotes, summary_size,
-                                  number_of_iterations=10, population_size=10, a=0.05, b=0.35, c=0.2, d=0.35, e=0.05):
+                                  number_of_iterations=25, population_size=20, a=0.05, b=0.35, c=0.2, d=0.35, e=0.05):
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_evolutionary_algorithm(sentences_as_embeddings)
     population = generate_population(len(similarity_matrix), summary_size, population_size)

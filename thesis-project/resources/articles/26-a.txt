@@ -1,0 +1,436 @@
+In John 21:15 the RSV and the NRSV translate Jesus s question to Peter:
+"Do you love me more than these?"; the KJV and the Webster: "Lovest thou
+me more than these?"; the God s Word version: "Do you love me more than
+the other disciples do?"; the Italian CEI Bible: "Mi ami tu più di costoro?" 1
+The Greek is: Λέγει τω Σίμωνι Πέτρω ό Ίησοΰς, Σίμων Ιωάννου, άγαπας με
+πλέον τούτων; λέγει αύτφ· vai Κύριε, συ οιδας οτι φιλώ σε.
+As may be seen e.g. from the critical apparatus of A. Merks edition, 2 the
+problematic words πλέον τούτων, which appear only at the end of the first
+of the three questions, are omitted by some Greek minuscule manuscripts.
+And in Peter s answer, immediately following Jesus s first question, the rel­
+evant bit is dropped altogether: ναί Κύριε, συ οίδας οτι φιλώ σε, not πλέον
+τούτων. This construct, πλέον + genitive, is also employed in John 7:31,
+whereas in John 4:1 we find the alternative, disambiguating form with ή.
+The main problem with current translations and the most widespread
+4
+interpretation is the absence of an emphatic subject in the sentence; for
+there is no "you" (σύ) expressed, which makes it strongly implausible that
+Jesus is contrasting Peter, the subject of the phrase, to the other disciples as
+the one who loves Jesus more than the others do. Thus, Bernard 5 proposes
+the translation: "Lovest thou me more than these things?," and explains:
+"This interpretation is, indeed, unattractive, but it may possibly be right,
+and it is free from some difficulties which beset the usual interpretation. At
+any rate, Peter in his reply takes no notice of πλέον τούτων." Ignace de la
+Potterie, 6 who considered John 21 to have been written by the author of
+the rest of the Gospel, 7 likewise suggested that we should translate "Ami me
+più di queste cose?" ("Do you love me more than you love these things?").
+The emphasis is not on the subject (Peter vs. the other disciples), but on
+the object, and the comparison is between that object ("me," Jesus) and
+other things, all the rest, for in Greek τούτων may well be a neuter ("these
+things," the things you see all around, the things of "this world," which in
+8
+John is opposed to the other as this κόσμος vs. the αιών). Peter should love
+Jesus more than anything else, so he should even die for him. This is why
+Jesus predicts his martyrdom soon after.
+I shall endeavour to buttress this interpretation with further arguments.
+9
+Raymond Brown observes that Luke 5:1-11 supports it, inasmuch as it
+presents Peter as one who left everything else to follow Jesus. Indeed, I find
+that this passage provides an excellent parallel to the one under investiga­
+tion here, both for its meaning and for the use of πάντα in it to indicate all
+the realities to which Peter prefers Jesus, just as in our Johannine passage a
+very similar neutral plural, ταΰτα, in my interpretation designates all the
+realities to which Peter prefers Jesus. Brown also remarks that it would be
+normal to repeat the verb in this case, but I think that this would be only
+if John had chosen the πλέον ή formula (άγαπας με πλέον ή [άγαπας]
+ταΰτα / τούτους); with πλέον τούτων it is unnecessary, or rather incorrect,
+to repeat the verb. Brown also points out that a choice between material
+things and the risen Jesus would be ridiculous, but it is precisely the choice
+between Jesus and all the rest in the world, including his own life, that
+leads Peter to total service and martyrdom. A further point by the same
+scholar against the traditional reading is illuminating, and strengthens de
+la Potteries interpretation: it is inconceivable that in this Gospel Peter
+should be held up as an example of greater love in comparison to the oth­
+ers, not only because this would suggest a rivalry among the disciples,
+opposed by Jesus in Mark 9:34-35 and 10.-42-44, 10 but also and above all
+because in the fourth Gospel pre-eminence in love seems to be the pre­
+rogative of the beloved disciple, usually identified with John the evange­
+list. 11 We shall see that, precisely because of this problem, there have been
+attempts to distinguish pre-eminence in loving and in being loved (but John
+Chrysostom found that, if Peter were the most loving, he would also be the
+most beloved). 12 Some scholars feel that the translation "Do you love me
+more than the others do?" would be possible only in an ironic sense. 13
+Rudolf Bultmann 14 resolved the problem by taking πλέον τούτων as
+being a mere editorial attempt to include the other disciples in the frame
+ofJesuss questions linking w. 1-13 and 15-17. Richard Bauckham 15 does
+not address the question directly, 16 but does comment on the scene, and,
+like several Fathers, underlines the correspondence between Peter s threefold
+denial and the threefold pledge of love which Jesus now requires, also
+stressing that loving Jesus will mean giving his own life for him. He draws
+a distinction between Peter s role as a shepherd and that of the beloved
+disciple as a perceptive witness. 17
+While some commentators do not even mention the exegetical option I
+propose for John 21:15 18 ("Do you love me more than you love these
+things?"), others at least take into account the possibility of rendering
+Jesus's words in this sense, 19 but often in a rather restricted way, assuming
+that τούτων simply refers to the fisherman's life, 20 whereas I think that it
+refers to all things, this world in general vs. Jesus.
+Two main grammatical and syntactical points, in addition to philologi­
+cal and exegetical attestations which I shall discuss later, strongly buttress
+my argument. They concern the πλέον τούτων formula and the absence of
+an expressed σύ in John 21:15.
+A methodical analysis of the Greek usage within 21 and outside the NT
+demonstrates that the genitive after πλέον can correspond to any case in
+the full form with ή, not only the nominative. 22 So, e.g. in the 1st cen­
+tury 23 in the Letter of Aristeas 91.3 we have προήγαγον πλέον σταδίων
+τεσσάρων, corresponding to an accusative (πλέον ή στάδια τέσσαρα or
+σταδίους τεσσάρους); in the early 2nd century πλέον τούτου is used by
+Ignatius Ep. 2.10.1 instead of the full formula with a dative: αλλω ονόματι
+καλείται πλέον τούτου, where the disambiguating formula would read
+πλέον ή τούτω. 24 Again in the 2nd century, in Nicomachus, 25 έπί πλέον
+τούτων corresponds to επί πλέον ή επί ταΰτα. Similarly, in a late author
+such as Tzetzes, 26 the syntagm under investigation corresponds to εις
+πλέον ή εις ταΰτα. In Theodoretus 27 the construct corresponds to πλέον ή
+τούτων, in Psellus 28 to πλέον ή τούτοις. In Asterius, Horn. 1.7, too, the
+genitive corresponds to an accusative (πλέον η τούτους): Δαιμονώντα καλώ
+τον ψεύστην καί βλάσφημον, και πλέον τούτων τον πόρνον. Thus, in our
+Johannine passage πλέον τούτων may easily correspond to πλέον ή τούτους
+or ταΰτα, certainly not only to πλέον ή ούτοι.
+Moreover, when the genitive in πλέον τούτων and in similar pronominal
+constructs corresponds to an accusative in the disambiguating formula,
+it mostly corresponds to the neuter, πλέον ή ταΰτα. An example of
+genitive hiding a neutral form is provided, between the late first and early
+second century, by Plutarch, Quaest. Plat. 1008C, 29 where πλέον εκείνων
+corresponds to πλέον ή εκείνα, but already in Herodotus we find two
+examples, in which both occurrences of πλέον τούτων—the same phrase as
+in John—correspond to πλέον ή ταΰτα. 30 Even more important, in ουδέν
+πλέον τούτων αιτήσει (Basilius Med. Virg. 721.9), in the equivalent πλέον
+ή ταΰτα, ταΰτα would be an accusative, just as in our Johannine passage.
+And the same is the case in Cyril of Jerusalem, Catech. 15.24.18: πλέον
+τούτων ειπείν ουκ ήδύνατο ό προφήτης (= πλέον ή ταΰτα, ace); John
+Chrysostom, Ad pop. Ant. PG 49.107.34: Έχω τι και πλέον τούτων ειπείν
+(= πλέον ή ταΰτα, ace); Exp. in Ps. PG 55.356.3: Tí πλέον τούτων βούλει;
+(= πλέον ή ταΰτα, ace.) and eighteen other occurrences in John and later
+authors. 31 There are in all more than twenty instances recorded in which
+πλέον τούτων corresponds to πλέον ή ταΰτα, accusative. A lexicon even
+takes up precisely John 21:15 as an example for the accusative construc­
+tion of αγαπάω, thus suggesting that it considers τούτων there as standing
+also for an accusative: Lexicon syntacticum (e codd. Barocciano
+57 + Canonic, gr. 41) A 275.14: αγαπώ το αρκώ· δοτική·... αγαπώ το
+φιλώ· αιτιατική· άγαπας με πλέον τούτων;
+In fact, in the whole corpus of Greek literature recorded in the TLG, the
+πλέον τούτων construct is attested several times in addition to John 21:15,
+from Herodotus—with the two abovementioned occurrences—to Patris­
+tic and Byzantine authors, with a clear prevalence in later texts: remark­
+ably, most of them stand for πλέον ή ταΰτα (accusative), exactly as I think
+it is the case in John 21:15. 32 Another substantial group of occurrences of
+the πλέον τούτων construct appear precisely in quotations of our Johan-
+nine passage, from John Chrysostom to Cyril of Alexandria, the Catenae,
+and Photius. 33
+But the most compelling and decisive case of all is provided by John 7:31,
+the only other passage in the Johannine Gospel where the πλέον + genitive
+construct appears: it corresponds to a πλέον ή + a neutral plural accusative,
+exactly as in John 21:15. For in Μή πλείονα σημεία ποιήσει ων ούτος
+έποίησεν; the expression πλείονα ων corresponds to πλείονα ή α (accusa­
+tive). In the light of this systematic investigation it seems very likely that in
+John 21:15 πλέον τούτου corresponds to πλέον ή ταΰτα.
+I observe further that the absence of an expressed σύ, which makes it
+extremely difficult to place the emphasis on the subject, plainly contrasts
+Johns grammatical use, where we always find the nominative personal pro­
+noun whenever the stress lies on it as a subject (I found 132 occurrences of
+εγώ, most of which obviously referring to Jesus; 61 of σύ, 18 of ημείς,
+68 of ύμεις); the nominative pronoun is sometimes expressed even when it is
+not emphasised (e.g. 4:35; 5:20, 33; 7:35; 11:27; 15:3), and in certain
+cases it is accompanied by αυτός for further stress (e.g. 3:28). Also in the
+rest of the New Testament (where e.g. σύ occurs 170 times, ύμεις 236,
+ημείς 127) it is evident that, when subject personal pronouns are not
+expressed, there is absolutely no emphasis on the subject; otherwise they
+are always expressed, even when no stress lies on the subject, 34 and this is
+especially the case in the Gospel of John. Moreover, in allocutions σύ
+is practically always expressed. Thus, it is all the more striking that in
+John 21:15 σύ is not expressed: this means that the emphasis here definitely
+cannot lie on the subject; it must lie on the object, με: this form in the N T
+is used much more frequently than έμέ (293 occurrences vs. 90) and is
+often employed emphatically instead of έμέ; 35 remarkably, in John we
+always find με depending on άγαπαν, 36 even if the emphasis lies on the
+object, as in 14:15, 21, 23, 24, 28; 15:9, and precisely 21:15. And πλέον
+τούτων is a comparison concerning the object of Peters love.
+The ancient versions and the Fathers, too, definitely support the reading
+I propose. The Vg reads: "Simon Iohannis diligis me plus his? dicit ei etiam
+Domine tu seis quia amo te." There are no significant variant readings for
+the VL, but the words plus his, probably felt as problematic, are remarkably
+omitted in six mss. among the most ancient. 37 The Latin is a faithful trans-
+lation of the Greek and maintains the ambiguity of the original, but it is
+highly significant that it does not render "diligis me tu plus quam hi /
+isti?," nor "diligis me plus quam hos / istos." Instead, it omits tu, which
+renders it very difficult to place the emphasis on the subject—all the more
+in that, in all other cases, the Vg expresses the nominative pronoun when-
+ever it is emphasised, closely following the Greek original and even express-
+ing it more frequently than the Greek does ^1 found 160 occurrences of
+ego; 64 of tu; 19 of nos; 107 of vos)—, and maintains his, which may be
+either masculine or neuter. Thus, it is perfectly possible to translate the
+Vg too as follows: "Do you love me more than these things?" Likewise, in
+the answer we do not read: "Tu seis quia ego te amo," but "Tu seis quia amo
+te? The emphasis is again on the object.
+Only one remarkable exception is found in the Latin column of the
+Bezae Codex Cantabrigiensis, 38 fol. 181a: "Simon Iohannis diligis me plus
+quam istos." 39 According to this interpretation, Jesus asks Peter whether he
+loves him more than he loves the other disciples. From the grammatical
+point of view, this is possible, and this interpretation too was proposed by
+some Fathers, and in 1940 by A. Fridrichsen. The difficulty rather lies with
+the meaning: as Brown noticed, 40 it is hard to believe that the Johannine
+writer really proposes the possibility of a choice between the other disciples
+and the resurrected Jesus.
+The Syriac too, like the Latin—apart from the Bezae Codex—, strongly
+supports the interpretation I propose. The Sinaitic codex (5th century), 41
+like some other Greek and Latin manuscripts mentioned above, omits the
+42
+problematic words corresponding to "more than these" and simply reads
+atv. 15b: >A )&ΛΓ< *μ*\ ^ιο_ιη CTVLD , ^ α \ *7ix, "Simon son of John, do
+you love mei" It is to be noticed that the pronoun "me" is expressed
+emphatically, not as a simple attachment to the verb "pAii, so as to produce
+piAii, but with a preposition of its own, >A, as though Jesus were saying:
+43
+"Is it I whom you love?" The same is the case, both in Jesuss question
+and in Peter's answer, in the Peshitta and the Harklean versions, which do
+have the words corresponding to "more than these." The Peshitta reads:
+^ilm ^73 T-ikl μ iort'^An rdJO_i sL· ^OJ^TLT ("Simon son of John,
+is it I whom you love? more than these?") and the Harklean version has:
+^ c u c b ^73 î-j^Ui y\ fcv-irf >Aii rÉJO-ι T3 , ^ η ν ^nx (idem). And in
+Peter s answer we find the same stress on the object again, with the prepo­
+sitional construction and not simply the addition of the pronoun at the
+φ
+9
+li 9
+end of the verb: try rdirt' > * i (Peshitta); \r\ Γ(ΛΓ< > Α Π (Harklean); so
+we can translate: "I love you," "It is you whom I love."
+Both of these versions fully confirm the translation here proposed, in
+that they stress the object "me" rather than the subject "you"—which in
+Syriac must always be expressed, whereas in the Greek text it is omitted—
+and they leave the possibility open to taking the pronoun "these" or "them"
+(^acn, ^curb) as referring to both things and persons. Thus, they can be
+rendered: "Do you love me more than these things?" So, too, the text of
+the Sinaitic codex allows us to translate: "Do you love mèi? "Is it I whom
+you love?"
+Furthermore, the Coptic Version (Sahidic), 44 like the Latin and Syriac
+translations, clearly supports the interpretation I am suggesting, given that
+in the question "Do you love me more than these (things)?" it has no pro-
+noun "you" at all, and the emphasis rather lies on the object "me," which
+is not simply attached to the verb, but placed in a prepositional construct
+of its own: ciMCüN ntpHpe ÑICÜSANNHC ΚΜΘ MMOI e 2 o y e NAL Thus, the
+meaning is: "Simon son of John, do you love me more than these (things)?"
+In fact, the Coptic pronoun ΝΑΙ may refer to both things and persons.
+Notably, too, both in the other two questions of Jesus and in all three
+answers of Peter the subject is not at all expressed and the object is empha­
+sized in the very same prepositional construct: KM6 MMOI (twice): "Do you
+love me?," "Is it I whom you love?," and: \n& MMOK (thrice), "I love you"
+"It is you whom I love."
+Thus, the Latin, Syriac, and Coptic versions fully support the interpre­
+tation I suggest. The understanding of the Church Fathers too is worth
+investigating in this connection.
+Early authors rarely allude to this passage, and still less frequently do
+they mention the difficult phrase "more than these": either they did not
+read it in their manuscripts, or they did not attach importance to it, or else
+they felt uncomfortable with it. In the 2nd century, this is the case of Apol-
+linaris of Hierapolis, 45 who, in fragment 155 on John 21:15-17, mentions
+Jesuss question about Peters love, omitting the bit concerning the com­
+parison. He rather stresses that Jesus trusts his flock to Peter but he remains
+its true shepherd, and emphasizes the correspondence between Jesus s three
+questions and Peters threefold denial, an exegesis that was destined to
+become widespread. 46 Notably, Apollinaris links Jesuss questions concerning
+Peter s love for him to his prediction of Peter s martyrdom: Την ετι μείζω
+της αγάπης άπόδειξιν την δια του μαρτυρίου φησίν αυτόν ποιήσεσθαι...
+την μέχρι θανάτου μαρτυρίαν περί του Κυρίου την πρότερον δια θανάτου
+φόβον άρνησιν γενομένην άπαλείψειεν, "He says he will offer an even
+greater proof of his love: through his martyrdom... his witness to the Lord
+rendered through his death will wipe away his denial due to his fear of
+death" (fr. 156 on John 21:18-19). Dying as a martyr for Jesuss sake
+47
+implies that Peter must love Jesus more than all the rest.
+In Letter 2.1 included in the Epistolary of Cyprian (first half of the
+3rd century), from the Roman to the Carthaginian clergy, there is a quota­
+tion from John 21:15-17 with no mention of the plus his phrase, which
+may be due to the problematic nature of this expression, or to its absence
+in the Biblical text used (we have seen that several Latin manuscripts omit
+it). The short dialogue is commented on as follows: "This saying arose out
+of the very circumstance of his withdrawal, and the rest of the disciples did
+likewise." Significandy, all that is stressed here is just the similarity between
+Peter and the other disciples, not a difference.
+In a fragment on Proverbs from the Catenae (PG 17.184C11) Origen
+mentions John 21:15-17 in his discussion of the gradations of love, as a
+proof that αγάπη is greater than φιλία. He quotes Jesuss questions, but he
+too leaves out the puzzling πλέον τούτων expression. And one passage sug­
+gests that Origen understood the words άγαπας με πλέον τούτων as "Do
+you love me more than these things?" meaning "all the rest vs. Christ": in
+Co. Ro. 1.1-12.21, from the Catenae, 28.10, Origen states that, if we have
+no θεοσέβεια, then πάντα μάλλον ή Θεον άγαπώμεν, "we love everything
+more than we love God," the exact reverse of άγαπας με πλέον τούτων, "do
+you love me more than you love these things?" with emphasis on the object,
+strongly confirming my understanding. Origen goes on to say that we
+ought to love God more than all the rest, because "love has no other proper
+and principal object but God himself" (άγάπην την ούδενος έτερου κυρίως
+ή αύτοΰ του Θεοΰ τυγχάνουσαν, 28.12). Jesus died to constitute Gods love
+in us (ibid.); 48 thus, whoever loves God more than all the rest will be ready
+for martyrdom, like Peter. 49
+In the 4th century Epiphanius, Panarion 59.1.6 (2.364.16-18) draws a
+parallel between Peter's three denials and Jesus s three questions addressed
+to him, which he loosely quotes: notably, from the first he drops the prob­
+lematic πλέον τούτων expression. 50 Ibid. 59.8.2 (2.373.14) he mentions
+John 21:15-17asa compensation for Peters denials and an invitation to
+repentance for all. The correspondence between the threefold denial and
+the threefold confession is also pointed out by Cyril of Jerusalem, Cath.
+ad ilium. 14.23 (1138.25), who alludes to John 21:15, but again with no
+mention of the tricky πλέον τούτων phrase.
+Still in the 4th century, Basil, Reg. mor. 70.18-19, speaking about what
+is required to love the Lord, i.e. loving those who are being instructed and
+caring about them even with willingness to die, 51 quotes John 10:11 and
+21:15, including πλειον τούτων (sic). He comments that loving Christ
+means loving the others and being ready to suffer martyrdom for him, but
+nothing is said about loving Jesus more than others do, which suggests that
+Basil did not understand πλειον τούτων as "more than these do." To Basil
+is also ascribed a Commentary on Isaiah where Jesus s prophecy of Peter's
+martyrdom is mentioned (μαρτύριον μέχρι θανάτου, 3.131), but without
+reference to Jesuss questions. At 5.169 the author summarizes Jesuss ques­
+tions into one, without πλέον τούτων. Another Cappadocian, Gregory
+Nazianzen, in Or. 39.18, in the context of a defence of forgiveness, con­
+nects Peter's three denials to Jesus's three questions, which are interpreted
+as a correction of the former, a therapy (έθεράπευσεν), and forgiveness; the
+perfection of this therapy is seen in Peter's martyrdom, here referred to via
+the mention of his blood: "Don't you forgive Peter even if brought to
+perfection through his blood?" (Ή ουδέ τελειωθέντα δέχη δι' αίματος;).
+Gregory does not address the πλέον τούτων problem; however, both he and
+Basil link Peter's love for Jesus to his martyrdom, a bond essential to the
+interpretation of πλέον τούτων I propose: only loving Jesus more than all
+the rest can make a Christian martyr.
+Similarly, Theodore of Mopsuestia, Co. Io. fr. 139 does not mention
+the puzzling comparison, but insists on Peters love for Christ, on the
+correspondence between his three denials and three confessions, and on
+Jesuss prediction of Peter's martyrdom as a consequence of his steadfast­
+53
+ness in his love for Jesus. Ambrose alludes to John 21:15 several times,
+especially in Luc. 10.176 (397.1692); in Fid. 5.2 he simply mentions the
+correspondence between Peter's denials and confessions of love, just as in
+Spin 2.10.105, where Ambrose also relates them to the mystery of the
+Trinity, and Spir. 2.13.146 (144.43), and in Hilarius, Trin. 637, where,
+again, there is no mention of comparisons.
+John Chrysostom, a fellow disciple of Theodore at the school of Dio­
+dore of Tarsus, in his Homily 77 on John (PG 59.477-480) quotes our text
+twice, both times including πλέον τούτων, which he interprets as "more
+than the other disciples." Thus, this interpretation first appears only around
+AD 400. John wonders why Peter has such a special role: Peter is "elected
+among the apostles" (εκκριτος τών αποστόλων) because Jesus wishes to
+show that he is forgiven for his denial, and thus he gives him a position of
+pre-eminence, but for martyrdom, not for glory. 54 Chrysostom, like Basil,
+Nazianzen, and Theodore, does not forget that the direct consequence of
+Peter's love for Jesus is martyrdom: Ειπών δε αύτφ περί της εις αυτόν
+αγάπης, προαγορεύει αύτφ και το μαρτύριον... βουλωμένος καί παιδεΰσαι
+ήμας, ποίφ δει τρόπφ μάλιστα αυτόν άγαπαν, "After speaking to him about
+the love for him, he predicts him his martyrdom... also in order to teach us
+how we should love him above all" (which is close to my interpretation).
+In the first half of the 5th century, Cyril of Alexandria quotes John 21:15
+including πλέον τούτων, 55 which he likewise interprets as "more than the
+other disciples do," but with less stress on martyrdom. Cyril insists from
+the beginning on Peter s pre-eminence, and for this reason he connects the
+present episode to others indicating such pre-eminence, the confession of
+faith in Caesarea Philippi and Peters defence of Jesus in the Gethsemane.
+This is why των άλλων γοργότερον προσάγει την πεΰσιν, εί πλειον αυτών
+άγαπα, και τούτο εις τρίτον, "He asked him more vibrantly the question
+whether he loves him more than they do, and this thrice." But he also
+proposes a deeper (την κεκρυμμένην... διερευνήσαι διάνοιαν) and more
+personal interpretation (οΐμαι δε εγωγε): if the three questions are addressed
+only to Peter, when all of the twelve have already received the apostolic mis­
+sion, it is because only he had denied Jesus thrice. He has obtained a greater
+forgiveness than the others: this is why he must love Jesus more than the
+others (πλείονα τών άλλων την αφεσιν κομισάμενος, έξαιτειται λέγειν εί και
+πλειον άγαπα). 56 The particular address to Peter indicates the renewal of his
+apostolic mission, implying martyrdom as a perfect proof of love.
+Augustine provides an interpretation that strongly supports my under­
+standing. In his homilies on John 57 123.4-5, while commenting on the
+words "diligis me plus his," he insists much more on the object "me" than
+on the unexpressed subject, and with no mention of a comparison with the
+others' love. Augustine, in accord to his contrast between amor sut usque
+ad contemptum Dei and amor Dei usque ad contemptum sui, opposes loving
+Christ to loving oneself and the other things in the world:
+Qui hoc animo pascunt oves Christi ut suas velint esse non Christi, se convincuntur
+amare, non Christum, vel gloriandi... non obediendi et subveniendi et Deo placendi
+caritate... apostolus gémit sua quaerere non quae Iesu Christi. Nam quid est aliud,
+Diligis me? Pasce oves meas, quam si diceretur, Si me diligis, non te pascere cogita, sed
+oves meas sicut meas pasce, non sicut tuas; gloriam meam in eis quaere, non tuam;
+dominium meum, non tuum; lucra mea, non tua, ne sis in eorum societate qui perti-
+nent ad tempora periculosa, seipsos amantes, et caetera quae huic malorum initio
+connectuntur? Cum enim dixisset apostolus: Erunt enim homines seipsos amantes,
+secutus adiunxit: Amatores pecuniae, elati... Haec omnia mala ab eo velut fonte
+manant, quod primum posuit: seipsos amantes. Merito dicitur Petro: Diligis mei
+Et respondet: Amo te... Non ergo nos, sed ipsum amemus.
+Those who have this purpose in feeding the flock of Christ, that they may have them
+as their own, and not as Christ s, are convicted ofbving themselves, not Christ, from the
+desire either of boasting..., not from the love of obeying, serving, and pleasing God...
+The apostle complains that they seek their own, not the things that arefesus Christs. For
+what else mean the words, "Do you love me? Feed my sheep," than if it were said, If
+you love me, think not of feeding yourself, but feed my sheep as mine, not as your own-,
+seek my glory in them, not your own; my dominion, not yours-, my gain, not yours-, lest
+you be found in the fellowship of those who belong to the perilous times, lovers of their
+own selves, and all else that is joined on to this beginning of evils? For the apostle, after
+saying, "For men shall be lovers of their own selves" added, "Lovers of money, boast­
+ful ..." All these evils flow from that as their fountain which he stated first, lovers of
+their own selves. With great propriety, therefore, is Peter addressed, 'Do you love meY
+and found replying, Ί love you ... Let us, then, love not ourselves, but Him. (§ 5)
+This implies that Augustine interpreted the sentence in this way: "Do you
+love me more than you love anything else in the world (including your­
+self)?" Indeed, he adds: "Quisquís seipsum, non Deum amat, non se amat;
+et quisquís Deum, non seipsum amat, ipse se amat," "For everyone who
+loves himself, not God, does not love himself; whoever loves God, not him-
+self, loves himself." Augustine's understanding of our passage clearly sup-
+ports its interpretation as "Simon son of John, do you love me more than
+you love these things?"
+Thomas Aquinas in his commentary on John (2617-2626) 58 endorses
+the interpretation "Do you love me more than these do?," although he
+realizes that Jesus s questions prepare the prediction of Peter s martyrdom
+and that both Peter and John have a pre-eminence in love. 59 He also notices
+that plus his is dropped in Peters answer because "Peter humiliates himself
+in front of the other apostles" (2621). A similar remark is found in
+Bonaventuras commentary on John (21.32; 21.37): 60 after noting that
+there was requested of Peter a maior dilectio (21.31), 61 he points out that
+he does not answer that he loves Jesus more, because he cannot know the
+others' love ("respondit... non quod plus amet, quia amorem aliorum
+nesciebat"); nevertheless, Jesus did ask him that question, both to show his
+love and to correct Peter. 62 Bonaventura also introduces the comparison
+with Peter's denials (21.36). 63
+Eckhart 64 investigates the passage at stake closely and at great length, in
+his commentary on John, 21.720-737, where he also provides the interpre-
+tation I support. He observes (21.726) that "diligis me plus his?" can
+be understood as: 1) "Do you love me more than these do?," because
+the priest, entrusted with the care of others, must love God more than
+the others do (21.720); 2) "Do you love me more than you love these
+persons?," which Eckhart connects with Matt 10:37; 19:29; 22:37-39
+(21.727); 3) "Do you love me more than you love these?," that is, "well,
+but not yet perfectly," because "in the One there is neither gradation nor
+order"; thus, "whoever loves God more than the others, loves God well,
+but not perfectly, since he does not love God in the others nor the others
+in God. For, if he loved them in this way, he would love one and the same
+thing" (21.728). Interpretations 2) and 3), with emphasis on the object,
+resemble that which I propose, with the only difference that Eckhart takes
+his in plus his as masculine, but immediately offering a mystical explana-
+tion, for he refuses to establish gradations in loving: perfection is beyond
+gradation. Moreover, Eckhart, like Augustine and Aquinas, notes (21.729)
+that Peter does not declare that he loves Jesus more than the others do
+"in order not to place himself before the others" and because he could
+not know the others' love (Eckhart quotes Prov 16:2 and 1 Cor 2:11).
+Furthermore, it is God who infuses love in our hearts and is love itself
+(21.731). 65
+Although ancient translations and interpretations do not prove per se
+that a certain exegesis of a NT passage is right, they certainly show that
+it is possible to understand it in that way and that it actually was under­
+stood so. Reflection on the Greek text itself and on the Johannine context
+strongly supports the interpretation I propose: in John 21:15 the much
+debated expression άγαπας με πλέον τούτων; ought to be interpreted
+"Do you love me more than you love these things?," i.e. all the rest. Con­
+siderations concerning grammar—primarily the absence of an expressed
+σύ and the frequently attested use of πλέον τούτων in the sense of πλέον
+ή ταΰτα (accusative), above all the only other occurrence of πλέον +
+genitive in John precisely corresponding to πλέον ή + plural accusative
+neuter pronoun—, Johannine, New-Testament and first-century linguistic
+usage, context, meaning—especially the connection between love and
+martyrdom—, ancient Biblical translations into Latin, Coptic, and Syriac,
+and several Patristic interpretations and significant omissions, all point to
+this conclusion.

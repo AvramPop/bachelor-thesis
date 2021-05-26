@@ -1,0 +1,600 @@
+"The absence of the authors name in Lukes prologue remains mysterious
+to me." 1 With this statement at the beginning of his analysis of Luke 1:1-4
+E Bovon points out a critical problem that pertains to the other two Syn-
+optics, the Book of Acts, and the Gospel of John as well. All five historical
+books of the New Testament, including those without a prologue, were
+written and published anonymously. However, this obvious fact has not
+sparked much interest among New Testament scholars. The undoubtedly
+secondary Gospel superscriptions have, in the wake of M. Hengel's semi-
+nal work, been thoroughly scrutinized with regard to their original word-
+ing, date of origin and function. 2 Yet only M. Wolter has developed a
+reasonably thorough answer to the question as to why the Gospels were
+originally composed without superscriptions and in particular without any
+mention of the authors' names. Regarding Luke-Acts, Wolter points to
+Luke 1:2 and makes the case that Lukes work was written anonymously
+because, from the author's perspective, the apostolic tradition guaranteed
+"its authenticity and therefore its binding authority." 3 Taking my starting
+point from Wolters previous study I will try to interpret the anonymity of
+the New Testament historical books against the background of the literary
+conventions of history writing in ancient literature.
+While most New Testament letters bear the names of their (purported)
+authors (James, Jude, Paul, Peter, or at least "the Elder") the authors of the
+historical books do not reveal their names. The superscriptions that include
+personal names ("Gospel according to Matthew" etc.) are clearly secondary.
+The author of the Coptic Gospel of Thomas, for instance, who himself
+opened his work with an explicit statement of authorship, took a very
+different approach. He opened his book with the words: "These are the
+secret words which the living Jesus spoke, and (which) Didymus Judas
+Thomas wrote." 4 In contrast, the five historical books of the New Testa-
+ment were written anonymously.
+C.-J. Thornton holds a view that differs from this consensus. As a result of his narra-
+tological analysis he concludes that at least Luke-Acts cannot have been published
+anonymously but must have mentioned the name of the author in its title. Thornton
+points to the "we" passages in Acts and assumes "that the narrator of a first person
+narrative has to be identifiable for the reader." Furthermore, he takes for granted that
+the readers of Luke or Acts could only have known the author s name if it had been
+part of the original text. 5 Yet, the original readers could also have known the authors
+identity by personal relationship or oral tradition. But above all we have to take into
+account that Lukes name is missing in almost all ancient manuscripts of Acts (as well
+as in the early tradition) and occurs comparatively late. 6
+The anonymity of the New Testament historical books is especially striking
+when we consider those works that have prologues. Only the two books of
+Luke-Acts (Luke 1:1-4; Acts l:lfl) have a conventional prologue in which
+the author provides information about the content and purpose of his work
+in the first person singular. The so-called Johannine prologue (John 1:1-18)
+contains an authorial "we" (1:14.16), yet differs strongly from the common
+type of historical prologues. In its conclusion John's Gospel has a state-
+ment about its purpose (John 20,31: "in order that you may believe...";
+cf. 19:35), but without any "I" or "we" of the author. The two final verses
+of the Fourth Gospel in which both "we" (John 21:24) and "I" (John 21:25)
+occur should probably be interpreted as editorial statements about the
+author of the book and not as words of the author himself. 7 Whenever New
+Testament narrators address their readers, whether in the first person or in some
+other way, they consistently remain anonymous.
+For what reason did the New Testament narrators consistently abstain
+from mentioning their names? This question has rarely been addressed by
+biblical scholars, and if so, quite different answers have been developed.
+(1) The distinguished historian E. Meyer compared the anonymity of
+the Fourth Gospel with Xenophon's claim that his Anabasis was written by
+a certain Themistogenes. 8 Meyer thus interpreted the phenomenon of
+anonymous historical books in the New Testament in the context of Greek
+historiography. However, Greek (and Roman) historians published their
+works almost exclusively under their own names. Xenophon's anonymous
+(or better: pseudonymously published) work forms a special case that can
+not be regarded as representative of the conventions of Greco-Roman his-
+toriography.
+(2) A.J.M. Wedderburn assumes that „the anonymity of the Gospels
+may serve to emphasize the complete dependence of their authors on tra-
+dition, rather than on any firsthand experience." 9 While this interpretation
+certainly applies to the Synoptic Gospels, it fails when it comes to the
+likewise anonymous Gospel of John and the Book of Acts, inasmuch the
+authors of these two books appear to claim to have witnessed at least some
+of the events they describe (see John 1:14; 13:23; 21:20.24 and the "we"
+passages in Acts). 10 Furthermore, the question arises as to whether the
+assumed relationship between the New Testament Gospels and their
+sources actually may be regarded as unique or whether an anonymous han-
+dling of traditions and source material was conventional in at least some
+types of ancient literature.
+(3) M. Wolter has interpreted the namelessness of the New Testament
+historical books as a specifically Christian phenomenon. He argues that in
+all the anonymous writings of the New Testament Jesus Christ is the one
+and only personal authority; besides him "every human authority should
+fall silent". According to Wolter, this is the reason why the New Testament
+Gospels were published without mentioning their authors' names. In
+the Gospel of John, the Johannine Jesus preaches "himself through his
+signs and also, of course, through his speeches." Likewise, in Mark's book
+"Jesus himself is the instance that authorizes the Gospel" and by this "the
+individuality and authority of the author is completely surpassed and abol­
+11
+ished." Nevertheless, it may be asked why Paul, who explicitly appeals to
+Jesus as the authority behind his message and theology (e.g. in Gal 1:1.11-
+12), did not write his letters anonymously? Why did he feel free to send his
+letters under his own name? And why was the Book of Acts written anon­
+ymously, although, unlike the Gospels, it did not relate the words and
+deeds of Jesus? It should be noted that this approach to the problem of
+anonymity interprets the New Testament history books as works sui generis
+and does not take into account its possible relationship to other kinds of
+anonymous historiography in the ancient world. It is self-evident that
+Wolters interpretation of anonymous Christian literature can by no means
+be applied to anonymous books from Greco-Roman or Near Eastern lit­
+erature. A closer look at the history of Greco-Roman and Old Testament
+Jewish literature might offer valuable clues that could help us understand
+the phenomenon of literary anonymity more precisely.
+The work of a Greco-Roman historian was almost always preceded by a
+prohgue in which he informed his readers about the content of his book.
+The fact that a classical author like Xenophon abstained from using a pro­
+logue and abruptly opened his Hellenica with the words μετά δε ταΰτα was
+probably due to the fact that this historical narrative started where the
+historical work of Thucydides had ended and was apparently meant as its
+direct sequel. 12 In any case, the beginning of Xenophon's work was an
+exception to the rule. The absence of a prologue was usually considered as
+a departure from long established standards. Therefore, Lucían could write
+disapprovingly:
+There are historians who "produce bodies without any heads—works lacking an intro-
+duction that begin at once with the narrative." 13
+Thus, the Jewish historian Josephus prefixed elaborate prologues to his Bel­
+lum Judaicum and to his Antiquitates because he did not want his works to
+appear, in the eyes of his educated Hellenistic audience, like headless bodies.
+At the beginning or end of his prologue the Greek historian would men­
+14
+tion his name and his provenance. In the 6th century BC Hecataeus of
+Miletos began his historical work with the words: "Hecataeus of Miletos
+15
+reports as follows. I write this, as it seems to be true to me." In the
+5th century B.C. Herodotus, the father of Greek historiography, intro­
+duced his historical narrative with the words: "This is the demonstration of
+16
+the investigation of Herodotus of Halicarnassus." And the opening sen­
+tence of Thucydides goes: "Thucydides of Athens has described the war of
+17
+the Peloponnesians and Athenians." Thucydides also concluded individ­
+ual books of his historical work with a remark about the exact number of
+years that had passed in the war "that Thucydides has described." 18 With
+this procedure, the name of the author could not escape the reader. Arrian,
+in his Anabasis, has consciously deviated from this practice by not giving
+his name in the prologue where he only mentioned his sources. 19 Later in
+Book I he writes:
+I need not write my name, for it is not at all unknown among men, nor my country
+nor my family... . 20
+Nevertheless, Arrian's Anabasis was not published anonymously, because it
+probably had the name Άρριανός in the title. 21
+Even Xenophon's Anabasis, in which the author reports about his own role as an officer
+in the campaign of Cyrus, is no exception. Although it appears to the modern reader
+to be anonymous, Xenophon himself elsewhere calls it the work of a certain Themis-
+togenes of Syracuse. 22 Probably he published it under this pseudonym. Plutarch
+identified the true reason why Xenophon did not publish his Anabasis under his own
+name: Xenophon recorded "that it was Themistogenes the Syracusan who had com-
+piled an account of them (i.e. Xenophon's successes), his purpose being to win greater
+credence for his narrative by referring to himself in the third person, thus favouring
+another with the glory of the authorship." 23
+In accordance with Greco-Roman practice, the Jewish historian Josephus
+revealed his name in the first paragraph of his work on the Jewish War:
+"I—Josephus, son of Matthias, a Hebrew by race, a native of Jerusalem
+and a priest, who at the opening of the war myself fought against the
+Romans and in the sequel was perforce an onlooker—propose to provide
+the subject of the Roman Empire with a narrative of the facts." 24 And nei-
+ther Jason of Cyrene, author of the main source of 2 Maccabees, 25 nor
+Justus of Tiberias, the rival of Josephus, 26 wrote their now lost historical
+works anonymously. The same is true of the early Jewish narrators Eupol-
+emus (157/158 B.C.), Artapanus, Cleodemus Malchus und Theophilus
+(around 100 B.C.), who are all quoted by Eusebius in the 9th book of his
+Praeparatio Evangelica (from the lost writings of Alexander Polyhistor). 27
+These Jewish historians also published their works under their own names
+according to the conventions of Greek and Roman historical literature.
+Greco-Roman biographies were published under the names of their
+authors (Euripides, Isocrates, Lucían, Philo, Plutarch, Suetonius etc.) as
+well. Only the lives that belong to the genre of popular literature (1st to
+4th century A.D.) were an exception: the Vita Aesopi, the Vita Alexandri
+Magni (later ascribed to Callisthenes), the somewhat more sophisticated
+narrative Lucius seu asinus and the Vita Secundi philosophi. These biogra-
+phies have not only a rather low and episodic style but also anonymity in
+common. 28
+A special genre of historical writings was produced by the ancient "epit-
+omisers." They extracted short summaries from extensive historical writ-
+ings without changing the wording of their literary source texts. In a vital
+contribution to this subject, I. Opelt has listed 42 historical epitomes. 29
+Her list begins with the two-volume epitome probably extracted from
+Herodotus' nine-volume history by Theopompus of Chios in the 4th cen-
+tury BC. And it ends with epitomes from the Christian era. Only 7 out of
+these 42 epitomes are anonymous; all the others were attributed to a cer-
+tain author. An example is the excerpt of the now lost historical work
+of Pompeius Trogus that was handed down under the name of Justin
+(3rd century A.D.). On the basis of these observations we may conclude:
+If a Hellenistic historian did not mention his name in (the prologue of) his
+work, he deviated from an ancient and widespread literary convention.
+In contrast to the works of Greco-Roman historiography the Old Testa-
+ment historical books are anonymous without exception. 30 The author's
+name is never mentioned. Even the historical source texts to which the Old
+Testament narrators refer remain anonymous. 31 The historical books of the
+Hebrew Bible are not named after their authors but after their introduc-
+tory words ("In the beginning" etc. in the Pentateuch), after their content
+(Chronicles) or after their main characters: Joshua, Judges, etc. Later nar-
+rative works like Tobit, Judith or the Books of the Maccabees and other
+writings like the anonymous Vitae Prophetarum 02 or Joseph and Aseneth
+have also been named after their main characters. 33
+In all these examples of Jewish historiography the narrator stays in the
+background and remains hidden. In the Old Testament only the prophetic
+books and works that belong to the genre of wisdom literature carry their
+authors' names. 34 In the history of Jewish historiography the Hellenistic
+historian Josephus was one of the first who did not publish his books
+anonymously. In his Antiquities, for instance, in which he retells the con-
+tent of the anonymous historical books of the Old Testament, he candidly
+reveals his identity.
+Read against the background of Ancient Near Eastern literature the
+anonymity of the Old Testament history books was anything but unusual.
+Acadian literature was for the most part handed down anonymously as
+well. 35 In Mesopotamia, historical epics were generally published without
+their authors' names. And Egyptian literature was mostly written anony-
+mously as well. Near Eastern Wisdom books frequently carried their
+authors' names. Writings on the deeds of the Pharaohs, however, were usu-
+ally written by unknown authors. 36 Not until the time of Alexander the
+Great did Greek literature and literary conventions gain a decisive influence
+in the Ancient Near East, "among them the wider use of authors' names." 37
+Nevertheless, even during the Hellenistic period, Jewish writings were still
+being published without the names of their authors. As a rule, however,
+only wisdom, apocalyptic, and testamental literature mentioned the names
+of the respective authors. 38
+Most of the documents found at Qumran give no indication of authorship. Works
+that mention their authors' names (such as the Testament of Levi or the Psalms of
+Joshua) are the exception. Qumran literature is largely anonymous. This applies not
+only to the paraphrases of biblical narratives (rewritten Bible) but also to the poetical,
+liturgical and wisdom texts such as the Hodayot and the Sabbath Songs. The Pesharim
+(lQpHab etc.) and the halachic texts (such as the Temple Scroll, the Community
+Rule, the Damascus Document and the War Scroll) are also anonymous. 39 This is
+something they have in common with the works of rabbinic literature. Mishna, Tosefta
+and the Talmudim as well as the Midrashim were also distributed anonymously. 40
+Furthermore, the Hebrew history books did not have a prologue that
+informed the readers about their purpose and their sources. They also did
+not contain authorial reflections in the first person. 41 Even 1 Maccabees
+still makes use of this Old Testament style. In contrast, 2 Maccabees already
+includes a prologue by the author in the first person. This prologue con-
+cludes with the following words (2 Mace 2:19-32):
+At this point therefore let us begin our narrative, without adding any more to what has
+already been said; for it would be foolish to lengthen the preface while cutting short
+the history itself. 42
+By writing these words the author of 2 Maccabees adopted a literary device
+characteristic of Greek historiography. Yet, even 2 Maccabees remains
+anonymous.
+It should be remembered that 2 Maccabees is an excerpt of the five
+volume historical work of Jason of Cyrene and thus represents one of the
+epitomes discussed by I. Opelt. The author of 2 Maccabees does not men-
+tion his name, neither in the prologue nor in the title. In this regard
+2 Maccabees may be regarded as a close analogy to the Gospel of Luke whose
+prologue is also anonymous. The same holds true for the Wisdom of
+Ben Sira. In its prologue, which introduces the author s Greek translation
+of his grandfather s originally Hebrew work, the grandson of "Jesus, son
+of Sirach" (Sir 50:27) also conceals his name. 2 Maccabees, like the Old
+Testament history books, was named after its main characters. Clement
+of Alexandria called it "The epitome of the Maccabees." 43 And in one
+of its two oldest manuscripts (V) the writing is called "epitome of the
+deeds of Judas Maccabeus." Nevertheless, the designation "2 Maccabees"
+prevailed. Because of the anonymity of his work the author of 2 Macca­
+bees differs from the Greco-Roman epitomisers who usually published
+their works under their names.
+Jerome also describes 1 and 2 Chronicles as excerpts of older historical
+45
+works: Paralipomenon liber, id est instrumenti ueteris επιτομή. In contrast
+to the author of 2 Maccabees the author of Chronicles did not write a
+prologue and thus did not inform his readers in more detail about the
+sources of his subject matter. Still, the two Jewish epitomisers have in com­
+mon that they published their works anonymously in accordance with the
+conventions of Old Testament historiography. The Old Testament historians
+(and those early Jewish historians who were influenced by them) consistently
+wrote their works anonymously.
+By writing anonymously the New Testament narrators were closer to
+Hebrew than to Greco-Roman historiography. The first and second Gos­
+pel present themselves in the style of Old Testament history books: anony­
+mous, without prologues, and without any first person reflections by their
+authors. The Gospel of Luke and especially the Book of Acts with their
+prologues and the statements of their authors in the first person conformed
+to a certain extent to the conventions of Greco-Roman historiography. Yet
+they, like 2 Maccabees, remain anonymous. Their authors integrated ele­
+ments of both traditions. The following table can illustrate this. Brackets
+indicate cases in which the simple difference between plus (+) and minus
+(-) is not completely adequate.
+The New Testament historical books share the feature of anonymity, which
+distinguishes them from Greco-Roman historiography, with all the works of
+Old Testament (and Near Eastern) historiography. In concealing their
+authors' names the narrative books of the New Testament follow the model
+of the Old Testament books from Genesis to 2 Kings as well as 1 and 2
+Chronicles, Ezra, and Nehemiah.
+In order to understand why ancient historians added their names to their
+works we need to consider how they wrote their books and what they tried
+to achieve by publishing them. In a further step (in section 4), we must ask
+the same questions regarding the writings of those historians who pub-
+lished their works anonymously.
+In an independent treatise on the topic oí How to Write History Lucian of
+Samosata (in the 2nd century AD) explained the task of a Greek historian.
+Other historians explained in the prologues to their works how they had
+used their sources and how they wanted to present their material stylisti-
+cally. Both of these issues are among the topoi that regularly occur in the
+praefationes of ancient history books. 46
+According to Lucian, the first step in the historical working process was
+to collect the historical source material, if possible as an eyewitness or
+else by consulting reliable witnesses. 47 Contemporary eyewitnesses were,
+according to Polybius, subject to close scrutiny. The historian was only
+allowed to give credence to those witnesses that had proved to be reliable. 48
+The amount of work involved at this stage could be considerable. As a mat-
+ter of course, an epitomisers like Justin, who merely extracted the books of
+others, had to do considerably less research.
+After collecting all his material, the historian had to produce (in a sec-
+ond step) a stylistically inelegant "series of notes (υπόμνημα τι), a body of
+material as yet with no beauty or continuity." According to some ancient
+readers, Caesars Commentarli fell into that category. Cicero, for example,
+has Brutus say that Caesar only supplied the unadorned material out of
+50
+which someone else could produce a proper historical work.
+In a third step, the historian had to stylistically revise his rough draft:
+After arranging his material in the right order, his next task, according to
+Lucian, was to "give it beauty and enhance it with the charms of expres­
+51
+sion, figure, and rhythm." Some historians, like Josephus and Lucian,
+took the Attic prose writers of the 5th and 4th century as their guide in
+52
+matters of style. Others, like Polybius, wrote in literary Koine. Lucian
+also refers to historians who used a rather unpretentious, colloquial Greek.
+He knew one author who "has compiled a bare record (υπόμνημα γυμνόν)
+of the events and set it down on paper, completely prosaic and ordinary,
+such as a soldier or artisan or pedlar following the army might have put
+together as a diary of daily events." Therefore, according to Lucian, this
+writer did not himself create a proper historical work but "his work has
+cleared the ground for some future historian of taste and ability." Yet, in
+spite of his artless style the narrator mentioned by Lucian did not publish
+his work anonymously but used a title that also contained his name: "Cal-
+limorphus, surgeon of the Sixth Lancers, History of the Parthian War." 53
+Anonymity was unusual even with stylistically unpretentious works.
+The following table indicates which persons involved in the production
+of Greek or Roman history books provided their names. It is immediately
+obvious that only secretaries and copyists worked anonymously. Their
+names are mentioned only in exceptional cases. 54 Greco-Roman historians
+mention their names even if the amount of work they invested in collect­
+ing their material and adorning it stylistically was rather limited. 55
+Only exceptionally did ancient authors profit financially from their works. 56
+Some of them explicitly state the reasons why they composed and pub-
+lished their books. Serious historians were primarily interested in teaching
+their readers about historical truth and in showing them how they should
+behave as private persons or in political offices. 57 However, this goal could
+have been achieved without telling the audience the authors' names.
+The fact that almost all Greek and Roman historians published their
+works under their names is probably due to their distinctive longing for
+fame. Every Greco-Roman author, not just the historians, wanted to receive
+recognition for his literary accomplishments. 58 A book had the potential to
+make its author famous. Martial rebuked a certain Faustinus, because he
+found it difficult to finally publish a work he had written: "Do you hesitate
+to admit Fame that stands before your doors?" 59 And Martial emphasized
+that the fame of a writer should already come about during his lifetime:
+"To the ashes of the dead glory comes too late." 60 Many authors, however,
+were striving for literary recognition that would outlast their death. Thus,
+Ovid expresses his conviction at the end of his Metamorphoses that this
+work was destined to become his own everlasting monument:
+I shall be borne immortal far beyond the lofty stars and I shall have an undying name.
+Wherever Rome s power extends over the conquered world, I shall have mention on
+mens lips, and if the prophecies of bards have any truth, through all the ages shall I
+live in fame. 61
+Historians, too, were hoping for fame and recognition by publishing their
+historical works. In the prologue to his Antiquities Josephus mentions sev­
+eral goals that, according to him, motivated historians to write their works.
+In the first place he refers to fellow writers who approached their task
+"eager to display their literary skill and to win the fame therefrom
+expected." 62 Even epitomisers like Justin reckoned with the appreciation of
+their readers for their (albeit comparatively small) literary efforts: "For
+your approbation is sufficient for me for the present, with the expectation
+of receiving from posterity, when the malice of detraction has died away,
+an ample testimony to my diligence." 63 Only authors who published their
+work under their own names could hope for fame and recognition. That is why
+Greek and Roman history books were not published anonymously.
+Why did Old Testament historians write their works anonymously?
+An old answer suggests that Old Testament narrators abstained from using their names
+because they considered the Holy Spirit to be the true author of their works. As works
+inspired by God, the narrative books in the Bible had no real human author; their
+writers were simply pens in the hand of God. This was the argument on the basis of
+which Gregory the Great (in the prologue of his Moralia in lob) declared it unneces­
+sary to determine the author of the anonymous book of Job: "If we regard the Holy
+Spirit as the author and ask nonetheless who the scribe is, what else are we doing than
+reading the text and enquiring about the pencil?" 64 According to this view the author
+of the book of Job concealed his name because he considered God to be the actual
+author of his work and viewed himself as a more or less passive mediator of God s
+revelation. This traditional interpretation can easily be applied to the other historical
+books of the Old Testament and to the New Testament Gospels. Yet, the value of this
+explanation is limited by the fact that the prophetic books and apostolic letters of the
+Bible contain their authors' names. Thus, Gregorys thesis is unable to explain why
+several biblical authors (which he considered to be equally inspired) deliberately put
+their names at the beginnings of their works. His approach to the problem, while
+interesting, fails to explain why only some biblical books originated (and were trans­
+mitted) anonymously.
+Another early, yet more plausible answer arises from an important text written by
+Galen of Pergamum. In the prologue of his work De libris propriis Galen explains why
+others were able to present as their own works books that actually he himself had writ­
+ten. „To friends and students who asked to get notes of what they had heard they (i.e.
+some of Galen's books) were given without a title (χωρίς επιγραφής) since the books—
+as they certainly knew—had not been made for publication but for their personal
+65
+use." In a similar way, John Chrysostom explained the anonymity of the five books
+of Moses and the four Gospels in his commentary on Romans: The biblical narrators
+did not mention the author's name, because "they were writing to people, who were
+present, and it had been superfluous to show themselves when they were present. But
+this man {i.e. Paul) sent his writings from afar and in the form of a letter, for which
+cause also the addition of the name was necessary." 66 Yet, in the case of the Gospels, it
+appears to be difficult to find enough evidence that in the early church they were
+regarded as private writings for a limited circle of disciples of the evangelists. And the
+library index quoted by Irenaeus explicitly speaks of the publication or general release
+(έκδώσις) of the Gospels. 67
+There must be other reasons for the anonymity of the biblical narratives.
+These must be identified through an analysis of the work process and the
+self-perception of their authors.
+In the formation of Old Testament historical works not only the scribes and
+secretaries remained anonymous but also the historians (and epitomisers).
+Even historians who had taken great pains in order to collect and arrange
+(and adorn) their material abstained from publishing their narratives under
+their names. The anonymity of the Hebrew historians corresponds to the
+observation that within Old Testament historiography auctorial reflections
+in the first person are almost entirely missing and that the narrators present
+their speech material almost completely in oratio recta.
+This stands in stark contrast to Greek historiography. Herodotus used
+the first person hundreds of times in order to reflect on the reliability of his
+sources and his own reports. Thucydides provided information about his
+historical method, his temporal relationship to the events of the war and
+his narrative technique in his prologue and did so in the first person (I 20-
+22). The Greco-Roman historians acted as open narrators. 68 In contrast,
+the Hebrew historians from Genesis to Kings totally abstained from state-
+ments in the first person in which they would reflect on the purpose and
+method of their work. The Old Testament narrators consciously remained
+virtually invisible. 69
+A similar effect was achieved by reproducing the speeches consistently
+(with only a few exceptions) in direct speech. Thus the statements of the
+agents were presented much more directly and vividly. At the same time
+the narrators remained entirely in the background. In contrast, Greek his-
+toriography detached itself from the example of Homer, who also used to
+present his figures' words in direct speech. Greco-Roman historians deliv-
+ered large parts of their discourses in indirect speech. Through their narra-
+tive techniques they moved themselves somewhat more into the focus of
+their readers. In Greco-Roman historiography the gap between the speaker
+and the narrator is more visible than in Hebrew history writing. 70
+Furthermore, Hebrew historians were not interested in editing and
+altering the style of their sources in order to distinguish themselves as skil-
+ful writers. Their reluctance to change the wording of their source texts can
+be observed most clearly in a synoptic comparison between the text of
+Chronicles on the one hand and the Books of Samuel and Kings on the
+other hand. On average, the Chronicler has preserved 80% of the original
+wording of his presumed source texts. 71 The anonymity of Old Testament
+historiography is related to the fact that it does not contain reflections in the
+first person nor does it use indirect speech and that it reproduces the wording of
+the respective source texts rather closely.
+In order to understand the relationship of Hebrew historians to their sub-
+ject matter an additional factor has to be taken into account. According to
+W. Speyer the historical books of the Old Testament were to be regarded as
+"records of very old oral traditions." 72 This characterization is basically
+accurate. It must, however, be modified in light of the written sources to
+which Hebrew historians regularly refer (1 Kings 11:41 et al). Old Testa-
+ment narrators thought of themselves as mediators of oral and written
+traditions. "The narrator disappears behind his material. He does not, as it
+were, report on historical events; rather he passes on traditions." 73 The
+writer remains invisible behind the tradition he hands on, acting as its
+nameless mouthpiece. 74 In Old Testament historiography the historical
+tradition had absolute priority, as indicated by the fact that these historical
+works are almost invariably anonymous.
+In contrast to the anonymous historical works, the prophetic and
+Wisdom books of the Old Testament (and the Ancient Near East) were
+published under their authors' names. The comprehension of the reason
+for this difference has already been lost in late antiquity. In his commen-
+tary on Romans Chrysostom wrote somewhat perplexed:
+But when the prophets have mentioned their own names and also Solomon, I leave it
+for you to examine this further, (that is) why some (i.e. the prophets and Solomon)
+have mentioned it while others (i.e. the Old Testament historians) have not. For you
+are not to learn everything from me, lest you become more dull. 75
+The correct explanation which Chrysostom apparently was unable to give
+should have been that the authority of Wisdom literature was generally
+deduced from the authority of the Wisdom teachers. Their names were
+therefore mentioned. With regard to prophetic literature, the authority of
+prophetic messages depended even more on the identity of the particular
+prophet who claimed to have been appointed by God and to be authorized
+to act as a mediator of divine revelation. For this reason an anonymous
+prophetical book was considered unacceptable in the world of the Ancient
+Near East (and the Old Testament). 76 With historical works there was no
+comparable concern with the identity of the writer. The attention was
+focused entirely on the subject matter.
+An appreciation for the essential relationship between the anonymity of
+Old Testament (and Ancient Near Eastern) historiography and the priority
+of its content or subject matter has rarely been expressed by Greco-Roman
+historians. Yet, Salvian of Marseille had to defend himself in his ninth let-
+ter against critics who accused him of having published his four books to
+the church (Ad ecclesiam) under the name of Timothy. In one of his argu-
+ments he tried to explain why a work could abstain from mentioning the
+(true) name of the author:
+In every book one searches more for the impact of what one is reading than for the
+name of the author... Since the name of the author has no impact at all, it is needless
+that the one who has found value in the writings should ask for the name of the
+author. 77
+A statement by Sulpicius Severus has still more in common with the true
+reason for the anonymity of Old Testament narratives. At the beginning of
+his Life of St Martin, in the dedication letter to Desiderius, Sulpicius
+explains why he was willing to have his biography of bishop Martin of
+Tours published anonymously:
+Kindly erase the title which the book bears on its front, so that the page may be silent;
+and (what is quite enough) let the book proclaim its subject-matter, while it tells noth-
+ing of the author. 78
+In the context of this paper, the fact that the authors offer to have his work
+published anonymously belonged to the humility topoi of hagiographie
+literature and thus must not be taken at its face value is irrelevant. 79 The
+prologue of Sulpicius Severus explicitly put into words an authorial self-
+perception that also formed the basis of a very different kind of historiog-
+raphy. The anonymity of their works was the stylistic device by which Old
+Testament (and Ancient Near Eastern) historians presented themselves as rather
+insignificant mediators of the traditional material they passed on and by which
+in contrast they gave highest priority to their subject matter.
+By writing their works without mentioning their names, the New Testa-
+ment narrators deliberately placed themselves in the tradition of Old Tes-
+tament historiography. Like their Old Testament models, they wanted to
+use the anonymity of their works to give priority to their subject matter,
+the narratives about the life of Jesus (and the spread of the early Jesus
+movement). As authors they wanted, for the most part, to disappear behind
+their subject matter. In order to move the subject matter to the foreground
+as much as possible they let their actors talk mostly in direct speech and
+abstained from any reflections in the first person. Even in this respect they
+took over the stylistic devices with which the Old Testament historians had
+already tried to disappear as far as possible into the background of their
+narratives. Since they were mainly concerned with their subject matter and
+not with displaying their literary skill, the narrators of the New Testament
+also largely abstained from elevating the colloquial Hellenistic prose of
+their sources to a more sophisticated literary level. All of these literary
+idiosyncrasies of the Gospels and Acts 80 were designed to make the authors
+as invisible as possible and to highlight the priority of their subject matter.
+That early readers understood this self-perception of the evangelists is
+shown by the testimony of Papias concerning the Gospel of Mark. The
+presbyter quoted by Papias makes unmistakably clear that in his view the
+content of the second Gospel had merely been transmitted by Mark, its
+assumed author. As Peter s interpreter, Mark had mainly reproduced the
+content of Peters oral presentations. 81
+In spite of this information, which corresponds well with the anonymity
+of the second Gospel, it is clear that Papias himself is interested in the
+identity of the Gospels' authors. This was probably due to his concern to
+substantiate the historical claim of the Gospel narratives, and thus to
+confirm their authenticity and reliability. The name "Matthew" represents
+an implicit claim that the first Gospel came from a direct disciple of Jesus.
+By appropriating the name "Mark" the second Gospel was attributed to a
+close companion and co-worker of the apostle Peter, who had been a direct
+disciple of Jesus.
+In his argument with Marcion, Tertullian addresses the question of why
+the early readers of the New Testament historical books were not content
+to accept their anonymity, but emphatically asked about the names of their
+authors. Tertullian also comments on the edition of Luke's Gospel that
+Marcion used. It was particularly in this regard that he attached impor-
+tance to the names of the Gospel authors and dismissed anonymous Gos-
+pels: "We lay it down as our first position, that the evangelical Testament
+has apostles for its authors, to whom was assigned by the Lord Himself
+this office of publishing the Gospels." 82 According to Tertullian, the four
+Gospels, written by the apostles and their disciples, differ in terms of the
+order of their subject matter etc. but agree with regard to the main tenets
+of the faith. In their common theological perspective, however, Tertullian
+regards them as theologically incompatible with the teaching of Marcion:
+Marcion, on the other hand, you must know, ascribes no author to his Gospel, as if it
+could not be allowed him to affix a tide to that from which it was no crime (in his eyes)
+to subvert the very body. And here I might now make a stand, and contend that a work
+ought not to be recognised, which holds not its head erect, which exhibits no consis­
+tency, which gives no promise of credibility from the fullness of its title and the just
+profession of its author. 83
+The decision of the authors on the one hand to abstain from mentioning their
+names in order to highlight the subject matter met with the concern of early
+readers to secure the authenticity of the historical narratives by identifying the
+authors by name.
+This twofold concern may also be reflected by the secondary Gospel super­
+scriptions. A work like Philostratus' book about the Sophists had the title
+Φιλοστράτου βίοι σωφιστών. The Gospels did not receive similar titles.
+The first gospel was not called "Gospel of Matthew" (Μαθθαίου εύαγγέλιον
+or εύαγγέλιον του Μαθθαίου), but "Gospel according to Matthew (εύαγγέλιον
+κατά Μαθθαιον)," which was a comparatively unusual designation.
+In these secondary titles the names of the evangelists are mentioned.
+This must have satisfied the desire of those readers who for reasons of
+authenticity and historicity wanted to know the identity of the Gospel
+authors. At the same time, the word κατά ("according to") that could be
+used instead of the genitive expressed that the evangelists were or wanted
+to be nothing other than mediators of their subject matter. The Gospel of
+Jesus Christ had existed long before the authors of our Gospels wrote their
+works. They merely wrote it down, though in different versions. In a simi­
+lar way, a reference to the (Greek) Old Testament "according to (κατά)
+Symmachus" alluded to the conviction that Symmachus the Ebionite did
+not produce the Old Testament or its subject matter, but had only been its
+mediator through his particular (Greek) version. 84
+The anonymity of the New Testament historical books should not be
+regarded as peculiar to early Christian literature nor should it be inter­
+preted in the context of Greco-Roman historiography. The striking fact
+that the New Testament Gospels and Acts do not mention their authors'
+names has its literary counterpart in the anonymity of the Old Testament
+history books, whereas Old Testament anonymity itself is rooted in the
+literary conventions of the Ancient Near East. Just as in the Old Testa­
+ment, where the authors of books that belonged to the genre of wisdom
+and prophetic literature were usually named while historical works were
+written anonymously, only the New Testament letters and the Apocalypse
+were published under their authors' names while the narrative literature of
+the New Testament remained anonymous. The authorial intent of the
+Gospels' anonymity can also be deduced from its Ancient Near Eastern and
+Old Testament background. Unlike the Greek or Roman historian who,
+among other things, wanted to earn praise and glory for his literary achieve­
+ments from both his contemporaries and posterity, the history writer in the
+Ancient Near East sought to disappear as much as possible behind the
+material he presented and to become its invisible mouthpiece. By adopting
+the stylistic device of anonymity from Old Testament historiography the Evange­
+lists of the New Testament implied that they regarded themselves as compara­
+tively insignificant mediators of a subject matter that deserved the full attention
+of the readers. The anonymity of the Gospels is thus rooted in a deep convic­
+tion concerning the ultimate priority of their subject matter.

@@ -1,0 +1,721 @@
+In a recent essay Kenneth L. Cukrowski discusses and compares two pos­
+sible ways to supply the ellipsis in 1 Tim 2:9.* One possibility is to add
+βούλομαι only, as suggested by a number of scholars, 2 and understand v. 9
+as merely referring to the way women should adorn. The other is to supply
+βούλομαι προσεύχεσθαι, a reading that would clearly specify that women
+are expected to pray. 3 Other authors leave the question open, 4 or do not
+address the matter directly, but their interpretation implies a certain
+understanding. 5 This evidence apparently suggests that there are two major
+camps adopting opposite positions, but as a matter of fact the issue is
+much more complex. Many of those who supply only βούλομαι explicitly
+or implicitly indicate that they understand w. 9-10 as a reference to women
+praying in public worship. 6 It seems then that there is no clear-cut distinc­
+tion between two factions, one asserting and the other denying that women
+are to pray, since only very few authors take w. 9-10 to be merely part of a
+household code. Cukrowski himself pleads for βούλομαι, pointing to
+seemingly insolvable grammatical difficulties when reading βούλομαι
+προσεύχεσθαι.
+In this essay three issues will be addressed. First, it will be argued that a
+text-critical analysis allows for both options to supply the ellipsis, and
+an explanation will be suggested for this ambiguity. Second, building on
+the possibility to read βούλομαι προσεύχεσθαι in v. 9, in an intertextual
+analysis, 1 Tim 2:8-10 will be compared with 1 Cor 11:4-15 (more par­
+ticularly w. 4-5, 7a). Third, it will be shown that the ambiguous character
+of w. 9-10 derives not only from a merger of two different genres, but
+results from a decision by 1 Tim to provide a relecture of the pre-text in 1
+Cor 11 and to offer a correction of Paul by "Paul".
+Cukrowski offers two possible reconstructions and readings of w. 8-10:
+1.
+Βούλομαι οΰν προσεύχεσθαι τους άνδρας
+έν παντί τόπω
+έπαίροντας όσιους χείρας
+χωρίς όργης καί διαλογισμών.
+ωσαύτως [βούλομαι προσεύχεσθαι] γυναίκας
+έν καταστολή κοσμίω μετά αιδοΰς
+και σωφροσύνης κοσμείν έαυτάς,
+μη έν πλέγμασιν και χρυσίω ή μαργαρίταις ή Ιματισμφ πολυτελεΐ,
+αλλ' δ πρέπει γυναιξίν έπαγγελλομέναις θεοσέβειαν, δι' έργων αγαθών.
+2.
+Βούλομαι ούν προσεύχεσθαι τους άνδρας
+έν παντι τόπφ
+έπαίροντας όσιους
+χείρας χωρίς όργης και διαλογισμών.
+ωσαύτως [βούλομαι] γυναίκας
+έν καταστολή κοσμίφ μετά αιδοΰς και σωφροσύνης
+κοσμειν έαυτάς,
+μη έν πλέγμασιν και χρυσίω ή μαργαρίταις ή ίματισμφ πολυτελεΐ,
+αλλ' δ πρέπει γυναιξίν έπαγγελλομέναις θεοσέβειαν, δι' έργων αγαθών.
+This text differs from NA 2 7 in two instances. Cukrowski does not explain
+his reason for replacing διαλογισμού in v. 8 with διαλογισμών. A decision
+is not easy, as the manuscript evidence is divided. 7 J.K. Elliott argues that
+the singular results from a harmonisation with όργης. 8 But a change to the
+plural is equally possible. I.H. Marshall cites evidence for the use of the
+singular from the ethical lists in Col 3:8; Eph 4:31 f. 9 In the NT, διαλογισμός
+is mostly used in the plural (eleven out of fourteen instances). The excep­
+tions are 1 Tim 2:8 and Luke 9:46, 47 (par. Mk 9:33 διαλογίζομαι), but
+in the latter the choice of the singular may have been influenced by the fact
+that one issue, and only one, is at stake: το τίς αν εΐη μείζων αυτών (con­
+trast the double question in Luke 5:21 and the plural διαλογισμοί in v. 22).
+The frequency of the plural would rather indicate a harmonisation in that
+direction, and the text is well attested.
+In v. 9 Cukrowski drops καί before γυναίκας (introduced in square
+brackets in NA 26 " 27 , against NA 2 5 ), which he thinks was added merely
+to smooth the syntax. 10 The conjunction is missing in a number of
+witnesses. 11 This reading was generally preferred by the older editions up
+to NA 25 (T, H, S, V, M, B), on the authority of K*A. However Κ has a
+tendency to omit καί, and in general scribes were inclined to drop καί, for
+stylistic reasons, as Elliott remarks. 12 The word may also have dropped out
+by mere parablepsis (QCAYTQCKAIGYNAIKAC). Καί is supported by
+an important number of witnesses, both on its own and followed by τάς 13
+(καί τάς also supports καί). Elliott may be right that the combination of
+ωσαύτως with καί was likely to be original, because scribes would rather
+have dropped καί than added it after ωσαύτως. 14 The Pastoral Epistles
+(PE) combine instances of ωσαύτως with arthrous and with anarthrous
+nouns. 15 The noun is usually in pre-position, except in 1 Tim 2:9 and
+5:25. In v. 9 the article was probably added to harmonise with v. 8 (τους
+άνδρας). Even if τάς is secondary, there are obvious arguments in favour
+of καί that should be considered. Καί following ωσαύτως is additionally
+reinforcing the parallelism between w. 8 and 9.
+1. When supplying βούλομαι προσεύχεσθαι a close parallel is estab­
+lished between the way men and women ought to pray, reinforcing the
+effect of ωσαύτως. In this case γυναίκας is the subject of the infinitive
+προσεύχεσθαι. The prepositional phrase έν καταστολή κοσμίφ μετά αίδοΰς
+functions adverbially and parallels the analogous έν παντί τόπφ in v. 8. Cuk-
+rowski suggests that this reconstruction can work only if both infinitives,
+προσεύχεσθαι and κοσμειν, depend on βούλομαι and are connected by καί.
+Therefore μετά αιδοΰς has to be disconnected from σωφροσύνης and linked
+to έν καταστολή κοσμίφ. 16 As a result, μετά αίδοΰς further specifies the
+attire ("in modest attire with modesty"), while σωφροσύνης would explain
+κοσμειν. Cukrowski rightly concludes that the first option as he presents it
+does not stand, for the modifier of κοσμειν has to take the dative, not the
+genitive. 17 In addition, one would have to break up the phrase μετά αίδοΰς
+καΐ σωφροσύνης that naturally holds together. A few witnesses have
+inverted the order, nonetheless indicating that the two nouns were clearly
+understood as belonging together. 18 The close association of these concepts
+is attested in ancient authors. 19
+Since the grammatical inappropriateness of this construction overweighs
+its strength in terms of thematic coherence, Cukrowski is right that the
+first option, as he presents it, does not work.
+2. If only βούλομαι is supplied, γυναίκας is the subject of κοσμειν, that
+is further defined by the adverbial construction έν καταστολή κοσμίφ μετά
+αίδοΰς καΐ σωφροσύνης. The clause describes the way women should
+adorn themselves.
+Cukrowski now seems to disconnect οσίους from χείρας in v. 8, and
+connect it to άνδρας. 20 If not a mere mistake of layout, this presentation
+probably results from erroneously taking οσίους to be an accusative plural
+masculine. For the same reason some manuscripts have substituted όσίας,
+but in the Hellenistic declension οσίους can also denote the accusative
+plural feminine. 21 Apart from that, disconnecting έπαίροντας οσίους
+from χείρας does not make much sense, since "lifting up hands" is a widely
+attested gesture of prayer, described by the almost formulaic οσίους
+χείρας. 22 Men are expected "to lift up their hands", i.e. to pray, in a manner
+that is characterised positively by holiness and negatively by the absence of
+23
+anger and disputes (or doubts).
+Κοσμειν in v. 9 becomes the equivalent of προσεύχεσθαι in v. 8, thus
+prayer is excluded. The proposal provides both a verbal (βούλομαι), and a
+formal parallel between w. 8 and 9. Moreover, the construction is gram­
+24
+matically correct. Cukrowski concludes that this reading should be pre­
+ferred, although it eliminates 1 Tim 2:9 from the list of instances referring
+to women praying, and could therefore be judged as a difficulty by "those
+25
+who desire a passage that explicitly mentions women praying."
+The present essay is not motivated by the desire to save 1 Tim 2:9 for
+such a list. However, this second proposal of Cukrowski is itself not with­
+out difficulties. The main problem with this reading is that it skips quite
+abruptly from the motif of prayer in v. 8 to that of women's attire in v. 9.
+Cukrowski answers the objection by pointing out that the reconstruction
+offers a coherent reading of 2:1-15, where prayer is introduced in w. 1-2,
+and the repetition of the topic in v. 8 functions as a link "to a specific treat­
+ment of problems in worship." 26 But with such an argument Cukrowski
+makes worship the unifying theme of the pericope, and so in a way comes
+close to those who think that βούλομαι προσεύχεσθαι should be supplied
+in v. 9. Moreover, there are other ways to supply the ellipsis. We will argue
+that it is possible to supply βούλομαι προσεύχεσθαι and still preserve a
+grammatically correct structure.
+Anyway, the analysis of the two reconstructions proposed by Cukrowski
+indicates that the text seems to require from the reader to choose between
+grammatical or thematic coherence. Cukrowski has opted for the first. Even
+so his decision is not without difficulties. Both his reconstructions imply an
+artificial division of the clauses (disconnecting μετά αίδοΰς from σωφροσύνης
+in the first, and detaching οσίους from χείρας in the second reading).
+It is important to note that the passage is intrinsically ambiguous. The
+most probable explanation is that the text resulted from the merger of ele­
+ments belonging to different genres, as will be explained below. This results
+in the difficulty to ascertain at once absolute grammatical and thematic
+consistency. 27
+The possibilities for supplying the ellipsis are not exhausted by Cukrowski s
+two proposals. In the following, two other suggestions are presented, before
+returning once more to the option supplying βούλομαι προσεύχεσθαι.
+It is clear that the requirements addressed to men and women are analo­
+gously structured, but they are not identical, and are more elaborately for­
+mulated in v. 9. The requests addressed to women are further expanded
+with other exhortations (to preserve silence, to be submitted) and prohibi­
+tions (to teach and exert authority over men). Women are reminded of their
+inferiority in creation and their fallacious nature, and they are promised
+salvation by childbearing. All these manifold requirements and prohibi­
+tions have no counterpart in the exhortation addressed to men. The most
+likely explanation of this unbalance (apart from possible ideological rea­
+sons) is the fact that w . 8-9 (±10) contain a cultic rule 28 largely expanded
+with material reflecting the catalogues of virtues incorporated in the "sta­
+tion code" tradition 2 9 and in Neo-Pythagorean exhortations to women. 3 0
+On the hypothesis of a composite text some authors, while asserting
+that the ellipsis should be supplied with βούλομαι προσεύχεσθαι, have
+recurred to a more radical way of dealing with the passage. E. Hautsch
+remarked that v. 9 in its present form is incomprehensible because of
+31
+κοσμειν (έαυτάς). In his analysis of the church regulations ("Kirchen-
+ordnungen") of the PE, H.H. Mayer, taking up Hautsch, understands
+w. 9-10 as referring to women praying, and agrees that the main difficulty
+of the text arises from κοσμειν έαυτάς. 32 Vv. 8-9 refer to a cultic rule in
+which v. 9 deals with the attitude of praying women, and κοσμειν has to be
+dismissed as a secondary expansion. Mayer suggests the following reading:
+ωσαύτως [βούλομαι προσεύχεσθαι] και γυναίκας εν καταστολή κοσμίφ μετά
+αιδοΰς και σωφροσύνης, [κοσμειν έαυτάς] μη έν πλέγμασιν και χρυσίω ή
+μαργαρίταις ή ιματισμφ πολυτελεΐ, αλλ' δ πρέπει γυναιξίν έπαγγελλομέναις
+θεοσέβειαν, δι' έργων αγαθών. 33
+Mayer is followed by H.-W. Bartsch, who regards κοσμειν έαυτάς as an
+addition by the author, modifying the cultic rule. The text reflects a later
+stage in the elaboration of church regulations. 34
+This reading is largely based on Origen, who in his Περί ευχής inter­
+preted 1 Tim 2:9-10 as referring to the manner in which women should
+pray. After commenting on v. 8, he goes on stating,
+προς τούτοις την γυναίκα χρή εχειν μάλιστα εύχομένην το κατεσταλμένον καΐ το
+κόσμιον ψυχή και σώματι, πάντων μάλλον έξαιρέτως και δτε εύχεται αιδουμένην
+τον θέον καΐ πάσαν άκόλαστον καΐ γυναίκειαν ύπόμνησιν έξορίσασαν από του
+ηγεμονικού και κεκοσμημένην ουκ "έν πλέγμασι και χρυσφ ή μαργαρίταις ή
+ίματισμω πολυτελεΐ", άλλ' οΐς πρέπον εστί κεκοσμήσθαι γυναίκα θεοσέβειαν
+έπαγγελλομένην [...], ως έδίδαξεν έν τη αύτη επιστολή ό Παύλος λέγων: "γυναίκας
+ωσαύτως έν καταστολή κοσμιώς (κοσμίφ) μετά αίδούς και σωφροσύνης κοσμειν
+έαυτάς, μη εν πλέγμασι και χρυσφ ή μαργαρίταις ή ίματισμφ πολυτελει, αλλ' δ
+πρέπει γυναιξίν έπαγγελλομέναις θεοσέβειαν, δι' έργων αγαθών." 35
+Origen interprets καταστολή as demeanour, not attire, and connects μετά
+αίδοΰς (και σωφροσύνης) to women's deportment. Thus the first part of 1
+Tim 2:9-10 refers to attitude, 36 and only the subsequent part to the out­
+ward manifestation of their inward disposition.
+The reconstruction proposed by Hautsch, Mayer and Bartsch is in a way
+a source-critical decision, as it is based on the hypothesis that the text com­
+bines two different types of tradition. It is an attempt to explain the ambi­
+guity of v. 9, as well as the obvious thematic discordance between v. 8 and
+w. 9b-12,15b. Additionally, it solves the syntactic-grammatical difficulties
+of v. 9 and the question about the verb to which the adverbial phrases
+should be related. The fact that this reconstruction is based on a conjecture
+is a major difficulty. Nonetheless, Mayer and Bartsch are right about the
+heterogeneous character of w. 9-15, which combine a general rule con­
+cerning women's demeanour and a cultic rule, a hypothesis taken over by
+other scholars as well. 37
+A different option to supply the ellipsis was suggested already by Chrysos-
+tom. He understood ωσαύτως as referring to the whole clause of v. 8. Thus
+he reads: ωσαύτως και τας γυναίκας βούλομαι, φησί, Θεφ προσιέναι,
+χωρίς όργης, χωρίς διαλογισμού, οσίους χείρας εχειν. 38
+This proposal was adopted by modern scholars as well. In their transla­
+tion, Quinn and Wacker explicitly supply only βούλομαι ("I also wish
+them to be attractive / to make themselves attractive"), but they clearly
+understand the text as a reference to prayer, when stating that women "are
+to pray in precisely the way that the men have just been directed to [...].
+Accordingly they as much as the men were obliged to participate in the
+Christian liturgy, to raise their holy hands in prayer, [...] to quench per­
+39
+sonal anger and quarrelsomeness".
+This solution is not implausible. It is supported by the otherwise enig­
+matic έν παντί τόπω, which most likely refers to all worship places in any
+40
+local community (household church), indicating that the subsequent
+clauses describe attitudes at prayer, in general, in agreement with the uni­
+versal perspective in w. 1-2. 41 Bartsch thinks that this often overlooked
+clause is meant to strengthen the cultic rule. 42
+The question is whether one should supply the whole subordinate clause
+from v. 8 or only its first part (έν παντί τόπφ έπαίροντας οσίους χείρας). If
+one opts for the first possibility, w. 9 (έν καταστολή κτλ.) and 10 do not
+have a counterpart in v. 8 and the structure is very unbalanced. In the
+second option, part of the requirements are gender-specific: men are
+expected to refrain from anger and debates, women from excessive
+beautification. 43 This option may be the more likely, for reasons of compo­
+sition (balanced structure) and of content. This could mean an expansion
+of the cultic rule with χωρίς όργης κτλ. in v. 8, and έν καταστολή κτλ. in
+v. 9, both stemming from a station code tradition.
+The two previous solutions offer valuable insights which deserve attention.
+The first points to the merger of sources and genres, the second offers a
+reasonable interpretation of the parallel. However, they also create their
+own difficulties (the conjecture and the unbalanced structure). Therefore
+two other readings are presented here, that may be regarded as variants of
+the same structure. There is no need to alter the text, and in both prayer is
+implied.
+Βούλομαι ούν προσεύχεσθαι τους άνδρας
+εν παντί τόπφ
+έπαίροντας όσιους χείρας
+χωρίς όργης και διαλογισμού.
+ωσαύτως [βούλομαι προσεύχεσθαι] [και] γυναίκας
+εν καταστολή κοσμίφ
+μετά αίδοΰς και σωφροσύνης κοσμειν έαυτάς,
+μη έν πλέγμασιν καί χρυσίφ ή μαργαρίταις ή ιματισμφ πολυτελεΐ,
+άλλ' ο πρέπει γυναιξιν έπαγγελλομέναις θεοσέβειαν, δι έργων αγαθών.
+This reading reveals a number of quite remarkable similarities between
+w. 8 and 9-10 in terms of structure and thematic thrust. Both parts deal
+with instructions concerning the way in which men and women should
+pray. In both a prepositional phrase in the dative (έν παντί τόπφ / έν
+καταστολή κοσμίφ) defines a general condition. There follow more con­
+crete requirements about the manner of praying, detailed in a positive
+(έπαίροντας οσίους χείρας / μετά αίδοΰς καί σωφροσύνης κοσμειν έαυτάς)
+and in a negative way (χωρίς όργης καί διαλογισμού / μη έν πλέγμασιν καί
+χρυσίφ ή μαργαρίταις ή ιματισμφ πολυτελει).
+The two parts are not absolutely parallel of course. A participle is used
+in v. 8 (έπαίροντας) and an infinitive in v. 9 (κοσμειν). Though formally
+corresponding to έν παντί τόπφ, έν καταστολή κοσμίφ does not have
+exactly the same function, since it qualifies the manner of praying, while
+έν παντί τόπφ either defines the location or emphasises the general character
+of the rule. (Yet this difference is not removed by supplying merely
+βούλομαι). Subsequently, έπαίροντας refers to προσεύχεσθαι directly,
+while μετά αίδοΰς κτλ. does so only indirectly, as a further qualification
+of έν καταστολή κοσμίφ. The qualification is expressed with an adjective
+in v. 8 (όσίος), and with two substantives functioning adverbially in v. 9
+(μετά αίδοΰς καί σωφροσύνης). The negative clauses apparently have a
+different object, rebuking inward attitude in men and outward appearance
+in women. But the latter is criticised precisely as an expression of an inner,
+morally wrong attitude. The negative clause in v. 9 (μη έν κτλ.) is obviously
+much more elaborate (four types of adornment are listed) than its counterpart
+in v. 8 (χωρίς with double qualification). But the list of four qualifications
+in v. 9 could also be read as a sort of double qualification connected by καί
+(referring to hairdo and adornment), of which the second part is further
+elaborated into a triplet (with double ή). The admonition to men has a
+close parallel in Phil 2:14 (χωρίς γογγυσμών καί διαλογισμών) 44 and can
+also be compared to 1 Tim 5:21 (χωρίς προκρίματος μηδέν... πρόσκλισιν).
+The final clause in v. 10 has no counterpart in v. 8, but represents the nec­
+essary complement in a μη... αλλά construction.
+Thus the requirements are formulated differently, but they take a similar
+place in the overall structure of the passage, and in both cases one finds an
+association between outward gesture and inward disposition.
+Alternatively, μετά αίδοΰς καί σωφροσύνης and κοσμειν έαυτάς could
+also be taken with έν καταστολή κοσμίφ and with μη èv πλέγμασιν κτλ.
+respectively:
+Βούλομαι ουν προσεύχεσθαι τους άνδρας
+έν παντι τόπφ
+έπαίροντας όσιους χείρας
+χωρίς όργης και διαλογισμού.
+ωσαύτως [βούλομαι προσεύχεσθαι] [καί] γυναίκας
+έν καταστολή κοσμίφ μετά αίδοΰς καί σωφροσύνης
+κοσμειν έαυτάς μη έν πλέγμασιν και χρυσίω ή μαργαρίταις ή ίματισμφ
+πολυτελεΐ,
+άλλ' δ πρέπει γυναιξίν έπαγγελλομέναις θεοσέβειαν, δι' έργων αγαθών.
+This reading differs from the previous one in only one issue, the position
+of μετά αίδοΰς καί σωφροσύνης with respect to κοσμειν έαυτάς. But the
+function of this latter phrase remains the same. In both readings κοσμειν
+functions as an epexegetical infinitive, explaining the prepositional phrase
+έν καταστολή κοσμίφ κτλ., 45 either in an outright positive (μετά αίδοΰς
+KGC! σωφροσύνης) or in a positive and a negative way (as part of the μη...
+αλλά clause). 46
+Cukrowski argues that the reading with βούλομαι προσεύχεσθαι can­
+not work because it leaves the two infinitives disconnected. But this is not
+the case: προσεύχεσθαι and κοσμειν are not on the same level. They do not
+define two coordinate clauses, but belong to the main and the subordinate
+clause, respectively, therefore they do not have to be connected by καί.
+Many authors find a striking resemblance between 1 Tim 2:8-15 and
+1 Cor 14:34-35, and with good reason. 47 Yet there are not many to offer
+a detailed discussion of the similarities between 1 Tim 2:8-15 and
+1 Cor 11:3-15. Some authors argue for a clear textual parallel, 48 or notice
+the thematic similarities. 49 The function of 1 Cor ll:2ffas pre-text for
+1 Tim 2:13 is discussed by A. Merz. However, her excellent intertextual
+analysis deals with the prohibition of teaching and its legitimation from
+creation and fall, and she does not focus primarily on 1 Cor ll:5-6. 50
+Others establish various degrees of connection, but mostly reflect on the
+common argumentation from Genesis. Nonetheless, the intertextual
+approach shows that 1 Tim knew and used 1 Cor 11:3-15 and its co(n)text,
+reinterpreting it in a restrictive manner. The evidence comes from the sim­
+ilarities between the two texts and their co-text. There is an obvious the­
+matic parallel between the two passages, reinforced by a number of verbal
+connections. Thus both formulate rules regarding the way men and women
+have to pray in the community, and they combine regulations referring to
+prayer and outfit. Both legitimate the regulations with arguments from the
+creation account(s) and from social conventions. Moreover, the immediate
+context is very similarly structured and brings in a number of keywords
+which will have an important function for the (re) interpretation carried on
+by 1 Tim.
+1 Cor 11 is part of a larger section dealing with public worship. The same
+context is asserted by most commentators for 1 Tim 2:1-10(15). The latter
+deliberately took over not only the topic of public prayer and regulations
+concerning men and women, but also adopted and adapted a number of
+concepts from the context, conveying a new meaning to the pre-text. A look
+at the co(n)text is highly important, as it reveals additional elements of inter-
+textuality and points to the restrictive reinterpretation of Paul, with a refer­
+ence to Paul s words, his name and his authority. This procedure is described
+by A. Merz as "fictitious self-reference", and is meant to offer a relecture of
+the pre-text and to eliminate other, competing interpretations of Paul. 52
+In 1 Corinthians, the cultic rule in 11:4-7a is preceded by a discussion
+on alimentary rules (10:25-30). In this context Paul makes his case calling
+attention to three ideas: conscience (συνείδησις) is the governing author­
+ity, unjust criticism should be rejected as βλασφημία, and his ministry
+serves the universal salvation plan. Further, the cultic rule itself is intro-
+duced by an assertion of Paul s apostolic authority. These four concepts
+(συνείδησις, βλασφημία, Pauls role in the universal plan of salvation, and
+his authority) immediately precede the cultic rule in 1 Tim 2 as well, there­
+fore their meaning in 1 Cor needs to be discussed.
+In 1 Cor 10 Paul argues that Christians should not have a troubled
+conscience (μηδέν άνακρίνοντες δια την συνείδησιν, w. 25, 27), by con­
+suming meat that might come from pagan sacrifices, nor by partaking in
+53
+meals with non-believers. The emphasis is on the freedom of conscience,
+54
+certainly without disregarding the need to prevent scandal. While being
+aware of this requirement, Paul adds in v. 29b: ίνατί γαρ ή ελευθερία μου
+κρίνεται υπό άλλης συνειδήσεως;. Although rules should govern worship
+and every day life, these rules should leave space for personal freedom,
+since conscience is the internal authority that in certain cases can overwrite
+external rules. The idea of possessing an ability to make personal judge­
+ments about what is right or wrong will be taken up again in 11:13 (εν
+ύμιν αύτοις κρίνατε), and even the authoritative introduction of the cultic
+rule in 11:3 implies a demand for personal consent (θέλω δέ ύμας είδέναι) , 5 5
+Even if Paul makes authoritative assertions, and his appeal is rather theo­
+retical, he invites his readers to think with him.
+After asserting the freedom of conscience and the respect for others'
+sensitivity, Paul rhetorically asks why is he vilified (τί βλασφημούμαι;)
+when he partakes in such meals with thankfulness, i.e. implicitly without
+being blamed by his conscience (v. 30). The question could be interpreted
+as an appeal to abstinence for the sake of those who could be scandalised,
+but it is more likely to stress freedom and rejection of this unjust denigra­
+tion (βλασφημία), as suggested by the following verse ("whether you eat or
+drink", not "whether you eat or do not eat", cf. also v. 25). Therefore,
+although Paul pays attention to the conscience of the other, he qualifies the
+criticism of (his / a Christians) freedom, which in certain cases might go
+against the rules, as βλασφημία. 56
+This discussion on rules, conscience and freedom is connected with the
+thought of universal salvation, expressed by Pauls concern for the whole
+church, reaching even towards the outsiders (w. 32-33). In this context,
+Paul emphasises his personal, selfless example: he is a minister of salvation,
+and his only concern is the benefit of all, for the sake of their salvation
+(10:33: καθώς κάγώ πάντα πασιν αρέσκω μη ζητών το έμαυτοΰ σύμφορον,
+άλλα το τών πολλών ΐνασωθώσιν). His example should be followed by the
+community, just as Paul himself is an imitator of Christ (11:1).
+This statement is followed by an assertion of Pauls authority, based
+on the fact that he transmits the παραδόσις (11:1-2). This apostolic author­
+ity allows Paul to formulate or reinterpret rules regulating the life of the
+community.
+It is noteworthy that the co-text of 1 Tim 2:8-10 takes up the same key-
+concepts (συνείδησις, βλασφημέω, universal salvation, Pauls example and
+authority), in the same chain of thought, but while changing their meaning.
+Just before introducing the section on prayer in ch. 2, "Paul", in a
+renewed empowering of "Timothy", 57 commands him to hold faith, in
+accordance with what has been entrusted to him, and a good conscience
+(άγαθη συνείδηση 1:19). Vv. 18-19 resume the commissioning articu­
+lated in w. 3-5. 58 For the PE faith, basically understood as faithfulness to
+the sound doctrine, finds its expression in attachment to a morally right
+lifestyle and in proper religious practice, 59 whereas false teachers and their
+adepts are deeply vicious. 60 Under these circumstances the intimate link
+between faith and lifestyle, both assuring a good conscience, becomes
+obvious. "Timothys" commissioning, strengthened by apostolic authority,
+introduces the whole ecclesial rule in chs. 2-3 and confers a special weight
+to the cultic order that follows immediately after. Moreover, in this con­
+text, άγαθη συνείδησις is both a consequence and a sign of ones conform-
+ity to doctrinal and community rules, not of ones freedom from any such
+rules.
+Interestingly enough βλασφημεω appears also in 1 Tim 1:20. Immedi­
+ately after the reference to the good conscience, βλασφημεω characterises
+the attitude of Hymenaeus and Alexander as persons who have rejected
+good conscience (ην τίνες άπωσάμενοι, v. 19), and have made shipwreck
+of their faith. If we take into account that αγαθή συνείδησις is both con­
+sequence and sign of conformity to doctrinal and congregational rules,
+these paradigmatic persons represent the opposite position ofthat described
+in w. 18-19a, 61 i.e. non-adherence to sound doctrine and to the rules
+which result from it. In 1 Cor Paul, as paradigmatic Christian, is right,
+although he breaks the rules, and his conscience correctly approves his
+decision to do so. Thus the criticism of his opponents about not holding
+to the rules is an unjust accusation, qualified as βλασφημία. Conversely, in
+1 Tim 1:20 those who break the rules are rightly accused of βλασφημία, and
+their rejection of doctrinal and/or congregational rules means a rejection of
+good conscience and implicitly of faith, with utmost dramatic consequences.
+Subsequently the combined intertextual reference to Paul through συνείδησις
+and βλασφημεω is meant to emphasise what could be regarded as the oppo­
+site of 1 Cor 10:27-31, an appeal to strict adherence to doctrinal and com­
+munity rules instead of freedom of conscience.
+Further, in 2:1-7 "Paul" urges "Timothy" to make prayers for all men,
+including the civil authorities, so that Christians may live a quiet and
+peaceful life in godliness and propriety. This is good in the eyes of the sav­
+iour God, who wishes the salvation of all men (τοΰτο καλόν και άπόδεκτον
+ενώπιον του σωτηρος ημών θεοΰ, δς πάντας ανθρώπους θέλει σωθήναι και
+εις έπίγνωσιν αληθείας έλθειν, w. 3-4). In 1 Tim the situation has changed.
+Paul is no longer amongst them as a model to be imitated. The universal
+perspective is preserved, but the emphasis is not on the imitation of Pauls
+example, but on his paradigmatic character and his authority, received
+from Christ himself (εις ο έτέθην εγώ κήρυξ και απόστολος, 2:7). The
+commissioning of the apostle in v. 7 takes up again the longer version in
+1:12-16 that strongly emphasises the paradigmatic nature of Pauls absolu­
+tion and mission. Paul is not only the exemplary sinner who has found
+mercy, but also the manifestation of Gods universal saving will, and this
+confers him a particular authority. While in 1 Cor Paul can still offer him­
+self as an example of selfless endeavour in the service of universal salvation,
+in 1 Tim he becomes a paradigmatic presence. He has experienced God's
+universal saving will. Subsequently he has become a herald of this saving
+62
+will that can be received in the έπίγνωσις αληθείας, and now his apos­
+tolic authority is mediated by "Timothy".
+One additional change should be noted. While Pauls universal concern,
+expressed in 1 Cor 10:32-33, is motivated solely by his desire to be an
+instrument of salvation, in 1 Tim 2:1-7 this concern (prayers for everyone)
+is not only an expression of God s all-embracing saving will, but has the
+clear purpose to secure the quiet, peaceful and godly life of the commu­
+nity. This is a major concern for the PE, reflecting the ideal of "good citi­
+zenship", in the perspective of a remote parousia. 
+Both the cultic regulations in 1 Cor ll:4-7a and those in 1 Tim 2:8-10
+are introduced by a clear statement on the speakers authority. Thus
+1 Cor 11:3 relies on the preceding exhortation to follow the example of the
+apostle (v. 1), and on the commendation of the community for having
+preserved the tradition delivered to them by Paul (v. 2). This introductory
+remark conveys a special weight to what follows. This reference is followed
+by the authoritative θέλω. The κεφαλή argument serves as authoritative
+introduction and fundament for the subsequent cultic rule.
+The cultic rule in 1 Tim 2:8-10 in its turn relies on the authority of
+the apostle, introduced in 1:18, where "Timothy" is entrusted with the
+παραγγελία. 64 The apostolic authority is mentioned once again in 2:7:
+"Paul" has been appointed herald, apostle and teacher of the nations,
+directly by Christ (cf. w. 5-6). Moreover, Christ is described in his rela-
+tionship to God, as sole mediator, therefore God is the source of Christ s
+authority. Following this preamble, the cultic rule is introduced by the
+powerful βούλομαι.
+However, authority is conceived in a somewhat different manner.
+1 Cor 11:3, 13 implies an invitation to think with Paul, a participation of
+reason in the acknowledgment of the rules, which softens somewhat the
+authoritative θέλω. 65 Moreover, Pauls authority is not absolute, but he
+possesses it inasmuch as he is himself an imitator of Christ, and therefore
+refers to Christ. 66 He is an element in the chain of transmission of what he
+himself has received. Therefore his demands are authoritative insofar as
+they are handed down to him (11:2, cf. 15:3). In 1 Tim Pauls authority is
+immediate and complete: he has been directly appointed by Christ. The
+language of power does not allow for reasoning or questions. M. Wolter
+remarks that his authority derives from his quality of being the first to be
+saved, and this priority makes him an archetype, not an example ("Urbild",
+not "Vorbild"). 67
+Both 1 Cor ll:4-7a 68 and 1 Tim 2:8-10 69 regulate the behaviour of men
+and women at worship.
+According to 1 Cor 1 l:4-7a worship involves not only prayer, but also
+prophesying, for both men and women. The requirements are formulated
+in a parallel manner (w. 4-5):
+πας άνηρ προσευχόμενος ή προφητεύων
+70
+πάσα δε γυνή προσευχομένη ή προφητεύουσα.
+In light of eh. 14, prophecy is a form of public, religious authoritative
+71
+speech. Prophecy is a gift that provides edification, encouragement
+and comfort to others (ό προφητεύων άνθρώποις λαλεί οίκοδομήν και
+παράκλησιν και παραμυθίαν, 3b). Moreover, prophecy edifies the church
+(4b, cf. v. 5). Because compared to tongues prophecy is an intelligible,
+edifying form of instruction, Paul states his preference: εν εκκλησία θέλω
+πέντε λόγους τφ νοΐ μου λαλήσαι, ϊνα καί άλλους κατηχήσω (v. 19). 72 This
+assertion proves not only the communitarian aspect of prophesying, but its
+character of instruction as well (cf. also w. 26-31). This dimension of
+teaching/instruction as an unambiguous function of prophecy is also
+affirmed in 14:31, where Paul encourages all to prophecy: ίνα πάντες
+μανθάνωσιν και πάντες παρακαλώνται. These considerations are impor­
+tant for the way we read 1 Cor 11:4-5.
+In 1 Cor 11 the issue is not praying or prophesying as such, but the way
+one behaves in doing so. There is no consensus on what exactly Paul means
+by κατακαλύπτω in v. 6, said of women, and κατά κεφαλής έχων 73 in v. 4
+referring to men. According to a common interpretation women have to
+be veiled. 74 Yet κάλυμμα does not appear in the text. Conversely, based on
+the references to hair in w. 6.14-15, several authors think that the regula­
+tion actually concerns hairdo, and that the main issue is rather that of
+assuming gender roles, as suggested by the argument from nature in v. 14. 75
+A number of early Christian readers supplied κατά κεφαλής έχων with
+κόμη, 76 but nonetheless regarded the demand concerning women as refer­
+ring to veiling. 77 Whatever the case may be, 78 it is obvious that public
+prayer and prophesying, performed by both men and women, is connected
+to requirements regarding an appropriate appearance.
+In 1 Tim 2:8-10 men are explicitly instructed to pray with the appropri­
+ate spiritual attitude. The discussion of the ellipsis has shown that the
+demand addressed to women is more ambiguous. Nonetheless, supplying
+βούλομαι προσεύχεσθαι allows for interpreting w. 9-10 as referring to
+women at prayer. Now only prayer is in view: prophesying is not men­
+tioned. However, in w. 11-12 there is a reference to teaching as a form of
+authoritative speech: women are exhorted to learn (μανθάνω) in full sub­
+mission 79 and are forbidden to teach or exert authority over men. 80
+When comparing the expectations in 1 Tim 2:8-10 with those in
+1 Cor 1 l:4-7a, some key-words and themes from 1 Cor are repeated, but
+in a noteworthy manner, implying omissions and expansions, as well as the
+re-interpretation of the recurring themes. 81
+Both texts address the issue of prayer in the context of public worship. Πας
+άνηρ προσευχόμενος ή προφητεύων in 1 Cor 11:4 can be paralleled with
+προσευχεσθαι τους άνδρας in 1 Tim 2:8. If προσεύχεσθαι is supplied in
+1 Tim 2:9, the reading parallels πάσα δε γυνή προσευχομένη ή προφητεύουσα
+oflCorll:5. 8 2
+An additional link between the two texts is created by the interconnec­
+tion between prayer and the appropriate outward appearance at worship.
+Some suggest that the phrase οσίους χείρας in 1 Tim 2:8 could also refer
+to a symbolic physical purity. 83 Vv. 9-10 extensively discuss women's
+appearance, with reference to respectable apparel and to the way they
+should (not) wear their hair (μη εν πλέγμασιν). These motifs recall the
+regulation regarding feminine (hair)wear in 1 Cor 11:5-6, 13, 15. Another
+verbal and thematic link is realised by the requirement of a worthy manner
+of adorning (δ πρέπει, 1 Tim 2:10), which corresponds to Paul's rhetorical
+question in 1 Cor 11:13 (πρέπον εστίν;). 84 One could object that 1 Tim
+2:10 refers only metaphorically to adornment, actually envisaging a moral
+attitude, but w. 9b-10 clearly touch upon the manner of dressing. On the
+other hand, both texts regulate the outward appearance as manifestation of
+a morally fitting or inappropriate attitude.
+A very strong link between the two texts is realised by the theological
+legitimation of the cultic rule, a matter that will be addressed below (2.2.3).
+Beside the clear thematic and verbal connections, there are obvious
+differences as well. The most striking difference is the absence of prophecy.
+In 1 Tim 2:8 men are no longer supposed to prophesy. Prophecy basically
+disappears from the PE. 85 The cognate προφητείας appears twice in 1 Tim
+(1:18; 4:14), in both cases in relation with "Timothys" institution/
+"ordination" as successor of Paul and defender of the sound doctrine. (A
+prophet appears once in the PE, in Tit 1:12, in a rather negative context).
+This "institutionalisation" of prophecy goes together with the omission of
+prophesying as a gift or attribution of regular members of the community,
+let them be even men.
+For women, what was still obvious for Paul in 1 Cor 11:5, 13, has
+become either ambiguous (prayer), or inconceivable (prophecy) in 1 Tim 2.
+Since 1 Cor 14:19, 31 describes prophecy as a form of authoritative speech
+and instruction, which provides the possibility to learn (μανθάνω), it is
+probable that the exhortation addressed to women to learn in silence, par­
+alleled by the prohibition to teach or exercise authority over men in 1 Tim
+2:11-12 is a fictitious self-reference and self-correction, excluding women
+from any form of public authoritative speech and correcting Pauls permis­
+sive attitude toward women prophesying.
+A particular problem arises with respect to the subject of prophesying
+and learning in 1 Cor 11 and 14, and the relationship of these texts with
+1 Tim 2:11-12. In 1 Cor 11:5 it is obvious that women prophesy. Further,
+according to 14:31, all are allowed to prophesy: they only need to respect
+a certain order, so that everyone may learn and receive encouragement.
+Hence there is an obvious reciprocity in both prophesying/instructing and
+learning. This reciprocity is nonetheless denied in 14:34-35, expecting
+women to keep silent. The latter text has striking semantic and thematic
+similarities with 1 Tim 2:11-12 that have been explained in various ways. 86
+Based on text- and literary-critical arguments and on the contrast to 1 Cor
+11:5 and the rest of 1 Cor 14, a significant number of scholars regard w. 34-35
+as an early interpolation, probably by the time when the Corpus Paulinum
+87
+was edited. A few defend their authenticity, either because no manuscript
+omits these verses, the text-critical evidence for an interpolation being regarded
+88
+89
+as unconvincing, or because of a certain understanding of inspiration.
+The debate within scholarship regarding the authenticity and interpre­
+tation of 1 Cor 14:34-35 shows not only the contradiction between this
+text and 11:5, but also the fact that the scope of silencing is differently
+understood. Those scholars who regard the verses as Pauline, but nonethe­
+less perceive the tension with 11:5, tend to limit the prohibition to disre­
+90
+spectful intervention of Corinthian women during the service. Precisely
+this choice to limit the interdiction to inconsiderate (small)talk, without
+applying it to teaching/prophesying, indicates that the text could have
+been liable from the beginning (even when an interpolation) to less restric­
+tive interpretations. Thus one could assume that the author of 1 Tim has
+attempted to interpret this text in a restrictive and unequivocal manner,
+leaving no doubt about the full exclusion of women from public ministry
+and teaching. 91 Yet other scholars who regard 1 Cor 14:34-35 as inauthen-
+tic, based on the obvious verbal and thematic similarities with 1 Tim 2:9-15,
+argue even that both texts could stem from the same or a similar patriar-
+chal-misogynistic circle. 92
+At any rate, 1 Tim 2:8-15 clearly narrows down the possibilities that are
+still open in 1 Cor 11. This is particularly true for women, but to a certain
+degree for men as well.
+In 1 Cor 11:3-16 Paul legitimises the rules regulating male and female
+appearance at public worship by the κεφαλή symbolism and by a double
+reference to Gen in w. 7 and 9.
+The meaning of his first argument (v. 3) is a matter of debate. A com­
+mon interpretation of the κεφαλή metaphor asserts the subordination of
+the woman. Nonetheless, a number of authors suggest that Paul simply
+alludes to Gen 2, stating that the man is the source of the woman's exist­
+ence. 93 Yet, even mere precedence in creation may suggest a hierarchical
+relationship between man and woman.
+A reference to the first account of creation appears in v. 7: the man is
+not supposed to cover his head (or to wear long hair), because he is the
+image and glory (είκών και δόξα) of God. This is not only an allusion to,
+but also a reinterpretation of Gen 1:26-27, since in Paul the resemblance
+to God is a male attribute.
+The third argument (v. 9) draws from Gen 2. Paul reinforces the implicit
+androcentrism of the account, emphasising that "man is not from (εκ)
+woman, but woman from man; nor was man created for/through (δια)
+woman, but woman for/through man" (w. 8-9). Nonetheless, his subse­
+quent reflection seems to correct this one-sided perspective, as he goes on
+stating the interdependence between man and woman, even in terms of
+origin (11:11-12).
+1 Tim 2:13 legitimates the restrictions regarding women's public role 94
+by references to Gen 2-3. In 1 Tim 2 there is no mention anymore of the
+woman being the mans δόξα. The chronological precedence of the man in
+creation (Gen 2), understood as a sign of his superiority, becomes even
+more categorical: the reciprocity-statement of 1 Cor 11:11-12 can no
+longer be found in 1 Tim 2. 95 Additionally, submission and exclusion are
+legitimised not only by the chronological order of creation, but also by a
+reference to the Fall, in the interpretative line of Sir 25:24 and Philo (QG I).
+The woman (not only Eve!) is allegedly liable to deception by nature. 96
+Thus in 1 Tim 2 "Paul" makes use of another fictitious self-reference, in
+order to severely restrict the public ministry of women, based on the order
+of creation and on additional hamartiological arguments.
+The rules regulating dressing and hairstyle were obviously part of a social
+code, as proved by a vast number of ancient sources. 97 Dressing code and
+rules regulating hairdo were related to gender roles, and implicitly to bio­
+logical roles. 98 This interrelation is exemplified by Pauls argument from
+nature in 1 Cor 11:14." The same kind of connection between social
+expectations regarding feminine adornment and gender roles can be found
+in 1 Tim 2:9-15 as well. The author not only offers a stereotyped descrip­
+tion of the manner in which women are supposed to dress, but he also
+asserts that the only acceptable role through which women can attain sal­
+vation is childbearing.
+The first part of the essay has shown that there are several ways for dealing
+with 1 Tim 2:9. Κοσμειν έαυτάς may be deleted as a secondary expansion,
+or the ellipsis can be supplied with the entire clause in v. 8, with βούλομαι
+or with βούλομαι προσεύχεσθαι. The latter reading does not interfere with
+the text, it can work grammatically, and it provides a thematic unity
+between w. 8 and 9-10. Yet none of these solutions is without difficulties,
+and the text is ambiguous. This ambiguity is due to a merger of literary
+genres, and proves to be ideologically useful. As such it is likely to be inten­
+tional, as indicated by the similarly equivocal 1 Tim 3:9. 100
+The intertextual approach shows that 1 Timothy very likely used as a
+pre-text the cultic rule found in 1 Cor 11, together with its broader con­
+text. This rule addressed praying and prophesying men and women, and
+articulated certain expectations regarding their appearance at worship.
+The rule was given a theological (Gen 1:26-27; 2:21-23) and a social-
+natural legitimation, based on gender roles. 1 Timothy amplifies Paul s one­
+sided reading of Gen, eliminating the positive reference to Gen 1:26-27, as
+well as Paul s concession on the interdependence between man and woman.
+The author proposes a restrictive, "corrective" re-interpretation of 1 Cor
+11:11-12. To the theological legitimation based on the priority of man in
+creation 1 Timothy adds a hamartiological argument from Gen 3. More­
+over, the relecture of Gen 3 is profoundly unilateral, making Eve the sole
+responsible for the Fall, and extending this blame to all women.
+Additionally the meaning of the catchwords taken from the context
+(συνείδησις, βλασφημία, Pauls example and apostolic authority) is also
+modified, in order to "correct" some Pauline ideas. Thus freedom of con­
+science is replaced with perfect adherence to sound doctrine and strict
+observance of the ecclesial rules, which guarantee a good conscience. "Paul"
+becomes an absolute reference-point whose will is manifested in "Timothy" s
+authority.
+A second pre-text used in 1 Tim 2 is a combination of a station code
+tradition and Neo-Pythagorean-like exhortations, based on popular philo­
+sophical topoi regarding women and specific gender roles. These comprise
+requirements about the modest, respectable attire and adorning with good
+deeds instead of jewellery. Other topoi refer to typically feminine virtues,
+such as αιδώς and σωφροσύνη, silence and subordination to man. 101
+Through the expansion of the congregational context with the station code
+tradition, 1 Timothy extends the scope of the restrictive rule to both the
+role of women in the church and in Christian life in general.
+Mens prayer is further regulated and prophecy is eliminated. A cha­
+risma potentially given to everyone is replaced by the institutional ministry
+that secures the orderly life of the community. This order is safeguarded by
+"Timothy", who acts with "Paul" s authority. Prophecy has no place in the
+cultic rule anymore, because authoritative instruction is no longer an attri­
+bute of any Christian, not even of men, but of ordained office-holders.
+Further, 1 Timothy not only omits prophesying in case of women, but
+also obscures the reference to προσεύχομαι, opting for the more ambigu­
+ous ωσαύτως [καί] γυναίκας. This ambiguity is enhanced by the combi­
+nation of the cultic rule with the station code tradition. 102 While prophecy
+is described by Paul as a form of instruction, of authoritative speech
+(1 Cor 14:19, 31), open to women (11:5), 1 Timothy prohibits women to
+teach or to exert authority over men. This prohibition, formulated in line
+with 1 Cor 14:34-35, is a fictitious self-reference, which comes to "cor­
+rect" 1 Cor 11:5. Implicitly, 1 Timothy also "corrects" the potentially
+"misleading" Pauline assertion that all should learn (μανθάνω, 1 Cor 14:31).
+Through another unmarked corrective fictitious self-reference "Paul" now
+clearly states that women should not teach, but should learn (μανθάνω) in
+all submissiveness.
+Thus in 1 Timothy "Paul" reinterprets Paul, who had clearly endorsed
+men to pray and to prophesy, i.e. publicly exercise authoritative speech,
+and had manifested at least a tacit approval of women praying and proph­
+esying. In 1 Tim 2:8-15, men are to pray, but they are no longer expected
+to prophesy. Women are left in an ambiguous position: the formulation of
+the requirements is vague enough to presume that they are or are not per­
+mitted to pray in public. What is obvious is that they are certainly prohib­
+ited from speaking with authority, and they are only expected to adopt the
+traditional gender role of household management and childbearing.
+The ellipsis in 1 Tim 2:9 is more than a grammatical nicety.

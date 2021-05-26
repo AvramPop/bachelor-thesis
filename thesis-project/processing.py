@@ -131,12 +131,12 @@ def prepare_data(document_number=1):
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        # backup = copy.copy(sentence)
-        # try:
-        #     sentence = lemmatize(sentence)
-        # except:
-        #     print("didn't do lemma")
-        #     sentence = backup
+        backup = copy.copy(sentence)
+        try:
+            sentence = lemmatize(sentence)
+        except:
+            print("didn't do lemma")
+            sentence = backup
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
@@ -181,12 +181,12 @@ def get_duc_embeddings(text):
         sentence = tokens_to_lower_case(sentence)
         sentence = remove_stop_words(sentence)
         sentence = transliterate_non_english_words(sentence)
-        # backup = copy.copy(sentence)
-        # try:
-        #     sentence = lemmatize(sentence)
-        # except:
-        #     print("didn't do lemma")
-        #     sentence = backup
+        backup = copy.copy(sentence)
+        try:
+            sentence = lemmatize(sentence)
+        except:
+            print("didn't do lemma")
+            sentence = backup
         sentence = concatenate_text_as_array(sentence)
         sentence = sentence_to_embedding(sentence)
         sentences_as_embeddings.append(sentence)
