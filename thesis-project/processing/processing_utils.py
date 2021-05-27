@@ -61,7 +61,7 @@ def remove_stop_words(tokens):
 
 # lowercase all the words given
 def tokens_to_lower_case(tokens):
-    return [word.casefold() for word in tokens]  # TODO is this needed?
+    return [word.casefold() for word in tokens]
 
 
 # check if a given word is written in English script

@@ -48,7 +48,7 @@ def get_average_clustering_coefficient(coefficients_of_clusters):
     return np.average(list(coefficients_of_clusters.values()))
 
 
-# get best node frm a cluster by the clustering coefficient
+# get best node from a cluster by the clustering coefficient
 def best_from_cluster(clustering_coefficients_for_each_node, clusters, cluster_number):
     nodes = {k: v for k, v in clustering_coefficients_for_each_node.items() if k in clusters[cluster_number]}
     res = list({k: v for k, v in sorted(nodes.items(), key=lambda item: item[1], reverse=True)}.keys())

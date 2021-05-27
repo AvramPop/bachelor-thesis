@@ -1,7 +1,7 @@
 import unittest
 import processing.processing_utils as processing
-import evo.evo_utils
-import graphs.graph_utils
+import evo.evo_utils as evo
+import graphs.graph_utils as graphs
 
 
 class MyTestCase(unittest.TestCase):
@@ -67,6 +67,39 @@ class MyTestCase(unittest.TestCase):
         score1 = {"ROUGE-1-L": 0.25, "ROUGE-1-F": 0.5}
         score2 = {"ROUGE-1-L": 0.65, "ROUGE-1-F": 0.1}
         self.assertEqual({"ROUGE-1-L": 0.45, "ROUGE-1-F": 0.3}, processing.final_results([score1, score2]))
+
+    def test_get_average_clustering_coefficient(self):
+        coefficients_of_clusters = {1: 5, 2: 7}
+        self.assertEqual(6.0, graphs.get_average_clustering_coefficient(coefficients_of_clusters))
+
+    def test_best_from_cluster(self):
+        coefficients_of_nodes = {1: 5, 2: 7}
+        clusters = {0: [1, 2]}
+        self.assertEqual(2, graphs.best_from_cluster(coefficients_of_nodes, clusters, 0))
+
+    def test_remove_best(self):
+        coefficients_of_nodes = {1: 5, 2: 7}
+        clusters = {0: [1, 2]}
+        graphs.remove_best(2, 0, clusters, coefficients_of_nodes)
+        self.assertEqual(1, len(clusters[0]))
+
+    def test_no_available_nodes(self):
+        clusters = {0: [1, 2]}
+        self.assertFalse(graphs.no_available_nodes(clusters))
+        clusters = {}
+        self.assertTrue(graphs.no_available_nodes(clusters))
+
+    def test_bits_in_individual(self):
+        individual = [0, 1, 0, 1]
+        self.assertEqual(2, evo.bits_in_individual(individual))
+
+    def test_max_weight_dag(self):
+        graph = [[0, 5, 3, 0, 0, 0], [0, 0, 2, 6, 0, 0], [0, 0, 0, 7, 4, 2], [0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+        self.assertEqual(15, evo.max_weight_dag(graph))
+
+    def test_sentence_position(self):
+        individual = [1, 1, 1, 1]
+        self.assertEqual(1, evo.sentence_position(individual))
 
 
 if __name__ == '__main__':
