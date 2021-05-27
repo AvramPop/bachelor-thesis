@@ -1,7 +1,7 @@
 import processing.processing_utils as processing
 import networkx
 import time
-import graph_utils
+import graphs.graph_utils as graph_utils
 import numpy as np
 
 

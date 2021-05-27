@@ -1,5 +1,5 @@
 import time
-import graph_utils
+import graphs.graph_utils as graph_utils
 import numpy as np
 import processing.processing_utils as processing
 from nltk.tag import pos_tag

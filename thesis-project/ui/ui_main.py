@@ -1,7 +1,6 @@
 import sys
-from PySide6 import QtCore, QtWidgets, QtGui
-from DemoWindow import *
-from StatsWindow import *
+from ui.DemoWindow import *
+from ui.StatsWindow import *
 
 
 def launch_ui(titles):

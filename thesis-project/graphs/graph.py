@@ -1,6 +1,6 @@
 import numpy as np
 from scipy import spatial
-import graph_utils
+import graphs.graph_utils as graph_utils
 import time
 
 

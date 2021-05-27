@@ -2,7 +2,7 @@ import random
 import copy
 import numpy as np
 from scipy import spatial
-import processing
+import processing.processing_utils as processing
 
 
 def one_point_crossover(parent1, parent2, summary_size):

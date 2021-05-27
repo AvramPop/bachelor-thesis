@@ -2,7 +2,7 @@ from evo import evolutionary, chatterjee
 from graphs import graph, dutta, textrank
 import processing.processing_utils as processing
 import time
-import ui.ui_driver as ui
+import ui.ui_main as ui
 from processing import duc
 import sys
 
@@ -68,7 +68,7 @@ def theology_driver(number_of_texts=39):
 def duc_driver():
     print("DUC benchmark")
     docs, summaries = duc.get_duc_data()
-    number_of_texts = 3  # len(docs)
+    number_of_texts = 2  # len(docs)
     evolutionary_scores = []
     graph_scores = []
     text_rank_scores = []
