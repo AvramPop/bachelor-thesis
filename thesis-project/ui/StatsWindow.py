@@ -1,7 +1,7 @@
 from PySide6 import QtCore, QtWidgets, QtGui
 import processing
-import evolutionary
-import graph
+from evo import evolutionary
+from graphs import graph
 
 
 class StatsWindow(QtWidgets.QWidget):
@@ -14,7 +14,6 @@ class StatsWindow(QtWidgets.QWidget):
         self.__setup_titles_ui()
         self.__setup_params_ui()
         self.__setup_stats_ui()
-        self.__setup_graph_ui()
 
     def __setup_number_ui(self):
         container = QtWidgets.QHBoxLayout()
@@ -147,28 +146,15 @@ class StatsWindow(QtWidgets.QWidget):
         self.__statsThread.signal.connect(self.__update_stats_view)
         self.__statsThread.start()
 
-    def __setup_graph_ui(self):
-        container = QtWidgets.QVBoxLayout()
-
-        plots_button = QtWidgets.QPushButton("Generate plots")
-        plots_button.clicked.connect(self.__generate_plots)
-        container.addWidget(plots_button)
-
-        self.layout.addLayout(container)
-
     def __show_wheel(self):
-        wheel_movie = QtGui.QMovie("resources/ajax-loader.gif")
+        wheel_movie = QtGui.QMovie("../resources/ajax-loader.gif")
         self.__wheel_label.setMovie(wheel_movie)
         wheel_movie.start()
 
     def __remove_wheel(self):
-        empty = QtGui.QMovie("resources/blank.gif")
+        empty = QtGui.QMovie("../resources/blank.gif")
         self.__wheel_label.setMovie(empty)
         empty.start()
-
-    @QtCore.Slot()
-    def __generate_plots(self):
-        print("plots")
 
     @QtCore.Slot()
     def __update_stats_view(self, thread_data):

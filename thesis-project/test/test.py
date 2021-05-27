@@ -1,5 +1,7 @@
 import unittest
-import processing
+import processing.processing_utils as processing
+import evo.evo_utils
+import graphs.graph_utils
 
 
 class MyTestCase(unittest.TestCase):

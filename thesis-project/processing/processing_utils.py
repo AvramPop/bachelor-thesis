@@ -205,5 +205,4 @@ def preprocess_duc(doc, summary):
     abstract = summary["body"]
     title = doc["title"]
     title_embedding = sentence_to_embedding(doc["title"].casefold())
-    return sentences_as_embeddings, duc_as_sentences, abstract, title, title_embedding, abstract
-    # todo last param is not rough
+    return sentences_as_embeddings, duc_as_sentences, abstract, title, title_embedding, abstract  # last param is not rough

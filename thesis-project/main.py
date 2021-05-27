@@ -1,19 +1,18 @@
-import evolutionary
-import graph
-import processing
+from evo import evolutionary, chatterjee
+from graphs import graph, dutta, textrank
+import processing.processing_utils as processing
 import time
-import ui
-import duc
-import chatterjee
+import ui.ui_driver as ui
+from processing import duc
 import sys
 
 
 def ui_driver():
-    titles = processing.get_titles(20)
+    titles = processing.get_titles(39)
     ui.launch_ui(titles)
 
 
-def theology_driver(number_of_texts=20):
+def theology_driver(number_of_texts=39):
     print("Theology benchmark")
     evolutionary_scores = []
     graph_scores = []
@@ -30,8 +29,8 @@ def theology_driver(number_of_texts=20):
                                                                                     summary_length)
         generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings, text_as_sentences_without_footnotes,
                                                                summary_length)
-        generated_summary_textrank = graph.generate_summary_graph_text_rank(text_as_sentences_without_footnotes, summary_length)
-        generated_summary_dutta = graph.generate_summary_dutta(text_as_sentences_without_footnotes, summary_length)
+        generated_summary_textrank = textrank.generate_summary_graph_text_rank(text_as_sentences_without_footnotes, summary_length)
+        generated_summary_dutta = dutta.generate_summary_dutta(text_as_sentences_without_footnotes, summary_length)
         generated_summary_chatterjee = chatterjee.generate_summary_chatterjee(text_as_sentences_without_footnotes, summary_length)
 
         score_evolutionary = processing.rouge_score(generated_summary_evolutionary, abstract)
@@ -69,7 +68,7 @@ def theology_driver(number_of_texts=20):
 def duc_driver():
     print("DUC benchmark")
     docs, summaries = duc.get_duc_data()
-    number_of_texts = len(docs)
+    number_of_texts = 3  # len(docs)
     evolutionary_scores = []
     graph_scores = []
     text_rank_scores = []
@@ -88,9 +87,8 @@ def duc_driver():
             generated_summary_graph = graph.generate_summary_graph(sentences_as_embeddings,
                                                                    text_as_sentences_without_footnotes,
                                                                    summary_length)
-            generated_summary_textrank = graph.generate_summary_graph_text_rank(text_as_sentences_without_footnotes,
-                                                                                summary_length)
-            generated_summary_dutta = graph.generate_summary_dutta(text_as_sentences_without_footnotes, summary_length, threshold=0.1)
+            generated_summary_textrank = textrank.generate_summary_graph_text_rank(text_as_sentences_without_footnotes, summary_length)
+            generated_summary_dutta = dutta.generate_summary_dutta(text_as_sentences_without_footnotes, summary_length, threshold=0.1)
             generated_summary_chatterjee = chatterjee.generate_summary_chatterjee(text_as_sentences_without_footnotes,
                                                                                   summary_length)
 

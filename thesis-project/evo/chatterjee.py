@@ -1,10 +1,8 @@
 import random
-import copy
 import numpy as np
-from scipy import spatial
 import time
-import processing
-import evolutionary
+import processing.processing_utils as processing
+import evo.evo_utils as evo_utils
 
 
 def roulette_wheel_selection(population, similarity_matrix, summary_size, a, b):
@@ -14,16 +12,16 @@ def roulette_wheel_selection(population, similarity_matrix, summary_size, a, b):
     return selection[0]
 
 
-def iteration(population, similarity_matrix, summary_size, text_as_sentences_without_footnotes, a, b):
+def iteration(population, similarity_matrix, summary_size, a, b):
     population.sort(key=lambda individual: fitness(individual, similarity_matrix, summary_size, a, b),
                     reverse=True)
     best_two = population[0], population[1]
     del population[:2]  # remove the elites since we always keep them
     parent1 = roulette_wheel_selection(population, similarity_matrix, summary_size, a, b)
     parent2 = roulette_wheel_selection(population, similarity_matrix, summary_size, a, b)
-    child1, child2 = evolutionary.one_point_crossover(parent1, parent2, summary_size)
-    evolutionary.mutate(child1)
-    evolutionary.mutate(child2)
+    child1, child2 = evo_utils.one_point_crossover(parent1, parent2, summary_size)
+    evo_utils.mutate(child1)
+    evo_utils.mutate(child2)
     del population[-2:]  # remove the most unfit 2 individuals
     population.append(best_two[0])
     population.append(best_two[1])
@@ -33,13 +31,13 @@ def iteration(population, similarity_matrix, summary_size, text_as_sentences_wit
 
 def fitness(individual, similarity_matrix, summary_size, a, b):
     try:
-        cohesion_value = evolutionary.cohesion(individual, similarity_matrix, summary_size)
+        cohesion_value = evo_utils.cohesion(individual, similarity_matrix, summary_size)
     except:
         cohesion_value = 0
         a = 0
 
     try:
-        readability_value = evolutionary.readability(individual, similarity_matrix)
+        readability_value = evo_utils.readability(individual, similarity_matrix)
     except:
         readability_value = 0
         b = 0
@@ -47,23 +45,17 @@ def fitness(individual, similarity_matrix, summary_size, a, b):
     return a * cohesion_value + b * readability_value
 
 
-def generate_summary_chatterjee(text_as_sentences_without_footnotes, summary_size, number_of_iterations=25,
-                                             population_size=20, a=0.05, b=0.5):
+def generate_summary_chatterjee(text_as_sentences_without_footnotes, summary_size, number_of_iterations=25, population_size=20, a=0.05, b=0.5):
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix(text_as_sentences_without_footnotes)
-    population = evolutionary.generate_population(len(similarity_matrix), summary_size, population_size)
+    population = evo_utils.generate_population(len(similarity_matrix), summary_size, population_size)
     for i in range(number_of_iterations):
-        iteration(population, similarity_matrix, summary_size, text_as_sentences_without_footnotes, a, b)
+        iteration(population, similarity_matrix, summary_size, a, b)
     best_individual = max(population,
                           key=lambda individual: fitness(individual, similarity_matrix, summary_size, a, b))
-    generated_summary = summary_from_individual(best_individual, text_as_sentences_without_footnotes)
+    generated_summary = evo_utils.summary_from_individual(best_individual, text_as_sentences_without_footnotes)
     print("Chatterjee algorithm took ", time.time() - start_time, "s")
     return generated_summary
-
-
-def summary_from_individual(best_individual, text_as_sentences):
-    return processing.concatenate_text_as_array(
-        [text_as_sentences[i] for i in range(len(best_individual)) if best_individual[i] is True])
 
 
 def cosine_similarity(i_sentence, j_sentence):
