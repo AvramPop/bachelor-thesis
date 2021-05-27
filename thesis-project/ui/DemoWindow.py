@@ -1,5 +1,5 @@
 from PySide6 import QtCore, QtWidgets, QtGui
-import processing
+import processing.processing_utils as processing
 from evo import evolutionary
 from graphs import graph
 
@@ -89,12 +89,12 @@ class DemoWindow(QtWidgets.QWidget):
         self.__graphs_thread.start()
 
     def __show_wheel(self):
-        wheel_movie = QtGui.QMovie("../resources/ajax-loader.gif")
+        wheel_movie = QtGui.QMovie("/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/ajax-loader.gif")
         self.__wheel_label.setMovie(wheel_movie)
         wheel_movie.start()
 
     def __remove_wheel(self):
-        empty = QtGui.QMovie("../resources/blank.gif")
+        empty = QtGui.QMovie("/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/blank.gif")
         self.__wheel_label.setMovie(empty)
         empty.start()
 

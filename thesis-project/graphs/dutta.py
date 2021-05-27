@@ -48,6 +48,7 @@ def generate_similarity_matrix_for_dutta(sentences_as_embeddings, threshold):
     return similarity_matrix
 
 
+# get a set of all the words in the text
 def get_words_set(sentences):
     words = []
     for sentence in sentences:
@@ -57,6 +58,7 @@ def get_words_set(sentences):
     return words
 
 
+# get position of a term in the word set
 def term_position(term, word_set):
     for i in range(len(word_set)):
         if word_set[i] == term:
@@ -64,6 +66,7 @@ def term_position(term, word_set):
     return None
 
 
+# convert an array of textual sentences into a vector of embeddings
 def get_embeddings(sentences):
     words_set = get_words_set(sentences)
     embeddings = []
@@ -75,6 +78,7 @@ def get_embeddings(sentences):
     return embeddings
 
 
+# sanitize sentences to be used by the Dutta2018 algorithm
 def sentences_for_dutta(text_as_sentences_without_footnotes):
     result = []
     for sentence in text_as_sentences_without_footnotes:
@@ -87,6 +91,7 @@ def sentences_for_dutta(text_as_sentences_without_footnotes):
     return result
 
 
+# compute the cosine similarity between 2 sentences as described in Dutta2018
 def cosine_similarity(i_sentence, j_sentence):
     term1 = 0
     for i in range(len(i_sentence)):

@@ -68,7 +68,7 @@ def theology_driver(number_of_texts=39):
 def duc_driver():
     print("DUC benchmark")
     docs, summaries = duc.get_duc_data()
-    number_of_texts = 2  # len(docs)
+    number_of_texts = len(docs)
     evolutionary_scores = []
     graph_scores = []
     text_rank_scores = []
@@ -206,7 +206,7 @@ def main():
     if option == 1:
         ui_driver()
     elif option == 2:
-        theology_driver()
+        theology_driver(2)
     elif option == 3:
         duc_driver()
     elif option == 4:

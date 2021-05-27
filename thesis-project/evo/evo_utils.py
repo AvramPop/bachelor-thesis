@@ -5,6 +5,7 @@ from scipy import spatial
 import processing.processing_utils as processing
 
 
+# do one point crossover between the given parents
 def one_point_crossover(parent1, parent2, summary_size):
     good_number_of_bits = False
     while not good_number_of_bits:
@@ -21,6 +22,7 @@ def one_point_crossover(parent1, parent2, summary_size):
     return child1, child2
 
 
+# mutate individuals with a mutate_threshold probability
 def mutate(individual, mutate_threshold=0.6):
     r = random.uniform(0, 1)
     if r > mutate_threshold:
@@ -33,6 +35,7 @@ def mutate(individual, mutate_threshold=0.6):
     return individual
 
 
+# count how many 1s are in an individual
 def bits_in_individual(individual):
     return individual.count(True)
 
@@ -46,6 +49,7 @@ def topological_sort_util(current_node, stack, visited, adjacency_matrix):
     stack.append(current_node)
 
 
+# find the longest path in a directed acyclic graph
 def longest_path(adjacency_matrix):
     stack = []
     visited = [False for _ in range(len(adjacency_matrix))]
@@ -67,6 +71,7 @@ def longest_path(adjacency_matrix):
     return dist
 
 
+# find max weight of a path in a directed acyclic graph
 def max_weight_dag(similarity_matrix):
     adjacency_matrix = [[] for _ in range(len(similarity_matrix))]
 
@@ -78,6 +83,7 @@ def max_weight_dag(similarity_matrix):
     return longest_path(adjacency_matrix)[len(similarity_matrix) - 1]
 
 
+# compute the readability metric
 def readability(individual, similarity_matrix):
     indices = [i for i in range(len(individual)) if individual[i]]
     readability_sum = 0
@@ -87,6 +93,7 @@ def readability(individual, similarity_matrix):
     return readability_sum / max_readability
 
 
+# compute the sentence position metric
 def sentence_position(individual):
     indices = [i + 1 for i in range(len(individual)) if individual[i]]
     result = 0
@@ -100,6 +107,7 @@ def sentence_position(individual):
     return result / normalisation_factor
 
 
+# compute the cohesion metric
 def cohesion(individual, similarity_matrix, summary_size):
     cohesion_sum = 0
     maxi = -1
@@ -114,6 +122,7 @@ def cohesion(individual, similarity_matrix, summary_size):
     return cohesion_normalized
 
 
+# generate an individual with summary_size 1s
 def generate_individual(text_size, summary_size):
     individual = np.zeros(text_size, dtype=bool)
     bits = random.sample(range(0, text_size), summary_size)
@@ -122,6 +131,7 @@ def generate_individual(text_size, summary_size):
     return individual.tolist()
 
 
+# compute the title relation metric
 def title_relation(individual, sentences_as_embeddings, title_embedding):
     indices = [i for i in range(len(individual)) if individual[i]]
     title_relation_metric = 0
@@ -138,6 +148,7 @@ def title_relation(individual, sentences_as_embeddings, title_embedding):
     return title_relation_metric / best_title_relation_score
 
 
+# compute the sentence length metric
 def sentence_length_metric(individual, text_as_sentences):
     indices = [i for i in range(len(individual)) if individual[i]]
     sentences = [text_as_sentences[i] for i in indices]
@@ -161,14 +172,17 @@ def sentence_length_metric(individual, text_as_sentences):
     return length_metric / length_metric_best
 
 
+# generate a population of population_size of random individuals
 def generate_population(number_of_sentences, summary_size, population_size):
     return [generate_individual(number_of_sentences, summary_size) for _ in range(population_size)]
 
 
+# compute the cosine distance between 2 given sentence embeddings
 def cosine_distance(sentence1, sentence2):
     return 1 - spatial.distance.cosine(sentence2, sentence1)
 
 
+# obtain the summary out of a binary vector representation
 def summary_from_individual(best_individual, text_as_sentences):
     return processing.concatenate_text_as_array(
         [text_as_sentences[i] for i in range(len(best_individual)) if best_individual[i] is True])

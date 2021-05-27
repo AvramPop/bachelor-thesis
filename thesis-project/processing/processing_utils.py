@@ -64,6 +64,7 @@ def tokens_to_lower_case(tokens):
     return [word.casefold() for word in tokens]  # TODO is this needed?
 
 
+# check if a given word is written in English script
 def is_english(s):
     return s.isascii()
 
@@ -75,6 +76,7 @@ def lemmatize(words):
     return [word.lemma for sent in doc.sentences for word in sent.words]
 
 
+# transliterate words using in non-english script into English script
 def transliterate_non_english_words(relevant_tokens):
     for i in range(len(relevant_tokens)):
         if not is_english(relevant_tokens[i]):
@@ -82,10 +84,12 @@ def transliterate_non_english_words(relevant_tokens):
     return relevant_tokens
 
 
+# compute the USE embedding of a given sentence
 def sentence_to_embedding(sentence):
     return embed([sentence]).numpy()[0]
 
 
+# remove numeric footnotes from a text
 def remove_footnotes(text):
     return re.sub(r"([a-zA-Z?!;,.\")\]])[0-9]*", r"\1", text)
 
@@ -103,6 +107,7 @@ def read_rough_file_to_text(filename):
     return text
 
 
+# count the number of sentences in a text
 def number_of_sentences_in_text(text):
     return len(parse_text_to_sentences(text))
 
@@ -143,6 +148,7 @@ def prepare_data(document_number=1):
     return sentences_as_embeddings, text_as_sentences_without_footnotes, abstract, title, sentence_to_embedding(title), rough_abstract
 
 
+# compute the weighted ROUGE scores for the whole dataset
 def final_results(scores):
     result = {}
     for score in scores:
@@ -156,6 +162,7 @@ def final_results(scores):
     return result
 
 
+# compute the ROUGE score of a machine generated summary against a human generated summary
 def rouge_score(generated_summary, human_summary):
     rouge = Pythonrouge(summary_file_exist=False, ROUGE_L=True, ROUGE_W=True,
                         summary=[[generated_summary]], reference=[[[human_summary]]])

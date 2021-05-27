@@ -19,10 +19,12 @@ def generate_summary_graph_text_rank(text_as_sentences_without_footnotes, summar
     return summary
 
 
+# obtain first summary_size sentences by their text rank score
 def indexes_from_pagerank(scores, summary_size):
     return sorted([k for k, v in sorted(scores.items(), key=lambda item: item[1], reverse=True)][:summary_size])
 
 
+# compute sentence similarity as described in Mihalcea2004
 def pagerank_similarity(sentence_i, sentence_j):
     sentence_i = processing.remove_punctuation(sentence_i)
     sentence_i = processing.split_in_tokens(sentence_i)

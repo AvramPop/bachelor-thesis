@@ -4,6 +4,7 @@ import numpy as np
 import processing.processing_utils as processing
 
 
+# cluster a graph by a given strategy
 def get_clusters(community_graph, strategy):
     if strategy == "aslpaw":
         clusters = algorithms.aslpaw(community_graph)
@@ -26,6 +27,7 @@ def get_clusters(community_graph, strategy):
     return result
 
 
+# compute the clustering coefficient of each node and the average clustering coefficient
 def get_clustering_data(similarity_matrix):
     graph = networkx.from_numpy_array(similarity_matrix)
     clustering_coefficients_for_each_node = networkx.clustering(graph)
@@ -33,6 +35,7 @@ def get_clustering_data(similarity_matrix):
     return clustering_coefficients_for_each_node, average_clustering_coefficient, graph
 
 
+# sort clusters by the maximum clustering coefficient descending
 def get_coefficients_for_clusters_sorted(clustering_coefficients_for_each_node, clusters):
     coefficients_of_clusters = get_clusters_with_max_coefficients(clusters, clustering_coefficients_for_each_node)
     coefficients_of_clusters = {k: v for k, v in
@@ -40,10 +43,12 @@ def get_coefficients_for_clusters_sorted(clustering_coefficients_for_each_node, 
     return coefficients_of_clusters
 
 
+# get average clustering coefficient of a cluster
 def get_average_clustering_coefficient(coefficients_of_clusters):
     return np.average(list(coefficients_of_clusters.values()))
 
 
+# get best node frm a cluster by the clustering coefficient
 def best_from_cluster(clustering_coefficients_for_each_node, clusters, cluster_number):
     nodes = {k: v for k, v in clustering_coefficients_for_each_node.items() if k in clusters[cluster_number]}
     res = list({k: v for k, v in sorted(nodes.items(), key=lambda item: item[1], reverse=True)}.keys())
@@ -51,11 +56,13 @@ def best_from_cluster(clustering_coefficients_for_each_node, clusters, cluster_n
         return res[0]
 
 
+# remove the given node from its cluster
 def remove_best(best, cluster_number, clusters, clustering_coefficients_for_each_node):
     clusters[cluster_number] = [item for item in clusters[cluster_number] if item != best]
     clustering_coefficients_for_each_node.pop(best)
 
 
+# check if there is any non empty cluster left
 def no_available_nodes(clusters):
     for k, v in clusters.items():
         if len(v) > 0:
@@ -63,10 +70,12 @@ def no_available_nodes(clusters):
     return True
 
 
+# generate textual summary out of clusters representation
 def summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes):
     return processing.concatenate_text_as_array([text_as_sentences_without_footnotes[i] for i in sentence_indexes_sorted_by_score])
 
 
+# generate a dictionary that maps the cluster label to the clustering coefficient
 def get_clusters_with_max_coefficients(clusters, clustering_coefficients):
     result = {}
     for cluster, nodes in clusters.items():

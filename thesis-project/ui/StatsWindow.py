@@ -1,5 +1,5 @@
 from PySide6 import QtCore, QtWidgets, QtGui
-import processing
+import processing.processing_utils as processing
 from evo import evolutionary
 from graphs import graph
 
@@ -147,19 +147,26 @@ class StatsWindow(QtWidgets.QWidget):
         self.__statsThread.start()
 
     def __show_wheel(self):
-        wheel_movie = QtGui.QMovie("../resources/ajax-loader.gif")
+        wheel_movie = QtGui.QMovie("/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/ajax-loader.gif")
         self.__wheel_label.setMovie(wheel_movie)
         wheel_movie.start()
 
     def __remove_wheel(self):
-        empty = QtGui.QMovie("../resources/blank.gif")
+        empty = QtGui.QMovie("/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/blank.gif")
         self.__wheel_label.setMovie(empty)
         empty.start()
 
     @QtCore.Slot()
     def __update_stats_view(self, thread_data):
-        self.__evolutionary_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(thread_data[0])["ROUGE-1-F"]))
-        self.__graphs_rouge_1_f_label.setText("ROUGE-1-F: " + str(processing.final_results(thread_data[1])["ROUGE-1-F"]))
+        evo_result = "ROUGE-1-F: " + str(processing.final_results(thread_data[0])["ROUGE-1-F"]) + \
+                     "\nROUGE-1-R: " + str(processing.final_results(thread_data[0])["ROUGE-1-R"]) + \
+                     "\nROUGE-1-P: " + str(processing.final_results(thread_data[0])["ROUGE-1-P"])
+        self.__evolutionary_rouge_1_f_label.setText(evo_result)
+
+        graphs_result = "ROUGE-1-F: " + str(processing.final_results(thread_data[1])["ROUGE-1-F"]) + \
+                        "\nROUGE-1-R: " + str(processing.final_results(thread_data[1])["ROUGE-1-R"]) + \
+                        "\nROUGE-1-P: " + str(processing.final_results(thread_data[1])["ROUGE-1-P"])
+        self.__graphs_rouge_1_f_label.setText(graphs_result)
         self.__remove_wheel()
 
 
@@ -168,25 +175,15 @@ class StatsThread(QtCore.QThread):
 
     def __init__(self, number_of_articles, number_of_iterations, population_size, cohesion, readability, sentence, title, length, clustering_algorithm, cosine_threshold):
         self.__number_of_articles = number_of_articles
-        print(number_of_articles)
         self.__number_of_iterations = number_of_iterations
-        print(number_of_iterations)
         self.__population_size = population_size
-        print(population_size)
         self.__cohesion = cohesion
-        print(cohesion)
         self.__readability = readability
-        print(readability)
         self.__sentence = sentence
-        print(sentence)
         self.__title = title
-        print(title)
         self.__length = length
-        print(length)
         self.__clustering_algorithm = clustering_algorithm
-        print(clustering_algorithm)
         self.__cosine_threshold = cosine_threshold
-        print(cosine_threshold)
         QtCore.QThread.__init__(self)
 
     def run(self):

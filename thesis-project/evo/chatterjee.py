@@ -58,6 +58,7 @@ def generate_summary_chatterjee(text_as_sentences_without_footnotes, summary_siz
     return generated_summary
 
 
+# compute cosine similarity between 2 sentences as described in Chatterjee2012
 def cosine_similarity(i_sentence, j_sentence):
     term1 = 0
     for i in range(len(i_sentence)):
@@ -73,6 +74,7 @@ def cosine_similarity(i_sentence, j_sentence):
     return term1 / term2
 
 
+# obtain set of all words in a text modeled as an array of sentences
 def get_words_set(sentences):
     words = []
     for sentence in sentences:
@@ -85,6 +87,7 @@ def get_words_set(sentences):
     return words
 
 
+# compute the IR term frequency of a word in a sentence
 def term_frequency(term, sentence):
     sentence = processing.remove_punctuation(sentence)
     sentence = processing.split_in_tokens(sentence)
@@ -97,11 +100,13 @@ def term_frequency(term, sentence):
     return term_count / maxi
 
 
+# split sentence into words vector
 def get_sentence_tokens(sentence):
     sentence = processing.remove_punctuation(sentence)
     return processing.split_in_tokens(sentence)
 
 
+# compute the inverse term frequency of a term in a text
 def inverse_sentence_frequency(term, sentences):
     n = 0
     for sentence in sentences:
@@ -114,12 +119,14 @@ def inverse_sentence_frequency(term, sentences):
     return np.log(N / n)
 
 
+# sanitize sentence and return word vector
 def get_index_terms(sentence):
     sentence = processing.remove_punctuation(sentence)
     sentence = processing.split_in_tokens(sentence)
     return processing.remove_stop_words(sentence)
 
 
+# get term position in word set
 def term_position(term, word_set):
     for i in range(len(word_set)):
         if word_set[i] == term:
@@ -127,10 +134,12 @@ def term_position(term, word_set):
     return None
 
 
+# compute weight of word as TF*IDF
 def get_weight(term, sentence, sentences):
     return term_frequency(term, sentence) * inverse_sentence_frequency(term, sentences)
 
 
+# convert array of sentences into array of embeddings
 def get_embeddings(sentences):
     embeddings = []
     word_set = get_words_set(sentences)
@@ -144,6 +153,7 @@ def get_embeddings(sentences):
     return embeddings
 
 
+# generate similarity matrix as described in Chatterjee2012
 def generate_similarity_matrix(sentences):
     number_of_sentences = len(sentences)
     embeddings = get_embeddings(sentences)

@@ -4,12 +4,14 @@ import re
 from pathlib import Path
 
 
+# get reference to folder of DUC summaries
 def get_summary_folders():
     root = "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/duc/summaries/"
     sub_folders = [f.path for f in os.scandir(root) if f.is_dir()]
     return sub_folders
 
 
+# obtain path of DUC summaries
 def summaries_paths(folders):
     summaries = {}
     for folder in folders:
@@ -23,6 +25,7 @@ def summaries_paths(folders):
     return summaries
 
 
+# get titles of summaries at path
 def get_summary_titles(path):
     with open(path, "r") as file:
         content = file.readlines()
@@ -31,6 +34,7 @@ def get_summary_titles(path):
     return titles
 
 
+# get body of summary with title at path
 def get_summary_body(path, title):
     with open(path, "r") as file:
         content = file.readlines()
@@ -45,18 +49,20 @@ def get_summary_body(path, title):
     return ""
 
 
-
 def get_duc_data():
     docs = generate_docs(read_duc_documents(get_doc_folders()))
     summaries = generate_summaries(summaries_paths(get_summary_folders()))
     return docs, summaries
 
+
+# get reference to folder with the DUC dataset
 def get_doc_folders():
     root = "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/duc/docs/"
     sub_folders = [f.path for f in os.scandir(root) if f.is_dir()]
     return sub_folders
 
 
+# read the DUC documents into memory
 def read_duc_documents(folders):
     result = {}
     for path in folders:
@@ -65,6 +71,7 @@ def read_duc_documents(folders):
     return result
 
 
+# read a DUC document from path
 def parse_document_body(doc_path):
     with open(doc_path, "r") as file:
         content = file.readlines()
@@ -80,6 +87,7 @@ def parse_document_body(doc_path):
     return text
 
 
+# parse the title of the DUC document at path
 def parse_document_title(doc_path):
     with open(doc_path, "r") as file:
         content = file.readlines()
