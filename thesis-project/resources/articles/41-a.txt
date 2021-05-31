@@ -1,0 +1,288 @@
+The main purpose of this article is to draw fresh attention to a Greek
+codex which has been in the ownership of Corpus Christi College,
+Oxford, for about 470 years, and yet has repeatedly escaped the notice of
+those responsible for compiling the standard lists of New Testament man-
+uscripts. Although the manuscript has occasionally been consulted by
+those who have been interested in the early history of Greek scholarship in
+England, it seems to have received little attention from students of the
+Greek New Testament text.
+The manuscript in question is Corpus Christi College, MS. 30, con-
+taining the Greek text of Theophylact's commentary on the Gospels, in
+which (as is usual for manuscripts of Theophylact) short portions of scrip-
+ture text alternate with longer sections of commentary. These scripture
+citations, when taken together, add up to a more or less complete text for
+all four Gospels. From the nineteenth century onwards it has been accepted
+that, in principle, all copies of this work of Theophylact (provided that
+they contain the scripture text) should be treated as New Testament manu­
+scripts. Numerous copies of the Theophylact commentary in the libraries
+of western Europe, as well as the monastic libraries of the east, have conse­
+quently been included in the lists of Greek New Testament manuscripts
+for more than a hundred years. It comes as a surprise to find that a similar
+manuscript located in an Oxford college could have been so long overlooked.
+In the early years of the sixteenth century, the owner of the manuscript
+was none other than William Grocyn (d. 1519), who in turn sold it to Thomas
+Linacre (d. 1524), as may be seen from a contemporary inscription on f.
+4r: Linacrus emita vivo Grocino eodempretio, quo Grocinus emerat ("When
+Grocyn was [still] alive, Linacre purchased [the book] from him for the
+same price for which Grocyn had purchased it"). It was thus owned succes­
+sively by two of the founding fathers of Greek scholarship in England. The
+manuscript next came into the possession of John Claymond (d. 1537),
+who was the first president of Corpus Christi College, Oxford, and who
+later gave the volume to his college, where it still remains today.
+The physical characteristics of this codex are briefly as follows. The writ­
+ing material is vellum, consisting of a total of 335 leaves, measuring approx­
+imately 29.5 cm. in height by 21.5 cm. in width. 1 The binding could belong
+to the last decade of the sixteenth century. 2 At the beginning of the volume
+are bound four leaves derived from diverse sources, comprising two leaves
+from a tenth-century Gospel lectionary, written in two columns in uncial
+script, followed by two leaves containing portraits of the evangelists Mark
+and Luke, which seem to have been taken from an eleventh-century lec­
+tionary. The Theophylact portion of the volume, occupying folios 5 to
+334, is written in a single column in a twelfth-century cursive script. 3
+This manuscript, which has never been included in any of the standard
+printed lists of New Testament manuscripts, was missing from the two
+editions of the Kurzgefasste Liste der griechischen Handschriften des Neuen
+Testaments edited by Κ. Aland (Berlin, 1963 and 1994), and up to the year
+2006 it had still not been added to the supplementary lists maintained by
+the Institut für neutestamentliche Textforschung in Münster (INTF). In
+consequence, it understandably did not receive a mention in either edition
+oL4 Bibliography of Greek New Testament Manuscripts^ edited by J.K. Elliott
+(Cambridge, 1989 and 2000). 4 Nor was it to be found in any of the earlier
+lists from the eighteenth century onwards, in particular those of Wettstein,
+Griesbach, Scholz, Scrivener, Gregory, Von Soden and Von Dobschiitz.
+The reader may well wonder how this could possibly have happened, given
+the undoubted zeal and careful scholarship devoted over such a long period
+to the preparation, correction and expansion of the list of manuscript wit-
+nesses to the text of the Greek New Testament.
+It would not be true to suggest, however, that the manuscript has
+remained wholly uncatalogued. It had its rightful place in the handwritten
+catalogue of the library of Corpus Christi College, prepared in 1589. 5 It
+was also included in the first printed catalogue of Oxford libraries, the
+Écloga Oxonio-Cantabrigiensis of T. James (London, 1600). 6 The manu-
+script was mentioned again in the Catalogi librorum manuscriptorum
+Angliae etHiberniae in vnum collecti of E. Bernard (Oxford, 1697). 7 It was
+duly recorded in H.O. Coxes catalogue of Oxford college libraries, Cata-
+logus codicum mss. qui in collegiis aulisque Oxoniensibus hodie adservantur
+(Oxford, 1852). 8 It featured in an article on the history of the Corpus
+Christi College Library, published by J.R. Liddell in 1938. 9 It was displayed
+in a major exhibition at the National Portrait Gallery, London, in 1977. 10
+More recently the manuscript was fully described by I. Hutter, together
+with several photographs, in 1997. 11 These references serve, if anything, to
+heighten the sense of astonish-ment that a manuscript otherwise so well
+documented could remain absent from the standard works of reference
+relied upon by scholars of the New Testament text.
+To be fair to the compilers of the older listings of New Testament man-
+uscripts, it should be noted that all manuscripts of Theophylact were at
+one time intentionally omitted, probably on the grounds that the scripture
+text was embedded in the commentary. Hence the manuscripts of The-
+ophylact's commentary on the Gospels were omitted from the list issued in
+1751 by J.J. Wettstein. 12 In 1796, however, J.J. Griesbach ventured to assign
+the numbers 154 and 168 to two copies of this commentary, using infor-
+mation which had been published by A. Birch in 1785-1788. 13 During the
+following century, in a piecemeal fashion, many other copies of this work
+of Theophylact were gradually added to the list of New Testament manu-
+scripts through the exertions of Scholz, Burgon, Scrivener, Martin and Greg-
+ory. 14 Finally in 1902, H. Von Soden was able to draw up an impressive list
+of 119 manuscripts containing all or part of this Gospel commentary. 15
+Among the Theophylact Gospel manuscripts which Von Soden was res-
+ponsible for adding to the list were four from Oxford libraries, comprising
+two from the Bodleian Library (N.T. codices 2106 and 2107) and two
+16
+from the library of Christ Church (N.T. codices 2100 and, allegedly, 514).
+He also identified several additional non-commentary manuscripts at Oxford.
+According to Von Soden, codex 514 (Christ Church MS. Wake 30) con­
+sisted of two manuscripts bound up together, the first containing the Gos­
+pels, and the second containing the commentary of Theophylact, enumerated
+ε14
+respectively as his ε262 and Θ . This raises a problem, as codex 514 is in
+fact just a non-commentary manuscript of the Gospels. It has been sug­
+gested that Von Soden mistakenly substituted this item for codex 2646
+(Christ Church MS. Wake 51). However, the latter contains the commen­
+17
+tary of Zigabenus, not of Theophylact. A more likely explanation of Von
+ε14
+Sodens error is that his Θ was originally intended to be Corpus Christi
+College MS. 30, but that he confused this with Christ Church MS. Wake
+30, owing to the similarity of the shelfmarks: this is borne out by the
+dimensions which he gave for Θ ε14 (29.7 χ 21.8 cm.), which are very close
+to the actual size of the Corpus manuscript, though he had a different
+reckoning of its total number of folios (395 instead of 335).
+Most of Von Sodens newly-added manuscripts from Oxford were sim­
+ply assigned new numerals in C. R. Gregorys list of New Testament minus­
+cules, 18 accompanied by the phrase "Aus Soden entnommen", apparently
+without any rigorous cross-checking of the various library catalogues to
+verify the completeness of Von Soden s data. Subsequent generations of
+scholars, in their turn, made the assumption that Gregorys tabulation of
+the Oxford manuscripts was complete, and did not consider it worthwhile
+to go over ground which seemed to have been so carefully examined in the
+past. The result was that, for a further century, the Corpus Christi College
+manuscript would remain virtually unknown to New Testament textual
+scholars. 19
+It is good to be able to report that, in August 2006, the Corpus Christi
+College MS. 30 has been assigned two new numbers in the official lists
+maintained at the INTE The larger portion of the manuscript, containing
+the text of the Gospels with the commentary of Theophylact, is now New
+Testament minuscule 2879, while the first two leaves of the volume have
+become lectionary 2436. 20
+In this connection, when the next full edition of the Kurzgefasste Liste is
+prepared, it is to be hoped that it will contain more detailed information
+on the numerous manuscripts which contain a commentary. In the present
+form of the list, such manuscripts are merely designated as "K" (for Kom-
+mentarhandschrift), without identifying which particular commentary or
+commentaries they contain, so that the user has to look elsewhere to ascer-
+tain whether it is the work of Theophylact, or Ps.-Oecumenius, or Nicetas,
+or even Zigabenus. Relevant information can currently be gleaned from
+the third appendix of the Liste\ enabling the reader to convert the Gregory-Aland numbers into the sigla which Von Soden employed to distinguish
+between the different commentaries. However, with regard to manuscripts
+added to the list since the time of Gregory and Von Soden (including more
+than thirty commentary-manuscripts of the Gospels), comparable infor-
+mation is more difficult to obtain. The necessary details could be pro-
+vided in the footnotes or through additional symbols in the "contents"
+column.
+In the year 1600, Thomas James described the Corpus Christi College
+manuscript as follows: Theophihctus in Euangelistas Graece. In principio
+cuiusque libri habes elegantem picturam ("Theophylact on the Evangelists,
+in Greek. At the beginning of each book, you have a fine painting"). 21 This
+statement, taken at face value, would appear to suggest that the manuscript
+at that time contained four Byzantine portraits of the evangelists, one
+before each of the four Gospels. 22 Since the volume now only contains two
+such portraits, both of which came from other manuscripts, James' descrip-
+tion might be thought to imply that the (allegedly) original portraits disap-
+peared from the volume at some point after the end of the sixteenth
+century, perhaps through the depredations of an unscrupulous art-collector
+who had access to the manuscripts of the college. This could seem to pro-
+vide an explanation for the absence of any list of kephalaia before Matthew
+or Mark, and for the fact that a leaf is missing before the start of Luke, and
+that before the start of the Gospel of John the lower half of the preceding
+leaf has been cut away. However, as it cannot now be verified whether the
+missing or damaged leaves contained any portraits, it remains possible
+that James' remarks were merely an inaccurate description of the two
+portraits which are to be seen near the front of the volume. It is interesting to consider the question of whether this Theophylact man-
+uscript was ever seen or used by Erasmus during the preparation of his
+Annotations on the New Testament, first published in 1516 along with the
+Greek New Testament text and his Latin translation. From 1511 to 1514
+Erasmus resided in England, and it was in this period that his preliminary
+work on the Annotations took place, based partly on his consultation of
+Greek manuscripts which were available to him in English libraries. He
+does not give any description of these manuscripts, or any clues as to where
+they were located or who owned them. In fact, most of the Greek New
+Testament citations contained in the first edition of his Annotations can be
+traced to specific manuscripts which he is known to have used in Switzer-
+land, at Basle. 23 It is possible, however, to identify a relatively small num-
+ber of Greek citations which are not supported by his Basle manuscripts
+and were therefore probably drawn from manuscripts which he saw in
+England. In the Gospels, for example, some of Erasmus' citations belonging
+to this smaller category have a close relationship with the form of text repre-
+sented by codex 69 of the Greek New Testament (the codex Leicestrensis). 24
+It is further known that Erasmus borrowed at least one manuscript in
+1511 from William Grocyn, the former owner of the Corpus Christi The-
+ophylact. However, from Erasmus' correspondence it can be seen that the
+manuscript which he borrowed was the Greek commentary of Basil on
+Isaiah, from which Erasmus prepared a Latin translation of a short extract,
+to send to his patron John Fisher. 25 Nowhere does he mention that he
+studied Grocyn's copy of Theophylact or that he was even aware of its
+existence. Disappointing though it may seem, careful comparison of the
+readings cited in Erasmus' Annotations (apart from those which can already
+be traced to his other known sources) has not revealed any significant
+degree of agreement with the text of Grocyn's Theophylact manuscript.
+Erasmus was apt to speak glowingly of his friendships with other schol-
+ars and of the help which he received from them. For example, in his
+Annotationes he spoke repeatedly of the two manuscripts of the Latin Vul-
+gate which he had been able to borrow from John Colet, the dean of St.
+Paul's. If he had received similar help from Grocyn or Linacre through the
+loan of a Greek New Testament manuscript or commentary, we might
+expect that he would have mentioned the fact.
+From 1514 onwards, after Erasmus' arrival at Basle, he made consider-
+able use of another manuscript of Theophylact's commentary on the Gos-
+pels, codex 817, which he cited in his Annotations and used as a source of
+corrections during his preparation of the Greek text for his 1516 edition of
+the New Testament. 26 In this way the work of Theophylact became a major
+ingredient in the formation of the Textus Receptus. Until 1519, however,
+Erasmus laboured under the false impression that the commentary which
+he was using had been written by a certain author named "Vulgarius",
+owing to confusion caused by a misleading Latin inscription at the begin-
+ning of that manuscript (based on Theophylact's perceived status as
+archbishop of Bulgaria). If Erasmus had used Grocyn's manuscript of
+Theophylact, it is less likely that he would have fallen into this unfortu-
+nate error. 27
+There is no satisfactory critical edition of Theophylact's commentary on
+the Gospels. The edition by Migne, in 1864, 28 was largely a reproduction
+of the Venice edition of 1754, which in turn made use of the Rome editto
+princeps of 1542. The Rome edition is presumed to have been based on
+manuscripts from the Vatican Library. In an appendix to the 1754 edition,
+selected variant readings were cited from five Theophylact manuscripts in
+Venice (codices 354, 888, 889, 890 and 891 of the Greek New Testament)
+and one in Padua (codex 744, now in Paris). The Latin column of the
+Migne and Venice editions, on the other hand, was partly derived from an
+earlier translation by Johannes Oecolampadius (Basle, 1524). He had used
+a single Greek manuscript of Theophylact, codex 817, the same as that
+which Erasmus had consulted a few years earlier when preparing his New
+Testament text and annotations at Basle. As a leaf of this manuscript was
+missing for part of chapter 21 of John's Gospel, Oecolampadius boldly
+supplemented his translation of Theophylact by two pages of Latin com-
+mentary of his own making. A revision of Oecolampadius' work was issued
+by Philip Montanus (Paris, 1546; Basle, 1554), who was able to make cor-
+rections by reference to the Greek edition of 1542.
+Despite their eleventh-century date, the commentaries of Theophylact have
+often been accorded the same degree of respect as the writings of the earlier
+Greek fathers. Based on the commentaries of Chrysostom, but at the same
+time more concise and accessible, the work of Theophylact exercised a
+wide influence. Because his work, including the scripture citations, was so
+frequently copied, Theophylact made a significant contribution to the
+transmission of the New Testament text. A more detailed analysis of the
+nature and origins of his text would therefore be highly desirable. This
+applies not only to his Gospel commentary but also to his commentary on
+the Pauline Epistles. 29
+For those who wish to pursue such a study of Theophylact's scripture
+text, one useful starting point is provided by the series of Text und Textwert
+volumes prepared by the INTF, which include test collations of most of
+the available manuscripts at selected passages. 30 A preliminary survey of
+the characteristics of the various Theophylact manuscripts was given by
+Von Soden. 31 Further studies by J. Reuss and E.W. Saunders are also
+instructive. 32 Fifty years ago, Saunders emphasized the need for a new crit-
+ical edition of Theophylact, which would provide the essential basis for
+further textual research. One hundred years ago, the same need was recog-
+nised by Von Soden. The scholars who will dedicate themselves to this
+important task are still awaited.
+From one point of view, based on the principle of genealogy, it would be
+easy to dismiss the numerical quantity of extant Theophylact manuscripts
+as having little relevance in determining the original New Testament text,
+as their collective value could never be more than that of Theophylact's
+single autograph copy of his commentary, the lost (or yet to be discovered)
+archetype. On the other hand, the comparative lateness of his commentary
+does not in itself prove that the form of scripture text which he adopted
+was inferior to that which is exhibited by manuscripts of an earlier date.
+There is a natural presumption that, among the New Testament manu-
+scripts which Theophylact consulted for his commentary, he would have
+given preference to manuscripts respected for their accuracy or antiquity
+rather than just any copy which came to hand. However, this remains to
+be demonstrated. There is also the question of whether he adhered to the
+text of a single manuscript of the Gospels, or whether his scripture text was
+a compilation from a variety of sources.
+Further investigation would be needed, to establish the precise nature of
+the New Testament text which Theophylact used, its relationship to the
+various forms of text available in eleventh-century Constantinople, the extent
+to which he might reflect textual sources of an earlier date, the connection
+between his text and that of Chrysostom and other commentators, and the
+possibility of Theophylact's influence upon some of the non-commentary
+manuscripts dating from the twelfth century onwards. Extensive analysis
+and collation would be required, to classify all the extant Theophylact
+manuscripts and to trace the inter-relationships which subsist between
+them, with a view to identifying as closely as possible his original text.
+Because of the manner in which the scripture text is interwoven with
+the commentary, it might be supposed that a copyist of Theophylact's
+work was less likely to harmonise Theophylact's scripture text with the
+form of text prevailing in other (non-commentary) manuscripts. However,
+it appears that copyists did sometimes attempt to do this, producing dis­
+crepancies between the scripture text and the commentary. There is the
+further complication that Theophylact may have revised his own work,
+leading to its circulation in more than one form. Von Soden also raised the
+question of whether Theophylact originally issued his Gospel commentary
+as four separate books, in view of the large number of Theophylact manu­
+scripts which do not contain all four Gospels together. 33 If that were so, it
+is conceivable that the character of the scripture text accompanying his
+commentary might be found to differ from one Gospel to the next.
+Perhaps the twelfth-century Theophylact manuscript once owned by
+William Grocyn will have some part to play in helping to provide answers
+to such questions, and in helping to elucidate further the history of the
+transmission of the Greek New Testament text.

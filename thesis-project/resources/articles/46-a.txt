@@ -1,0 +1,987 @@
+In the texts of the Novum Testamentum Graece (Nestle-Aland 27 ), the active
+verb διακρίνω occurs eight times. 1 Scholars usually translate this verb within
+its classical/Hellenistic Greek parameters, i.e., discern, decide; or separate.
+With respect to the eleven instances of the middle/passive διακρίνομαι,
+however, most scholars posit a difference between N T and classical/Helle­
+nistic Greek meanings, usually justifying their choice by means of a semantic
+shift that can be proven by 1) the form and function of the Greek middle
+voice; 2) additional instances of διακρίνομαι in the NT; or 3) references to
+post-biblical texts. 2 These attempts to distinguish the N T meaning of
+διακρίνομαι from its classical/Hellenistic Greek linguistic environment have
+led to a general understanding that this verb is a terminus technicus biblicus
+for waver, doubt, or hesitate?
+With this article, I pursue three interrelated goals: to describe the pro­
+cesses that have led scholars to the conclusion that N T authors transformed
+the classical/Hellenistic meaning of διακρίνομαι; to investigate how patris­
+tic and medieval writers understood N T passages with διακρίνομαι; and, to
+discuss the implications of my findings both for the interpretation of the bib­
+lical texts and the translation and interpretation of relevant N T quotes in
+patristic literature.
+My research results can be summarized as follows. In the texts analyzed for
+this article, there is little evidence that Greek patristic and medieval authors
+acknowledge a meaning of διακρίνομαι that deviates from the Koine mean­
+ing. If, indeed, a semantic shift took place, they show no awareness of that
+movement. The transformation of meaning first occurs in translations from
+Greek to Latin but, again, not as result of semantic development. Rather, the
+contemporary standardized understanding of διακρίνομαι as "doubt" signals
+the exegetical community's approval oí a posteriori conjecture, i.e., a reloca-
+tion of the Latin translation is hidden behind the concept semantic shifi.
+For some scholars who see a difference between N T and classical/Hellenistic
+Greek meanings of διακρίνομαι, this semantic shift is proof of the power
+4
+of the gospel to form language. For others, it reveals the power ofpeople(s)
+5
+to appropriate and coin language. Most, however, posit that "doubt" evolved
+naturally from one particular meaning of the middle voice that expresses a
+persons inner attitude, i.e., "contend/dispute with oneself", 6 "being undecided
+within oneself, or "being divided against oneself". These understandings
+of the N T meaning of διακρίνομαι share certain features and presupposi­
+tions.
+Presupposition 1: The distribution of a special meaning of διακρίνομαι
+acrossa vanety of NT texts testifies to Matthew s, Marks, Luke s, Pauls, James'
+and Jude s independent (and for different audiences) adaptation of the
+"semantic repertoire", 9 which suggests a unified inner-testamental semantic
+development that transcends diverse authorship and literary genre, geographical
+setting and time, to occur within a linguistic-cultural vacuum separate from
+Koine GreekTM Consequently, the product of this development, a special N T
+meaning of διακρίνομαι, can be confirmed by cross-referencing all instances
+of this verb in the N T that seem to express "doubt". Whereas this approach
+has many advocates, 11 it is problematic because it perpetrates a circular argu­
+ment: 12 a special N T meaning is first posited for one or more passages then
+proven by using other N T references.
+Presupposition 2: A special NT meaning exists parallel to the classical/
+Hellenistic meaning of διακρίνομαι. 13 The reinterpretation of διακρίνομαι
+by N T authors, therefore, corresponds to their rejection of both its tradi-
+tional meaning and common words for doubt that were part of the Greek
+semantic inventory. 14 However, there is no literary evidence that N T authors
+viewed common Greek words for doubt as semantically biased or reduced
+such that they sought—and found—a more fitting rendering of "doubt" in
+διακρίνομαι. With the exception of James (1:6), each author introduces
+διακρίνομαι without further explanation, i.e., no author signals the reader
+that the verb might have been infused with a new meaning. Moreover,
+since Luke, James, and Jude use the middle/passive twice in their writings
+(Acts 10:20; 11:2; Jas. 1:6; 2:4; Jude 9,22)—apparently alternating between
+classical/Hellenistic and N T meaning—what criteria should readers use to
+15
+discern which meaning an author preferred in each literary context?
+Presupposition 3: The special NT meaning, "doubt", is rooted in a formal
+aspect: most plissages with διακρίνομαι have the noun πίστις or the verb
+πιστεύω in the immediate context (Mt. 21:21; Mk. 11:22-23; Rom. 4:20;
+14:23; Jas. 1:6; Jude 20-22). To many scholars, this proximity suggests a
+relationship in which διακρίνομαι functions as antithesis to πίστις/πιστεύω
+in N T texts. 16 However, this common assumption does not justify a special
+N T meaning for διακρίνομαι. It also fails to explain why διακρίνομαι is a
+more appropriate choice than one of the traditional verbs that is conceptu­
+ally related to πίστας, 17 and why one must assume that N T authors use an
+antithesis {faith—doubt) rather than the contrastfiiithfulness—dispute, espe­
+cially if a given literary context supports the latter. In addition, it cannot
+explain all N T passages that are said to feature διακρίνομαι s special NT
+meaning. 1) in both Jas. 1:6 and 2:4 διακρίνομαι and πίστις occur within the
+same literary context (1:3.6; 2:1.5), but only one of these contexts is said to
+establish the special meaning 2) the context of Acts 10:20 does not have
+words from the stem πιστ-; 3) Jude 22 is several clauses removed from the
+noun πίστις (v. 20); and 4) in Mt. 21:21, the concurrence of διακρίνομαι
+and πίστις is irrelevant because πίστας also occurs together with a traditional
+word for doubt, διστάζω (14:31).
+Presupposition 4: Standard dictionaries, léxica, and grammar books confirm
+the existence of a special NT meaning of διακρίνομαι Because many scholars
+support their assessment of the N T meaning, "doubt", with references to
+Friedrich Blass and Albert Debrunner, Friedrich Büchsel, or Walter Bauer,
+their entries warrant a brief review. 18
+Blass and Debrunner simply state that διακρίνομαι means "doubt"; they
+do not discuss developments that might have caused this meaning. Thus,
+references to their Grammar do not validate a special N T meaning "doubt".
+Büchsel assumes that Greek-speaking Christianity produced the new
+meaning of διακρίνομαι. He posits that Jesus gave the Aramaic word Í7S
+a new meaning, which was translated διακρίνομαι in Greek. However, Büch-
+sel himself documents a lack of evidence that 3*73 was translated διακρίνομαι
+before the time of Jesus, and that in available sources, Λ 3 never means
+"doubt" but expresses, within its own linguistic environment, something
+similar to διακρίνομαι in classical/Hellenistic Greek: separation and
+division} 9
+Bauer first establishes the special N T meaning of διακρίνομαι by cross-
+referencing instances of its occurrence in the N T that, according to his analy­
+sis, express "doubt". 20 He then provides three passages in the writings of the
+biographer Cyril of Scythopolis as evidence that the meaning "doubt" for
+διακρίνομαι is present in early Christian writings—independent of N T
+texts. However, because Cyril is a 6th century author, 21 his writings cannot
+be said to have influenced a shift in meaning that is posited to have taken
+place centuries earlier. Above all, Bauer's attempt to show that Cyril intends
+for διακρίνομαι to mean "doubt" is, at best, a matter of conjecture. In all
+three proof-texts, the literary context supports one of the traditional mean­
+ings of διακρίνομαι.
+22
+In Vita Euthymii 79, Cyril tells the story of a poor man whose ten sheep graze with the
+flock of another villager named Kyriakos. When Kyriakos returns only eight sheep to the
+poor man and denies the existence of the other two, village mediators suggest ending
+the ensuing quarrel with an oath. The poor man requests that the oath be given at the
+holy Euthymios' tomb. As they approach the tomb, the poor man suggests they both
+return home because he realizes that Kyriakos intends to commit perjury (άναφανέντος
+του μοναστερίου βλέπων εκείνον εκδίδοντα εαυτόν τήι έπιορκίαι διακριθείς λέγει
+αύτώι· αγωμεν ύποστρέψωμεν, αδελφέ; 80.9-11). Nothing in this text supports a read­
+ing that the poor man might have had doubts concerning his own actions. Rather, Cyril
+writes that the poor man is fully convinced (έπλήροφορήθην, 80.11) he is to take his
+official complaint only to a certain point. By expressing the poor man s choice to rescind
+his request with the passive participle διακριθείς, Cyril writes that he came to the decision
+to return home—although it was to his own legal disadvantage to do so. Moved by his
+noble character—not doubt—the poor man changes the course of his own action. 23
+Vita Euthymii 51:22-52:18 describes a similar situation. In this account, the arch­
+bishop Anastasius informs Euthymios that he intends to visit him. Upon Euthymios'
+reply that such a visit would cause him great distress, Anastasius comes to the decision
+(ό αρχιεπίσκοπος διεκρίθη λέγων; 52.17) not to follow through with his intention to
+24
+visit him.
+25
+In Vita Sabae 173, Cyril records a dispute between Saba and some fathers (πατέρες)
+about Theodora of Palestine's request for intercessory prayer. Saba avoids her specific
+prayer request for heirs, instead assures her twice that God will preserve her kingdom έν
+εύσεβείαι καί νίκηι, "in piety and victory" (174:4). After Saba leaves Theodora, the
+fathers address him about his decision not to pray as Theodora requested (174:6-8: οί
+μετ' αύτοΰ δντες πατέρες διεκρίνοντο προς αυτόν λέγοντες· τί δτι έλύπησας την
+αύγυσταν μη κατά την αυτής εύξάμενος αϊτησιν;). Cyril uses the middle διεκρίνοντο
+to describe the fathers' action, but there is no support in the narrative to translate the
+26
+verb as "doubt". Doubt does not motivate the fathers to voice their challenge; they do
+not understand Saba's response and confront him, critiquing his action with a straight­
+forward question. Bauer's reference to this particular text is especially surprising because
+he lists, in the same lexicon entry, the structurally parallel phrase διεκρίνοντο προς
+αυτόν οί εκ περιτομής in Acts 11:2 with instances in which he states διακρίνομαι
+27
+means "to contend with someone".
+Presupposition 5: Post-biblical texts show that the meaning "doubt" was, at
+some point, incorporated into the Greek language system. In addition to the
+references to Cyril of Scythopolis in Bauers lexicon, some scholars see such
+evidence, independent of the NT, in the second century works Proto-Gospel
+of James (2nd century CE) and Homilies of Pseudo-Clement (2nd century
+CE); 2 8 other scholars include the works of Heracleon (2nd century CE), John
+Moschus (5/6th century CE), and Gelasius Cyzicenus (5th century CE). 2 9
+However, a close look at these texts reveals that in each case the traditional
+meaning of διακρίνομαι prevails over a special "Christian meaning".
+Attempts to find an independent use of διακρίνομαι that means "doubt"
+primarily reflect a tendency to attribute the special N T meaning to those
+post-biblical texts that are structurally similar to N T passages.
+One literary context within which Pseudo-Clement uses διακρίνομαι is a narrative
+about a dispute (ζήτησις λόγων) between Peter and Simon Magus (Homiliae 1.15.3.1;
+1.20.5.2). 30 Peter invites Clement who desires to listen to the dispute to accompany him
+on his journey to the place of the debate. Wresding within himself over deep uncertain­
+ties about mortality, righteousness, and creation, Clement implores Peter to answer his
+questions. Peter gladly initiates Clement into the knowledge of "the things that are" (την
+των δντων γνώσιν; 1.17.5.2) and, thereafter, expresses confidence that even if he were to
+loose the debate to Simon Magus, he is not afraid that Clement would dispute the truth
+into which he has been initiated (ου δέδια μήπως συ περί τής παραδοθείσης σοι
+αληθείας διακριθής; 1.20.6.1-2) because Clement has become convinced that the truth
+itself would never fail. Clement responds that he would never doubt (ου πώποτε
+ένδοιάσω; 1.21.2.1-2; cf. 1.21.3.2) even if Peter himself should attempt to sway him
+from the prophetic teaching he received (εί και αυτός σύ βουληθείης ποτέ τής
+προφητικής υποθέσεως έκστήσαί με; 1.21.2.2-3). Happy that even he would not be
+able to persuade Clement to accept another form of teaching (είς ετερόν σε μεταστήσαι
+δόγμα; 1.22.1.4), Peter permits Clement to be present at his debate with Simon Magus.
+Thus, Pseudo-Clement s narrative contrasts Clement with Simon Magus. Because Clem­
+ent cannot be tricked'into giving up the truth he has received (μη δυναμένω άπατηθήναι
+από του δοθέντος αληθούς; 1.21.8.2-9.1 ), he would never engage in a dispute with Peter
+as Simon Magus does. The narrative shifts from Peter s assertion regarding Clement's
+readiness for the dispute (ου δέδια μήπως σύ διακριθής) to Clement's self-assessment
+(ου πώποτε ένδοιάσω) and, thus, progresses from the action διακρίνομαι to the action
+ένδοιάζω. However, this progression is not a hermeneutical key for translating διακρίνομαι
+as "doubt". Rather, this particular sequence of terms—διακρίνομαι (1.20.6.2), ένδοιάζω
+(1.21.2.2), έξίστημι (1.21.2.3), απατάω (1.21.8.2), μεθίστημι (1.22.1.4)—reveals that
+Pseudo-Clement distinguishes between doubting, swaying, and contesting. Clement's
+answer indicates that doubt, the basis and precursor <?^διάκρισις, is not present within
+himself. Consequendy, the goal of the text is to disclose the impossibility that Clement's
+observation of the Peter/Simon Magus dispute might lead him to doubt (ένδοιάζω) in a
+manner that would cause him to dispute the truth (διακρίνομαι) he receives from Peter.
+In Horn 2.40.3.2-4, διακρίνομαι appears again in the context of a ζήτησις with Simon
+Magus. Peter instructs Clement that an upcoming debate concerning the one and good
+God must not cause him to be contentious (έπί τής ζητήσεως περί του μόνου και
+άγαθοΰ... διακριθήναι ουκ οφείλεις). Rather, Clement is to observe and be astonished
+(θαυμάσεις έπί τής ζητήσεως; 2.40.3.4) at godless persons' negative interpretation of
+scriptural statements about God. Clement asserts that he himself interprets scripture
+only with God in mind and clarifies that his questions arise from his desire to learn (άλλ'
+iva μαθών; 2.41.2.3), not from any ambiguity toward Peter's present and future state­
+ments (μή με ύπολάβης ώς αμφιβάλλοντα τοις υπό σου ρηθείσιν ή και ρηθησομένοις
+πυνθάνεσθαι; 2.41.2.1-2.3). Once again, the narrative context suggests the author does
+not view διακρίνομαι to express "doubt". Pseudo-Clement writes about Peter s concern
+that Clement might become contentious (διακριθήναι ουκ οφείλεις), to which Clem-
+ent responds with a clarification of the reason for his questions (πυνθάνομαι), i.e., in the
+context of the dispute between Peter and Simon Magus, Clement reassures Peter that his
+questions nourish his own learning; they do not foster dispute.
+1
+In Protevangeliumjacobi? the verb διακρίνομαι is embedded in a dialogue between
+Mary and an angel who announces she has found grace before the ruler of all peoples and
+will "conceive by his word" (συνλήμψη έκ λόγου αύτοΰ; 23.9). The author describes
+Mary's reaction to this news with the phrase διεκρίθη έν εαυτή (23.10) and explicates
+her reaction by putting a question in her mouth: "I will conceive from the living Lord
+God, like every woman gives birth?" (έγώ συνλήμψομαι άπο κυρίου θεοΰ ζώντος ώς
+πάσα γυνή γεννά; 23.11-13). Because Mary's response indicates she questions the angels
+message concerning the event συλλαμβάνω (the phrase διεκρίθη έν εαυτή indicates
+Mary questions the angel's message silendy, which adds drama to the narrative because the
+angel responds to Mary's question as if she had spoken aloud) the angel further clarifies
+the message (23.14-15). The narrative unfolds in a process of clarification: the angel's
+speech (λέγων; 23.6); Mary's questioning (διεκρίθη; 23:10); the angel's second speech
+(λέγων; 23.14); and, Mary's final acquiescence (είπε; 24.6). The verb διακρίνομαι
+expresses Mary's skepticism about the content of the angel's message, i.e., there is no con­
+textual evidence that the author intended διακρίνομαι to mean "doubt", or that the
+phrase διεκρίθη έν εαυτή means "she doubted within herself".
+Heracleon, John Moschus, and Gelasius use διακρίνομαι in a similar manner. Accord­
+ing to Heracleon, whose work is cited by Origen, the Samaritan woman in John 4
+"showed undiscriminating faith that corresponded to her nature by not disputing what
+Jesus said to her" (ένδειξαμένην την άδιάκριτον καΐ κατάλληλον τή φύσει εαυτής
+πίστιν, μη διακριθεισαν έφ' οις ελεγεν αυτή {Commentarti in evangelium Joannis
+13.10.63.1-3). 32 In his commentary on John's gospel, Origen disagrees with Heracleon.
+He attributes the woman's approval (συγκατάθεσις) of Jesus' words to her choice
+(προαίρεσις) not to her superior nature. Unfortunately, this short quotation from
+Heracleon's text in Origen's commentary does not provide enough context for one to
+conclusively assess Heracleon's use of διακρίνομαι. However, Origen's judgment of
+Heracleon's interpretation indicates that Origen himself does not read μη διακριθεισαν
+as a reference to the Samaritan woman's doubt. 33 Συγκατάθεσις is the result of a dialogue
+between the woman and Jesus, i.e., the woman did not dispute Jesus' words. 34
+John Moschus describes a rift between Abba Julianos and Makarios, archbishop of
+Jerusalem. Julianos had taken offense at Makarios (έσκανδαλίσθη ποτέ είς Μακάριον),
+"ceased to be in communion with him" (διέκρινε τό κοινωνήσαι αύτφ), and, John
+Moschus repeats, "refuse [d] to be in communion with Makarios" (κοινωνήσαι Μακαρίω
+35
+διακρίνομαι; Pratum spirituak 96). The literary context, especially the estrangement
+between Julianos und Makarios, does not support a meaning "doubt" for διακρίνομαι.
+Rather, Moschus' word choice reflects the development of this particular verb into a ter­
+36
+minus technicus for dissenters, i.e., parties who dispute or oppose doctrinal issues.
+Διακρίνομαι is also used in this particular sense, i.e., disputing orthodox doctrine, in
+Caesar Constantine's letter to bishop Alexander of Alexandria, recorded by an anony­
+37
+mous author who is traditionally identified as Gelasius of Cyzicus (5th century CE).
+The letter does not contain any hint that διακρίνομαι in the phrase συνεισενέγκατε τα
+τής φιλίας καλά προς τους τα τής πίστεως μη διακρινόμενους {Historia ecclesiastica
+3:15:5) is used to express doubt.
+In summary, as long as conclusive extra-biblical evidence for a διακρίνομαι
+meaning shift is missing, there is no analytical basis to substantiate the claim
+that this verb has a special meaning in the NT. Arguments based on léxica
+and dictionary entries, inconclusive references to post-biblical texts, or a
+"semantic shift'' theory that lacks extra-biblical evidence, more prove the spe­
+cial meaning of διακρίνομαι ("doubt") has been set a posteriori than explain
+the actual complexities of a genuine shift from classical/Hellenistic to N T
+Greek meaning. They do not succeed in proving that a given N T passage
+containing διακρίνομαι demands a new meaning to explain its content
+satisfactorily.
+A survey of Greek patristic and medieval authors who cite, or allude to, N T
+passages with διακρίνομαι and also explicate these passages, reveals that
+these authors show no awareness that διακρίνομαι is given a new meaning by
+N T authors. Their interpretations can be divided into three categories. 38
+Some early interpreters read διακρίνομαι as dispute/contest, others as dispute
+or contest because of doubt or fear, i.e., a person who disputes/contests is
+thought to be motivated by doubt or fear. Still other interpreters read
+διακρίνομαι as being separated or divided.
+John Chrysostom (4/5th century CE), Severianus of Gabala (4th century
+CE), Theodore of Mopsuestia (4/5th century CE), Basil (4th century CE),
+Cyril of Alexandria (4/5th century CE), and John of Damascus (7/8th cen­
+tury CE) quote and explicate the use of διακρίνομαι in Acts 10:20, Rom. 4:20
+and 14:23, and Jas. 1:6. Their interpretations agree that διακρίνομαι
+describes a person who disputes, contests, or quarrels.
+Acts 10:20
+In his commentary on Acts 10 John Chrysostom writes that Peter was
+uncertain about the meaning of the vision he had just received. To this
+end, Chrysostom paraphrases the clause έν έαυτφ διηπόρει (Acts 10:17)
+with θαμβουμένφ καθ' εαυτόν και διαποροΰντι, a he was amazed con­
+cerning himself and quite at a loss" {In Acta apostolorum 173.30-31). 39
+According to Chrysostom, Peters bewilderment prepares him for the
+arrival of the men sent by Cornelius. These men put an end to Peter s
+confusion (εύκαίρως την άπορίαν λύοντες; 173.32) by arriving exactly at
+the time that Peter is told that he should follow them μηδέν διακρινόμενος
+(173.35-41). In Chrysostom s exegesis, the particular expression μηδέν
+διακρινόμενος, together with Peter s thrice-repeated protest against the
+spirits command to eat unclean food, serves a primary purpose: defense
+against possible accusations of lawlessness from both the Gentiles (to
+whom he is being sent) and his own Jewish community in Jerusalem, i.e.,
+Peter can truthfully say that he at first contested what he was told to do
+40
+(ΐν' εχη άπολογίαν προς τους έγκαλοΰντας, δτι καί άντείπεν; 173.3-5)
+but, in the end, learned to object to nothing (ινα μάθωσιν, δτι καί
+διεκρίθη, καί έπαιδεύθη μηδέν διακρίνεσθαι; 173.41-43). Chrysostom
+distinguishes between Peter s confusion, for which Chrysostom uses
+a
+a
+θαμβέω, be amazed", διαπορέω, at a loss*, and διενθυμέομαι, "ponder"
+(173.30-31 ; 174.46), and Peter s protest, which he describes with the verbs
+αντιλέγω, "speak against" (173.4-5,18), and διεκρίθη, "object" (173.42-43).
+Chrysostom does not use διακρίνομαι to explain Peters perplexity or
+doubt, but to lead the reader back to the narrative of his vision experience
+and, therewith, to capture his repeated objection to the command to eat
+unclean food (172.51-55). 41 Chrysostom interprets Lukes phrase μηδέν
+διακρινόμενος to mean that Peter was not to object to anything. 42
+Rom. 4:20
+Commenting on Rom. 4:20, Severianus of Gabala notes that Abraham
+found strength by giving glory to God {Fragmenta in epistulam ad Roma­
+43
+nos 218.4-7): Abraham did not occupy himself imagining how Gods
+promise was to manifest itself (ου περιεργασάμενος πώς έγχωρεί τοΰτο
+γενέσθαι). Instead, he immediately believes and praises God as though
+God has already given what God promised (αλλ' ευθύς πιστεύσας καί
+εύλογησας ως εύεργέτην τον θεόν, ως ήδη δεδωκότα δ έπηγγείλατο).
+Severianus explains Pauls phrase ου διεκρίθη with the participial phrase
+44
+ου περιεργασάμενος, i.e., Abraham did not interfere with God's affairs.
+I see no evidence that Severianus builds his interpretation of Rom. 4:20
+upon a special N T meaning, "doubt". By affirming Abraham's non-
+meddlesome attitude, Severianus appears to read διακρίνομαι "contest­
+ing with God".
+Rom. 14:23 Theodore of Mopsuestia sees in the participle διακρινόμενοβ
+(Rom. 14:23) a reference to a person who is "at variance with the brother
+and, therefore, eats with contention toward him" (ό προς του άδελφόν
+διαφερόμενος δια τοΰτο καί μετά τής προς εκείνον έριδος έσθίων; Frag.
+EpRom 168.2-3). 45 Theodore reads διακρινόμενος as "one who contests/
+quarrels", i.e., Paul contrasts the contentious person with the person who is
+motivated by faith to share a meal with others in an unprejudiced manner
+(168.1).
+Rom. 14:23 In Asceticon magnum (1036.28-1037.5), 46 Basil writes about persons
+who do not accept the decrees of their superiors (περί τών μη κατα-
+δεχομένων τα παρά του προεστώτος τυπούμενα). He cites Rom. 14:23
+to support his assertion that these persons' futile and dangerous διακρίσις
+causes slipperiness of δυσπειθεία, "disobedience/defiance" (1036.40),
+and is a trap for others (1036.43; here Basil references Mt. 18:6). He cites
+Prov. 22:10 and ICor. 5:13: persons who continue their disobedience and
+become "the cause of quarreling in the community" who undermine "the
+authority of the commands given", and who are "teachers of disobedience
+and rebellion" (καί διακρίσεως αίτιοι τή άδελφότητι, καί την προς τας
+έντολας πληροφορίαν διασαλεύοντες, καί δυσπειθείας και παρακοής
+διδάσκαλοι; 1036.45-1037.1) are to be driven out of the community. 47
+The content and literary structure of this passage, i.e., Basil quoting
+Rom. 14:23 in this particular context and framing it with the term
+διάκρισις (31.1036.36-38), indicate that he understands διακρινόμενος
+in Rom. 14:23 as a "person who contests". Other quotes of Rom. 14:23
+(and 4:20) in Regulae morales 49 and De fide 49 confirm my analysis that he
+uses διακρίνομαι to mean contest/dispute.
+Rom. 14:23 In the context of a discussion of the ϊδιον πίστεως {RM 31.868.34-40),
+Basil draws a parallel between Pauls statement in Rom. 14:23 and his own
+description of persons who use reason to violendy shake "the certainty of
+truth of god-inspired words" (αδιάκριτος πληροφορία τής αληθείας
+των θεοπνεύστων ρημάτων, ούδενί λογισμφ... διασαλευομένη). Α
+faithful person, in contrast, does not dare to recant God's words or add
+anything to them (καί μηδέν τολμαν άθετείν, ή έπιδιατάσσεσθαι; RM
+31.868.34-40).
+Rom. 4:20 In De fide, Basil first informs the reader of his method: whereas he incor­
+porates non-biblical and, at times, unwritten sources in his refutations of
+heretics, in his present work {Defide) he uses only what is written in scrip­
+ture (cf. 677.23-41; 680.21-30). Thus, he says of himself, he approaches
+this task "in the simplicity of a healthy faith" (έν άπλότητι τής ύγιαινούσης
+πίστεως, 677.35-36) and defines πίστις—similar to his definition of ϊδιον
+πίστεως in Regulae morales (see above)—as "undiscerning approval of
+things heard in certainty of the truth of what is proclaimed by God's grace"
+(συγκατάθεσις αδιάκριτος των άκουσθέντων έν πληροφορία τής
+αληθείας των κηρυχθέντων θεοΰ χάριτι). Basil quotes Rom. 4:20 to
+introduce Abraham as a witness to this faith: ου διεκρίθη τη απιστία {De
+fide 677.45-680.3). He views απιστία as force that dissolves this "undis­
+cerning approval", substitutes certainty with uncertainty, and questions
+the truth. In the literary context of the quote, there is no discussion of
+doubt, nor is there linguistic evidence that Basil understood διακρίνομαι
+in such a way. He uses Abraham's faithfulness to amplify his approach to
+the discussion of faith; because God's words are trustworthy, "to delete
+anything that is written down or to interpolate anything not written
+amounts to open defection from the faith and makes the offender liable to
+a charge of contempt" (φανερά έκπτωσις πίστεως καί ύπερηφανίας
+κατηγορία, ή άθετείν τι των γεγραμμένων, ή έπεισάγειν των μη
+γεγραμμένων; 680.9-11). 50
+Jas. 1:6-7
+In his commentary on Lk. 18:1-8, Cyril of Alexandria writes that,
+according to Pauls instruction in 1 Thess. 5:17, knowledgeable and
+strong, faith-filled persons pray unceasingly and accomplish all things
+successfully {Commentarii in Lucam 848.32-33). 51 To support this statement,
+Cyril quotes Jas. 1:6-7: a person described as διακρινόμενος will receive
+nothing from the Lord because "admittedly, the διακρινόμενος is an inso­
+lent person" (υβριστής γαρ ομολογουμένως ό διακρινόμενος; 848.39-40).
+Such a person does not believe that God will hear his or her petition;
+as "accuser of the one who is powerful in all things" (κατήγορος...
+του πάντα ισχύοντος), this person is "inconsiderately double-souled"
+(διψυχήσας άβούλως; 848.42-849.1). Cyril's use of the words υβριστής
+and κατήγορος does not point to a person who experiences intrapersonal
+conflict, but to a person in direct opposition with God. His conclusion
+that God does not agree with those who pray "curiously or carelessly,
+rather, earnesdy and unceasingly" (τοις ου περιέργως ή άτημελώς, αλλ'
+έν σπουδή και αδιαλείπτως ποιουμένοις τάς λιτας κατανεύσει ό θεός;
+849.2-4) indicates he understands διακρινόμενος in Jas. 1:6 similar to
+Severianus' interpretation of Rom. 4:20, i.e., a person who interferes with
+someone else's affairs or a disputer who calls God into question. 52
+John of Damascus paraphrases Jas. 1:6-7 in his discussion of the impor­
+tance of faith {Orationes de imaginibus tres 3,41.40-52): 53 a person who
+"approaches [God] with faith" (ό πίστει προσερχόμενος) will gain many
+things, but one who is διακρινόμενος will attain nothing. The saints
+please God through faith, according to John of Damascus, and Christians
+are to adhere to the tradition "with a straight heart" (έν εύθύτητι καρδίας)
+and "not with much discussion; for God made human beings upright, but
+they seek after much discussion" (μη έν πολλοίς λογισμοίς· ό θεός γαρ
+έποίησε τον άνθρωπον εύθή, αυτοί δέ έζήτησαν λογισμούς πολλούς). 54
+This particular literary context also does not support the reading "doubt"
+for διακρινόμενος, and I see no evidence that John of Damascus under­
+stood James' assertion in this way. 55 He quotes Jas. 1:6 to support the
+specific part of his discussion that focuses on a person who does not please
+God through faith: ό διακρινόμενος is a person who approaches God
+ready for an argument.
+This summary of patristic texts supports my primary thesis. Neither Cyril of
+Alexandrias description of ό διακρινόμενος as an "insolent person" and
+"accuser", John of Damascus' view that ό διακρινόμενος approaches God
+"with much discussion", Theodore s opinion that ό διακρινόμενος is "at vari­
+ance with the brother", nor Severianus' understanding that the phrase ου
+διεκρίθη means Abraham did not interfere with God s affairs, indicates that
+these authors use synonyms for διακρίνομαι or explicate its presumed-
+altered, special N T meaning. Rather, they highlight various characteristics of
+ό διακρινόμενος and, to this end, use diverse terminology (rather than reus­
+ing the word itself) to describe a person who disputes, contests, or quarreb.
+Origen is at the beginning of the tradition that introduces doubt into the
+interpretation of N T passages containing διακρίνομαι. However, before I
+discuss his use of διακρίνομαι in the context of Pauls letter to the Romans,
+I will briefly explicate two passages by Basil and one by Cyril of Scythopolis
+because their use and interpretations of Rom. 4:20, 14:23, and Jas. 1:6 fall
+between my first and second categories. Both discuss doubt and the action
+expressed with διακρίνομαι, i.e., dispute or contest, within the same literary
+context in which they cite Paul and James; however, they do not explicidy
+relate the two words to each other as Origen and Chrysostom do.
+Rom. 4:20
+56
+Basil writes in his work Regulae morales, "the sayings of the Lord must
+not be contested and doubted-, rather, every saying of God must be fully
+believed to be true and powerful, even if nature objects to it" (ού δει
+διακρίνεσθαι καί διστάζειν έτι τοις ύπο του κυρίου λεγομένοις, άλλα
+πεπληροφορήσθαι παν ρήμα θεού αληθές είναι καί δυνατόν, καν ή
+φύσις μάχηται; 712.42-45). 56 Basil justifies this moral rule with a chain of
+citations (712.48-713.36) that includes Peters doubt (Mt. 14:25-31:
+όλιγόπιστε, εις τί έδίστασας); a quarrel among Jews (Jn. 6:52-53:
+έμάχοντο ουν προς αλλήλους οι 'Ιουδαίοι λέγοντες); Zacharias' ques­
+tioning of an angels message (Lk. 1:13.18-20: καί ειπεν Ζαχαρίας προς
+τον αγγελον κατά τί γνώσομαι τούτο έγώ... άνθ' ών ούκ έπίστευσας
+τοις λόγοις μού; and, Abrahams unconditional response to Gods call
+(Rom. 4:19-22). These proof-texts address contest and doubt, and suggest
+Basil did not view διακρίνομαι and διστάζω as synonyms. In other
+words, I see no literary evidence within Basils presentation of this
+particular rule that necessitates or supports the assumption that he was aware
+διακρίνομαι has a special N T meaning and, consequendy, that he would
+have read Pauls reference to Abrahams response to Gods call as
+57
+"doubt".
+Rom. 14:23
+Basil cites Rom. 14:23 in support of a similar rule, ού δει διακρίνεσθαι
+έπι τοις ύπο τής γραφής συγκεχωρημένοις ("we should not quibble with
+58
+regard to what is permitted by the Scripture"; RM 31.780.46-781.7).
+Nothing in this clause, or in his presentation of the rule, suggests that he
+59
+uses the verb διακρίνομαι to express "doubt".
+Jas. 1:6-7
+In Vita Euthymii 5.12-16, Cyril of Scythopolis describes a person who
+stands firm in faith. Such a person carefully guards πίστις that is "undis­
+puted/undoubted" (αδίστακτος) and does not "stumble with disbelief
+(μη συγκαταπίπτων τήι άπιστίαι). To capture this contrast, Cyril coins
+the phrase μη διστάζων ή διακρινόμενος ("not doubting nor disputing")
+and quotes Jas. 1:6 to support his assertion. He continues with another
+reference to undisputed faith (την άδίστακτον πίστιν) and the warning
+"to distrust nothing of these things" (μηδενί τούτων άπιστειν; 5.18-21).
+This structure, i.e., the surrounding of Jas. 1:6 with references to undis­
+puted faith (πίστις αδίστακτος) and disbelief (απιστία, άπιστέω), and
+the placement of "doubt" and "dispute" next to each other, supports my
+view that Cyril reads διστάζων and διακρινόμενος as related processes,
+not as synonyms. 60
+In contrast to these passages in Basils and Cyril s writings, Origen and Chrys­
+ostom see a relationship between the words doubt and dispute although nei­
+ther author interprets one word (i.e., doubt or dispute) to have the same
+meaning as the other: a person contests because of 'doubt. Further, Origens
+writings demonstrate he is aware of the differences in meaning between the
+active διακρίνω and the middle/passive διακρίνομαι. 61 His approach to
+διακρίνομαι can be seen in the Greek manuscripts of two of his writings, his
+62
+commentaries on Jeremiah and Matthew.
+LXX
+In Jer. 15:10
+(οϊμμοι έγώ, μήτερ, ως τίνα με ετεκες άνδρα
+δικαζόμενον καί διακρινόμενον πάση τη γη, "woe is me, mother, that
+you brought me into the world, a man accused and contested in the whole
+land"), Origen sees a reference to Jesus (Injeremiam 14.7-8). He inter­
+prets the phrase, δικαζόμενον καί διακρινόμενον, with two groups of
+people in mind, unbelievers and ambiguous persons (14.8.14-17): unbe­
+lievers (δσοι άπιστοΰσι) condemn Jesus (καταδικάζουσιν), and those
+who are "ambiguous about him contest him" (άμφιβάλλουσι περί αύτοΰ,
+διακρίνονται περί αύτοΰ). Origen concludes that Jesus suffers a dual
+assault: υπό μέν των απίστων καταδικάζεται, υπό δέ των διψύχων
+διακρίνεται ("from unbelievers he is condemned, by double-souled per­
+63
+sons he is contested"). Whereas his use of the verbs άπιστέω ("distrust"),
+αμφιβάλλω ("being ambiguous"), and διακρίνομαι ("contest") indicates
+that Origen sees these events to be related, it does not suggest he under­
+stands διακρίνομαι to mean "doubt". Rather, this concurrence of verbs
+demonstrates the interrelationship between the concepts doubt and con­
+test-, for Origen contentiousness is a result, or symptom of, doubt, i.e., a
+person s contentiousness is driven by doubt. 64
+om. 14:23
+In his commentary on Mt. 15:10-20, Origen quotes Rom. 14:23 to
+explicate Matthews reference to clean and unclean food (ComMatt
+11.12). Origen states that believers are defiled when they debate what is
+inappropriate (διαλογιζόμεθα δέ τα μη δέοντα; 11.12.17), not when they
+eat foods that Jewish law declares unclean (11.12.12-14). He considers
+food used in idol sacrifices an inappropriate topic for believers' debate
+and argues that those believers who know (γινώσκοντες) or suspect
+(ύπονοοΰντες) that certain food is used in idol sacrifices (δαιμονίοις
+κεχρήσθαί τίνα), and still quarrel about it (διακρινόμενοι περί τούτου),
+act contrary to God s glory and not in Christ's name. For Origen "not only
+the suspicion concerning foods used in idol sacrifices condemn the person
+who eats, but also the quarrel concerning this matter" (ού μόνον τής περί
+τοΰ είδωλόθυτα είναι ύπολήψεως κατακρινούσης τον έσθίοντα, άλλα
+καί τής περί τούτου διακρίσεως; 11.12.48-54), a conclusion which he
+65
+supports with his Rom. 14:23 quote.
+Origen's repeated contrast of a person's suspicion (ύπονοοΰντες;
+ύπολήψεως) about idol-sacrificed food and a person's διάκρισις con­
+cerning the matter, makes it unlikely that he understands the noun
+διάκρισις, together with the participle διακρινόμενοι, to mean "doubt".
+If one were to postulate that Origen contrasts suspicion and doubt in
+this passage, i.e., "not only suspicion condemns the one who eats but
+also doubf (11.12.52-54), one must also postulate that he introduces a
+special "Christian" meaning for the noun διάκρισις, 66 and suggest that
+Origen uses an argument, which logic he does not explain (i.e., Origen's
+use of the construct ού μόνον... άλλα καί, "not only... but also", marks
+a progressively augmented argument only if it is understood to be mov­
+ing from suspicion to quarrel, not from suspicion to doubt). However, the
+immediate literary context neither supports a "Christian" meaning for
+διάκρισις nor an inflated progression of Origen's argument. With the
+preamble that debating improper matters defiles believers and constitutes
+the source of failure and sin (πηγή των αμαρτημάτων; 11.12.18), Origen
+presents an argument within which he repeatedly uses the common phrase
+διακρίνομαι περί τίνος (11.12.50, 54,59) 6 7 to express a believer's conten­
+tion regarding a particular matter. In the context of his commentary on
+Mt. 15:10-20, Origen states that believers quarrel about whether or not
+meat is used in idol worship; he does not specify whether intrapersonal
+68
+contention is present. One can deduce, from these and other passages in
+Origen's writings, that he recognizes the cause ofdiakrisis to be a person's
+doubt or suspicion-, the inference that verb διακρίνομαι itself means
+"doubt" or that Origen understood it as "doubt" however, has litde sup­
+69
+port within the literary context of his argument.
+Similar to Origen in the context of quoting Rom. 14:23, John Chrysostom
+introduces "doubt" in his homily on Rom. 4:20. For Chrysostom, Pauls
+choice of the phrase ού διεκρίθη, not ουκ ήπίστησεν, signifies that Abraham
+"neither doubted nor wavered" (ού διεκρίθη · τουτέστιν, ουδέ ένεδοίασεν,
+ουδέ αμφέβαλε; In epistulam ad Romanos 461.29-32) 7° However, a careful
+study of his discussion of Rom. 4:20 reveals that Chrysostom does not ren­
+der the passive διεκρίθη as "doubt". Rather, he interprets the phrase ού
+διεκρίθη to express the particular quality Abraham possesses that causes him
+71
+not to object to God's promise, i.e., Abraham was free from doubt.
+Rom. 4:20
+71)
+For Chrysostom, Abrahams attitude of faith is in direct contrast to a
+person who does not receive God s promises because of άνοια ("lack of
+understanding"; 461.33-36). Consequendy, every believer needs the
+strength to evade "reasoning of intemperance" (τους της ακολασίας
+λογισμούς) and to expel "thoughts of disbelief" (τάς της απιστίας
+εννοίας; 461.46-49). According to Chrysostom, Abraham did not grow
+strong through reasoning, but through faith (τη πίστει ού λογισμοίς;
+461.50-51), and sustained his strength by giving glory to God. 72 Glorify­
+ing God is "not meddling with Gods affairs" (το μη περιεργάζεσθαι,
+δοξάζειν εστί τον θεόν; 461.54-56). 73 Chrysostom further clarifies the
+mezrimgofmeddling: "to enquire into what is below" (τα κάτω ζητοΰντες),
+"to be inquisitive" (πολυπραγμονοΰντες), or "to insult" (υβρίζοντες;
+461.56-59). Explicating the questions in Rom. 10:6-7, Chrysostom uses
+this particular line of reasoning again by recalling what Paul writes about
+Abraham (Rom. 4:20): faith opposes any reasoning (566.40-41); believers
+need a strong soul that does not stumble over visible things (καί μη
+προσπταιούσης τοις όρωμένοις; 566.58) and does not raise questions
+(similar to those in Rom. 10:6-7, μηδέ έννοήσης άμφιβάλλειν και ειπείν
+κατά σεαυτόν και πώς τοΰτο δυνατόν; 566.62-64), which are a sign
+of "doubts in one s thoughts". Faith, however, is not concerned with
+matters from below, but "seeks that which is above nature and drives out
+the weakness of reasoning" (καί την κάτω πασαν άκολουθίαν άφέντας
+το υπέρ φύσιν έπιζητείν, καί λογισμών άσθένειαν έκβάλλοντας;
+566.65-567.1).
+Rom. 4:20
+In Ad eos qui scandalizati sunt 10.6.1-7.9, Chrysostom offers a similar
+74
+interpretation of Rom. 4:20. He repeats that Abraham gave glory to God
+"by not meddling with Gods affairs and by not being inquisitive" (τφ μη
+περιεργάσασθαι, μηδέ πολυπραγμονησαι), but rather "by yielding his
+wisdom and power to that which is incomprehensible and by doubting
+nothing concerning what was said" (άλλα τφ άκαταλήπτω της σοφίας
+αύτοΰ καί της δυνάμεως παραχωρήσαι και μηδέν άμφιβάλλειν όλως
+περί τών ειρημένων; 10.7.2-4). Thus, Chrysostom concludes, "glorifying
+God is this: always yielding one s own thinking to what is incomprehen­
+sible and to the inexpressible power and wisdom, and neither interfering
+nor meddling with Gods affairs nor saying, why this? for what purpose
+that? how can this be?" (τοΰτό έστι μάλιστα το δοξάζειν τον θεόν, το
+άεί παραχωρειν αύτοΰ τφ άκαταλήπτω της προνοίας και τη άρρήτω
+δυνάμει και σοφία και μη περιεργάζεσθαι, μηδέ πολυπραγμονείν, μηδέ
+75
+λέγειν δια τί τοΰτο; εις τί τοΰτο; πώς τοΰτο έσται; 10.7.5-9).
+Rom. 4:20
+Chrysostom also quotes and discusses Rom. 4:20 in De incom­
+prensibili dei natura in a section addressed to "busybodies" (προς
+τους περιεργαζομένους, 2.298) that is framed by the question of
+Rom. 9:20, "who are you, human, who argues against God?" (2.300-
+301, 327). 76 Once again, Chrysostom lists the characteristics of a
+περιεργαζόμενος—insulting, interfering, searching, dishonoring (υβρίζω,
+πολυπραγμονέω, διερευνάω, ατιμάζω; 2.307-312)—and portrays
+Abraham as a gestalt in contrast to a person described as περιεργαζόμενος
+(2.312-322). 77
+There is no evidence that Chrysostom understands the verb διακρίνομαι
+to have taken on the meaning "doubt". In his explanation of Rom. 4:20,
+Abraham is not driven by reasoning that would have led him to ask useless
+questions and, thus, question God or meddle inquisitively with Gods affairs.
+Chrysostom s distinctive use of vocabulary to characterize a person described
+78
+as διακρινόμενος, i.e., πολυπραγμονέω and περιεργάζομαι, shows that he
+interprets Pauls phrase ού διεκρίθη to mean that Paul thought Abraham
+did not raise objections. In his homily on Romans 14 the same vocabulary
+surfaces.
+Rom. 14:23
+78)
+At the beginning of the homily, Chrysostom indicates he is aware that
+many persons have difficulty with Romans 14 (οιδα, δτι πολλοίς απορον
+το είρημένον; In epistulam ad Romanos 627.44). He explains that Paul
+addresses a conflict between believing Jews who have not dared to let go of
+the law completely and are, therefore, vegetarians (οΰπω θαρροΰντες
+τέλεον άποστήναι τοΰ νόμου; 627.50-51), and other believers (the
+τελειότεροι) who neither fast nor observe food laws. These non-observers
+of food laws are a burden and an annoyance (φορτικοί καί επαχθείς)
+for "the observers" whom they "reproach, accuse, and throw into faint­
+heartedness" (όνειδίζοντες, εγκαλούντες, εις άθυμίαν έμβάλλοντες;
+627.55-59). According to Chrysostom, Paul was concerned that the non-
+observers' persistent intent to bring their weaker brothers and sisters to
+show αδιαφορία ("indifference") toward foods might provoke them to
+leave the faith altogether (627.59-63). Chrysostom also explains his meth­
+odological approach to the interpretation of Romans 14: he interprets
+Paul's statements addressed to τοις ίσχυροτέροις ("the stronger") to be an
+attack on the weak (628.50-56; cf. 629.11-12; 632.30-32). Consequendy,
+one sees that Chrysostom believes Paul's charge in Rom. 14:1 against τον
+ίσχυρόν ("the strong"; 628.62), is actually meant to be understood as a
+three-fold strike (πληγήv) concerning the weak in faith: 1) their weakness
+is a sign of true illness that 2) is made worse by their need for acceptance,
+which 3) the strong must extend to the weak without contesting their con­
+victions (629.1-7). Chrysostom uses Paul's phrase μη εις διακρίσεις
+λογισμών to call attention to the distinctive feature of a weak believer's
+shortcoming(άμάpτημα):itprovokesthestrong/0¿%>«/^(διακpívεσθαι;
+629.5-10). 79
+Chrysostom portrays the actions of the strong—they rebuke (επιτιμάω;
+628.60, 630.20), reproach, and despise (όνειδίζω; διαπτύω; 629.22),
+place stumbling blocks (632.58-61), love quarreling (φιλονεικία;
+630.21; 632.18; 638.16,41; 639.38), destroy fellow believers (καταλύω;
+639.15-16), and meddle with God's affairs (πέρα τοΰ μέτρου περίε­
+ργος; 630.10)—to be in direct relation to the (re)action of the weak. As
+"judaizing" persons of litde faith (όλιγόπιστοι; 629.26,33), the weak are
+"still shaken" (σαλεύομαι; 629.47) and offend (σκανδαλίζω) the strong
+by observing food laws. Weak believers need to seek peace (ίνα είρηνεύη;
+639.15-16) because their adherence to food laws separates and divides
+the church, i.e., they are in danger of breaking away from grace to run
+toward the law (καί μη σχίζε και μέριζε την έκκλησίαν, της χάριτος
+άπορρηγνύμενος, και τφ νόμω προστρέχων; 632.45-47). Thus, when
+Chrysostom discusses Rom. 14:16-17, he can say of both weak and strong
+believers (Chrysostom does not identify which group he addresses) that
+they fight and split the church (δταν γαρ μάχη, όταν φιλονεικης, δταν
+λύπης, όταν σχίζης την έκκλησίαν; 638.33-34).
+Chrysostom's discussion of Rom. 14:22-23 follows the same pattern
+as his discussion of 14:1. Interpreting w. 22-23 together, he sees v. 22
+to be addressed to the 28 weak (640.22-24) and v. 23 to be addressed
+to the strong: "what good is it if one eats διακρινόμενος and condemns
+oneself?" (τί γαρ όφελος, έαν φάγη διακρινόμενος, καί κατακρίνει
+εαυτόν; 640.35-38). In his response to this question-form paraphrase
+of v. 23, Chrysostom suggests that Paul genuinely accepts the believer
+"who does not eat with ambiguity" (έγώ γαρ εκείνον αποδέχομαι τον
+καί έσθίοντα και μη μετ' αμφιβολίας; 640.38-40). Eating "without
+ambiguity" leads, in turn, to eating with a clear conscience (καθαρφ
+συνειδότι φαγείν; 640.41). Chrysostom sees the social situation of the
+Roman communities to be such that the strong, who do not succeed in
+convincing the weak to eat meat, force them to do so and, thus, provoke
+the weak to commit sin (640.45-49; cf. 639.31-33). 80 For Chrysostom,
+a blessed person is one who has a clean conscience that does not lead to
+self-condemnation. In contrast, if a διακρινόμενος does not believe that
+food is clean "and touches it as if it were unclean", he or she commits sin
+(ού γαρ έπίστευσεν, οτι καθαρόν έστιν, ά λ λ ' ως ακαθάρτου ηψατο;
+640.44-45; cf. 50-51).
+In summary, Chrysostom does not (re)define the meaning of διακρίνομαι.
+Rather, he explains the attitude and actions of weak believers whom
+Chrysostom—consistent with his interpretation of the rest of the chapter
+which portrays the quarrelsome relationship between weak and strong
+believers—describes as diakrinomenoi who eat "with ambiguity". Chrysos­
+tom neither states that the weak "doubt"—eating while objecting (έαν φάγη
+81
+1
+διακρινόμενος) is characteristic of ambiguity* —nor that the weak contest
+the actions of the strong. In his view, and contrary to Abraham s example
+cited in Rom. 4:20, the weak direct their objections toward God. Interpret­
+ing a manuscript of Pauls letter to the Romans that places the passage 16:25-
+27 at the end of chapter 14, Chrysostom classifies these verses as a prayer that
+direcdy addresses the weak (643.40-42) who "were not yet firmly rooted;
+rather, they stood but were shaken" (οτι οΰπω ήσαν βεβαιωθέντες, άλλ'
+έστήκεσαν μέν, έσαλεύοντο δέ; 643.46-47; cf. 629.47). Chrysostom posits
+the purpose of this prayer to be the weak believers' release from fear (644.28;
+cf. 630.49; 632.25,51; 637.21,45; 638.40), which is the root of their failure
+to recognize the present-working mystery of God. With vocabulary familiar
+from his discussion of Abraham in Romans 4, Chrysostom captures the
+diakrisis of the weak: by fearing the law, the weak scrutinize (εξετάζω) what
+has been made known, meddle with the mystery of God (μυστήρια θεοΰ
+περιεργαζόμενος), call God to account (καί εύθύνας άπαιτών), and are
+inquisitive busybodies (πολυπραγμονειν; 644.31-34). Chrysostom summa­
+rizes: "faith demands obedience, not curiosity; and when God commands,
+one must obey, not interfere" (υπακοής γαρ ή πίστις δείται, ού πολυπ­
+ραγμοσύνης· καί όταν θεός έπιτάττη, πείθεσθαι, ού περιεργάζεσθαι χρή;
+644.37-39). Once again, no evidence supports the assumption that Chryso­
+stom understood διακρίνομαι to have the special N T meaning "doubt". The
+literary context of his discussion of Romans 14, and the use of vocabulary
+familiar from his discussion of 4:20, indicate that Chrysostom, like Origen,
+83
+locates the meaning of διακρίνομαι within its traditional semantic setting.
+Because the second-century work Shepherd ofHermas also influences the
+perception that διακρίνομαι has a special meaning in the NT, it is fitting to
+discuss this text briefly although, in an interesting twist to this verb s history
+of reception, only the active διακρίνω (2.2.1; 27.6.2; 51.1.2)—and never the
+middle διακρίνομαι or the noun διάκρισις—occurs in the text. Neverthe­
+less, the author s frequent use of vocabulary (e.g., δίψυχος) and concepts that
+parallel Jas. 1:6-8 captures scholars' attention, 85 especially the repeated
+description (with diverse vocabulary and expressions) of doubt,* which
+has long served as a matrix for the interpretation of structurally similar
+phrases: μη διακριθη έν τη καρδία αύτοΰ (Mk. 11:23); ό διακρινόμενος
+87
+(Rom. 14:23; Jas. 1:6); and μηδέν διακρινόμενος (Acts 10:20; Jas. 1:6).
+Of particular interest is the ninth mandate, which contains a paraphrase of Jas. l:6-8. 88
+The author states that δίψυχοι are persons who talk to themselves (λέγων έν σεαυτφ)
+and lead debates (διαλογίζομαι) in their hearts 89 about how they as sinners could pos­
+sibly request anything from God and, in turn, receive (πώς δύναμαι αίτήσασθαι παρά
+τοΰ κυρίου καί λαβείν, ήμαρτηκώς τοσαΰτα εις αυτόν; 39.1.2-3.2); none of their peti­
+tions will be answered (39.5.1-2). In contrast, persons immersed in faith ask without
+doubt (αίτοΰ παρ' αύτοΰ άδιστάκτως; 39.2.1-3; 39.4.4-5.1) and receive from God
+(39.6.1-3).
+Based on this analysis of Greek authors' use of διακρίνομαι, it is reasonable
+to assume that the author of Shepherd modifies James' use of διακρίνομαι
+with the verb διαλογίζομαι ("debate"; cf. 12.3.6-7; 22.43) if, indeed, he uses
+Jas. 1:6-8 as a matrix for his writing. The assumption that the Shepherd's
+author understands διακρίνομαι in Jas. 1:6 to have the special N T meaning
+"doubt" and, consequently, substitutes the verbs διστάζω and/or διψυχέω
+for διακρίνομαι, both lacks support from comparative literary evidence and
+is not prerequisite to an adequate interpretation of Shepherd. 90 If there exists
+no literary relationship between James' letter and Shepherd of Hermas,
+then it is even less likely that the verbs διστάζω and διψυχέω are synonymous
+with διακρίνομαι. More likely, the author of Shepherd develops a literary
+parallel to James and also, with διαλογίζομαι ("debate") as an appropriate
+lexical alternative to διακρίνομαι ("dispute"), shows that "debate" (albeit an
+intrapersonal event in this text) and "doubt" are related—but different—
+processes.
+A few final texts from patristic and medieval authors that explicate Mt. 21:21,
+Mk. 11:23, Rom. 14:23, Jas. 1:6, and Jude 22 mark additional traditions con­
+cerning the meaning of διακρίνομαι. These authors span many centuries yet
+read διακρίνομαι as separation. The texts suggest that the meaning attrib­
+uted by some Greek authors to διακρίνομαι is somewhat in proportion to
+their distance in time from the original composition of the N T passages.
+Still, none interprets division/separation as an indicator of, or synonymous
+to, doubt.
+Jude 22
+Within the immediate literary context of a quote from Jude 22, Clem­
+ent of Alexandria (2/3th century CE) discusses a particular type of argu­
+mentation, which invention he attributes to Protagoras: παντί λόγω
+λόγον άντικεισθαι ("to oppose each argument with an argument'').
+Clement argues that a true Gnostic is learned, σοφός έν διακρίσει λόγων
+("wise in the distinction of words"), humble in his greatness, and obser­
+vant of the instruction given in Jude 22. The literary context of Clement s
+discussion about the best formulation of an argument, which he concludes
+with the metaphor of a sickle that cuts and separates intertwined twigs,
+suggests that he understands the διακρινόμενοι of Jude 22 either as per­
+sons who contest or argue, or as persons "being separated" from the com­
+munity (Stromata 6.8.65.1.2-4.3) . 91
+ude 22
+Jas. 1:6
+Mk. 11:23
+From a scholion on Jude's letter, 92 we learn that its author inter-
+prêts Jude 22 in light of Jas. 1:6 (and vice versa), but not with the purpose
+of discussing doubt. Although the author uses a manuscript of Jude that
+93
+reads, "ους μέν ελεείτε διακρινόμενοι", he still interprets the verse
+to refer to "dissenters from the truth" (τους διακρινόμενους από τής
+94
+αληθείας εκ των λόγων τής ψευδούς διδασκαλίας). For this author,
+διακρινόμενοι are (he quotes Jas. 1:6 in support) "pitied and wretched,
+driven around by every wind of teaching" (ελεεινοί είσι καί άθλιοι,
+παντί άνέμω τής διδασκαλίας περιφερόμενοι; Catena in epistulamjuda
+168.30-169.3). There is no literary evidence that the author understood
+διακρινόμενοι in both Jude and James other than in reference to dis­
+senters or separatists driven about by the winds of teaching. The use of
+the preposition in the phrase διακρίνομαι από also indicates the author
+understands διακρίνομαι as "dissent".
+Pseudo-Macarius (4th century CE) alludes to Mk. 11:23 (Homiliae
+spirìtuales 15.110-119) 95 by using the parallel phrase μη διακριθής έν τη
+καρδία σου. He writes that Christians (oí χριστιανοί) must not con­
+sider prostitutes, sinners, and disorderly persons as worthless, nor should
+they detest and question them, or "hold them in segregation/isolation"
+(μηδένα έξουδενείν μήτε άνακρίνειν ή βδελύσσεσθαι ή εχειν αυτούς
+έν διακρίσεί; 15.113-114). Pseudo-Macarius continues with an example:
+μονόφθαλμον έαν ϊδης, μη διακριθης έν τη καρδία σου, α λ λ ' ως ύγιεί
+αύτφ πρόσχες ("if you see a one-eyed person do not become segregated
+in your heart [or, do not revolt in your heart] but turn towards this
+person as if he were in good health"; 15.114-115). I see a link between
+the phrases εχειν αυτούς έν διακρίσει and μη διακριθης έν τη καρδία
+σου; the first phrase expresses the result of the action that the second
+phrase captures. 96 For Pseudo-Macarius, διακρίνομαι έν καρδία is the
+opposite attitude of συμπάσχω ("sympathize") and σπλαγχνίζομαι ("to
+feel compassion"; 15.118-119). Διακρίνομαι έν καρδία causes the segrega­
+tion of sinners because a Christian is, "in the heart, separated from" them.
+Pseudo-Macarius does not refer to an intrapersonal split, i.e., a divided
+heart, but to a religiously motivated social division that is rooted in an
+attitude that comes from the heart.
+In his explanation of the clause μη διακριθη in Mk. 11:23 ( Quaestiones
+ad Thalassium 33:2-50), 97 Maximus Confessor (6/7th century CE) seems
+to suggest the meaning "not being divided". Maximus defines πίστις as
+ενωσις ("oneness") that the action of διακρίνομαι shatters. Explaining
+the meaning of ό μη διακριθείς έν τη καρδία αυτού in two sequential
+statements (one begins with τουτέστιν, the other with ήγουν), Maximus
+writes that "one who is not divided in his heart" is a person "who does
+not differentiate in the mind", i.e., a person who "does not cut apart
+the oneness with God that exists because of faith" (ό μη διακριθείς έν
+τη καρδία αυτού, τουτέστιν έν τω voi μη διακρίνας ήγουν διατεμών
+την δια τής πίστεως προς τον θεόν γεγενημένην αμεσον ενωσιν;
+33:32-35). Thus, Maximus reads διακρίνομαι with one of the mean­
+ings of the middle voice, i.e. "being divided/separated", but discusses
+the division with respect to an intrapersonal event that happens έν
+τφ voi ("in the mind"). 98 Consequently, Maximus finds in the active
+verbs διακρίνω ("separate") and διατέμνω ("cut through") words that
+appropriately capture the divisive event. 99 Whereas Maximus retains the
+classical/Hellenistic meaning of διακρίνομαι, he moves beyond classical/
+Hellen-istic use of the middle voice with his interpretation; the middle
+voice of διακρίνομαι is not used to describe an intrapersonal division in
+that epoch. Thus, Maximus actually employs an interpretive model that
+later scholars label a semantic shift.
+Rom. 14:23 Photius' (9th century CE) interpretation of Rom. 14:23 is inconclusive.
+According to Photius, Paul, in Romans 14, is discussing the topic έπί τοΰ
+έν τοις βρώμασι διακρινομένου (FragEpRom 537.18), a phrase Photius
+repeatedly uses (cf. 536.2; 538.8,13) but never explains. 100 In his exposition
+of Romans 14, διακρινόμενοι are young in their faith (κατ' αρχάς τής
+πίστεως; 536.12) and are careful about what they eat. Fellow believers
+must not judge them because they expose themselves to God's judgment
+(ύπο κρίμα εστί παρατηρούμενος τα βρώματα; 536.9). Whereas Photius
+lists "αμφιβάλλει" as one meaning of διακρίνομαι in his Lexicon, 101 in
+his discussion of Romans 14 he writes that διακρινόμενοι are weak and
+unstable in faith (ασθενής και αστήρικτος έν τη πίστει; 537.19-20) but
+does not state that they have doubt. With the phrase διακρίνομαι έν
+Photius probably expresses something akin to "a person who is separated
+or differentiated based on food". 102
+Jude 22 Pseudo-Oecumenius (6/ 10th century CE) continues the tradition begun
+by the scholion on Jude both by offering an interpretation that differs from
+the manuscript's text (i.e., whereas the manuscript has διακρινόμενοι, the
+scholion author interprets as if it reads διακρινόμενους) and by interpret­
+ing διακρίνομαι as a reference to dissent. 103 He writes, «εαυτούς έν αγάπη
+θεού τηρήσατε», τουτέστιν, εαυτούς διαφυλάττετε, τον άπο τού κυρίου
+προσδεχόμενοι ελεον... Κακείνους δέ, εί μέν άποδιίστανται υμών
+(τούτο γαρ σημαίνει το διακρίνεσθαι) ελέγχετε ("'[k]eep yourselves in
+the love of God,' that is, guard yourselves carefully as you receive mercy
+from the Lord... And refute those men, if they set themselves apart from
+104
+you [for this is what 'separating themselves' means]").
+Theophylact (11th century CE) stands at the end of a long tradition of
+Greek N T commentaries. He borrows freely and extensively from his prede­
+cessors and, thus, aptly marks the conclusion of my survey of Greek litera­
+ture. His particular method of borrowing from other writers merges the
+different categories of meaning concerning διακρίνομαι. Theophylact inter­
+prets διακρίνομαι to express an action that is related to, but different from,
+doubt.
+Theophylact retains Pseudo-Oecumenius' interpretation of Jude 22 (i.e.,
+διακρίνομαι denotes dissent) 1 ^ and John Chrysostom's thoughts on Acts 10:20
+(i.e., διακρίνομαι denotes raise objections)}^ With regard to Mk. 11:23, he
+allegorically interprets the mountain, which believers must move in order
+not to be separated from God (i.e., διακρίνομαι denotes being separated), as
+arrogance (ύπερηφανία). 107 It is in his discussion of the parallel account in
+Mt. 21:21 that Theophylact first mentions doubt (έαν μή διακριθώμεν,
+τουτέστι, διστάσωμεν). 108 However, it is important to note that τουτέστι,
+the link between the verbs διακρίνομαι and διστάζω, does not indicate the
+words are synonymous. In fact, Theophylact explains that the term
+διακριθήτε expresses the annihilation of a believer's oneness with God. Thus,
+a believer's goal is "not to be separated and divided" (μή διακριθείς και
+χωρισθείς), which is reminiscent of Maximus Confessor' interpretation
+of Mk. 11:23.
+With respect to Rom. 4:20, Theophylact contrasts Abraham with a
+person who does not believe and glorify God but is "inquisitive" (πολυπ­
+110
+ραγμόνων; 397.50). Abraham did not dispute (διακρίνομαι), did not
+111
+doubt (ένδοιάζω), and was not ambiguous (άμφέβαλεν). Theophylact
+views the διακρινόμενος of Rom. 14:23 as a person who is motivated by
+doubt 1 1 2 and states that the phrase μή εις διακρίσεις διαλογισμών in
+Rom. 14:1 is a warning against disputes concerning the weakness of fellow
+believers (μή διακρινόμενοι έπί τη ασθένεια). 1 1 3
+Finally, Theophylact s διακρινόμενος in Jas. 1:6-8 is a person who asks
+arrogantly (ό μεθ' υπεροψίας αιτών; Expositio in Epistulam Sancii Jacobi
+1137.23) 114 and, quoting from Cyril of Alexandria, is an insolent person
+(υβριστής ομολογουμένως ό διακρινόμενος; 1137.23-24) who accuses God
+(1137.26). Ultimately, for Theophylact, the διακρινόμενος in James* letter is
+a person "who sets himself apart from matters that are certain". 115
+With the analysis presented in this article, I attempt to show that patristic
+and medieval writers vary considerably in their interpretations of N T verses
+containing διακρίνομαι. Common to all, however, is that their texts show no
+recognition of a semantic shift to a special N T meaning "doubt". Conse­
+quently, what has become institutionalized and classified as a special meaning
+cannot be shown to be the result of a semantic shift that was recognized by
+the Greek authors themselves. It is more precise to state that the meaning
+"doubt" became attributed to διακρίνομαι as a result of interpretation and
+translation processes.
+The saga of "doubt" begins with the interpretive creativity of Origen,
+John Chrysostom, and others who introduce the concepts "doubt", "ambigu­
+ity", or "lack of self-confidence" into their portrayal of the characteristics of a
+person described as διακρινόμενος. The storyline continues with the author
+ofShepherd ofHermas who provides later writers with a rereading of Jas. 1:6-8
+that becomes normative for the interpretation of other N T passages with
+διακρίνομαι. A dramatic turn in the plot occurs when Latin authors substi­
+tute their interpretation for Greek word meaning, and create the meaning
+"doubt" ex nihilo by using haesito for διακρίνομαι in Mt. 21:21, Mk. 11:23,
+Rom. 4:20, and Jas. 1:6, and dubito in Acts 10:20.
+This distinctive feature of the Latin translations of Greek manuscripts comes to light in
+Origen's commentary on Pauls letter to the Romans. With the exception of a few Greek
+fragments, Origens commentary is transmitted through the Latin translation and edito­
+rial work of Rufin of Aquileja (4/5th century CE). Rufin translates Rom. 14:23, qui
+autem discernit, si manducaverit, damnatus est, quia non ex fide (EpRom 10.1255.2-3). 116
+Thus, he renders διακρινόμενος in the same manner as Jerome s Vulgate and virtually all
+Latin authors, i.e., qui discernit ("who difFerentiates"), which is one meaning of the active
+διακρίνω. 117 In translating Origens comments on Rom. 4:20, Rufin again follows the
+example of Jerome who renders ού διεκρίθη with non haesitavit (4.982.16). An explica­
+tion of this particular phrase is missing in Rufin s translation.
+Without the original Greek text in hand, it is impossible to establish Origens own
+word choices. Especially in light of the use of the middle διακρίνομαι in Origens
+commentary on Matthew, it is appropriate to approach Rufin s Latin text in this matter
+with caution. His translation shows that he understands Origen to interpret Paul (in
+Rom. 14:23) as addressing the problem of eating ex dubitatione ("out of doubt"). It is
+these doubts, i.e., whether food is clean or unclean, that cause a person to "make distinc­
+tions" (quia qui hoc modo discernit, hoc est, qui dubitai, utrum vere mundum sit an
+immundum quod sumit; 10.1255.29-31). Whether Rufin s rendering is faithful to the
+Greek original or whether he is influenced by the Vulgate is insignificant to my thesis.
+Whereas it is clear that a meaning shift occurs with Jerome s and Rufin s active rendering
+of the Greek middle voice, i.e., Rufin reads διακρίνω, not διακρίνομαι, Rufin s use of
+the phrase hoc est indicates that, for him, the verbs discerno and dubito express related—
+but not identical—processes.
+Martin Luther (1545), and the authors of the Geneva Bible (1587) and
+the King James Bible (1611) provide yet another twist in the saga by trans­
+lating the Vulgates rendering of διακρίνομαι, discerno, in Rom. 14:23 as
+"doubt". 118 With Wesley (1755) eventually translating Jude 22 as "waver"
+(the Vulgate has iudico), 119 and present-day scholars' affirmation of διακ­
+ρίνομαι as N T terminus technicus for "doubt", the saga of "doubt" reaches its
+contemporary climax. Thus, modern scholars and translators continue to
+respond to patristic and medieval authors' nuanced approaches to Mt. 21:21,
+Mk. 11:23, Acts 10:20, Rom. 4:20,14:23, Jas. 1:6, and Jude 22 by conflating
+the traditional first-century meaning of διακρίνομαι with an ecclesiastic
+interpretation in which the particular action, expressed with the verb
+διακρίνομαι, is "doubt". This means that the major difference between early
+and contemporary exegetical praxis is that early Greek writers first quote or
+paraphrase the N T passage containing διακρίνομαι and, thereafter, interpret
+"doubt" to stand behind the action of διακρίνομαι. Today, the verb itself is
+translated, "doubt".
+This sagas plot certainly includes a "semantic shift" from classical/Helle­
+nistic Greek to NT/Christian meaning. However, the shift is not the result
+of a natural semantic development but the product of interpretation and
+translation processes that reflect different stages of a steady movement from
+eastern anthropology with its concern for the person insofar as he or she is
+embedded within a larger social unit and socio-cultural context, to western
+preoccupation with the individual and the individuals intrapersonal well-
+being. Doubt does not need "the other"; dispute does.
+I conclude my analysis with the recommendation that the common Greek
+language system be observed insofar as the rendering of διακρίνομαι in N T
+passages (both inside and outside of the NT) is concerned. For a special N T
+meaning of this verb to be valid, each literary context needs to reveal that its
+author has expanded the middle voice s horizon of meaning. This can be
+shown to have occurred with the help of negative proof, i.e., if none of the
+traditional meanings of the middle voice sufficiently explains the clause con­
+taining the middle, it is reasonable to posit a modification of meaning. Cross-
+referencing N T passages does not prove a genuine semantic development. If
+both the clause containing διακρίνομαι and the literary context within
+which the clause is embedded support a traditional meaning of the verb, an
+argument for a semantic shift is without merit; a rendering of the verb accord­
+ing to classical/Hellenistic Greek conventions needs to be pursued. Future
+research on this subject should show that διακρίνομαι s traditional, classi­
+cal/Hellenistic range of meaning allows the reader to understand and inter­
+pret N T verses that contain it.

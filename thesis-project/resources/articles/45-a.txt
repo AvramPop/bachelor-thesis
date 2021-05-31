@@ -1,0 +1,853 @@
+Since patristic times the imagery employed in 2 Cor. 11:2 has been under­
+stood in terms of a formal betrothal, with Paul as a father of the bride or, as
+some exegetes argue, the grooms best man, who has betrothed the Corin­
+thian community to Christ and is now charged with guarding the virgins
+chastity. In the following verse Paul would be then expressing his fear that,
+like Eve was deceived by the serpent, the Corinthians might be misled,
+becoming in this way unfaithful, and losing, to keep in line with the meta­
+phor, their virginity^w to the celebration of the wedding, which is suppos­
+edly to take place at the end of times. The metaphor occurs at the beginning
+of the so-called "Fools Speech," in which Paul is accusing the Corinthian
+community of having attempted to turn away from him who had preached
+the true Jesus and true Gospel, and following instead the false aposdes.
+The imagery of 2 Cor. 11:2-3, including the biblical reference, is not as
+simple as it could seem at first sight and the verse may be subject to different
+interpretations. What is more, textual witnesses are far from unanimous con­
+cerning the exact wording. Although most of the variants are of a stylistic
+nature and do not have any significant bearing on the meaning of the verse,
+there is one in verse 3 that may be of some importance for our understanding
+of Pauline imagery and its implications. Variation among Greek witnesses is
+remarkable, but there are two readings which are commonly regarded as
+most plausible: the longer one, από της άπλότητος καί της άγνότητος,
+attested by, among others, Çp 46 Κ* Β F G 33, and the shorter reading, άπο της
+άπλότητος, found in the majority of the manuscripts, including Κ 2 Η Κ L Μ Ρ
+Ψ 0121. 1739. 1881 3ft. Versional evidence is likewise divided, and interest­
+ingly, in some diglots, like Codex Augiensis, the Latin text differs from the
+Greek one.
+Among critical editions of the New Testament, all the editions of Nesde-
+Aland Novum Testamentum Graece to date have consistendy placed και της
+άγνότητος in the text, yet always enclosing it within square brackets. Brooke
+Foss Westcott and Fenton John Anthony Hort in their The New Testament in
+the Original Greek present it in a similar way. 1 Constantinus Tischendorf in
+his Editto Octava Critica Maior relegated it to the critical apparatus. Most of
+the modern editions, however, opt for the longer reading, without enclosing
+the second substantive in square brackets. 2
+The lack of consensus is reflected in various translations of the Bible. To
+mention only the English ones, KJV, JB and NEB adopt the shorter reading,
+rendering άπο της άπλότητος της εις τον Χριστόν, as "from the simplicity
+that is in Christ" (NKJV), or "simple devotion," yet the majority opt for the
+longer reading. This includes RSV ("from a sincere and pure devotion to
+Christ"), NIV ("from your sincere and pure devotion to Christ"), NAB,
+NASB ("from the simplicity and purity [of devotion] to Christ"), ASV
+("from the simplicity and the purity that is toward Christ"), and finally
+NRSV ("from a sincere and pure devotion to Christ"), although in a foot-
+note it is mentioned that "Other ancient authorities lack [and pure]."
+The commentators are also divided, and many of them, including Plum-
+mer, Martin, Furnish, simply mention the two possibilities, leaving the
+question unresolved. Overall, older commentaries, including Bachmann,
+Windisch, Héring, Barrett (albeit with some hesitation) and others, tended
+rather to accept the shorter reading, but a few, such as Alio, Hughes, favoured
+the longer one. Margaret Thrall states that "If pressed for a decision... we
+should opt for the originality of the longer text." 3 In the most recent exten-
+sive commentary Murray J. Harris also says that this reading "is to be pre-
+ferred." 4 Many exegetes, however, remain fairly hesitant, due mainly to the
+indecisiveness of the most influential textual critics such as Bruce Metzger
+whose Textual Commentary 5 is frequendy referred to by the scholars.
+In the present article I shall argue that in view of both external and inter-
+nal evidence, the text that Paul wrote most likely included και της άγνότητος,
+hence there is no need to enclose it within square brackets. Furthermore, I
+shall suggest that άπλότης and άγνότης are not real synonyms, as a number
+of authors maintain, that the addition of the second one is consistent with
+Pauls style, and finally, that it enriches the imagery employed in 2 Cor. 11:3.
+We begin with the inventory of readings, on which I wish to spend some
+time, for an attempt to make a basic inventory in itself is not without prob­
+lems. Fortunately the reading under discussion has been selected as one of
+the Teststellen for 2 Corinthians in the Institut für Neutestamentliche Text-
+forschung in Münster, so that much detailed information concerning its tex-
+tual attestation can be gathered from the relevant volume of Text und
+Textwert) hereafter referred to as TuT. 6 The list in TuT mentions 24 witnesses
+as supporting the reading άπο της άπλότητος και της άγνότητος, includ­
+46
+ing $p , Vaticanus (Β), prima manus of Sinaiticus, codices Augiensis (F),
+Boernerianus (G), 0150, and a number of later minuscules, among them the
+7
+"queen," 33. In addition, three minuscules (88, 915, and 1942) have both
+nouns, but without the article before άγνότητος, which in the first two of
+those minuscules is spelled with an ω instead of o. It is significant, however,
+that in four out of the 24 manuscripts, namely in K, 81,1398,1509, the lon­
+ger reading apparendy failed to find the approval of later correctors. In 1398
+and 1509 there are signs of erasure. In 81 this is also most likely the case. 8 In
+Sinaiticus there are obeli indicating that the second substantive should be
+omitted, by NA attributed to K 2 (in Tischendorf C and K c ), the ca. 7th c. cor­
+rector. 9 It may be briefly observed at this point that other corrections in the
+four manuscripts in question, at least in the text of the Corinthian corre­
+spondence, likewise appear to conform the text to Byzantine tradition.
+2Cor. 11:6 is agood example: both Κ and 1398 read initially φανερώσαντες,
+as in Β F G 33, but it was changed by later correctors into φανερώθεντες. On
+the whole, all the 11 corrections attributed by TuT to K 2 in 2 Corinthians
+change the text which originally was the same (or nearly the same) as in other
+Alexandrian witnesses, so that it agrees with the readings attested by Byzan­
+10
+tine witnesses.
+As for other witnesses, there are two minuscules, namely 326 and 1837,
+which can in some way be regarded as supporting the longer reading (cf.
+27
+NA ). They do not have της άγνότητος, but instead repeat the first noun,
+άπο της άπλότητος, a good reminder of how confusing the passage was for
+the scribes.
+Concerning versional evidence, the άπο της άπλότητος και της άγνότητος
+reading is indicated with an asterisk in the Syriac Harclensis. The reading can
+also be found in both Coptic versions (Sahidic and Bohairic) as well as in
+Ethiopie, Gothic, Old Latin codices such as Fragmenta Frisingensia, and in
+some Vulgate manuscripts. Curiously, in the Greek-Latin diglot Codex
+Augiensis (F) the Greek side has the longer reading, 11 the Latin one, probably
+due to the influence of the Vulgate on this essentially Old Latin text, has only
+A SIMPLICITATE. Above the Greek ΑΓΝΟΤΗΤΟΣ, however, CASTI-
+TATE was added, which can be explained as due to the fact that this Greek-
+Latin diglot was probably intended for Western readers who may not have
+known Greek very well. Closely related to Augiensis (as far as the Greek text
+is concerned) Codex Boernerianus has the longer text in both versions, but
+this is more understandable taking into account the fact that it is interlinear
+and that overall its Latin text seems to have been less influenced by the
+Vulgate.
+Statistically, the majority of Greek manuscripts support the shorter read­
+ing, άπο της άπλότητος. It is consistently attested by the Byzantine text, but
+it is present in some non-Byzantine witnesses, too. The earliest Greek manu­
+script that bears witness to this reading is the sixth century codex Coislinia-
+nus (H); most of the other Greek witnesses are from the ninth and tenth
+centuries. It is, however, present in earlier versional evidence as well as in
+most of the Greek Church Fathers. As regards the former, the Vulgate, the
+Latin side of Augiensis and the Syriac Peshitta should be named.
+To return to the Greek manuscripts, next to H as well as the correctors of
+Sinaiticus, 81, 1398 and 1509, among the Greek witnesses with the short
+reading the more important ones are: Porphyrianus (P), Athous Lavrensis
+(Ψ), 0121a, 0243, 614, 1739, 1881. Being a variant clearly favoured by the
+Byzantine textual tradition, it is found in nearly all the minuscules, and with
+Erasmus* edition it made its way into the Textus Receptus and later into some
+modern translations.
+The reading attested by one more significant witness, the earliest Greek-
+Latin diglot containing Pauline Epistles (of the sixth or even fifth century), 12
+namely Codex Claromontanus (D 06), poses a special challenge for the inter­
+preter. In particular, it is not at all clear what was written by the first hand,
+and what was the intention of the corrector (s). Tischendorf in his edition of
+the codex transcribed the word preceding ΚΑΙ ΤΗΣ ΑΠΛΟΤΗΤΟΣ in the fol­
+lowing way: Α..ΟΤΗΤΟΣ. In his explanatory comments in the appendix to
+the book he begins by observing that "locus est impeditissimus'' and then
+goes on to explain that what we can now see in the codex is that the first and
+last letters, A and Σ, are marked with obeli, and Ν is written upon erasure. He
+then suggests two possibilities as to how to interpret the evidence. According
+to the him possibly by the first hand the first word was ΑΠΛΟΤΗΤΟΣ but the
+ninth century corrector, designated by him as D***, 13 apparendy did not like
+this, and he subsequently indicated his view by marking A and Σ, the first and
+the last letter of the word, with obeli. However, while doing that, he realized
+that by changing ΠΛ into ΓΝ it would be easy to get as an outcome the word
+he wished to see there, so he just added the breathings and accents, but due
+to carelessness did not remove the signs of disapproval. That would imply
+that originally in the codex της άπλότητος was repeated and της άγνότητος
+was completely absent from it, for the second word very clearly is της
+άπλότητος and there are no signs of erasure or correction. The alternative
+solution proposed by Tischendorf is that the first hand wrote ΑΓΝΟΤΗΤΟΣ,
+which, as Tischendorf notes, corresponds with the Latin reading CASTI-
+TATE, then by inattention a corrector began to change it into ΑΠΛΟΤΗΤΟΣ,
+14
+yet then immediately it was changed back into ΑΓΝΟΤΗΤΟΣ.
+When in his Editto Octava Maior Tischendorf presented the evidence of
+Claromontanus, he seems to have opted for yet another solution. In his tex­
+tual apparatus he suggested that originally in the codex there was the longer
+reading, but in the reversed order, that is άπο της άγνότητος και της
+άπλότητος, yet it was corrected into άπο της άπλότητος only. The subse­
+quent editions of Nestle-Aland make the issue even more confusing. Up till
+NA 25 Codex Claromontanus was mentioned as supporting the longer read­
+ing, albeit in a reversed order, hence *D in parentheses. In NA 2 6 a certain
+change took place, for this time it was indicated that seemingly this reversed
+longer reading was originally there in the codex, hence s D* vld in brackets in
+the textual apparatus, whereas the shorter reading, following Tischendorf,
+was ascribed to the 9th century corrector (D 2 ). In NA 2 7 there was yet another
+change. 15 This time D is referred to among the witnesses to the longer read­
+ing, and in Appendix II it is specified that D 2 attests the reversed longer read­
+ing, namely άπο της άγνότητος και της άπλότητος. In TuT, like in NA 26 , the
+shorter reading is attributed to the corrector of Codex Claromontanus, 06C,
+while the longer reversed one to the original scribe, D*. It is not added which
+corrector it was, a situation that we otherwise come across in TuT, as far as
+2 Corinthians is concerned, only in 10:12/13. If the symbols for correctors
+in TuT are to be understood in the same way as the ones used in NA, then C
+would be a corrector of unknown date, but later than the other ones.
+In the 4th edition of The Greek New Testament the situation is still
+different, for there nothing seems to be clear. Interestingly, also between
+3
+4
+GNT and GNT there was a change in the critical apparatus. In the first,
+second, and third editions of GNT D* was mentioned as a witness to the
+reversed longer reading, 16 while the corrector of D (it was not specified
+which one) to the shorter one, άπο της άπλότητος. In GNT 4 the prima
+manus (apparendy) and nit first corrector of the codex, hence D* v l d l , are
+listed as witnesses to the longer reversed reading, whereas the second correc­
+tor, D 2 v i d appears to have changed it into the shorter reading.
+Based on the glance at the original codex, it seems to me most likely that
+Tischendorf s description was quite accurate. The obeli are there, and they
+could be ascribed to TiscD***. Ν is no doubt written in place of a letter that
+was erased, and it cannot be excluded that where we now see ΓΝ, originally
+there was ΠΛ. In fact it does seem that the second letter was A, and the first
+"stick" of Ν could have initially belonged to Π. The problem is that Γ is so
+characteristic, that it is difficult to establish if there could have been Π origi­
+nally. Yet it cannot be absolutely excluded that the initial reading was indeed
+ΑΠΟ ΤΗΣ ΑΠΛΟΤΗΤΟΣ ΚΑΙ ΤΗΣ ΑΠΛΟΤΗΤΟΣ. Another possibility is that
+it was ΑΠΟ ΤΗΣ ΑΓΝΟΤΗΤΟΣ ΚΑΙ ΤΗΣ ΑΠΛΟΤΗΤΟΣ, which was by mis­
+take changed and then corrected back. It seems slightly more plausible that
+indeed from the beginning there was the reversed longer reading, but that
+originally there was yet another letter under N. Perhaps a more thorough
+examination of the manuscript could help us to determine this with more
+certainty.
+Furthermore, it is unlikely that the corrector responsible for writing Ν in
+place of the erased letter was the same one as the one who added the obeli. It
+would not make much sense to correct a word one was going to discard any­
+way. If I understand it correcdy, this is also what the critical apparatus of
+GNT 4 implies. It could indeed be an earlier corrector (* following * vld ) who
+scribbled letter N, and a later one who added the obeli. Finally, it should be
+remarked that in the ninth century copy of the codex in question, which we
+are lucky enough to possess, namely Codex Sangermanensis (D ), we find:
+ΑΠΟ ΤΗΣ ΓΝΟΤΙΤΟ ΚΑΙ ΤΗΣ ΑΠΛΟΤΗΤΟΣ. This, however, could be based
+on an already pardy corrected text of D (but before the obeli were added?).
+The Latin side of Sangermanensis is the same as that of Claromontanus.
+In consequence, for the moment it is hard to ascertain whether originally
+Claromontanus attested the longer variant, but in a reversed order, perhaps
+erroneously spelled (the undecipherable letter under N), or whether άπο της
+άπλότητος was repeated, as in 326 and 1837. Both for the correctors and the
+prima manus reading adding " Vld " in the apparatus of any critical edition of the
+New Testament seems in any case indispensable.
+To sum up, the short reading has a considerable attestation. Next to Byz­
+antine witnesses, it is supported also by several Alexandrian ones. The latter,
+albeit rather late, sometimes, as in case of 1739, attest a text much earlier
+than their date would indicate. The reading in question is also attested by
+one minuscule commonly considered to represent the "Western" text (614),
+and finally by some important versional evidence, such as the Vulgate and the
+Syriac Peshitta. The longer reading, however, is at least qualitatively much
+stronger attested. It is supported by all the earliest Alexandrian witnesses, up
+to the sixth century, and all the " Western" majuscules, including Claromon­
+tanus, where the apparent reversal of the phrase in question may be due either
+to the carelessness of the copyist or, possibly, was influenced by the Latin side
+of the codex. As for the Alexandrian manuscripts, it is of particular significance
+that the longer reading is found in 5p 46 , not just because it is the earliest wit­
+ness (and the only papyrus) containing our verse, but more importandy
+because, scribal peculiarities of 5p 46 notwithstanding, the quality of the text
+it attests is undeniable. 17
+The corrections in several manuscripts, aimed at changing the longer
+reading into the short one, can be safely disregarded, since they are evidently
+intended to conform the text of a particular codex to the one a given correc­
+tor deemed more trustworthy, or simply the one current in his (or her?) time
+and/or environment, which happened to be the Byzantine one. 18
+I now turn to the thorny question of patristic evidence. A quick glance at
+the textual apparatus of GNT could suggest that nearly all the Greek Fathers
+knew the άπο της άπλότητος version, whereas the vast majority of the Latin
+ones were familiar with the variant which is not attested in any of the extant
+manuscripts, that is άπο της άγνότητος only, since they quote solely a casti-
+tate. Yet to state this would be an oversimplification. Both among Greek and
+Latin Fathers there is a wide (not to say "wild") variety and on the whole,
+extant evidence is rather fragmentary and uncertain, and not always easy to
+interpret. For example Epiphanius of Salamis in his Panarion quotes the
+phrase under consideration twice. In one of those instances he has: άπο της
+άγνότητος και της άπλότητος της εις τον Χριστόν. 20 Consequently, Epipha­
+nius has been traditionally listed (cf., e.g., GNT 4 ; in NA 2 7 he is not men­
+tioned at all) as a witness to the longer reversed reading. There is no
+immediate indication in the text why he placed άγνότητος first but there
+might have been a reason for that. In any case, it is noteworthy that in another
+instance the text is somehow different: άπο της άπλότητος και άγνείας
+Χρίστου και δικαιοσύνης. 21 Not only is άγνεία used instead of άγνότης, and
+further qualified as that "of Christ," but also yet another, third substantive is
+added to the list. 22 The order, however, of the first two nouns is the same as
+in nearly all the manuscripts attesting the longer reading—and different
+from the other quotation by Epiphanius. It is therefore misleading to argue
+that Epiphanius was familiar with the reading until now attested only by
+Claromontanus and its copy. Rather, we can assume that the reading in his
+exemplar of Pauline episdes was άπο της άπλότητος και της άγνότητος, but it
+was "quoted" by him (note the presence of clear introductory formulas sig­
+nalling citations in both instances) with litde attention to precise wording. 23
+Άγνεία in the second quotation is significant, for this was a much more com­
+mon word than άγνότης. Consequendy, assuming a scribe had wanted to add
+a άγν- word as a gloss, he or she would have been much more likely to use
+άγνεία rather than άγνότης.
+As for other patristic writers, among those who appear to support the
+shorter reading, Clement of Alexandria is probably the most important
+24
+25
+one. The phrase under discussion is cited in his works at least twice.
+Origen alludes to 2 Cor. 11:3 several times but there are few citations. Of
+the ones that are of interest to us, three are extant only in Rufinus' transla­
+26
+27
+tion, and yet another is found in a fragmentary and dubious work. As for
+the Latin translations, in all the three places there is only a simplicitate, and
+interestingly, in two instances simplicitas is further qualified as that "of faith,"
+fidei. 2S This addition could be due to Origens attempt to interpret the
+ambiguous word άπλότης. Whether it was άπο της άπλότητος only, without
+της άγνότητος, however, cannot be ascertained. The Latin text we possess
+might suggest that this was the variant known to and approved by Rufinus.
+But, on the other hand, in view of the fact that the text of 1739 is congruent
+with the text of the Pauline epistles which Origen used in his commentaries
+or homilies, it is telling that also this minuscule attests the short reading.
+Among later authors, Eusebius of Caesarea and then Theodoret of Cyr-
+rhus also seem to have known the άπο της άπλότητος variant. 29 Each of them
+quotes it only once and unfortunately there are no reliable critical editions of
+pertinent works. 30 The latter is also true for the homilies on the Pauline epis­
+tles by John Chrysostom. Next to his homilies on 2 Corinthians, 31 he quotes
+the passage several times in other works. 32 No two of those "quotations" are
+identical, but της άγνότητος is consistently absent. It is of course possible that
+later copyists "corrected" quotations of 2 Cor. 11:3 in the texts of this popu­
+lar author. On the other hand, however, the fact that while commenting on
+2 Corinthians 11, Chrysostom makes some remarks concerning άπλότης,
+but does not mention άγνότης, is telling (he briefly comments on the latter
+only in his commentary on 2 Cor. 6:6).
+Didymus the Blind refers to the passage in question twice. In the first
+instance it is introduced as a citation, but άπλότητος is in fact added by the
+editor in the critical edition, since in the papyrus there is just empty space. 33
+The second instance, the problems with using catenae in text criticism not­
+withstanding, is in fact only a paraphrase of the passage, not a citation. 34
+Thus the addition of " Vld ", if one chooses to cite Didymus as a witness to the
+άπο της άπλότητος reading, is certainly appropriate (cf. GNT 4 ). However, it
+could be questioned whether it is justified to mention Didymus at all in the
+apparatus of a pocket New Testament critical edition.
+The question of Pseudo-Macarius is even more problematic, της άγνότητος
+is absent from the only passage known to us where verse 3 is quoted in its
+entirety. 35 It needs to be kept in mind, however, that the textual transmission
+of Pseudo-Macarius' works is extremely complicated and there exist four (or
+even five, if we include the collection extant only in Arabic) collections of his
+sermons, in which more or less the same material has been transmitted in
+varying order and length, so that one should rather talk about different recen­
+sions. 36 Collection I, from which the aforementioned passage comes, is
+believed to be the most recent recension, yet the biblical text it attests is con­
+sidered fairly ancient and reliable. 37 Consequendy, while the passage in ques­
+tion may have been corrected by Byzantine editors, it could be that Macarius
+was familiar with the shorter variant. This is far from certain, however. In a
+passage from another homily, which comes from the more ancient and less
+heavily edited Collection III, Macarius describes what it means to be a "vir­
+gin" to Christ. Even though he does not quote the entire verse (his quotation
+of 2 Cor. 11:3 ends at τα νοήματα υμών), yet immediately preceding the
+quotation he explains that the soul which desires to present itself purely to
+the Lord, lives in chastity of heart, έν άγνότητι καρδίας. He then adds: καθώς
+φησιν ό νυμφαγαχγός, followed by the quotation of 2 Cor. 11:2 and a part of
+verse 3. As a consequence, also concerning Macarius, one needs to be cau­
+tious with mentioning him as support for one or the other reading in the
+critical apparatus.
+Gregory of Nyssa, is never mentioned as a witness to any of the readings,
+and righdy so, for in his treatise De virginitate there is only an allusion to our
+verse, albeit a rather striking one. While discussing the "gifts" of spiritual
+marriage, he points to the example of Paul, according to Gregory the
+νυμφοστόλος/ΜΤ excellence* and then quotes one phrase from 2 Cor. 6:6: και
+έν άγνότητι. 39 Even though there is no explicit quotation of our passage,
+Gregory s vocabulary and the manner in which he formulates his arguments
+concerning spiritual marriage make it evident that he had 2 Cor. 11:2-3 in
+mind while writing. While this can scarcely be used as evidence for text criti­
+cal purposes, it is plausible that the text of verse 3 he was acquainted with did
+actually contain the longer variant, hence Gregory s reference to 2 Cor. 6:6.
+There are some patristic authors who seem to offer an explicit quotation
+of the longer reading, although due to some problems with the textual trans­
+mission of relevant writings one must be very careful when dealing with
+them. A good example is Hegemonius* Acta Archelai, unfortunately extant
+only in the fourth century Latin translation, where we do find a simplicitate
+et castitate. 40 Even though this translation appears to be rather faithful,
+we cannot claim for certain that Hegemonius was familiar with the longer
+reading.
+Lastly, strikingly enough, the longer reading seems to be also attested
+41
+much later by John of Damascus, whose commentaries are largely based on
+the ones of Chrysostom and in whose times the shorter reading seems to
+have prevailed. Regrettably, however, there is no critical edition of the work
+42
+in question.
+In short, even though the evidence we possess might suggest that the
+majority of the Greek Fathers knew the shorter reading, it is too scanty and
+there are not enough critical editions to make any conclusive judgments.
+What can be said with a litde more certainty, is that the version of 2 Cor. 11:3
+where της άγνότητος is left out was specifically "Eastern," both in origin and
+geographic distribution. It is notable that the Vulgate attests the shorter
+"Eastern" reading, so untypical of Latin authors, whereas the Old Latin text
+of 2 Corinthians has the longer one. Whether or not one associates Jerome
+with the aforementioned revision, he remains the sole Latin author who con­
+sistendo quotes the a simplicitate variant. 43
+The longer reading is supported by Pelagius and pardy by Augustine
+(cf. infra), but the Latin Fathers seem to have developed their own version of
+the shorter reading. Except Jerome and Rufinus they all quote castitas, which
+corresponds to Greek άγνότης, but a number of them fail to include sim­
+plicitas. This includes Lucifer of Cagliari, 44 whose extensive biblical citations
+are considered to be of particular value for the establishment of the Old Latin
+text of the Bible, but also Ambrose of Milan, 45 Ambrosiaster, 46 and Gaudentius
+of Brescia. 47 May we thus talk about a specific "Western" shorter reading,
+namely a castitate only? Since neither Latin nor Greek New Testament man-
+uscripts known to us attest such a variant, 48 it would be farfetched to main-
+tain that this was actually the reading familiar to some authors from their
+Bibles. One can only speculate as to why they omit a simplicitate. Mutual
+influences notwithstanding, there may have been other reasons. As will be
+demonstrated based on the example of Augustine, however, the reference to
+"chastity" exclusively tells us very litde about the author s New Testament
+text, especially when there is only one instance of an explicit quotation of
+2 Cor. 11:3 in a particular author s writings.
+Augustine presents us with somewhat confused evidence, since he refers
+to our verse relatively frequendy, and in a number of those passages he has the
+a castitate variant. 49 In other passages, however, the a simplicitate et castitate
+reading appears. 50 The fact that both readings are attested by Augustine sug-
+gests that he was acquainted with the longer one. It is possible that the reason
+for the occurrence of the shorter reading (a castitate) in some of his works,
+along with the longer one, is the influence of other Latin authors, rather than
+dependence on a particular Bible copy. More importantly, the context need
+not be neglected. The fact that both readings are more or less equally spread
+over time, since they occur in works dated very early as well as late, does not
+allow one to conclude that Augustine used various copies of the Bible at
+different stages of his life. Remarkably, sometimes both variants are attested
+in the same work. Most telling in this regard is Contra Faustum, dated to the
+year 400, where we encounter both readings nearly next to each other. 51 In
+this specific case the context suggests a reasonable explanation. In Book 15
+Augustine accuses Manicheans, whom Faustus represents, of adulterous rela­
+tionships with various "elements and demons," and of considering themselves
+at the same time to be a casta sponsa Christi. The whole book is replete with
+marital and sexual imagery, thus it is not surprising that Augustine places
+more emphasis on castitas, and when in 15.3 he quotes 2 Cor. 11:2-3, he does
+not mention simplicitas. In the next sentence the notion of chastity, castitas
+will be associated with Augustine and his orthodox contemporaries and fur­
+ther qualified as the one quam Christo servamus. In the same book but in
+another paragraph Augustine again refers to the passage under discussion,
+this time, like later in book 21, quoting the longer version, a simplicitate et
+castitate. It is noteworthy, however, that even though in all the three places
+the verse is unmistakably introduced as a citation, 52 in no two occurrences is
+the wording exactly the same. 53 It is thus most probable that Augustine
+quoted from memory, without paying much attention to precise vocabulary,
+and emphasizing the elements that were of special importance to him.
+In sum, among the Latin Fathers there is evidendy much more variation
+than one would suspect at first sight. Jerome is the only one who can quite
+safely be referred to as a witness to the shorter "Eastern" reading, but others
+were possibly familiar with the longer one, even though when quoting the
+passage under discussion, they tended to shorten it.
+To conclude, the results of our investigation of external evidence point in
+favour of the longer reading, άπο της άπλότητος και της άγνότητος, since it
+is consistendy attested by both Alexandrian and " Western" witnesses since
+ca. 200 AD, whereas άπο της άπλότητος only in Greek manuscripts appears
+as late as the 6th century. If we admit the testimony of versional evidence as
+well as the Fathers, however, it might be necessary to move the origin of the
+"Eastern" shorter reading to a much earlier date, possibly to the 2nd century,
+if this is indeed the variant that Clement of Alexandria was acquainted with.
+This is quite plausible and what is more, it is in fact consistent with the
+broadly accepted reconstruction of the history of the text of the Pauline
+episdes. The second century is acknowledged to have been the time when
+the text of the New Testament underwent most considerable interventions
+and it is now recognized that a number of secondary readings, previously
+believed to have been of a much later origin, can be in fact traced back to the
+very early stage in the transmission of the text. To omit a whole phrase,
+whether intentional or not, fits much better the "wild" second century, than
+the more "stabilized" later period. That indeed in 2 Cor. 11:3 we have to do
+with an omission rather than an addition will be further argued in the subse­
+quent part of the present article.
+How intricate the issue of transcriptional probability for our passage is, is
+well illustrated by the discussion in Metzger s commentary on GNT 4 , where
+he sums up what he considers the two possible interpretations of what could
+have happened in the textual transmission of 2 Cor. 11:3. 54 He argues that
+the two short readings (άπο της άπλότητος and a castitate) can be accounted
+for as due to homoioteleuton (-ότητος and -ότητος). 55 In Metzger s view,
+however, this, albeit highly plausible, does not yet give a reason for the origin
+of the reversed longer reading, unless we assume a "mere inattention on the
+part of copyists," the explanation which somehow does not seem to satisfy
+him. Alternatively, Metzger suggests that της άγνότητος could have been a
+gloss written in the margin in order to "explain άπλότητος in terms of the
+marriage symbolism of verse 2," and later inserted into the text, supposedly
+"in different places." However, the evidence for the reversed longer reading is
+very scarce, and the fact that both Codex Claromontanus and Epiphanius
+have it is, as I have argued, very likely accidental. If this is the case, the very
+reason for the second explanation needs to be questioned. Thus to talk about
+"the variable position of 'purityΓ which supposedly "confirms its inauthen-
+56
+ticity," is misleading.
+While the suggestion of an alleged "gloss" recurs in nearly all the commen­
+taries, the principle underlying this hypothesis (and the dissatisfaction
+expressed by scholars concerning the simple explanation by haplography),
+albeit rarely spelled out, is undoubtedly the traditional rule of lectio brevior.
+It is telling that in a more recent commentary Ralph Martin, when referring
+to Barretts "variable position" as a consequence of a "later expansion of the
+text," adds in brackets what is not explicitly stated by Barrett, that the gloss is
+suggested "on the principle lectio brevior potior." 57
+Taking into account the diversity of "scribal tendencies" observed by vari­
+ous textual critics, one needs to be cautious with drawing any conclusions,
+especially since those tendencies as discussed by authors appear often contra­
+dictory. While traditionally critics have tended to stress the lectio brevior
+potior principle, it has been demonstrated that in the earliest manuscripts
+there was in fact a tendency to omit, rather than to enlarge the text, as is per-
+fecdy illustrated by Sp 46 . This has been acknowledged for quite some time,
+and a detailed study of James Ronald Royse made it even more patent. 58
+In his meticulous analysis of the six earliest extensive New Testament
+papyri (45,46,47,66,72,75) Royse observed that each of the scribes of those
+papyri "demonstrate [s] a tendency to omit, and thus a more reliable princi­
+ple—at least for the period of the papyri—would seem to be: lectio longior
+potior?TM In a chapter devoted to the consideration of lectio brevior principle
+he qualifies this statement by emphasizing:
+as long as the competing readings are all early, the preference must lie with the longer
+reading. Naturally, such a statement must always be subject to the usual ceteris paribus
+clause, and so an un-critical application of the principle lectio longior potior would hardl
+be justified. Rather, what does seem to follow from this analysis is that the burden of
+proof should be shifted from the proponents of the longer text to the defenders of the
+shorter text. There does not need—at least within the earliest centuries of transmis­
+sion—to be a "reason" given for an omission; rather, omission is the "natural" error for
+these early scribes. 60
+$p 46 is indeed a particularly good example for, as Royse notes, of the total
+number of 471 significant singular readings ("significant" means for Royse
+excluding orthographic singulars and nonsense readings; altogether he
+counts ca. 668 singular readings) found in this papyrus, there are only 55
+additions and 167 omissions. 61 The latter constitute 35,5% of significant sin­
+gulars. 62 Even though the number of omissions far outnumbers the number
+of additions, the latter are also present there. Characteristically, however,
+only two, as Royse notes, are of more than one word: in Rom. 8:34 and
+Heb. 5: IO. 63 The other additions of one word consist mainly of conjunc­
+tions, particles, articles and pronouns. Of the omissions, on the other hand,
+38 are of two or more words, "26 of which result from homoeoteleuton." 64
+Already Zuntz had noted that "the omission of whole clauses owing to
+homoioteleuton is an outstanding characteristic of P 46 ." 65
+Nine of those 38 longer omissions occur in 2 Corinthians, including the
+omission of record length comprising 23 words at 8:19-20 and its "rival"
+comprising 18 words at l:6-7. 66 Of the nine longer omissions in 2 Corinthi­
+ans three, in 4:7, 11:6, and 12:19b, are most likely due to "simple careless­
+ness." 67 It is noteworthy that the text consisting of 8 words in 2 Cor. 11:6
+should have been "omitted for no apparent reason" 68 for, as Royse remarks,
+normally the omissions of 5-23 words arise by homoioteleuton. 69 The
+remaining four omissions in 2 Corinthians are in 8:19a; 10:12a; 11:12;
+11:25a (so two more in chapter 11 !). Overall, based on the data collected by
+Royse, of 75 significant singulars in 2 Corinthians, 29 are omissions (nearly
+40%), 5 of which are in chapter 11.
+It would be unsound to draw far-reaching conclusions based on statistics.
+It is, however, undeniable, that Çp 46 is a papyrus beset with omissions, 2 Cor-
+inthians, and chapter 11 in particular, being a primary illustration ofthat. 70 If
+this is the case, one would need a very good reason to argue that there are
+likewise significant additions, like the one presumed in 2 Cor. 11:3, espe-
+cially since the longer reading is so strongly supported by other weighty wit-
+nesses. In this respect one of the principles adhered to by the practitioners of
+thoroughgoing criticism, namely that that the longer reading is usually more
+likely original, appears to be correct. To quote J. Keith Elliott, "The accidental
+shortening of a text, especially if one can demonstrate homoeoteleuton or
+the like, is a commonplace. The thoroughgoing critic is inclined to the maxim
+that the longer reading is likely to be the original, other things being equal.
+To shorten a text is frequendy accidental and a fault to which a careless or
+tired scribe may be prone. To add to a text demands conscious mental effort." 71
+Obviously, to add something meaningful requires such an effort, thus all
+the additions need to be examined on their own terms. On the whole there
+is no reason to presume that shorter variants are as a rule more likely to be
+original.
+In his cautious critique of the lectio brevior potior rule, Royse mentions
+some exceptions to his general preference for longer readings in the earliest
+manuscripts. The first case in his list, namely when the "longer reading,
+appears, on genealogical grounds, to be late," 72 does not apply in our case.
+Another possibility that Royse mentions, namely that the longer reading
+may have "arisen from harmonization to the immediate context, to parallels
+73
+or to general usage," could possibly appear pertinent to our present discus­
+sion. This is indeed what according to some commentators has happened in
+2 Cor. 11:3: και της άγνότητος was supposedly added in order to bring closer
+the image of the "pure virgin" of v. 2 to the imagery of v. 3, first perhaps as a
+gloss, as Metzger thinks. Even if we had any reasons to suspect a gloss, such
+an argument is hardly defensible for the following reasons.
+First, άγνότης was a very rare word, as opposed to its synonym, άγνεία,
+thus we would rather expect the alleged glossator to add the latter. Since
+άγνότης does nevertheless occur once more in 2 Corinthians (6:6), and
+nowhere else in the New Testament (or in the LXX), we could speculate that
+a given scribe was well acquainted with Pauline vocabulary and that is why he
+or she chose a more Pauline synonym άγνότης. This is plausible but it pre­
+supposes that a number of conditions be fulfilled, for such an addition would
+by no means be self-evident. The imagery of v. 3 does not repeat, but continues
+the metaphor of v. 2, whether καί της άγνότητος is there or not. άγνότης does
+not refer to the virginity of a betrothed woman before marriage but to marital
+chastity, leaving open the question what precisely this comprises. Thus while
+και της άγνότητος perfectly fits the context and the rhetorical composition
+of the chapter, it would require a rather sophisticated scribe to actually add
+this phrase. Such a scenario of course cannot be excluded, but there is barely
+a need to construct this sort of sophisticated elucidations, when a very easy
+explanation is at hand.
+To sum up, as far as transcriptional probability is concerned, haplography
+caused by a homoioteleuton is the most obvious explanation for why καί της
+άγνότητος in 2 Cor. 11:3 may have been left out. Since we are dealing with
+probabilities, it is evident that a "gloss in the margin" is much less probable.
+What is more, the longer reading is attested by all the earliest manuscripts
+until the sixth century, including $p 46 , otherwise famous for its tendency to
+omit, hence it is very unlikely that the phrase was added at a very early stage.
+It is, on the other hand, highly plausible that at this early stage καί της
+άγνότητος was omitted as a result of a homoioteleuton (apparendy common
+particularly in the oldest papyri). The similarity between άγνότητος and
+άπλότητος is so striking that it can easily attract this sort of scribal error. This
+could have even happened in several different places and at different times.
+The short "Eastern" variant, attested in a small fraction of the Alexandrian
+manuscript tradition as well as some patristic evidence, became part of the
+Byzantine tradition, and thus found its way into the majority of the minus­
+cules, becoming the dominant reading in the second millennium.
+1 begin with the significance and occurrence of the two substantives, άπλότης
+and άγνότης, both in Pauline literature and outside, in order to determine
+the relationship between the two words and ascertain the probability that
+Paul used both of them in 2 Cor. 11:3. Afterwards I shall shordy comment
+on some issues concerning the author s style, and finally I shall suggest my
+own interpretation of the verse, which challenges the opinion of some that
+the presence or absence of the second noun does not affect the meaning of
+Pauline metaphor.
+Most commentators consider the two substantives to be more or less syn­
+onymous, hence their limited interest in whether the second one is an inter­
+polation or not. I want to argue that this is not quite the case, άπλότης is well
+attested in Greek of various periods. It has been suggested that the word
+gained particular popularity and supposedly, certain distinctive meanings, in
+Jewish and Christian literature, especially in the first century AD. 74 In the
+New Testament it appears at most eight times, exclusively in the Pauline cor­
+pus. Notably, five of those occurrences are in 2 Corinthians, άπλότης had a
+wide variety of meanings in Hellenistic Jewish literature. Sometimes its
+denotation was very broad, and in other instances much more specific,
+depending on a number of factors, such as the author, the literary genre,
+and the environment in which a given writing was accomplished. It could
+indicate innocence of a person falsely accused, simplicity of life (as opposed
+to enjoying the pleasures of life), overall moral integrity, or simplicity and
+integrity of the soul when devoid of passions, but also obedience to the Law
+and God s commandments, as contrasted with the possibility of being led
+astray from Gods righteous path. It could also refer to the simplicity and
+innocence of Adam before the fall, a meaning that would seemingly nicely fit
+2 Cor. 11:3, too. The problem is that in spite of this impressive diversity in
+the literature outside the Pauline Corpus, Pauls usage is rather limited. Three
+times in 2 Corinthians (8:2; 9:11.13) the word occurs in the context of the
+collection for the church in Jerusalem, pointing to the generosity, sincere
+concern etc., of those who are willing to give liberally. In Rom. 12:8 the con­
+text suggests a similar meaning of άπλότης.
+Besides 2 Corinthians and the single instance in Romans, άπλότης
+occurs in Eph. 6:5 and Col. 3:22. In both places it is qualified as that "of
+heart," (της) καρδίας, and characterizes the virtue expected of slaves in
+relation to their masters, "sincerity of heart." Whether one deems Pauline
+authorship of Colossians and/or Ephesians plausible or not, one may observe
+that this use of the term is not very far from the attitude the Corinthian com­
+munity was expected to display toward Christ, entailing sincerity, loyalty,
+and readiness to serve.
+Slighdy different is 2 Cor. 1:12, which interestingly enough presents us
+75
+with another complex textual problem. If indeed άπλότης is the original
+reading, then Paul would be applying it to himself, to indicate his own hon­
+esty, sincerity, and perhaps even simplicity as contrasted with earthly wis­
+dom, mentioned later in that verse.
+To sum up, the meaning of άπλότης in general is very broad, and in Paul it
+clearly depends on the context. Hence in 2 Cor. 11:3 it is best to interpret it
+in line with the imagery of the verse, as stressing the loyalty and sincere devo­
+tion which should distinguish the attitude of the Corinthian minds toward
+Christ. While somehow encompassing it in this specific context as a conse­
+quence ö/'being paired with άγνότης, it does not explicidy point to sexual
+fidelity as a quality expected of a spouse, for the word is devoid of a specific
+sexual connotation. Indeed, without άγνότης there is not only no explicit
+sexual connotation in 2 Cor. 11:3, but there are no indications to interpret
+its imagery in marital terms.
+As opposed to άπλότης, άγνότης is a fairly rare word. In the TLG it occurs
+around fifty times, often in quotations from 2 Corinthians in patristic litera­
+ture (about one fourth of all the occurrences). Paul uses the word also in
+2 Cor. 6:6, in a list of virtues accompanying a "catalogue of hardships," by
+which Paul commends himself to his addressees, it is therefore not an
+"un-Pauline" word. Unfortunately it is hard to determine to what precisely
+it refers in 2 Cor. 6:6, for the context does not suggest an explanation. In
+my view sexual abstinence, or "celibacy" cannot be excluded, but such an
+interpretation is rejected by most commentators, who prefer a less literal ren­
+76
+dering, usually indicating moral integrity, like "purity of intention," "pro­
+77
+78
+bity," "sincerity" or more specifically "integrity in financial matters."
+Despite this scarce attestation, the meanings of άγνότης range from very
+specific to fairly broad. Yet the instances of the general meaning ("moral
+79
+integrity," "uprightness"), such as the 2nd century inscription from Argos,
+are clearly in minority. More specific meanings, such as "chastity" (if other
+than marital, implying sexual abstinence), or "purity" (in a religious context)
+are much more frequent. As authors like Hermas attest, the term was often
+regarded as synonymous with άγνεία. 80 The latter word, however, was much
+more common and is attested throughout Greek literature since Homer,
+whereas άγνότης, to the best of my knowledge, is first attested by Paul, the
+only contemporary attestation being the one in Lucius Annaeus Cornutus'
+De natura deorum 66, who depicts Apollo as free of suffering because of
+άγνότης, referring probably to his holiness, a state of separation from, and
+ability to avoid contact with earthly reality: εξω πένθους δια την αγνότητα.
+In this instance the notion of ritual purity, typical for the classical use of the
+άγν- root, may be also present.
+A few decades later the term άγνότης is found twice (cf. seven occurrences
+of άγνεία) in Hermas* Pastor. The first occurrence (Vision 3.7), where
+άγνότης is qualified with the genitive της αληθείας, "of truth," is rather
+obscure, and might point to the need to keep chastity for those who want to
+join the Christian Church. The second occurrence (Mandate 4.4) is easier to
+interpret as it clearly indicates sexual abstinence after the death of ones first
+spouse.
+I have not been able to find examples from Greek literature where άπλότης
+and άγνότης are placed next to each other (except for the quotations from
+Paul in patristic literature), but it is remarkable that Hermas in his Pastor
+(Similitude 9.15) mentions, among others Άπλότης and Άγνεία as two of the
+names of the young women whom he sees in his vision as standing at the
+entrance to the tower, and who take care of him in the Shepherds absence.
+Even though in this particular passage Hermas uses the word άγνεία, the two
+nouns need not be artificially distinguished since, as I have mentioned,
+Hermas employs both as synonyms.
+On the whole, the polysémie character and ambiguity were common to all
+the άγν- root words, especially in later Greek, when there was a tendency to
+move from the literal sphere of cultic purity to a more spiritual understand­
+81
+ing. In the first and at least the beginning of the second centuries, in any
+case, the connotation of the words of this root is still very much physical,
+encompassing ritual purity, marital chastity and celibacy. Those meanings
+are well attested in both pagan, Jewish and Christian (cf. especially Ignatius
+of Antioch) literature. In the New Testament άγνότης, as I have said, occurs
+only in 2 Corinthians, but in 2 Tim. 4:12 and 5:2 άγνεία is employed and in
+both places a general sense of sexual decency seems to be implied.
+To conclude our brief overview, άγνότης, albeit infrequendy attested, did
+not have a fixed meaning, but it often included a sexual connotation, which
+fits well the imagery of 2 Cor. 11:3. The best translation in my view is there­
+fore "chastity," leaving a shade of ambiguity as to whether it refers to virginity
+or marital fidelity, the point I shall further comment on in more detail. First,
+however, several other questions in relation to intrinsic probability need to
+be considered.
+For the "thoroughgoing" critics the fact that a given word or formulation
+matches or not the author s style is often decisive for whether to accept or
+reject a certain reading. Sheer intuition that the longer reading perfecdy fits
+Pauls style is certainly not enough, however. One could perhaps mention the
+several "catalogues of hardships" in 2 Corinthians, 82 in order to show that to
+accumulate nouns was an integral feature of Pauls rhetoric. I would like,
+however, to highlight a more specific pattern, to some extent characteristic of
+Pauls style, namely that of a phrase consisting of two (sometimes more)
+nouns, connected by καί and depending on the same preposition. In fact
+within the "catalogues" one might distinguish pairs of substantives related in
+this way, e.g. in 2 Cor. 6:8, yet it may be debated to what extent the associa­
+83
+tion of two nouns in such "pairs" is intended, as some commentators imply.
+This "pattern" is relatively frequent in 2 Corinthians (as opposed to, for
+example, 1 Corinthians). The pertinent verses in 2 Corinthians, next to
+2 Cor. 6:8 are the following: 1:6.12; 2:4; 7:(3).15; 9:13; 10:1; 11:27;
+12:1.10.21. Assuming that in 2 Cor. 1:12 άπλότης is the original reading, it
+would be particularly significant, since here άπλότης is accompanied by
+another noun. In most other occurrences it stands alone, except perhaps
+2 Cor. 9:13. In the latter verse, as contrasted with most of the other instances
+of the aforementioned pattern, the two nouns dependent on one preposition
+refer to two different realities and are clearly distinguished by the fact that
+each of them is additionally qualified.
+If we now consider the question from a conceptual rather than grammati­
+cal perspective, we notice that a "double" (or sometimes even "triple") char­
+acterisation of God, Christ, Paul and other missionaries, in relation to the
+Corinthians, as well as the other way round, that is the Corinthians' attitude,
+is relatively common. To name a few examples, in 2 Cor. 10:1 "gentleness and
+kindness" are mentioned as characteristic of Christ; in 2 Cor. 13:11 God is
+the God of "love and peace." Of course this is not limited to the Corinthian
+correspondence, nor to Paul alone in the New Testament, especially since
+some expressions were not invented by him. Yet even then it is significant
+that he chose to use such fixed phrases in his letters.
+In 1 Cor. 2:3 Paul is said to be standing in front of the Corinthians "in
+weakness, fear and trembling," implying that the three-noun "pattern" could
+be of help when Paul wanted to affect the listeners in a special way. The mag­
+nifying effect is obviously best illustrated by the Peristasenkataloge. Note also
+2 Cor. 12:21, where the pattern is again triple, this time to magnify the
+immorality of some of the Corinthians. On the positive side, in 2 Cor. 8:4
+the Corinthians are asked for "kindness and participation" in the ministry
+towards "saints" (cf. 9:13 for what awaits them if they decide to help), and in
+2 Cor. 7:5 they are praised for receiving Titus with "fear and trembling."
+Consequently, it is undeniable that to accumulate nouns was one of Pauls
+literary techniques. Hence in the verses leading up to a passage as highly
+rhetorical—despite his claims to the contrary—as the "Fools Speech" (even
+though probably also expressing authentic fear), strengthening the appeal to
+the Corinthians by employing two words instead of one is only to be expected.
+Stylistic features of the passage in question have already been carefully exam­
+84
+ined by other scholars and a detailed analysis would be beyond the scope of
+this article. But even a quick glance at the first verses of 2 Corinthians 11
+should make one realize how often words of the same root come back in the
+text. This would account well for the connection between αγνή and άγνότης.
+In addition, the accumulation of words that sound similar, but have different
+meanings, or paronomasia, is also immediately noticeable in the verses in
+question. Placing της άγνότητος next to της άπλότητος is thus mosdy under­
+standable. It matches the style of the passage, and indeed the entire letter.
+While merely for rhetorical effect it would be perfecdy justifiable to
+employ two synonyms as is, incidentally, often done by Paul, in the verse
+under consideration the two substantives are not synonyms. 85 Adding "chas­
+tity," as argued above, renders the marital and more specifically, sexual imag­
+ery explicit, remaining consistent at the same time with the entire concept,
+and constituting an interesting link with the image of v. 2. If not for άγνότης,
+there would be no reason to interpret v. 3 in terms of marriage symbolism,
+since άπλότης is far too broad to suggest such a connection, άγνότης, on the
+other hand, at first sight implies that the virgin who has kept her chastity
+until marriage is to take care lest she loses it by turning away her attention
+from her husband. But is the denotation of "chastity" still the same as that of
+αγνή in v. 2?
+While άπλότης has the more general meaning of "sincerity," "truthful­
+ness," "honesty" etc., άγνότης adds more tension, strengthens the dramatic
+effect in case the Corinthians were to disobey Paul, and makes v. 3 the con­
+tinuation of the preceding verse. Rather than to exalt human marriage by
+comparing it to the union with Christ, however, in v. 3 Paul prefers to empha­
+size the differences, the most important one being of course the absence of
+sexual relations in the latter one.
+I suggest that the verse is best explained against the background of Pauls
+overall views on marriage and serving the Lord as expressed in 1 Corinthians 7.
+Pauls attitude towards conjugal life was rather ambiguous. While he was
+careful to make sure that everyone be aware that marriage and sexuality were
+not sin, he was nonetheless suspicious towards σαρξ and activities associated
+with it. The only ideal union that would overcome the negative δια της
+πορνείας was the union with the Lord and married life in Pauls opinion set
+a certain obstacle to the full realization of such a union (cf. 1 Cor. 7:32-35).
+If one interprets 2 Cor. 11:2-3 in human categories and according to both
+Jewish and Greek customs, in v. 3 the "wedding," in keeping with the meta­
+phor, should have already taken place, and as a result, only in v. 2 can αγνή
+characterizing the Corinthian community refer to virginity. In v. 3 άγνότης
+should, in line with cultural norms ofthat period be understood as "marital
+chastity," a "decent" and commonly accepted form of sexuality, but sexuality
+nevertheless. Yet does such a literal imagery, which depicts Christian com­
+munity as a wife and Christ as her husband, with the duties and characteris­
+tics proper to earthly conjugal union, suit the reality of our relations with the
+Lord? According to the author of Ephesians it presumably did; according to
+Paul, scarcely so. The ideal union was supposed to be the spiritual one. 86 The
+consequences of abandoning the παρθένος of v. 2 and talking only about
+νοήματα of the Corinthians in v. 3 are manifold. First of all, too close
+resemblance between human conjugal union based on sexuality and one s
+union with Christ is denied. No one can now accuse Paul of suggesting an
+idolatrous ιερός γάμος. This is made even more evident by the addition of
+the comparison between the possible behaviour of the Corinthians with
+Eve s deed in paradise. Upon literal interpretation, if Eve s relationship
+with God before the Fall is to be compared to the Corinthians' relationship
+with Christ, it is obvious that none of the two were supposed to be of a sexual
+nature. Neither is there a need to suggest that the serpent s "leading astray"
+consisted in seducing Eve sexually, as several late Jewish commentaries on the
+Eden story imply, and as some commentators, according to whom Paul may
+have been familiar with interpretations of this kind, have argued. 87 The Gen­
+esis story is about the loss of trust in God, about the act of disobedience, and
+a subsequent rupture in a unique relationship that used to bind God and
+human beings. In 2 Cor. 11:3 Paul expresses his fear lest this relationship, the
+restoration of which was made possible thanks to Christ's salvific activity, be
+broken by the Corinthians' attraction to those who, according to Paul, are
+acting like the serpent of the Eden story.
+Having rejected the literal notion of engaging sexuality in this relation­
+ship, the Aposde puts it bluntly what the ideal union with God is supposed
+to be. It is the union of one's νους with Christ (cf. 1 Cor. 1:10 and 2:16, the
+latter implying the connection between one's unity in faith with Paul and
+being united with the mind of Christ). In this context άγνότης acquires a
+new meaning of a specific quasi-marital chastity, safeguarding the wellbeing
+of this absolutely unique relationship. It does thereby contribute to the imag­
+ery of 2 Cor. 11:2-3 in a rather unexpected manner. 88
+In sum, taking into account Paul's usage and style, as well as the particular
+context and imagery of the verse under discussion, we can conclude that
+intrinsic probability also points to the longer reading as the more likely
+original one.
+There are a number of weighty arguments in favour of the reading άπο της
+άπλότητος και της άγνότητος in 2 Cor. 11:3. The arguments put forward in
+support of the shorter reading are much less persuasive. There are no sufficient
+grounds to argue that καί της άγνότητος was a gloss. Haplography seems to
+be the easiest explanation, άγνότης suits both the immediate context, as well
+as Pauls style and concepts, and what is more, it adds a specific, albeit ambig­
+uous sexual connotation to the imagery, making the marital metaphor
+explicit, in the end only to scorn the possible similarity between earthly sexu­
+ality and one s relationship with God.
+Next to a plea to include καί της άγνότητος as a part of the text written by
+Paul, my study has been aimed at bringing some more general issues under
+discussion. One of them is the question of the criteria for enclosing selected
+words or passages in square brackets in editions of the New Testament, espe­
+cially ones like GNT 4 , supposedly intended for translators. There are per­
+haps instances where the arguments for and against including certain phrases
+in the text are so balanced, that enclosing them in square brackets can be
+defended. They can then serve as a good reminder that we have to do with an
+eclectic text. Yet to my mind this is not the case with καί της άγνότητος. All
+in all, is this easy solution not made use of all too readily, and based on prin­
+ciples which are not always very clear and/or compelling? 89
+It is also important to emphasize the need to use the principle lectio brevior
+potior with particular caution, for even though very often it is the addition
+rather than omission that requires a good explanation, scholars (admittedly,
+nowadays mosdy non-specialists in text criticism) are so accustomed to
+applying this rule to text critical considerations, that they often do it even in
+situations when it is barely warranted.
+In addition, my scrutiny of both the textual apparatus of NA and that of
+GNT has shown that there are some errors or ambiguities in it, which hope-
+fully can be corrected in the subsequent editions of those otherwise invalu-
+able books.
+By discussing patristic evidence, next to its use for the critical apparatus, I
+have intended to emphasize the problems we encounter when trying to make
+use of the writings of the Fathers in reconstructing the original text of the
+New Testament.

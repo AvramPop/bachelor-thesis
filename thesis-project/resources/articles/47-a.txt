@@ -1,0 +1,577 @@
+Present studies in the field of textual criticism differ remarkably with
+regard to their goals. While numerous publications study the evidence
+with the explicit goal of identifying the original texts of authors, other
+publications concentrate their attention upon the contexts of scribes
+and their often meaningful secondary various readings. 1
+In view of these lines of research, which both deserve full critical
+appraisal, I wish to call attention to the rigorous standards of the tex-
+tual criticism of Günther Zuntz and to its methodological results.
+On January 7, 2000 die Neue Osnabrücker £dtung 9 the Osnabrück
+newspaper, informed its readers that an unknown papyrus had become
+known and was due for publication by the Österreichische National-
+bibliothek, Vienna. This papyrus containing text from Hebrews 2:9-11
+and 3:3-6, was assigned a date before A.D. 500 by the editor. 2 Eight
+papyri with text from Hebrews are presently known: P 12 P 13 P 17 P 46
+p79 p89 pi 14 pi 16
+Those who have studied the text of Hebrews are aware that in verse
+9 of chapter 2, we find an important variant reading, a reading classified
+as original by Adolf von Harnack and many other exegetes, among
+them, notably, Günther Zuntz, 3 but which has not been admitted into
+any recent edition of the New Testament. As a consequence it is
+accepted by commentators, but not by editors. I had occasion to see
+the photographs of the papyrus on the Internet. The result is negative:
+The papyrus is damaged in the passage in question and the text cannot
+be restored. 4
+Today the published materials on Hebrews, allow a considerable
+advance beyond the texts available to Zuntz. We have the publica-
+tions of the Institut fur Neutestamentliche Textforschung in Münster:
+Β. Aland (ed.), Das Neue Testament auf Papyrus. Die paulinischen Briefe, vol.
+II 2 (Berlin: de Gruyter 1994), the Nestle-Aland of 2001, and the
+fourth edition of the Greek New Testament of 1993. The readings of
+the Vetus Latina from the Vetus Latina Institut at Beuron are invalu­
+able for anyone who works on Hebrews. I shall refer to all of these
+materials.
+The task of textual criticism defined
+He who asks rather bluntly, what task, precisely, Günther Zuntz
+had to tackle when writing his Disquisition upon the Corpus Paulinum, will
+get an obvious answer: Zuntz had to define the textual character of
+the Chester Beatty Papyrus II, and he did exactly this. Probing into
+the text of the papyrus, one needs at the same time to pass judge-
+ment on the achievements and skills of the scribe, of the corrector and
+to identify anything amiss. Zuntz describes his task by the terms of
+the classical philologist, namely recensio, examinatio, emendation By no
+means is Zuntz willing to disown the tool of emendano', he accepts, for
+instance, the splendid conjecture of Cobet with regard to Hebrews
+6
+11:4 ήδίονα.
+The considerable burden of his task, in the face of an enormous
+amount of accumulating evidence, becomes clear as the reader turns
+to the first chapter of his book. Zuntz reports on the situation of the
+textual criticism of the New Testament and on its agenda. Textual
+criticism, according to him, finds itself in a threefold dilemma.
+Observing that our witnesses join one-another in any imaginable
+combination, 7 we are driven to concede contaminato as a disturbing ele­
+ment of our findings. To clarify the pedigree of manuscripts by form­
+ing stemmata codkum in Lachmann's manner, is therefore simply impossible.
+Faced with this dilemma Zuntz proceeds with an analysis of Leitfehler?
+Secondary readings, which by the distinctive form of their corruption
+reveal a common archetype, are an indispensable instrument of the
+textual critic.
+Secondly, Zuntz sets out to correct a consequential misconception
+of Griesbach. This textual critic used the term 'recension' as referring
+to three ancient types of edited text (Alexandrian, Western, Byzantine).
+Zuntz criticizes with care: "On this basis J. J. Griesbach, unsurpassed
+in carefulness, caution, and comprehensive knowledge, elaborated the
+classical system of three recensions." 9 Zuntz insists that a recension in
+the proper sense of the word is neither discernible in Alexandria, nor
+in the Western Text. The term 'Western Text' acccording to Zuntz
+is to be used precisely. It is applicable only to readings with exclusively
+Western support. Accordingly an alleged Western reading ceases to be
+'Western', as soon as, for instance, a testimony of Clement is found
+in its support. 10
+Zuntz, following Kenyon, urges those who specialize in this field to
+see the second century, this period of uncontrolled transmission, as an
+age that predates all so-called recensions. He corrects, too, the erro-
+neous judgements of Griesbach with relation to the Byzantine text:
+this tradition does not depend on the West and, consequently, like the
+other sources of transmission preserves, on a limited scale, ancient
+readings of its own, readings that are genuine. 11
+Thirdly, Zuntz obliges the textual critic to examinatio in the strict
+sense of the term. Textual criticism must examine each phrase, word,
+and letter. Here I must expose myself to the danger of clarifying
+what is clear. Let me state: lists of witnesses never decide text critical
+alternatives. 12
+Zuntz is willing to inspect long lists of variants, say of Western read-
+ings in order to single out the two readings which may claim an ori-
+gin in the author's text and he finds σάρκινοι in 1 Cor. 3:3 supported
+by D* c F G 13 and δόλοι in 1 Cor. 5:6 supported by D* and Ir lat
+corrumpit. 14
+Zuntz is not willing without further argument, to accept a reading
+on the sole authority of P 46 . 15 He may accept a reading on the joint
+testimony of P 46 and B, if interior evidence, say arguments from style
+and context, recommend that reading. In 1 Cor. 3:2, for instance, P 46
+and Β (and 0185) omit ετι and this, according to Zuntz, "so greatly
+improves the style as to make the assumption of a mere scribal slip
+16
+difficult". The same witnesses are joined in "a palpable error" in
+46
+p
+Hebr. 7:2 reading παντός (witnesses are Ρ Β sy ) and in the omission
+of τέ in Hebr. 5:1, "which is against the style of the writer" (witnesses
+46
+1
+17
+are Ρ Β D Ψ).
+46
+He may accept a reading of P and Β in Hebr. 1:4, if it is sup­
+18
+ported by Clement of Rome and is recommended by the known
+19
+habits of the author: άγγελοι are mentioned without articles. So much,
+at this point, for sub-singular agreements.
+Which reading may claim a place in the speech of the author?
+Which readings within the transmitted texts are ancient, and which,
+possibly, even original? Textual criticism must by no means stop before
+this barrier and fail to ask this question. "The critic must choose
+between competing readings. If he refuses to do so, he renounces the
+very purpose of all his labours
+Textual criticism is not a branch
+of science. Its criteria are necessarily different from those sought by
+the scientist: they are not, for that reason, less exacting nor less definite.
+The convergence of arguments drawn from the distribution of the evi-
+dence, the dependence of one reading upon the other, the known
+habits and typical faults of scribes, the characteristic proclivities of
+interpolators, the development of the language, the stylistic peculiari-
+ties of the writer, the context of the passage in question—these, and
+still other factors combined can yield a certainty which is no whit infe-
+rior to that of the conclusions drawn from a Euclidean axiom. Every
+variant whose quality and origin has in this way been established must
+serve as a stone in the mosaic picture of the history of the tradition,
+for there is next to no other material from which it could be built up.
+At the same time the evaluation of individual readings depends to
+a large extent upon their place within this picture. This is another
+instance of that circle which is typical of the critical process; it is a
+fruitful and not a vicious circle. The critic may, indeed he must, aim
+at a comprehensive picture of the whole tradition; he reaches this goal
+by an untiring dedication to detail." 20
+The style of this written study which I have quoted reveals a sur-
+prising orality capable of establishing contact with the generation which
+Zuntz wished to teach. My object here, however, is principally to
+describe how Zuntz proceeded with the task at hand.
+In his The Text of the Eputles, Zuntz presents an analysis of the trans-
+mission of the Corpus Paulinum. Zuntz quotes from Colossians,
+Ephesians, Philippians, Galatians, and from other Pauline letters, but
+his methodical approach is explicit. Its goal is a complete analysis of
+all units of variation in 1 Corinthians and in Hebrews. The language
+of this latter author and the language of Paul are the standards of ref-
+erence against which the work of scribe and corrector are measured.
+Three sources of historical evidence, Byzantium, Alexandria, and the
+West of the Empire, serve to reconstruct the language of Paul and the
+language of the author of Hebrews. Since the scribe has to devote his
+attention to two individual styles of writing, we must have ways of
+checking him. Are there any differences in the way certain language
+patterns are handled: if so, what befell those books in the course of
+time? Habent sua fata libelli Zuntz, indeed, is able to discover influences
+which left traces upon the book of Hebrews, influences from a period
+when Hebrews was not part of the Corpus.
+Is it possible to give a date for the Corpus Paulinum? Clement does
+not quote the Corpus. He quotes Romans and 1 Corinthians, appar-
+ently from an independent source. The Corpus, on the other hand, is
+known to Ignatius and Polycarp. These authors quote ten Pauline
+letters including Ephesians. The Corpus, then, is to be dated about
+A.D. 100 and Zuntz adds to this conclusion: "2 Peter III. 15 appears
+to refer to it." 21 Influences upon the text of Hebrews which predate
+the Corpus are evidently as early as the last decades of the first cen-
+tury. This sounds rather exciting. Are there such influences?
+It was Harnack who observed that the Latin Vulgate is inclined to
+translate the word απειθειν and its noun απείθεια by the synonymous
+words corresponding to απιστειν and απιστία. In Hebrews this exchange
+is found in Hebr. 3:18; 4:6; 4:11; 11:31. 22 This tendency to replace
+απειθειν and απείθεια is a regular feature of this ancient version. The
+Vulgate prefers increduli fiierunt, incredulitatem, etc. It is rather remark­
+able that the papyrus P 46 similarly introduces τοις απιστησασιν, δι απισ-
+τιαν, της απιστίας in four passages of Hebrews whereas this witness
+does not do so in other parts of the Pauline Corpus. This phenome­
+non recurs exclusively in the four passages which use απειθειν in this
+Epistle. It calls for an explanation. 23
+Zuntz presents this observation with a rather cautious question: "But
+it remains a puzzle that P 46 should only in Hebrews (and not in the
+many instances in Romans and Ephesians) have introduced the synonym
+άπιστεΐν; that, in Hebrews, it should have done so in all the four
+instances that could come into question; and that there should be other
+Greek evidence for two of them—such as there is not in the many
+other instances throughout the Pauline corpus. Perhaps this feature
+24
+goes back to the time when Hebrews was still circulating separately?"
+Zuntz argued that this observation could not establish any rela­
+46
+tionship between P and the translator of the Vulgate. It could not
+be interpreted to establish a relation between old Western traditions
+and the text of this papyrus, since the older witnesses of the Western
+text regularly use contumax, contumacia to match απειθης, απείθεια. Since
+in the mean time the monks of the Beuron Institute edited their splen­
+did edition of the Itala text of Hebrews, we can check this today.
+Quotations of Hebrews by Lucifer, Ambrosius, and by an anonymous
+expositor of Hebrews support this judgement. 25 While old witnesses
+differing from the Vulgate have contumax, contumacia, the younger wit­
+nesses show increduli, incredulitas, and infidelis.
+Evidently, then, this change in theological emphasis owes its origin
+to the East. Thus with due reserve, the assumption of Günther Zuntz
+may be accepted. Hebrews suffered secondary alterations while not yet
+transmitted as a portion of the Corpus Paulinum. At this point let me
+add one caveat: Hebrews is no part of the earlier period of the Old
+Latin tradition. 26
+Zuntz, as mentioned, criticizes Griesbach for neglecting the testimony
+of the Byzantine text. This tradition is valuable in spite of its many
+secondary accretions, for its testimony is independent from the West.
+Since this point is important for Zuntz, he is careful to demonstrate
+the validity of his position. I consider this demonstration as vital to
+the argument. This argument opposes the broad consensus of text crit-
+ical common sense. It observes agreements of the papyrus with a minor-
+ity of Byzantine witnesses and seeks to establish that the majority,
+including most Egyptian uncials, transmits corruption in their texts.
+Zuntz argues that the minority readings were not restored by conjec-
+ture, but owe their correct text to a faithfully preserved tradition. 27
+Günther Zuntz selects three passages to prove his point. First,
+1 Cor. 3:10. While the majority gives χάριν του θεού, Ρ 46 0142 1611
+1960 F (Latin) vulg 1 ^ 006 " 1 arm read την χάριν. The papyrus is accom­
+panied by quotations from the Fathers, namely Clement, Theodoretus,
+Cyril, Augustine. Zuntz notes une finesse de language of Paul. Since Paul
+does not introduce Divine Grace as a general concept, but refers to
+the Grace of God as a "χάρισμα with which that 'Grace of God'
+endows an individual", την χάριν is appropriate as two parallel pas­
+sages reveal: Rom. 12:3 Gal. 2:9. 28
+Secondly a passage from Hebr. 11:37: om. επειρασθησαν Ρ 46 1241 s
+syP sah Or pt Eus. 29 Before the papyrus was published, the shorter read­
+ing was known from two minuscules only, namely 2 and 327. Again this
+shorter reading finds support in the Fathers and in some ancient ver­
+sions. Zuntz mentions the Peshitta, the Armenian, Sahidic, and Ethiopie
+versions together with Origen, Eusebius, Acacius, Socrates, and
+Theophylactus. Metzger's Textual Commentary adds 1984 Z 44 I 53 Ephraem,
+Jerome, and Ps-Augustine. 30 Westcott and Hort had not mentioned
+this reading. It was accepted, however, into the text of Nestle-Aland.
+A third example for a weakly attested reading is to be found in
+Hebr. 2:6. Τις is the text of the Papyrus, whereas the majority reads
+τι. Zuntz calls attention to the fact that the author intends a slightly
+altered proposition as compared with the text of the Septuagint. He
+translates: 'Who is the man (άνθρωπος) whom thou mindest?' 'Truly
+the Son of Man, for him thou visitest'. The scribes almost everywhere
+succeed in restoring the Septuagint wording. The correct reading in
+46
+this passage is supported by the uncials P C* P, the minuscules 81
+1
+31
+104 917 1288 1319 1834 1881 2127 2495, and also by d vulg* boh.
+46
+Zuntz adds a number of further passages. In these P is supported
+by the majority of Byzantine manuscripts.
+Hebr. 2:8. εν τω γαρ υποταξαι, while printed by Nestle-Aland, is a
+corrupt word order, a solecism. The witnesses are H D 0243 Ψ 1739
+[M] 1906. Zuntz argues that the correct reading (supported by the
+style of the author) 32 did not enter the Byzantine tradition by conjec­
+ture, but was present by tradition. The original text is supported by
+P 46 A G Κ L Ρ 056 075 0142 0150 0151 0278 33 1881. It was printed
+by Bengel and Griesbach. 33
+Hebr. 11:4. μαρτυρουντος... αυτού του θεού is the correct wording
+supported by P 13 * P 46 K 2 D 1 Ψ 0285 1739 1881 lat sy boh CI Or Chrys
+Theodoretus and the Byzantine witnesses. The faulty τω θεω is com­
+mon to 8* A D* 33 326 1311 1834* 1836 arm eth. 34
+Hebr. 9:26 "The article before αμαρτίας is neither in P nor in the
+46
+2
+Byzantine text will." Witnesses: P C D Ψ 0278 0285 1739 1881 pm.
+Zuntz refers to the argument from the style of the author: Hebrews
+35
+speaks of αμαρτία without adding the article. Here again the Old
+Uncials have a secondary article: « A I Ρ 33 81 104 365 630. Late
+witnesses preserve a genuine feature.
+Internal considerations favour the Byzantine text in Hebr. 11:13. A
+standard phrase replaces a less standardized wording, κομισαμενοι τας
+s
+επαγγελίας Κ* Ι Ρ 33 81 326 365 436 1241 2400 is found in many
+contexts, see 10:36; 11:39. The Papyrus is supported by the Byzantines,
+36
+46
+2
+but now also by D: λαβοντες. Witnesses are P D Κ Ψ 1739 1881
+37
+pm.
+A superfluous article slightly alters the meaning of πολλοί in Hebr.
+12:15. οι πολλοί is found in « A 048 0150 33 1908 "with c. 12 other
+minn" 38 and also in Clement and Theodoretus, but πολλοί in this con­
+text is to be preferred, 'many 5 , so P 46 D Η Ψ 1739 1881 pm. 39 Zuntz
+refers the reader to similar passages in Mk. 6:2 and 9:26, where the
+secondary article alters the text. In one of these Nestle-Aland prints
+the correct decision, namely in Mk. 6:2.
+The fact that in the last two instances D "joins the Byzantine bulk"
+means, according to Zuntz, "more than the accession of just one, old
+manuscript". "D may actually here be adding the whole weight of its
+whole group to the evidence for the Byzantine variant." 40
+One last passage serves to illustrate the value of the Byzantine tes-
+timony. In Hebr. 9:19 Zuntz considers the list of witnesses as highly
+remarkable. His conclusion: the words και τράγων or και των τράγων
+are an ancient interpolation into the text. It is found in more than
+one position, omitted by 30 Byzantine manuscripts from all sub-groups
+of von Soden, omitted by the Peshitta, by the Harklean version, and
+46
+2
+by Chrysostom; the interpolation is lacking in P and in Κ Κ L Ψ
+11 31
+41
+0150 0151 0278 181 1241 1505 1739 1881 s/ ? Origen.
+42
+Zuntz comments on these lists of witnesses. He begins with pat­
+terns in which the Papyrus is supported by an extremely small attes­
+tation. Its correct readings find support in F and G, in a few minuscules,
+in some Church Fathers, and also by great numbers of late manu­
+scripts. I quote his conclusion: "The extant Old Uncials and their allies
+cannot be relied upon to furnish us with a complete picture of the
+textual material which the fourth and fifth centuries inherited from
+earlier times and handed on to the Middle Ages. P 46 has given us
+proof of that." 43
+To recommend Western readings, even today, requires some courage.
+Unsupported by pieces of evidence from non-Western sources these
+readings often resemble a puzzle. Westcott and Hort in their 'Notes
+on Select Readings' regularly connect the term with a definite connotation
+of disapproval. Günther Zuntz, however, endeavoured to reinstate
+Western readings to their proper function. In this endeavour he was
+assisted by hundreds of variant readings found and published in P 46 .
+It is obvious that a proper use of this material needs some prepa-
+ration. On the one hand Zuntz had only limited access to Old Latin
+witnesses. Work on the quotations from Latin Fathers has greatly
+profited from the diligence of the editors at Beuron, in the Vetus Latina
+Institut. Collations of Old Latin manuscripts are readily accessible now,
+but they were not to the same extent when Zuntz did his work. He
+needed to do his own collecting. Occasionally Zuntz speaks of the
+"scanty attestation of most of these variants". 44 He did use the publi-
+cations of Hedley F. D. Sparks and of Carl Th. Schaefer. 45
+According to Zuntz there are three decisive witnesses in the West:
+(1) the Greek archetype of D FG, (2) Tertullian, and (3) the arche-
+type of d and the non-Vulgate quotations in Latin Fathers. The Vulgate
+is a Western witness, belonging to (3) when it agrees with these men-
+tioned. Hence Jerome or individual scribes retained Old Latin features.
+His own work on 1 Corinthians taught Zuntz that every other sam-
+ple of Alexandrian and Western agreement he had tested, led to some
+type of Western + corruption. We need not rehearse his proceedings
+in detail. A considerable number of passages analysed led, however,
+to results which on internal grounds and in view of their attestation
+could augment our grasp of Pauline style and argument.
+This series of enquiries had an important methodical result which
+needs careful assessment. Zuntz gained the conviction that none of the
+purely Western readings shared by P 46 could be characterized as a
+common error. Seeming common errors in each single case turn out
+to be ancient survivals from two independent routes of transmission.
+I quote: "The absence of any striking special error common to the
+most outstanding Western manuscript and P 46 (or its allies) is a first,
+definite hint that no direct relation exists between the 'Alexandrians'
+and the Western text." 46 This conclusion is reinforced by an analysis
+of two "purely Western" 47 readings from Hebrews which happen to
+recur in P 46 .
+In Hebr. 3:6 Zuntz defends ος as the logically correct reading. He
+admits a possible argument against its reception, namely "that this con­
+49
+struction, so normal in Latin, is not easily paralleled in Greek."
+Nevertheless, he is willing to attribute to this stylist the lectio magis
+46
+c
+arbd
+ardua. The witnesses are: D* P 0243 6 88 424 1739 i t
+vg Lucifer
+50
+Theodore of Mopsuestia Ambrose. The reading of the Textus Receptus
+13
+1
+v
+h pal
+is attested by P « Α Β C D Ι Κ Ρ Ψ 0278 33 1881 it syP
+sah
+boh arm Jerome. Because of its early and diversified attestation ου is
+51
+preferred by Metzger, but not by Braun.
+In Hebr. 6:2 the genitive διδαχής is "grammatically inadmissible".
+In the midst of numerous genitives it disturbs the construction. "Διδαχή
+then must appear in the same case as θεμέλιον, the word to which it
+52
+46
+475 53
+refers epexegetically." Witnesses: Ρ Β 0150 it . The "inadmissible"
+reading is attested by Κ A C D^ Ι Κ Ρ 33 81 614 1739 pm. On account
+of its attestation Metzger decided differently, but not Braun. 54 The tex­
+tual critic Bernhard Weiss listed two arguments in support of his
+decision: a scribal mistake in view of the many genitives, is a plausi­
+ble assumption, and exegesis casts its ballot for the better text, or,
+as I would prefer to recast the argument: The context supports this
+decision. 55
+To his eyes the material accessible in Hebrews yielded comparably
+little, if analysed in a similar way. Zuntz analysed ten readings in
+Hebrews in which Eastern witnesses join their testimony with D. To
+check the presented results we ought to compare the lists of Zuntz
+with the fresh material from Beuron.
+In Hebr. 12:27 the author interprets a prophetic utterance of Haggai
+2:6. The words ετι άπαξ σείσω mean that heaven and earth after one
+cosmic catastrophe shall enter the perfect age, in Greek: το δε ετι άπαξ
+δήλοι των σαλευομενων μεταθεσιν. Nestle-Aland prints [την] των
+56
+σαλευομενων μεταθεσιν. Secondary articles are found in diverse forms
+46
+in several sets of witnesses, but they are lacking in D* P 1739 [M]
+57
+L 048 0243 323 arm. Zuntz refers his listeners to the style of the
+scholia on the classical writers and reminds us "that such word-exe­
+58
+gesis is normally given without the article." We are also reminded
+59
+that articles applied to a new statement would be inept.
+In Hebr. 5:11 Zuntz defends the anarthrous phrase πολύς λόγος on
+the authority of D* P 46 * Ρ 1319 arm. "What the author wants to say
+and what the text without the article properly expresses, is: On this
+subject there is much to say, but it would be obscure.'" 60 Nestle-Aland
+still prints the incorrect article. 61
+In Hebr. 12:3 Zuntz discusses the alternatives of a participial form.
+D *.c p46 pis 2 1739 1881 and Euthymius testify to a perfect participle
+εκλελυμενοι. This would fall in line with verbal forms in the perfect
+tense in verses 5 and 13. Zuntz suggests that εκλυόμενοι was intro­
+duced by scribes to prepare the quotation of Proverbs 3:11 μη εκλυου
+in v. 5. 62 This is the only passage in this list which Zuntz decides with
+a measure of hesitation. He prints a question mark. It is remarkable,
+I think, that this variant is not discussed by Metzger and that Nestle-
+Aland rejects a reading against the testimony of D* c Ρ 46 P 13 and 1739.
+In Hebr. 4:3 the author is again expounding the Psalm 95. Zuntz
+remarks that the author freely refers to his text, for he omits the pronoun
+63
+αυτού found in 3:18; 4:1; 4:10. The Vaticanus Β adds his testimony
+46
+13
+to the witness of D* Ρ Ρ ^ and supports anarthrous καταπαυσιν.
+The secondary article is caused by assimilation within the context, as
+64
+Bernhard Weiss pointed out. The anarthrous form is correct, a decision
+65
+which should have been accepted by Nestle-Aland and Metzger.
+In Hebr. 13:9 a faulty participle περιπατησαντες arose by adaptation
+to the aorist of the main verb. The correct form περιπατουντες is found
+46
+in D* P K* A 1912 co. Zuntz refers to the present participle, ambukmlibus,
+66
+found in d ζ vulg. Nestle-Aland gives the correct decision here.
+In Hebr. 9:11 it was Westcott who correctly identified the origin of
+the disorder in the transmission of the text. The correct γενομένων
+67
+αγαθών in deference to 10:1 was altered into μελλόντων αγαθών. This
+explanation is generally accepted by commentators, by Metzger, Braun,
+Frede, Weiß. 68 Weiß argued that both participles in the phrases αρχι-
+ερευς των γενομένων αγαθών and σκιάν . . . των μελλόντων αγαθών (10:1)
+have their specific suitability. 69 Β is among the witnesses of the origi­
+nal text: D* d Β Ρ 4 6 13 1611 1739 2005 syP 11 ? 31 Cyril-Jer Chrysostom
+Oecumenius. 70 The edition of Frede quotes for bonorum factotum the Old
+Latin manuscript 75. 71 The Greek New Testament cites the Georgian
+version for the correct reading. 72 Metzger's Commentary refers to its,
+"superior attestation on the score of age and text type". 73
+In Hebr. 11:15 the context gives support to the present tense of the
+lectio ardua, μνημονευουσιν. Present tenses are found in verses 14
+and 16. Zuntz writes: "Here, as in ver. 22, μνημονευειν means 'refer
+74
+to'." The trouble arose, when scribes understood 'to remember'. The
+46
+75
+correct reading is found in D* P 1739* Κ* Ψ and six minuscules,
+76
+also in Origen and Theodoretus. The Itala supports meminissent. Nestle-
+77
+Aland prints εμνημονευον.
+In Hebr. 8:6 Zuntz argues on the base of the attestation of the lectio
+rarior. Not τετυχηκεν but τετυχεν is his choice. Τετυχεν is read by D*
+46
+P K* 075 A Κ L and nine minuscules, according to Zuntz. He lists 436
+78
+462 623 910 1610 1611 1888 1898 1912. Nestle-Aland quotes three: 81
+1242 2464, but knows permultos. The decision is correct in Nestle-Aland. 79
+In Hebr. 12:3 Zuntz recognizes a case where the best of our ancient
+witnesses testify to a corrupt text. "The singular <εις εαυτον> is the
+only imaginable reading that fits the context, yet there is no ancient
+evidence for it." 80 If nowhere else, Zuntz is here willing to accept the
+B D
+view that the acceptable reading εις εαυτόν Α Ρ 0150 ω vulg •*,
+Chrysostom was introduced by conjecture. Witnesses for the corrupt
+46
+13
+text are: D* P P » Ψ< 048 (?) 33 81 256 1288 1319 1739* 2127 ζ
+A c d
+81
+vulg
+pesh boh eth Ephraem.
+The last reference in his list, Hebr. 13:21, shows variation as to the
+length of the formula εις τους αιώνας, which in Κ A (C*) Κ Ρ 056
+0150 0151 0243 0285 33 81 614 1739 [M] is given in the longer
+form εις τους αιώνας των αιώνων. After inspecting two diverse types
+of text transmission in several Pauline and non-Pauline texts Zuntz
+decides that the shorter formula is to be preferred as the text of the
+82
+46
+3
+s
+11
+author. The witnesses are: P D C Ψ 6 104 365 1241 1505 sy sah
+83
+arm Theodoretus. I consider it remarkable that Zuntz hesitates to
+give a similar decision for the short formula in 1:8. He writes: "One
+would confidently describe the shorter reading as 'Western', if Tertullian,
+Adv. Praxean 13 could be safely quoted for it; but I see no convincing
+argument against the assumption that he translated Ps. xl. 7, and trans­
+lated it freely (he has in aeoum only)." 84 Such critical care is to be
+acclaimed. Quotations from the Fathers deserve care, indeed.
+I am, however, inclined to call the full formula, as given by the Sep­
+tuagint, a secondary restoration within the text of Hebrews. 85 I refer
+here to the criterion of author's style, to the known tendency to restore
+Septuagint texts, and to the attestation: Β 33 it Tert Irenaeus. 86 Yet
+I agree that in this case the careful scholar may follow Zuntz. 87
+Zuntz concentrates his attention with singular care upon single wit-
+nesses. His analysis of numerous items of textual variation results in
+recognition and disapproval, in recognition for faithful preservation of
+ancient text and in disapproval for scribes who failed.
+In detail Zuntz identifies processes of transmission in which valu-
+able items of more ancient text forms were lost. This leads to the
+notion of the 'lesser Alexandrians', as opposed to the central group of
+46
+proto-Alexandrian witnesses: Ρ Β 1739. Zuntz is aware of the faults
+of each of these witnesses. He takes notice of the more hasty moments
+46
+of the professional work of the scribe of P , but Zuntz is also willing
+to identify the correspondence of two independent witnesses in ten
+cases of variation. Nine times D and the papyrus are absolutely right,
+once they are joined in an ancient Leitfehler, εις εαυτούς.
+Zuntz studied the technical details of Harklean manuscripts, in the
+tradition of Pamphilus of Caesarea. Copies here transmit not only
+texts, but also pass on formulae of time-honoured origin. Colophons
+on younger and on more ancient manuscripts reveal Caesarean edit­
+ing techniques, but the edited texts are part of a tradition that is con­
+stantly in movement. Some Caesarean texts have, thus, little in common
+in spite of their common origin.
+The famous Codex von der Goltz, on the other hand, in numer­
+ous cases, surpasses the text of the lesser Alexandrians. We ought to
+understand that in an unknown number of passages its readings no
+longer preserve the text of its archetype. On account of the meticu­
+lous care of Zuntz, we now have some means of checking scribal per­
+formance. Of the ten approved readings 1739 follows suit only in four
+cases (12:27; 12:3; 9:11; 11:15). In these and not in all ten cases 1739
+preserves the archetype. The codex does, however, preserve the reading
+of the archetype in the case of the corrupt εαυτούς in Hebr. 12:13. 88
+Let me close, finally, with some general remarks. What did we gain
+from an inspection of the specific procedure of Zuntz?
+Zuntz introduces his procedure by a careful investigation of the
+methodical steps taken by his predecessors. He does not overlook the
+ProposaL· of Bentley. 89 Where recognition is due, his praise is noble.
+Where limitations have become visible in past work, he criticizes with
+care. Such restraint honours the critic.
+Zuntz writes a clear and vivid style. Time and again while reading
+his work I have been surprised by the freshness of his approach and
+by the multiplicity of aspects considered. His patient considerations on
+single units of variation are strictly to the point. Some of them leave
+the reader with an unforgettable impression. Let me mention the one
+magisterial pleading for a sub-singular reading of P 46 and 1739, for
+90
+the reading ευπερισπαστον αμαρτιαν in Hebr. 12:1. Let me mention
+his calm assent to a reading proven ancient, mainly by the testimony
+91
+of Church Fathers, namely χωρίς θεού in Hebr. 2:9. Gamerarius and
+92
+93
+Bengel recommended this reading. Harnack argued on its behalf.
+Zuntz supports χωρίς θεού by referring to the style of the author. One
+uncial and two minuscules preserve the ancient reading: 0243 1739*
+424c 94 Many good commentators did accept it, but only one editor:
+Bernhard Weiss. 95 Circumspection and care are the marks of this
+confidently handled method. Its eminence is shown by quotations in
+countless notes.
+I did not gather pearls. He who reads Zuntz, will find them. My
+attention was centered upon methodology. Not least visible, are its
+merits in the points which Zuntz does not display. The corrector of
+P 46 found one mistake in ten. 96
+Zuntz shows that witnesses from the scriptoria come to us as survivals,
+these resemble streams. Zuntz shows that influences evade us, but that
+in spite of this witnesses from three ancient regions are capable of tes­
+tifying independently. Zuntz opened research on the achievements of
+the editors, on the methods of ancient philologists, and on the traces
+correctors left in their work. I hope that I succeeded in pointing out
+that Zuntz left more than some handfuls of inspirations. He left his
+questions and his method.

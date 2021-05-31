@@ -1,0 +1,472 @@
+John 8:25: ελεγον ουν αύτω· συ τίς ει; εΐπεν αύτοίς ό Ίησοΰς· την αρχήν
+δ τι καί λαλώ ύμΐν.
+The answer which Jesus, according to John 8:25, gave to the Jews has at
+all times been regarded as problematic. 1 The difficulty centers primarily around
+the intended meaning of the phrase την αρχήν. Sometimes this has been
+felt so strongly that not only the thought that the text might be corrupt has
+been entertained but also the unique reading of P 6 6 has on occasion been
+seen as a possible way out of the dilemma.
+Before proceeding to discuss the phrase τήν αρχήν linguistically and
+philologically, I shall note briefly the way in which it has been translated in
+a number of modern translations and interpreted by commentators of John.
+The Bible translations in general are divided into two main groups, with a
+2
+few translations that diverge from them. The two main interpretations
+underlying the Bible translations are:
+3
+a. τήν αρχήν is taken in the sense of "from the beginning", and
+τήν αρχήν is taken in the well-known classical sense of'at all' (όλως).
+This may be expressed variously by "to begin with", "in the first
+place", etc. The significance of these two ways of understaning the
+text will be considered below.
+If the translators have felt constrained to decide whether they should either
+take the expression in its well-known use by ancient authors, or else try to
+make sense of the phrase within its context, commentators, who have the
+possibility to utilize a more discursive style in their treatment of the pas­
+sage, present a rather variegated picture.
+5
+Thus, H. Alford, representing the nineteenth century scholar who was
+steeped in classical learning, finds the chief difficulty in the ambiguity of
+δτι and ο τι, remarking that "no sense can however be given by οτι which
+will at all harmonize with the context". He also criticizes Lücke s interpre-
+tation "Why do I speak with you at all" as "not only ungrammatical, but
+most alien from the whole character of our Lord's discourses". He therefore
+settles for ο τι (i.e. ο,τι). Next, he argues that λαλώ does not mean "to say",
+but "to discourse", "to speak". Finally, he addresses τήν αρχήν, which, he
+says, should not be taken substantively as the Vulgate [principium], Augus­
+tinus, Ambrosius and Wordsworth, "but adverbially, with all Greek com­
+mentators". 6 He goes on: "And adverbially it may mean (1) 'in the beginning, '
+'from the beginning, ' but not 'firstly: ' (2) 'generally, y 'at all, ' 'omnino,' usually
+with a negative clause, but sometimes with an affirmative." 7 Writing before
+the age of the papyri, when the classical authors formed the New Testa­
+ment philologist's comparative material, Alford cites a few classical texts
+and concludes that the presence of λαλώ makes impossible the meaning of
+'in the beginning,'οτ 'atfirst', or from the beginning'. Primarily on the basis
+of the above considerations, he translates the whole text: "Essentially, that
+which I also discourse unto you: or in very deed, that same which I speak
+unto you". 8
+J. H. Bernard similarly objects to giving to τήν αρχήν the sense of "from
+the beginning" because the present λαλώ cannot be used in the sense of
+"I have spoken at the beginning". 9 Bernard also objects to construing the
+sense "How is it that I even speak to you at all?" (so RV margin reading the
+relative as δτι) on the basis of Klemes of Rome, Homilía, VI. 11: ει μή
+παρακολουθείς οΐς λέγω, τί καί τήν αρχήν διαλέγομαι; ("If you do/can not
+follow what I am saying, why am I discoursing at all?"). However, he finds
+it difficult to collocate such a rendering with what follows. He settles for
+"'Primarily, I am what I am telling you as the [rendering] least open to
+objection". 10
+L. Morris objects that "nobody appears to have shown that the expres­
+sion [τήν αρχήν] is used in the sense 'from the beginning'". He contem­
+plates the meaning ascribed to it by the Fathers " 'altogether' or the like.
+It is the 'at all' in our phrase 'not at all' " , n but thinks that this sense does
+not fit the context. He notes difficulties with all the interpretations so far
+suggested, concluding that if we could accept the unique reading of P 6 6 "all
+would be well. Failing that, Hoskyn's suggestion seems to be best, that there
+is a complication due to the double meaning in the writers mind". 1 2
+C. K. Barrett thinks that the difficulty regarding τήν αρχήν has been
+exaggerated. If the sentence is a question, "τήν αρχήν will have the mean­
+ing 'at all' and δτι must be written οτι and translated 'Why?'—'Why do
+I speak to you at all?'". This sense, he thinks, is possible but goes "so badly
+with the next verse". Instead, Barrett prefers reading Jesus' answer as a
+statement, "writing οτι as ο, τι while supplying εγώ ειμί" and τήν αρχήν as
+'at first', 'at the beginning', 'in the beginning'. This, he thinks, would give
+either "(a) I am from the beginning what I tell you" or "(b) I am what I tell
+13
+you from the beginning". His preference lies with the first option.
+R. E. Brown mentions the various attempts at construing Jesus' answer.
+He finds difficulties with them all and inclines toward the addition which
+P 6 6 makes, rendering "I told you at the beginning what I am also telling
+you [now]". 1 4
+B. Lindars, too, mentions a few alternative construals but inclines toward
+the paraphrases of RSV and NEB margin. He renders "Ever since the begin­
+ning I have been what I say to you". 15
+Beasley-Murray mentions six interpretations that have been suggested
+and thinks that "all of these are possible" except for one, the Latin misun­
+derstanding, which renders our phrase withprincipium (see above). "With
+the greatest hesitation" he favors a variation of Bernard s view: "Just what
+I am telling you".
+Though not a commentator on John, the view of C. H. Dodd may also
+be mentioned. On the basis of the classical usage of τήν αρχήν he declares:
+"I take [τήν αρχήν οτι καί λαλώ ύμΐν] to mean 'To think that I am talking
+with you at all' (or 'Why am I talking.. .?')", 16 a rendering that reflects the
+rendition of the NEB with which Dodd was associated.
+The edition of Papyrus 66 or Papyrus Bodmer II by Victor Martin in 1956 17
+brought to the attention of scholars a unique reading, that, if accepted,
+perhaps suggests the intended sense of the enigmatic expression τήν αρχήν
+in our passage. Our text runs as follows: 18
+JK(ÛH] Kda ελευοΜ ο^γτωι CY TIC e\
+einen ^YTOJC Ο IC ΤΗΝ ΟΦΧΗΝ Ο TJ Κ
+λ^λω YJKiti [πολλ^ exam nepj YA\GÛN Y
+Those who have examined the manuscript inform us that the definite
+article O (in ό Ίησοΰς.) is an addition made by the original scribe. Follow­
+ing the abbreviation of the sacred name O JC (i.e. O'lHCOYS*), P 6 6 has an
+insert mark and in the margin the reading eiJION ΥΛΜΝ. This would now
+give the text:
+και ελεγον αύτφ· συ τις ει; ειπεν αύτοίς ò Ις [=Ίησοΰς] ειπον ύμΐν τήν αρχήν δ τι
+και λαλώ ύμΐν.
+This addition/correction in the margin was regarded by Martin as made
+by the original scribe, 19 and in this he was followed by e.g. Funk 20 and
+Smothers. 21 On the other hand, Comfort and Barrett consider this addi­
+tion to be not by the original scribe but by the first (of two) correctors, the
+"official diorthôtês". 22
+If this, elsewhere unattested, reading represents the original wording of
+the autograph, it would give the following translation:
+And they said to him: Who are you? Jesus said to them: I have told you at the begin-
+ning what I am also telling you [now].
+This reading and its consequent translation makes Jesus give a meaningful
+answer within the context. If we could be certain that this represents the read­
+ing of the autograph, there would be perhaps no reason for continuing the
+66
+discussion. Apriorically, however, the addition of P looks very much like an
+attempt to ease the problematic reading of the manuscript tradition, although
+this, in the absence of final proof, cannot be maintained categorically.
+It is, therefore, still meaningful, indeed incumbent upon the New Testa­
+ment scholar to continue the investigation into the grammar and syntax of
+this verse on the assumption that the majority reading represents the read­
+ing of the autograph and to see whether or not sense can be made of Jesus'
+answer as it stands. If the outcome here would be along the line of the
+reading of P 6 6 , then that reading might be regarded as a complementary
+argument for its correctness. It appears to me that the problematic expres­
+sion τήν αρχήν has not yet received a sufficiently thorough investigation 23
+and that there is something more to be said in this regard.
+According to the Thesaurus Linguae Graecae (TLG) the word αρχή in its
+various case-forms in the singular number occurs some 61,677 times from
+Horneros to the Middle Ages. 24 The word occurs in many and varied senses,
+e.g. beginning', Origin, 'end' (in the sense of'edge', 'corner', not τέλος),
+'first principle', 'sum total', 'authority', 'power', and 'office'. In the plural it
+is often used of powers', 'authorities' as well as in the Biblical and Jewish
+usage of'the [invisible] powers'. But none of this is of any special interest
+for the present investigation. Our interest rather centers on a particular
+expression, the articuUr accusative^ which happens to have been used in
+ancient times often in a very specific way.
+According to the TLG the articular accusative τήν αρχήν occurs 8,530
+times in Greek literature down to the Middle Ages, while according to the
+Packard Humanities Institute the same expression occurs 207 times in the
+Inscriptions and the Papyri.
+I have read all the instances in the Inscriptions and the Papyri as well as
+more than half of the 8,530 passages sampling various periods. The results
+were so uniform that I did not consider it meaningful to pursue my perusal
+of the rest of the passages. Theoretically, there is, of course, a small chance
+that the other 4,000 instances of τήν αρχήν might hold some surprise, but
+the probability for such was judged to be rather minimal.
+In the instances that have I checked, τήν αρχήν occurs mainly in three
+senses:
+1. in a very large number of instances the expression τήν αρχήν occurs
+in the sense of empire' (i.e. the position and office of the emperor), 'authority',
+'power', 'government', 'office' (of various types of potentates, as e.g. emper­
+ors, kings, governors and generally aspirants to such or similar offices as
+well as to other officials who receive a position of authority or leadership)
+2. in a number of texts the expression is used in the sense of'beginning'
+leaving aside for the moment the issue of the English preposition, i.e. 'in
+the beginning', 'at the beginning', etc. or any Greek preposition (επί, προς,
+κατά, etc.).
+3. finally, in another very large group of texts the expression occurs
+adverbially, in the sense of αρχικώς, άρχήθεν, that is, the fact that the
+expression is an articular accusative is of no consequence, since the two
+words have become a kind of adverb. This adverbial accusative branches
+out to two uses, which will engage us below.
+Of the three usages, (1) is of no interest in this connection whatsoever,
+since our text has nothing to do with any power', 'authority', or 'office'.
+Hence this material is left out of consideration.
+Of (2) and (3), the former ('beginning') can be exemplified by a text that
+is close to New Testament times, sc. Plutarchos (I-II A.D.), PeriAdoleschias,
+509 b. Exemplifying the evil of talkativeness, this time by means of bar­
+bers, who are particularly prone to gossip, Plutarchos relates the story of
+the barber, who being the first to hear the news of the annihilation of the
+Sicilian expedition, rushed to the city [sc. Athens] to be the first herald. As
+was natural, this caused a big stir and people ran to the assembly in order
+to try to come to the origin of the rumor: γενομένης δε ταραχής οίον εικός
+εις έκκλησίαν αθροισθείς ό δήμος έπί τήν αρχήν έβάδιζε της φήμης. The
+expression τήν αρχήν, as the preposition έπί and the context indicate, bears
+the sense of'the beginning'/ 'the origin' [of the rumor], i.e. 'how it all had
+25
+begun , Another text is Loukianos' (II A.D.) imaginative Tyrannoktonos,
+4, which presents a tyrannical father as beginning to act unjustly under the
+influence of his son: καί προς γε τήν αρχήν των αδικημάτων υπό του παιδος
+άκων προσήχθαι έλέγετο. "And it was said that he came to the beginning
+of [i.e. he began] his wrongdoings being impelled by his son". In this text,
+too, the accusative τήν αρχήν is governed by the preposition προς and the
+meaning is 'the beginning'.
+None of the above and similar passages are problematic in any way. The
+meaning is clearly 'the beginning'. Our interest therefore centers around
+(3), the adverbial use of τήν αρχήν.
+The extensive use of the accusative to express such relations as cognation,
+limitation or reference, 27 and extent in respect of time 2 8 and space 29 had as
+a consequence that many such accusatives—particularly cognate accusa­
+tives—froze to adverbs. Jannaris 30 quotes a long list of such adverbial accu­
+satives, a specimen of which are: τα πολλά ('for the most part'), το πρώτον
+('at first'), το λοιπόν ('for the rest'), το νυν ('now') (see also Act 5:38: τα
+νυν), τα μετά ταΰτα ('hereafter'), τήν ευθείαν ('straight'), τίνα τρόπον ('in
+what manner') and χάριν τινός ('for the sake o f ) . Among these adverbial
+accusatives, Jannaris includes also the unarthrous αρχήν (in the phrase αρχήν
+ου, 'on the whole not', 'not at all') as well as the articular τήν αρχήν. 31
+It is important to emphasize here that since this particular accusative
+became the equivalent of an adverb, it lost its accusative force. Therefore, the
+construction bears no case relation to the rest of the sentence. This is an impor­
+tant point, since it has sometimes been objected that the expression τήν αρχήν
+can only mean "iniat the beginning", as a consequence of which the transla­
+tion of Jn 8:25 as "from the beginning" has been seen as "ungrammatical".
+Being an adverb, τήν αρχήν essentially means neither "from the beginning"
+nor "in/at the beginning". The expression is equivalent to the Post-classical
+adverb αρχικώς ('firstly, 'originally', 'primarily') and the non-Attic (used
+seldom by Tragedians) άρχήθεν ("from the beginning"), both of which
+have been frequent down to Neohellenic. 32 It directs attention to an earlier
+point of time. The notion conveyed in English by the p r e p o s i t i o n s ^ ^ , at,
+or in in the phrase "from/at/in the beginning" is an added notion in order
+to make English sense of the construction. The Greek τήν αρχήν simply
+says "[the] beginning" as a modifier, in the sense of something that is
+related to an earlier point of time from the speaker's perspective. But
+whether the action thus predicated took place 'in or at the beginning' or
+started as a process at an earlier point of time and continued afterwards,
+i.e. from the beginning', or reference is made to an earlier time when a
+different situation obtained ('originally', 'from the beginning'), the expres­
+sion as such says nothing about. It is—it seems—here that the problem
+about which English preposition to supply in translation, has arisen. Once
+we perceive that the adverbial phrase as such does not expressly include the
+notions of'in', 'at', or 'from', but that these notions are necessary in trans­
+lation, we realize that the expression in this respect is neutral and that only
+the structure of the rest of the sentence can guide us in supplying the
+notions of 'in, 'at', or 'from'. 33 But these notions are and remain transla-
+tional notions not pertaining to the original as far as this phrase is con­
+cerned. The Greek is complete as it is. It makes reference to a point of time
+pertaining to 'the beginning'. The reader or hearer supplies the preposi­
+tional idea according to the sense of the whole, i.e. as demanded by the
+context. Thus, how this 'the beginning' is to be construed in a given
+sentence depends entirely on the particular sentence and its context.
+Whether τήν αρχήν is to be rendered in English by 'firstly', 'at first', 'in/at
+the beginning', or 'from the beginning' (i.e corresponding to άρχήθεν or
+αρχικώς) or in its other main use in Greek literature ('to begin with', etc.,
+see (2) infra) is a question of context. Indeed, it is because this adverbial
+accusative is not more closely defined, that it can be used in both the fol­
+lowing ways:
+1. as an adverb corresponding to the adverbs αρχικώς, άρχήθεν, which,
+depending on the context, may be rendered variously by 'in/at or from the
+beginning', and
+2. as an adverbial set phrase that places the main action of the sentence
+in relation to what ought to have been the actant's first choice of action or
+reaction, which, by implication, ought to have obviated the action that the
+actant now undertakes. This notion may be rendered in English by various
+devices, e.g.: 'to begin with', 'in the first place', or 'at all'. If this were the
+meaning of the phrase in Jn 8:25, Jesus would be saying: "to begin with,
+why am I speaking to you?" or "That I am speaking to you at all!" express­
+ing a kind of amazement at his doing something that he should not have
+to be doing.
+We have already seen that one of the uses of the adverbial accusative τήν
+αρχήν is to express the English idea of'to begin with', 'in the first place', or
+'at all'. Greek literature supplies innumerable examples of this use of τήν
+αρχήν from classical to Mediaeval times. Here follow a few examples:
+Herodotos, IV. 25: του δε ουκ ένδέκομαι τήν αρχήν ("I do not accept this
+at αΙΓ)\ Sophokles, Antigone, 92: αρχήν δε θηραν ου πρέπει τ' αμήχανα
+("to begin with, one should not attempt the impossible"); Thoukydides,
+VI. 56,1: ουδέ έπαγγειλαι τήν αρχήν δια το μή άξίαν είναι ("nor promise
+at all since she was not worthy"); Demosthenes, KataAristokratous, 93: τήν
+αρχήν γαρ έξήν αύτφ μή γράφειν, ει γε το βέλτιστον τη πόλει σκοπείν
+συμβή ("to begin with he should not have written the proposal, if he really
+aimed at what was best for the city"/ "he should not have written this pro­
+posal at all, if he really.. ."). 3 4
+If this meaning of τήν αρχήν is to be contemplated for Jn 8:25, the next
+question is: How is δτι (neuter of indefinite relative pronoun όστις) used
+in our text? The options are:
+1. δτι = 'that' (conjunction). This would give the translation: "Jesus said
+to them: 'To begin with, that I am also/even speaking to you'" or "[To
+think] that I am also/even speaking to you at all". Naturally, an exclama­
+tion mark ought to mark these renderings, i.e. I am doing something that
+I really shouldn't be doing!
+2. δτι = 'Why?'\n classical times the question why? normally uses τί; 3 5
+and indirect questions use δτι. 3 6 The first holds true of the New Testa-
+ment although there is a tendency in literarily low-standing writings to use
+38
+οτι even in direct questions. In the N T there is no instance of οτι = Why?
+in indirect questions; only one instance of δτι = What in indirect questions:
+Act 9:6: άλλα άνάστηθι... καί λαληθήσεται σοι οτί σε δει ποιειν ("But
+rise... it will be told you what you must do"). In order to express surprise or
+disaproval ("why on earth...?"), in non-biblical Greek certain idiomatic
+expressions are used, such as τί έχων / μαθών / παθών, and indirectly: οτι
+έχων / μαθών / παθών. 39
+Viewing our text in the light of (2) above, we may say, first, that, if the
+meaning had been "To begin with, why am I (even) speaking to you?", it
+would have been a direct question and as such should have required τί
+instead of οτι. Mark, as we have seen, does use δτι a few times in direct
+questions. However, John is not Mark. In a stylistic question such as this,
+the two authors ought to be distinguished. Second, if the intended mean­
+ing had been (1) "To begin with, [to think] that I am even speaking to you
+[at all]!",—i.e. expressing astonishment—we might have expected either
+έχων or μαθών or παθών. Third, the English ("To begin with, that I am...")
+is much neater than the Greek for expressing such an idea. Fourth, this is
+no answer to the Jews' question. Fifth, the following verse contradicts Jesus'
+supposed refusal to speak. And sixth, the whole of the Fourth Gospel pres­
+ents Jesus as often delivering long speeches to the Jews. All this would seem
+to make the translation "To begin with, why am I speaking with you" quite
+unlikely. It is, of course, always possible to argue that by his brusque rebuff
+Jesus declines to answer the Jews' question, but such explanations are
+always hazardous. Perhaps in the face of the difficulties surrounding this
+interpretation of the text and in view of the evidence as a whole, we ought
+to abandon this interpretation altogether.
+As has been pointed out earlier in this study, the adverbial accusative τήν
+αρχήν often occurs as a kind of adverb, loosely connected to the verb of the
+sentence, giving an undefined temporal relation that may be rendered 'ini
+at the beginning' or 'from the beginning' according to the context. Greek
+literature of all periods offers innumerable examples of this temporal use.
+The great majority of these instances might be translated in English by 'in
+the beginning' or 'at the beginning', Originally as for example, Dinarchus
+(IV B.C.), Frg, 2.4.10: και τους άποχειροτονηθέντας τήν αρχήν καί πάλιν
+χειροτονηθέντας ("and those who had been voted out in/at the beginning/
+at first and who were voted in again"); Sostratus Gramm. (I B.C.), Frag­
+ments, la,23 F, 7:4: Σώστρατος δ έ . . . φησί τον Τειρεσίαν θήλειαν τήν
+αρχήν γεννηθήναι ("but Sostratos... says that originally Teiresias was born
+a woman"); Dion Chrysostomos (I-II A.D.), Oration LVI. 11.8: ούκοΰν
+άχθέντες εις [το δικαστήριον] τήν αρχήν ζημιοΰνται ης αν έκαστοι δοκώσιν
+άξιοι ζημίας; ("Is it not then so, that when they are brought to court,
+first/in the beginning they are penalized in accordance with each one's
+merit (damage)?"; Alexander Phil. (II-III A.D.), Commentary on Aristoteles'
+Metaphysics, 16:18: οτι δέ μή χρείας τινός μηδέ πράξεως χάριν άλλα
+γνώσεως ήλθον τήν αρχήν έπί το φολοσοφειν, συνέστησε καί άπο της
+ιστορίας· μετά γαρ τήν των αναγκαίων τε και των προς ραστώνην τήν του
+βίου παρασκευήν ήλθον επί τήν κατά φιλοσοφίαν ζήτησιν ("That it was
+not on account of some need or action but for the sake of (acquiring)
+knowledge (learning) that men turned to philosophy in the beginning/at
+first, can be shown also from history. For after attending to what was nec­
+essary and conducive to life, they began to seek after philosophy"). 40
+The examples quoted above have been interpreted in the sense of 'in/at
+the beginning', 'at first', 'originally . But there are also border-case exam-
+pies where the senses of 'at first' or Originally are indistinguishable from
+the sense of 'from the beginning', as well as clear-case examples in which
+τήν αρχήν = from the beginning'. For one, Sostratos (above) could well be
+interpreted as saying that "From the beginning (i.e. Originally) Teiresias
+was born a woman" with a view to his having changed later to a man. Here
+'from the beginning' and 'at the beginning' or Originally merge in mean­
+ing. Explaining why men and women feel an attraction for the opposite
+sex, Platon (V-IV B.C.) has Aristophanes explain their origin in his Sympo­
+sion, 190 b: ήν δέ δια ταΰτα τρία τα γένη καί τοιαύτα, δτι το μέν άρρεν ην
+του ηλίου τήν αρχήν εκγονον, το δέ θήλυ της γης, το δέ αμφοτέρων μετέχον
+της σελήνης ("the sexes were three and such: the male sprang from the
+beginning/originally from the Sun, the female from the Earth, and the one
+that partook of both sexes from the Moon"); Xenokrates (IV B.C.), Testi­
+monia 161. 12: ταΰτα δέ καί Ξενοκράτης εοικεν έννοήσαι θείφ τινί λογισμω
+τήν αρχήν λαβών παρά Πλάτωνος ("It appears that Xenokrates, too, under­
+stood these things through some divine reasoning which from the begin­
+ning/originally he took from Piaton"); Archestratos (IV B.C.), Fr. 11. 3:
+ούτος γαρ αύ έστιν εκείθεν τήν αρχήν γεγονώς ("Again this one was from the
+beginning/originally therefrom [Syracuse]"); Aelius Herodianos (II A.D.),
+KotholikeProsodia,3.1.100:εστιδ' ενΜεσογείωκαίΤίβυραπόλιςΈλληνις
+τήν αρχήν γεγονυΐα ("In the Mediterranean region there is Tibura, a city
+that from the beginning was Greek"); Justinus Martys (II A.D.), Apologia,
+II, 6. 3: οτε τήν αρχήν δι' αύτοΰ πάντα έκτισε και έκόσμησε should obvi­
+ously be understood as "when he created and ordered all things from the
+beginning"—given the Christian doctrine that creation has been disturbed
+through sin, Justin's meaning must refer to creation's original state, and
+hence 'from the beginning' not 'at the beginning'. In Rhetorica Anonyma
+(early Byzantine times?), III. 571, we read: οιμαι δέ, ως τά τοιαύτα
+προοίμια παρεισέδυσαν τήν αρχήν έν τοις λογογραφήμασιν. Here it is
+implied that the proemia are still in the 'prose writings' ("And I think
+that such proemia intruded from the beginning/originally in prose works
+41
+[and they are still there!]").
+To appreciate the problem here, it is necessary to point out that 'from
+the beginning' may be used in two distinct senses:
+1. averring continuity, i.e. something that began 'in the beginning' still
+occurs. This is often indicated implicitly by the contingencies of the con­
+text, as e.g. RhetoricaAnonyma III. 571 and Pseudo-Ploutarchos (I-II A.D.),
+Peri Mousikes, 1140 c (above), and above all by the use of α π ό . . . εως...
+Thus, in the History of Alexander the Great 1.4, the Mediaeval author writes:
+το πώς έγεννήθην καί άναθράφην καί το πώς ειχεν τήν άνδρείαν καί τήν
+μάθησιν καί τήν χαραν από τήν αρχήν εως το τέλος ("how he was born
+and reared and how he had his manliness, learning and )oy from the begin­
+ning to the end"). 4 2 The equivalent classical expression (which is also Neo­
+hellenic, esp. Katharevousd) for από τήν αρχήν is έξ αρχής. The N T
+equivalent is found in e.g. Mt 24:21: οία ου γέγονεν απ' αρχής κόσμου εως
+του νυν, and
+2. averring discontinuity, i.e. something that occurred 'in the beginning'
+which is discontinued. No particular marker for discontinuity is used: the
+context is sufficient to signal it. This can be exemplified by Mt 19:8, where
+Jesus says to the Pharisees: Μωϋσης προς τήν σκληροκαρδίαν υμών έπέτρεψεν
+ύμΐν άπολΰσαι τάς γυναίκας υ μ ώ ν απ' αρχής δέ ου γέγονεν οΰτως 43
+("Moses allowed you to divorce your wives on account of your hardheart-
+edness, but from the beginning it was not so". Here, if in place of'from the
+beginning', we substituted 'originally, 'at first', or 'in the beginning', the
+sense would still be the same! We see, therefore, that in some cases, par­
+ticularly in less exact, technical writing, 'in the beginning', 'originally etc.
+and from the beginning' can be interchangeable expressions.
+It might be objected that (2), where 'in the beginning', 'originally, and
+'from the beginning' function as equivalents, would be more readily appli­
+cable to Jn 8:25, whereas the continuity that Jn 8:25 presupposes, demands
+(1) (i.e. both ideas άπό and εως). This objection has overlooked an impor­
+tant fact. In the New Testament, the expression απ' άρχής/έξ αρχής to
+which the idiomatic adverbial accusative τήν αρχήν is equivalent, occurs
+both in contexts that aver (1) continuity as well as in contexts that aver (2)
+discontinuity. Thus, for (1), which avers continuity, see Jn 6:64: ήδει γαρ
+έξ αρχής ό Ίησοΰς τίνες εισίν (Jesus has known and continues to know);
+8:44: εκείνος [sc. ό διάβολος] άνθρωποκτόνος ην άπ' αρχής (i.e. he was and
+continues to be a murderer of humans); 15:27: καί ύμείς δέ μαρτυρείτε,
+οτι άπ' αρχής μετ' έμοΰ έστε ("you have been with me from the begin­
+ning"). 44 Similarly, in Jn 8:25 the context demands that Jesus' original
+witness to himself is still obtaining (i.e. "what I have been saying/speaking
+from the beginning"). For (2), which avers discontinuity, see Mk 10:6: άπο
+δέ αρχής κτίσεως αρσεν καί θήλυ έποίησεν αυτούς (no continuity of cre­
+ation is here implied); Lk 1:2: καθώς παρέδωσαν οι άπ' αρχής αύτόπται
+(their eye-witnessing is limited to what they saw in the beginning); Jn
+16:4: ταΰτα δέ έξ αρχής ουκ ειπον (no continuity with the present). Fur­
+ther: 1 Jn 2:24: ύμείς δ ήκούσατε άπ' αρχής ("what you heard from/at the
+beginning"; again, no continuity) (so, too, 3:11); 2 Jn 5: ην εϊχομεν άπ'
+αρχής; 5: καθώς ήκούσατε άπ' αρχής. In all these cases 'from the begin­
+ning' could have been substituted by 'originally' or 'in/at the beginning'
+without change of meaning.
+Thus, no objection can be raised against την αρχήν meaning both 'in/at
+the beginning', 'originally and'from the beginning' and being used in con­
+texts that aver discontinuity as well as in contexts that aver continuity.
+However, a proper solution to our problem must take into account the
+meaning and function of all elements in the sentence. First, we saw, above,
+that οτι should be read as ο τι (i.e. ο,τι) = that whichlwhat. This already
+eliminates the interpretation "To begin with, why do I... I that I even speak
+to you (at all)". Second, the present indicative λαλώ has been seen as a
+hindrance to rendering την αρχήν 'from the beginning', which demands a
+perfect, but this is a grammatical miss. The present indicative can certainly
+be used of an action that began at some point in the past and continues in
+the present, that is, it is equivalent to the English progressive perfect. In his
+treatment of the present, Jannaris writes:
+Jannaris exemplifies by Sophokles (V B.C.), Oidipous Tyrannos 1112: πάλαι
+ζητοΰμεν which means "we have been seeking since long ago" and by Pla­
+ton, Kratylos, 428 d: θαυμάζω καί αυτός πάλαι τήν έμαυτοΰ σοφίαν, which
+means "I myself have long been admiring my own wisdom". 46 Other exam­
+ples, using άρχήθεν, are: Aischylos (VI-V B.C.), Fr., 44 a 758 b. 2: άρχήθεν
+ποιηται λέγουσιν ("poets have been saying from the beginning"); Herodo-
+tos (V B.C.), I. 131: τούτοισι μέν δή θύουσι μούνοισι άρχήθεν ("only to
+these have they been sacrificing from the beginning"); In all these cases the
+present verbs are used to express an idea that is 'progressive', i.e. an ongo­
+ing action that began in the past. 47 This is rendered in English by the pro­
+gressive perfect 'have been...' The NewTestament is not without its examples:
+2 Cor 12:19: πάλαι δοκείτε 48 ("since long ago you have been thinking"). 49
+We must, then, conclude, that την αρχήν λαλώ means "I have been speak­
+ing from the beginning". Before we setde for a final translation for the entire
+sentence, we need to examine two more issues: (1) the function of the con­
+junction καί and (2) why τήν αρχήν is not placed at the end of the sentence.
+1. The conjunction καί. The addition of καί may appear strange. Cer­
+tainly, τήν αρχήν ο τι λαλώ ύμΐν would have been sufficient as an answer
+to the Jews' question, but only just about sufficient. The force of καί is to
+emphasize the connection between the identity of Jesus and the witness
+which he has been bearing to it. The identity of Jesus is conveyed by an
+implicit Τ am'. The καί—which connects this implicit Ί am' with λαλώ—
+adds depth to Jesus' answer. Without it, Jesus' answer would have been
+rather flat and prosaic. The meaning, then, is: "[I am] precisely (this is the
+50
+force of καί!) what I have been saying to you.. ."
+c
+2. The position of την αρχήν. In English the phrase from the beginning'
+usually follows the main verb of the sentence. The Greek use of πάλαι,
+άρτίως, άρχήθεν, etc., as can be seen from the above examples, shows vari­
+ation. We might, then, have expected that τήν αρχήν would have been
+placed at the end of the sentence, thus: ο τι καί λαλώ ύμΐν τήν αρχήν. This
+would have been rather colorless. By placing this strange, idiomatic adver­
+bial expression, which though accusative bears no case relation to the rest
+of the sentence, at the beginning so as for it "to stand out and to be viewed
+on all sides", as a great critic of styles, Dionysios Halikarnasseus, would
+have said, 51 Jesus puts added emphasis on his original message and witness
+to himself, a witness that has been borne continually to them all the way
+from the beginning (i.e. his first encounter with them) to the present con­
+frontation. The translation then must be:
+- "Who are you?"
+- "[I am] From the beginning!—precisely what I have been saying
+(speaking) to you". 52
+With a retrospect on Dionysios Halikarnasseus' principles for beautiful,
+effective and sublime composition, we may say that Jesus' terse answer
+exhibits grandeur and dignity. 53

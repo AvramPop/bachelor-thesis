@@ -1,0 +1,391 @@
+Johannine scholars have long noticed similarities between the Qumran
+1
+pesharim and the Fourth Gospel in their approaches to the OT. Barnabas
+Lindars asserted in 1961 that the writer of the Fourth Gospel "accepted
+the general contentions of the pesher method," and made use of the
+pesher exegesis of his community. 2 More recendy, Richard Longenecker
+has claimed that in the Fourth Gospel, "a pesher type of interpreta-
+tion is dominant," 3 and Maarten Menken has suggested that the evan-
+gelist practiced a kind of pesher exegesis akin to that found at Qumran. 4
+These assertions, while relatively frequent, are usually made en pas-
+sant—there is a surprising lack of extended comparisons of the use of
+Scripture in the Qumran pesharim and the Fourth Gospel. 5 This essay
+is an attempt to fill that gap and to move the discussion toward greater
+methodological clarity. After emphasizing the importance of definitions
+and the need for broad-based comparisons, I will discuss several sim-
+ilarities between the Fourth Gospel and the pesharim, including an often-
+overlooked similarity in formal structure.
+At least two problems may be observed in scholarly comparisons of
+the Fourth Gospel's use of the OT and pesher exegesis. First, as already
+noted, such comparisons are almost always made very briefly, often
+without a careful definition of what exactìy pesher exegesis is. 6 Alternatively,
+individual features of Johannine exegesis and the pesharim are some-
+times isolated and compared. 7 Contrary to such approaches, it would
+seem that a meaningful comparison between the Fourth Gospel and
+the pesharim should begin with a clear and fully-orbed understanding
+of what pesher exegesis is. After identifying the defining characteristics
+of the pesher genre, we will be in a better position to compare the full
+range of these characteristics rather than isolating individual characteristics
+for comparison. 8
+What exactly are the pesharim, then, and how should the genre be
+defined? Should content, exegetical technique, terminology, authorship,
+structure, setting, or some combination of these factors have primacy
+in determining which works belong to the genre and which do not?
+A sizeable literature has been devoted to this question, 9 and I do not
+pretend to offer a definitive solution to the debate here. Nevertheless,
+a few points may be noted. First, a helpful definition of the genre will
+be fairly broad, taking into account several factors and recognizing
+that they may interact in complex ways, rather than isolating a sin-
+gle, monolithic factor as determinative. 10 Secondly, the term 'pesher'
+should not be considered as constitutive of the genre, as is evident
+from the fact that it does not always appear in the Qumran pesher
+texts that otherwise share fundamental similarities in form and con-
+tent. 11 Thirdly, I would suggest that form and content must be the
+primary factors in defining the pesher genre, 12 with exegetical technique
+considered as a secondary factor. As will be suggested below, it is
+the combination of form and content that distinguishes the pesharim as a
+separate genre.
+The basic form of the Qumran pesharim may be described as a 'lem­
+14
+mario structure,' in which a text of Scripture (the lemma) is quoted,
+followed by an introductory formula, and identified with a contemporary
+15
+figure or situation. It is important to note that this structure is flexible,
+and variations are quite common. For instance, although the intro­
+ductory formula frequently uses the word 'pesher,' other formulae may
+also be used. 16 Moreover, some of the pesharim may repeat parts of the
+OT citation and follow these repeated fragments with further inter­
+pretations. 17 An illustration of the basic lemmatic structure of the pesharim
+may be taken from lQpHab2:10-12: 18
+[Citation of Hab. 1:6]: "For see, I will mobilize the Chaldaeans, a cruel [and
+determined people"
+Introductory formula: Its interpretation [DUS] concerns . . .
+Contemporary figure:... the Kittim, wh[o ar]e swift and powerful in battle...
+This structure is common to the three main types οι pesharim: the
+continuous pesharim (e.g. lQpHab, 4QpNah), which provide running
+commentary on 5-6 minor prophets, parts of Isaiah, and parts of the
+Psalms; the thematic pesharim (e.g. 4QFlor, HQMelch), which group
+OT texts and their interpretations around a particular theme; and the
+isolated pesharim (e.g. 1QS 8:14-16; CD 4:12-19) which occur in works
+20
+that otherwise do not belong to the pesher genre.
+However, although this lemmatic structure is a necessary part of
+the pesher genre, it is not sufficient by itself to define the genre. As
+Silberman has demonstrated, the lemmatic structure of the pesharim is
+closely paralleled in some midrashic literature, particularly in the petirah
+midrash. 21 It is the combination of structure and content that defines the
+pesharim as a separate genre. This content is chiefly characterized by
+two features. First, because the OT text is understood to have a secret
+meaning referring to the last days (in which the Qumran community
+perceives itself to be living), a strong 'contemporizing' of the OT texts
+is evident throughout the pesharim. The true, hidden meaning of the
+OT texts refers to the eschatological events of the Qumran community.
+Secondly, because the true meaning of the Scriptures is hidden in the
+written text of the OT, these mysteries must be brought to light by
+divine revelation. Accordingly, we encounter the claim that the mean­
+ing of the OT texts has been revealed by God to certain interpreters,
+chiefly the Teacher of Righteousness. 22
+Brooke concludes, based on his primary generic criteria of form and
+content and the secondary criterion of exegetical technique, that the
+Qumran commentaries are best classified as 'Qumran midrashim,' and
+that perhaps it would be best to drop the term pesher altogether. 23 What
+are we to make of this claim? The question of how the pesharim relate
+to Jewish midrash is a vexed one, debated ever since William Brownlee,
+the first editor of the Habakkuk commentary, characterized the pesharim
+as 'midrash pesher.' 24 The lines of the debate were drawn early: Brown-
+lee emphasized the use of midrashic techniques in the pesharim, while
+Karl Elliger stressed the essentially revealed nature of the pesher exegesis,
+comparing it to the dream interpretations of Daniel. 25
+While not pretending to offer a solution here, we may note that
+although there are certainly close links between the pesharim and some
+midrashic literature in terms of lemmatic structure and exegetical tech-
+nique, 26 there are marked differences in content. The midrashim, while
+certainly seeking to apply the OT text to contemporary needs, 27 do
+not 'contemporize' the text with the rigor of the pesharim, which con-
+sistently interpret the OT eschatologically to refer to the events occur-
+ring within the Qumran community. 28 Moreover, the claim of the
+pesharim to be 'revealed interpretation' also distinguishes them from
+much midrashic literature, 29 and suggests a background in the dream
+interpretation of Daniel and other Jewish literature. 30 In sum, the
+pesharim share features with the midrashim and the tradition of dream
+interpretation, but are distinct from both. Therefore, it seems to me
+that Brooke goes too far in speaking of 'Qumran midrashim.' 31
+The upshot of this discussion is that the pesher genre should be
+classified with attention to a range of factors, chief among them lemmatic
+structure and eschatological, contemporizing content derived through
+'revealed mterpretation.' Exegetical technique is a secondary consideration.
+One factor alone is not sufficient to define the genre—rather, form
+(structure) and content must be considered together. This broad-based
+definition of the pesharim suggests that when we compare them with
+the Fourth Gospel, it is important to give attention to the whole range
+of factors that define the genre.
+When the use of the OT in the Fourth Gospel is compared with
+pesher exegesis in terms of structure, content, and exegetical technique,
+certain similarities are evident. We will begin by comparing content
+and exegetical technique before suggesting an overlooked structural
+parallel in the fourth part of this essay.
+As noted above, one distinctive feature of the content of the pesharim
+is the claim that its interpretations of Scripture are divinely revealed.
+These claims are clear examples of the phenomenon of 'charismatic
+exegesis, 5 or 'revealed interpretation,' evident in much early Jewish lit-
+erature. 32 Two such claims are found in the pesher on Habakkuk:
+lQpHab 2:7-9 . . . when they hear all that is going to co[me up]on the last
+generation from the mouth of the priest into [whose heart] God put [under-
+standi]ng to interpret all the words of his servants the prophets.. , 33
+lQpHab 7:4-5 Its interpretation concerns the Teacher of Righteousness, to whom
+God has made known all the mysteries of the words of his servants, the prophets.
+Saeed Hamid-Khani has noted that the Fourth Gospel and
+Qumran pesharim share "obvious similarities," and yet concludes
+the similarities are "more of an appearance than reality." 34 Among
+main differences noted by Hamid-Khani is that, unlike Qumran,
+
+evangelist does not claim to have an exclusive revelation of the mean-
+ing of the Scriptures. However, although few scholars have argued this
+case, I suggest that John 6:45 is just such a claim. 35 Here, Jesus asserts
+in the midst of an exegetical debate over the meaning of the OT cita-
+tion in John 6:31 that the Jews should not grumble concerning his
+claim to be the 'bread' of 6:31, because only those whom the Father
+draws are able to come to him. To explain this claim, Jesus quotes
+Isa. 54:13, "And they will all be taught by God." It seems likely that
+the divine instruction spoken of in this context refers to the revelation
+of the true meaning of the Scriptures. According to the evangelist, it
+is only through the authoritative instruction of Jesus (6:46) and the
+Spirit (2:17, 22; 12:14-16; 14:26) that the Scriptures may be fully
+understood.
+The other fundamental feature of the content of the pesharim noted
+above is the claim that the OT texts properly interpreted speak of the
+eschatological events occurring within the life of the Qumran com-
+munity. 36 There are several indications that in an analogous fashion,
+the evangelist understands the true meaning of the OT to be the events
+surrounding Jesus' life. Thus, for instance, the formula "I am" is used
+to identify John the Baptist as the voice calling in the wilderness (1:23)
+and Jesus as the bread from heaven (6:31-58). 37 The disciples realize
+that Psa. 69:10 refers to Jesus' cleansing of the Temple (2:17), and
+remember later that Zech. 9:9 was "written of him" (12:14-16). The
+prophet Isaiah "spoke" Isa. 53:1 and 6:10 because he saw Jesus' glory
+and "spoke of him" (12:41). The Scriptures speak of Jesus' resurrection
+from the dead (20:9). Moses and the prophets wrote of Jesus (1:45;
+5:46), and the Scriptures bear witness to Jesus (5:39). Not all of the
+OT texts applied to Jesus axe straightforwardly prophetic (e.g. 12:37-
+41): nevertheless, through various means (e.g. typology) the evangelist
+understands them to speak of Jesus. 38 The full meaning of the Scriptures
+is brought out when its reference to Jesus is uncovered.
+Scholars differ on the number of explicit Scripture citations in the
+Fourth Gospel, but a generous list includes 1:23; 2:17; 6:31, 45; 7:37-38,
+42; 8:17; 10:34; 12:13-15, 34, 38, 40; 13:18; 15:25; 17:12; 19:24, 28,
+36-37. 39 Of these, seven (beginning from John 12) are introduced with a
+'fulfillment formula 5 (12:38; 13:18; 15:25; 17:12; 19:24, 28, 36-37). 40
+These seven fulfillment formulae demonstrate that the evangelist read
+the OT as referring to the eschatological events surrounding the life
+of Jesus, but the same assumption seems evident in many of the other
+OT citations. 41
+As noted above, the Qumran peshxmm use many of the exegetical
+techniques common to early Judaism. The same is quite clearly the
+case for at least certain sections of the Fourth Gospel. 42 Rather than
+dealing with all the exegetical methods common to the two corpora,
+we will note one interesting similarity. The evangelist makes numer-
+ous changes to the Scriptures that he cites, and uses the textual tra-
+ditions that most clearly bring out the point he wishes to make. One
+good example of this is the citation of Isa. 6:10 in John 12:40. Here,
+it seems likely that the evangelist, contrary to his normal preference
+for the Greek OT, cites from a Hebrew text, revocalizing the two
+Hebrew verbs as hiphil perfects instead of imperatives. 43 These changes
+are more likely due to intentional redaction than to loose citation or
+poor memory. 44 The evangelist's willingness to alter the Scripture text
+for theological reasons, or to use various textual traditions, is similar
+45
+to changes and text selections in pesher interpretation.
+We may now compare the structure οι pesher exegesis with that of
+the OT exegesis in the Fourth Gospel. Here we note that John 6:31-58
+has generally been overlooked in comparisons of the exegesis of the
+Fourth Gospel and the Qumran pesharim. In fact, Lindars suggests that
+the two OT citations in 6:31 and 6:45 reflect a later struggle in the
+time of the evangelist, and distinguishes them from the other, earlier
+pesher citations in the Fourth Gospel. 46 However, because our approach
+is to compare with the Fourth Gospel the full range of factors that
+constitute the pesharim rather than simply one feature or another, we are
+interested also in structural similarities. And John 6:31-58 appears to
+share some interesting similarities in structure with the Qumran pesharim.
+In his influential 1965 monograph, Peder Borgen demonstrated that
+John 6:31-58, like Philo and the Palestinian midrashim, paraphrases
+words from an OT citation and combines them with haggadic tradi­
+tions. 47 More specifically, Borgen demonstrated the presence of an
+exegetical pattern common to John, Philo, and the midrashim, in which
+an OT citation is divided and explained sequentially. The OT is cited
+in John 6:31: αρτον εκ του ουρανού εδωκεν αύτοίς φαγείν. 48 Vv 32-48
+paraphrase and discuss the first part of the citation ("He gave them
+bread from heaven"), while w 49-58 paraphrase and discuss the final
+word ("to eat"). 49 Borgen's argument that 6:32-58 is a sequential exe-
+gesis of ν 31 has been widely accepted, and sometimes developed fur­
+50
+ther, by other scholars.
+Borgen suggested in passing that the method of 'midrashic para­
+phrase' identified in John 6:32-58 was also used at Qumran, but did
+51
+not develop this insight. Indeed, Borgen's work contains a very light
+52
+treatment of the DSS, citing only a few passages from 1QS and CD.
+The work done above on the structure of the pesharim allows us to
+confirm and bring more specificity to Borgen's assertion of similarity
+between Qumran exegesis and the exegesis of John 6:32-58. We may
+note that the sequential pattern of explanation observed in John 6:32-58
+finds many analogies specifically in the pesharim, in which the OT is
+frequendy explained verse by verse, phrase by phrase, or even word
+by word. 53 In general terms, John 6:31-58 fits the lemmatic pattern of
+the pesharim described by George Brooke: an OT text is cited (6:31)
+and then interpreted (6:32-58). 54
+Further similarities emerge when we examine the terminology of
+6:31-58 more closely. In the w 32-58, two formulae are used in order
+to identify the άρτος of ν 31 as Jesus: i. "I am/this i s . . . (fragment
+of Scripture citation)"; ii. "this (i.e. Scripture fragment) i s . . ," 55 The
+former moves from a contemporary person or event back to Scripture,
+while the latter formula begins with the fragment of the Scripture cita­
+tion and moves to the contemporary figure. In John 6:31-58, both for­
+mulae are employed to declare the eschatological fulfillment of the
+Scripture citation in Jesus. Both formulae appear also in the Qumran
+pesharim in order to offer an eschatological interpretation of Scripture
+texts. The practice of citing a Scripture passage and then combining
+fragments of that passage with identification formulae is common in
+1
+the pesharim? and appears to be the exegetical procedure used in John
+6:31-58. We may examine each of these two identification formulae
+in turn:
+i. The four "I am" sayings in 6:35-51 refer to the "bread from heaven"
+in 6:31. 58
+6:35
+6:41
+6:48
+6:51
+59
+εγώ ειμί ò aproe της ζωής
+εγώ είμι o aproe ό καταβας εκ του ουρανού
+Έγώ είμι ο άρτος της ζωής
+έγώ ειμί o aproe ό ζών ò εκ του ουρανού καταβάς
+Several variations of the same identification formula may be noted
+in the Fourth Gospel itself: 1:23 identifies the Baptist as the "voice"
+from Isa. 40:3: έγώ φωνή βοώντος εν τη έρήμω, and 5:35 identifies the
+Baptist as the "lamp" from LXX Psa. 131:17: εκείνος ήν ò λύγν(κ ò
+καιόμενος και φαίνων. 60 A similar formula, ουτός έστιν, is used in ν 50
+and ν 58:
+6:50
+6:58
+ουτός έστιν ο άρτος ό εκ του ουρανού καταβαίνων
+ουτός έστιν ο άρτος ό έξ ουρανού καταβάς
+Although neither the ουτός in 6:50 nor the one in 6:58 has a proper
+antecedent, 61 it seems clear that both refer to the person or "flesh" (in
+6:58) of Jesus. 62 In this case, the meaning is, "This (i.e. my flesh) is
+the 'bread from heaven 5 spoken of in the Scriptures." 63
+The Qumran pesharim contain similar identification formulae in which
+a pronoun immediately precedes a Scripture citation (or a fragment
+thereof) in order to identify a contemporary person or event with that
+which is spoken of in the Scriptures. lQpHab 9:3f provides a good
+example. In 9:3-4, the writer quotes Hab. 2:8a: "Since you pillaged
+many peoples all the rest of the nations will pillage you." The con­
+temporizing interpretation of this verse follows in 9:4, using the typical
+"pesher" formula. The author asserts that Hab. 2:8a refers to the plun­
+dering of the last priests in Jerusalem, whose "riches and loot" will be
+seized by the army of the Kittim. Then, in lQpHab 9:7, the Kittim
+(mentioned in 9:6-7) are identified with a repeated fragment of the
+Hab. 2:8a citation, using the formula WPP ΊΓΡ Γ\ΏΠ: "they [i.e. the
+Kittim] are 'the rest of the nations' [Hab. 2:8] ," 64
+A similar formula can be used with the citation itself, rather than
+a repeated fragment of the citation. 4QpIsa b (4Q162) 2:7, referring to
+the scoffers in Jerusalem, uses the identification formula: ΓΠΓΡ ΓΓΠΠ ΠΚ
+10ΚΏ ΊϋΚ QH: "they [i.e. the scoffers in Jerusalem] are the ones who
+'Have rejected the Law of YHWH and mocked the word of the Holy
+One of Israel...' [Isa. 5:24f]." 65
+ii. A second identification formula is employed in 6:51, this time
+moving from the Scripture citation in 6:31 to Jesus' "flesh": και ο άρτος
+δε δν έγώ δώσω ή σαρξ μου έστιν. This formula is particularly com­
+mon in the Qumran pesharim, although it can be found also in Philo.
+Borgen notes two examples:
+Leg all 11:86 à γαρ άκρότομος πέτρα ή σοφία του θεοΰ έστιν ("For 'the flinty
+rock' [Deut. 8:15] is the wisdom of God")
+CD 6:4 ΓΠΤΓΠ ΚΠ ΊΚ3Π ('"the well' [Num. 21:18] is the law") 66
+To these examples we may add another from the Damascus
+Document:
+CD 6:7 ΓΓΠΓΠ ΒΓΤΠ Hfl ρρΤΠΡΓΤΙ ("'the staff* [Num. 21:18] is the interpreter of
+the law")
+Even more interesting are several identification formulae from 4QpNah
+(4Q169) Frags 3-4, column i:8-column ii:l. Phrases from the citation
+of Nah. 2:14 in col i:8-10 are repeated in the passage, and each one
+67
+is given in turn an eschatological identification:
+Column i:10
+Column i:10-ll
+Column i: 11
+Column ii: 1
+fPTT ΉΓυ Dil ΠΡ31Ί ('"your throng'
+of soldiers")
+1*TTÜ ΠΠ ΤΠΕΗΙ ('"his cubs' [Nah.
+ΕΛΒΠΤ *3[ΓΤΟ Ί^]ηρ ΊϋΚ ]"ΙΠΠ ΚΠ
+2:14] is the wealth which [the pries]ts
+[Nah. 2:14] are his gangs
+2:14] are his nobles")
+1ΒΊΡ1 ('"his spoils' [Nah.
+of Jerusalem accumulated]
+ΕΓΙΏ TU> ÜTp VOW tob "IÜK ITS Dil TOBfrPI ('"his messengers'
+[Nah. 2:14] are his emissaries, whose voice will no longer be
+heard among die nations")
+These examples, in which fragments of an OT citation are inter-
+preted eschatologically, are variations of the lemmatic structure of the
+pesharim described above, even though they do not use the word "pesher."
+The identification formula in John 6:51 is therefore the closest paral-
+lel to the basic lemmatic structure of the pesharim.
+One interesting result of our study is the observation that John 6:31-
+58 is one of the most pesher-lìke passages in the Fourth Gospel. Not
+only does it display the basic lemmatic structure of the pesharim, it also
+uses identification formulae quite similar to that of the pesharim. In
+addition, it uses midrashic techniques, contains a claim to revealed
+exegesis (6:45-46), and applies the OT text in 6:31 eschatologically.
+The claim that Jesus is the 'bread from heaven 5 reveals the true mean-
+ing of the OT passage cited in 6:31, a meaning not entirely obvious
+from the OT text itself.
+However, it must be said that while we have demonstrated some
+similarities between the Fourth Gospel and the Qumran pesharim in
+structure, content, and exegetical method, there are also quite clearly
+some significant differences. First, in terms of structure, although John
+6:31-58 shows some general similarities with the pesharim, there is no
+sustained running commentary of an extended OT passage like we
+find in the continuous pesharim, nor is there a thematic grouping of
+interpreted texts comparable to the thematic pesharim. In the pesharim,
+we find the text of the OT and the interpretation of the OT set out
+much more clearly and systematically than is in the case in John 6:31-58.
+At most, we have in John 6:31-58 something analogous to the isolated
+pesharim. Similar identification formulae are used, but the term pesher
+never appears in the Fourth Gospel. Moreover, apart from 6:31-58,
+there do not appear to be other exegeses of the OT in the Fourth
+Gospel in which the structure of the pesharim is paralleled.
+Secondly, according to the evangelist, the OT prophets saw the
+events of the future with considerable detail: Isaiah wrote what he did
+because he saw the glory of Jesus 'and spoke of him 5 (12:41, cp. 8:56).
+This contrasts with lQpHab 7:1-5, in which there is much about the
+future the prophets do not know, with the result that the Teacher of
+Righteousness understands better than they what they wrote.
+Finally, the similar identification formulae described above highlight
+an important difference in content. The identification formula "I am"
+is not used in the Qumran pesharim because the eschatological inter-
+pretation of the Scriptures does not generally relate to the one inter-
+preting the text. The "I am" identification formula of the Fourth Gospel
+is due in part to a unique situation: Jesus, the authoritative interpreter
+of the Scriptures, asserts that the revealed interpretation of those
+Scriptures points to himself.TM This radically Christo-centric hermeneutic 69
+sets the evangelist apart from the pesharim. Jesus comes with a new
+interpretation of the Scriptures, but ironically, his teaching of the
+Scriptures points beyond those Scriptures to a new and fuller revelation of
+God in himself. Such is not the case in the pesharim, where the Scriptures
+are properly interpreted (through divine revelation), but do not point
+beyond themselves to a source of greater revelation.
+While some interesting similarities have emerged from our broad-
+based comparison of the two corpora, these differences are significant
+enough to discourage referring to the exegesis of the Fourth Gospel
+as "pesher exegesis," as some scholars have done. 70 Perhaps the closest
+thing to pesher exegesis in the Fourth Gospel is John 6:31-58. While it
+is possible that the similarities are attributable to the direct influence
+of Qumran upon the Fourth Gospel, 71 there is not sufficient evidence
+to make such a claim. 72 Our study has shown, however, that some of
+Borgen's midrashic parallels in the Fourth Gospel may be more closely
+parallel to a pesher type of exegesis than to the midrashim. The simi-
+larities of the Fourth Gospel with the exegesis of the pesharim in both
+form and content may, in turn, bolster the case that the Fourth Gospel
+is a 'sectarian' writing 73 employing 'charismatic exegesis.'

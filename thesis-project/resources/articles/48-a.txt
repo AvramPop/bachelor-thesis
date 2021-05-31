@@ -1,0 +1,730 @@
+Chapter 10 of Paul's epistle to the Romans is full of exegetical prob­
+lems. The τέλος νόμου of v. 4 has attracted a considerable debate for
+centuries. 3 Although the verses subsequent to v. 4 are less notorious,
+the passage has been the subject of serious scholarly discussions since
+it is closely related to the interpretation of v. 4. The focus of discussion
+concerns the precise relationship between the passages quoted from
+Scripture: the one cited from Lev. 18:5 in v. 5 and the other cited
+from Deut. 30:12-14 in w . 6-8. Although it is traditional to perceive
+some sort of contrast between these quotations, there are some (e.g.
+Karl Barth, C.E.B. Cranfield and Robert Badenas) who have resisted
+such a conclusion. Their argument makes some sense, and is worthy
+of attention. Since the two books of Scripture from which Paul quotes
+are both part of the Pentateuch, it is inconceivable, so runs the argu­
+ment, that he could place one passage from one book against the
+other. In addition the latter passage as well as the former refers to
+doing the commandment of the Torah, at least in the original con­
+text of Deuteronomy, which Paul has omitted entirely. Paul makes
+the passages refer to 'the righteousness from faith (ή . . . εκ πίστεως
+δικαιοσύνη).' If the traditional understanding of the relationship between
+the quoted passages is correct, we are then faced with the question
+concerning the rationale for Paul's use of Scripture. We need some
+justification for his prima facie arbitrary use of Scripture in his argument.
+First we shall have a look at some of the explanations proposed in
+the past. An exhaustive survey cannot be given here, nor is it necessary.
+A glimpse at some studies will give us a sufficient perspective to work
+on the subject.
+Robert Badenas 4 denies any contrast between Lev. 18:5 in Rom.
+10:5 and Deut. 30:12-14 in Rom. 10:6-8, and instead argues for their
+complementary relationship. He understands the obedience described
+in v. 5 as stemming from faith. His primary argument is based on his
+teleologica! interpretation of τέλος νόμου in 10:4. Furthermore, he
+argues that Paul would have been unconvincing had he attempted to
+jeopardize the unity of Scripture by discarding a portion of it as incor­
+rect. On the basis of his interpretation of the respective passages in
+their original context in the Torah, he argues that Paul understands
+them in a complementary relationship. He rightly points out that the
+adversative meaning of δε should not be emphasized since it is basically
+a connecting particle (cf. 10:10). However, despite his serious arguments
+it seems difficult to evade entirely some sense of antithesis between the
+two quoted passages. A contrast seems to be intended in the ways in
+which the respective quotations are introduced: Μωϋσης γαρ γράφει
+την δικαιοσόνην την εκ [του] νόμου οτι... and ή δε εκ πίστεως δικαιοσύνη
+οΰτως λέγει. It seems natural to perceive some sort of contrast between
+'the righteousness from the Torah 5 and 6 the righteousness from faith,' 5
+and the verbs of writing and saying. It is appropriate to detect a con­
+trast especially if we take the tension between orality and literacy seri­
+ously, as will be argued below.
+Karl Barth, C.E.B. Cranfield and others present another interpretation
+in a somewhat similar vein. 6 They understand Lev. 18:5 cited in Rom.
+10:5 as referring to Christ although there is little in the verse which
+implies that reference. It is true that the immediately preceding verse
+makes a direct reference to Christ, and that those directly following
+present a christological interpretation of Deut. 30:12-13, but Christ is
+not mentioned in the verse in question. As we have cursorily argued
+with regard to the previous interpretation, if we accept that there is
+a sense of antithesis between v. 5 and w . 6ff., it seems more natural
+to take ο ποιήσας αυτά άνθρωπος as referring to humanity in general
+than to the Man, i.e. Christ. Their argument is more theological than
+exegetical. Again the tension between orality and literacy seems to
+favor a contrast between Rom. 10:5 and 10:6-8.
+A majority of scholars and commentators perceive some sort of con­
+trast between Lev. 18:5 in 10:5 and Deut. 30:12-14 in 10:6-8 although
+both quoted passages 'are clearly exhortations to keep or do the law' 7
+in the original scriptural context. Joseph A. Fitzmyer not surprisingly
+writes: 'Paul understands the Leviticus passage to be speaking of
+"uprightness that comes from the law" and the Deuteronomy passage
+as that which "comes from faith." He thus sets them in opposition.' 8
+The former passage is understood as explaining 'the futile character
+of the pursuit of an upright status before God on the basis of works.' 9
+Although there are those who do not agree with this precise interpretation
+of Rom. 10:5 because of a different understanding of contemporary
+Judaism, 10 Fitzmyer's understanding seems to reflect the 'usual expla-
+nation' 11 of the verse. For instance, J.D.G. Dunn is emphatic that the
+righteousness from the Torah is 'an expression of how his fellow Jews
+understood righteousness—life within the covenant, "covenantal nomism,"
+the pattern of religion and life which marked out the righteous, the
+people of the covenant,' and that 'there is no thought of "achieving
+righteousness" here.' 12 Still, Dunn's basic understanding of Paul's argu-
+ment is quite similar to that of Fitzmyer. 13
+Although E. Käsemann can be classified in this category, his inter-
+pretation is unique in that he draws our attention to the contrast
+between γράφει in v. 5 and λέγει in v. 6, and then connects it with
+the contrast between γράμμα and πνεύμα in Paul, most notably in
+Rom. 2:27-29; 7:6 and 2 Cor. 3:6. 14 Although his approach, which
+contrasts the righteousness from the Torah and the righteousness from
+faith, is a possible way of understanding the present passage, it is fair
+to say that he tries to press too much from the context. 15 He may be
+justified in connecting γράφει with γράμμα, but there is nothing which
+may point to πνεύμα in its immediate context.
+The brief survey above has clarified the problem. In spite of the
+resistance of some scholars, Paul seems to place a part of Scripture
+(Lev. 18:5) antithetically against another (Deut. 30:12-14). Although
+both quoted passages seem to make virtually the same point, he assigns
+the one to 'the righteousness from the Torah' and the other to 'the
+righteousness from faith.' The present contribution attempts to explain
+Paul's logic and rationale for this apparent arbitrariness.
+To begin, attention should be drawn to the peculiarity of the expres­
+sion, Μωϋσης... γράφει in 10:5. 16 There is nothing unusual about the
+expression itself, but Paul never uses it anywhere else in his letters. 17
+When the verb γράφω is used in an introductory formula to a scriptural
+quotation, it is almost always employed in the passive perfect tense
+(γέγραπται), sometimes in the passive aorist tense (έγράφη). Out of 21
+occurrences of the verb in Romans, 16 are found in the passive perfect
+tense, which introduces a scriptural quotation. 18 Out of the rest of 5
+uses, it is found twice in the passive aorist form, which refers to a part
+of Scripture (4:23; 15:4). The verb is found only three times in an
+active voice throughout Romans. Once Paul refers to his own writing
+ministry, presumably through the hand of his amanuensis (15:15), and
+his amanuensis, Tertius, refers to his own scribal activity (16:22). In
+10:5, then, Paul introduces a portion of the Torah by the phrase,
+'Moses writes.'
+A similar result is obtained if we turn to the other parts of the New
+Testament. There are 18 occurrences of the verb, γράφω, in 1 Corin­
+thians. 9 out of 18 are found in the passive perfect tense, all of which
+introduce a scriptural quotation. 19 The other three passive forms include
+one perfect participle directly modifying the noun 20 and two aorist
+indicatives. 21 5 out of the 6 active forms are in the first person sin­
+gular, referring to Paul's own writing ministry. 22 The last one is found
+in the second person plural form, which refers to the Corinthians's
+writing activity. 23
+Things look slightly different if we turn to 2 Corinthians, but the
+result is more or less the same as far as our interests are concerned.
+There are 10 uses of the verb in 2 Corinthians. Out of 10 occurrences
+3 are found in the passive perfect tense. 24 6 out of the 7 active forms
+are employed in the first person, referring to Paul's own writing min­
+istry. 25 The last one is in the infinitive form, but used with the first
+person singular pronoun, which signifies something like Tor me to write
+to you.' 26 Again the reference is to Paul's own writing ministry.
+We find 7 occurrences of γράφω in the epistle to the Galatians.
+Twice the verb refers to Paul's own writing ministry. 27 The remaining
+uses are found in the passive perfect tense. 28 There are only 7 uses of
+the verb in the rest of the Pauline corpus, all of which refer to Paul's
+own writing ministry although the form varies from case to case. 29
+If we return to Romans, a comparison with the other verbs like
+λέγω will help us to appreciate the significance of the expression in
+10:5. Apart from the regular use of the passive perfect form of
+γράφω, Paul makes use of a form of the verb, λέγω, when he intro­
+duces a scriptural quotation in, for example, 10:6, 8. In 10:19 it is the
+phrase, Μωϋσής λέγει, which introduces a citation from Deut. 32. More
+telling is the combination of ή γραφή with λέγει in, for example, 9:17;
+10:11, which can be translated literally as 'the writing, i.e., Scripture,
+says.' If we count the occurrences of the verb λέγω used to introduce
+a scriptural quotation, we can find up to twenty-one of them in
+31
+Romans. 17 out of 21 are used in the present tense. Out of the 21
+occurrences 14 are found in chapters 9-11.
+A cursory survey of other materials confirms our findings so far.
+Both in the Mishnah and the Dead Sea Scrolls the verbs of writing
+pro) and saying ("IQK) are employed to introduce an explicit scriptural
+quotation. The verb, 3ΓΟ, is almost always used in the passive form
+in an introductory formula for explicit quotations of Scripture, but not
+32
+in an active form. With regard to Josephus and Philo it is extremely
+difficult to conclude anything definite about formulas to introduce a
+scriptural quotation since their works include retelling of scriptural nar­
+rative, in which scriptural 'quotations' are usually interwoven within
+their accounts.
+Since I have emphasized the significance of the phrase, Μωϋσης...
+γράφει, 33 it might seem as though I were calling for a resurrection of
+Käsemann's thesis regarding the γράμμα and πνεύμα dichotomy. On
+the contrary, I should like to take a markedly different approach to
+the question. I propose that there is a tension between orality and
+literacy/textuality standing behind these references to Scripture in Rom.
+10. In contrast to the introduction to a scriptural quotation, Μωϋσης...
+γράφει, Paul emphasizes the oral nature and oral communication of
+the gospel consistently in 10:6-21.
+Before we approach Rom. 10 from the perspective of orality and
+literacy, it is necessary to have a close look at Paul's use of γέγραπται.
+Although Paul makes use of the verb γράφω in an active voice only
+once when he introduces a scriptural quotation, the passive perfect
+34
+form (γέγραπται) is frequently found throughout his writings (e.g. Rom.
+8:36; 9:13, 33; 10:15; 11:8). This is apparently a literary phenomenon,
+but can be classified in a special category, which illustrates a tension
+between orality and literacy. As a background survey we look first at
+γέγραπται in LXX, and then in the New Testament.
+In the whole LXX γέγραπται occurs twenty-five times. 35 In all the
+passages it is used to describe the fact that something is recorded in
+some authoritative documents. Josh. 9:2β; 2 Kings 14:6; 23:21; 2 Chr.
+23:18; 35:12; Neh. 10:35, 37; Tob. 1:6 are obvious cases since the
+Law of Moses is explicitly mentioned. 2 Chr. 32:32 refers to the
+prophecy of Isaiah. Although most of the other passages tend to employ
+obscure expressions, they also refer to some authoritative documents,
+either those pre-scriptural documents apparently used as 'sources'
+for some part of Scripture 36 or official state documents 37 including
+Jezebel's sealed letter in the name of Ahab concerning Naboth (1 Kings
+20:11).
+At first sight it appears difficult to make sense of Job 42:17a, a part
+of the epilogue to Job in LXX, which reads: γέγραπται δε αυτόν πάλιν
+άναστήσεσθαι μεθ' ων ό κύριος άνίστησιν. The subsequent verse 17β
+claims that the whole account of Job is translated εκ της Συριακής
+βίβλου. We can conclude that the γέγραπται in Job 42:17a also refers
+to the writing down in Scripture. The case of Psa. 40 (39 in LXX):
+8 is slightly different and difficult, since it is not certain what scroll is
+referred to in the context. But it is arguable that the psalmist has in
+mind a scroll of Scripture since he is speaking to his God. In Isa. 65:6
+God himself is described as saying, 'ιδού γέγραπται ενώπιον μου (behold,
+it is written before me),' which is comparable to saying that s it is
+written in Scripture. 5 lEsdr. 3:9 and Ezra 5:7 seem to be exceptional.
+Some simple notes are referred to by γέγραπται in these verses, but
+with some official nature. Still the fact remains that most of the instances
+of γέγραπται in LXX refer to the fact that something is written in
+some sort of Scripture or official authoritative documents.
+A similar picture emerges when we turn to the New Testament.
+Almost all the uses of γέγραπται in the New Testament introduce a
+scriptural citation. Out of 67 occurrences of γέγραπται in the New
+Testament 55 introduce a scriptural citation. 38 In addition there are other
+passages, which refer to a certain content or a summary of Scripture
+without quoting from Scripture as such: e.g. Matt 26:24a reads: ό μεν
+υιός του ανθρώπου υπάγει καθώς γέγραπται περί αύτοΰ. We can count
+7 uses in this category. 39 An instance in Heb. 10:7 occurs with a citation
+from Ps. 40 (39 in LXX):8, which the author of Hebrews understands
+as a messianic prophecy. For him the Old Testament passage must
+be a scriptural prophecy concerning Christ. Two occurrences in Re­
+velation concern the fact that someone's name is not recorded in the
+book of life (Rev. 13:8; 17:8). In John 20:31 John refers to his own writ­
+ing in connection with his writing purpose: ταΰτα δε γέγραπται ίνα . . , 40
+The last instance, 1 Cor. 4:6, concerns one of the most technically
+interesting and notorious clauses for textual and exegetical discussion
+namely το μη υπέρ α γέγραπται. Anthony C. Thiselton enumerates
+seven possible interpretations, 41 and proposes to combine the thrust of
+what Paul has quoted from Scripture with two broader principles: the
+regular appeal to the Old Testament as Christian scripture and the
+idea that this passage has assumed the status of a maxim, or a say­
+42
+ing well known in the Corinthian church.
+If we widen our research slightly, the result turns out to be quite
+similar. In Philo's writings the γέγραπται occurs eleven times, and all
+of them refer to Scripture and introduce either a scriptural citation or
+43
+its summary. In Josephus there are 7 occurrences of γέγραπται. Only
+one of them refers to Scripture as such, but the rest make reference
+to some sort of official documents. 44 However, it must be admitted
+that this tendency is not recognizable once we widen the scope of our
+research beyond Hellenistic Jewish literature. 45
+Although it is not appropriate as a grammatical term, almost all
+occurrences of γέγραπται seem to be so-called 'divine passives,' that is,
+'God wrote/has written.' The power of writing is recognizable in the
+usage of γέγραπται. However, it is extremely difficult to distinguish
+whether the power derives from the writing in general or from the
+divine writing. Probably it is the case that the power is perceived in
+the writing in general, but especially in the authoritative writing. 46
+Now we turn to a general survey of orality and literacy as the back­
+ground information, which might shed some light on our passage.
+Milman Parry has 'rediscovered' and argued convincingly for the oral
+nature of the Homeric verses. 47 It is now almost unanimously accepted
+that the Homeric verses were originally composed extemporaneously
+and sung without the aid of writing. This Homeric state of mind can
+be contrasted with that of Plato (c. 429-347 BCE), which was enabled
+by literacy. 48 From another point of view it is Isocrates (436-338 BCE)
+who established the literary mind; he was the first logographer although
+he has probably never delivered an address orally. 49 A dynamic tension
+between orality and literacy predominated in ancient Greece, for instance
+in Plato and Isocrates. 50 In more general terms Walter Ong has argued
+that there were two different modes of thinking and expression, i.e.
+oral and literate cultures. 51 These studies may provide us with some
+background information to the New Testament, but only indirecdy since
+literacy was widespread and rooted in contemporary society by New
+Testament times. By the time of Aristotle (384-322 BCE) not only books
+were abundant, but also a reading public had emerged. This was the period
+of libraries and readers, as is evidenced by Aristotle's personal library. 52
+Since we are not dealing with an illiterate society when we look at
+the New Testament world, we cannot take it for granted that there
+was a simple opposition between orality and literacy. 53 However, even
+after literacy has become common, oral mentality and preference for
+orality have persisted. 54 Probably we should think in terms of a nuanced
+tension between orality and literacy, not a simple opposition since we
+are dealing with an ancient literate society where orality persisted.
+From this perspective it is worth noting that there were certain am­
+bivalent attitudes towards literacy in the ancient world. 55 The proverbial
+phrase, ζώση φωνή ('living voice 3 ), is attested for the first time in Cicero,
+Utters to Atticus II 12.2 (59 BCE): ubi sunt qui aiunt ζώσης φωνής?
+56
+('What nonsense that is about the living voice!') Among Lucius Annaeus
+Seneca's epistles addressed to Lucilius (63-65 CE) the phrase occurs
+twice in Latin: Plus tarnen tibi et viva vox et convictus quam oratio
+proderit. (vi. 5; O f course, however, the living voice and the intimacy
+57
+of a common life will help you more than the written word.') 'Multum,'
+inquit, 'viva vox facit.' (xxxiii. 9; 'The living voice,' one replies, 'is a
+great help.') 58 Although it is extremely difficult to specify the extent of
+circulation the phrase enjoyed, the precise context of its use and its
+origin, its use demonstrates the existence of scepticism towards the written
+word in the ancient world. It is easier to find evidence for the sceptical
+sentiment towards the written word in the Christian literature of the
+later centuries. 59 The relevant passages in the Pauline corpus will be
+surveyed briefly with special reference to orality and literacy. This sur­
+vey will deal only with the oral nature of letters and the Pauline epistles.
+A letter functions as a substitute for someone's personal presence 60
+and oral personal communication. It follows that real letters (literary
+letters excluded) as a literary genre had some sort of oral nature.
+People usually dictated letters to scribes and they were read aloud in
+usual circumstances, and sometimes with additional explanations, if
+62
+necessary. For instance, if we look at Paul's letters closely, it is not
+difficult to find some oral traits like diatribal arguments and oral pat­
+63
+terning. While there are several ways to explain the phenomenon of
+oral traits in a written medium like letters, 64 we may safely conclude
+that real letters as a literary genre can be situated somewhere between
+orality and literacy.
+A good example of a tension between orality and literacy is the
+combination of ή γραφή with the verb λέγω (e.g. Rom. 9:17; 10: II). 65
+Since this phenomenon can be easily explained as a personification of
+ή γραφή, a tension may be too strong a word to describe it. It may
+be better to characterize it as fluidity. The idea that any text is to be
+read aloud and heard is reflected in this fluidity. Jews heard Scripture
+read aloud at the synagogal worship. 66 Since reading silently only with
+the eyes was rare, all reading was reading aloud. It may be the case
+that people did not consciously distinguish the written medium from
+the oral medium. 67 Or to put it more precisely, it was taken for granted
+that the written medium was subsidiary to the oral medium.
+A similar but somewhat more sophisticated personification is found
+in Gal. 3:8, which reads: προϊδοΰσα . . . ή γραφή οτι..., προευηγγελίσατο
+τφ Αβραάμ.. , 68 (Scripture, knowing beforehand that..., evangelized
+beforehand to Abraham...) The verb προευαγγελίζομαι / εύ<χγγελίζω
+does not necessarily imply oral communication, but that is basically
+what Paul had in mind, as will be seen below. Apparently in the con­
+text of Genesis God's promise of blessing was spoken to Abraham. 69
+Another indication of Paul's initial reservations about writing can
+be detected in his repeated references to his previous oral instruction
+in 1 Thess. 4:1-5:1. He may merely be referring back to his previous
+instruction given during his recent visit, but he seems to prefer face-
+to-face oral instruction to a written medium. The introduction to the
+paraenetic section of the letter seems to disguise a mild apology for
+writing (4:1-2):
+λοιπόν ουν, αδελφοί, έρωτώμεν ΰμ&ς καΐ παρακαλοΰμεν έν κυρίφ Ίησοΰ, ίνα
+καθώς παρελάβετε παρ' ημών (as you learned from us [orally]) το πώς δει ύμας
+περιπατείν και άρέσκειν θεψ, καθώς και περιπατείτε, ίνα περισσεύητε μάλλον,
+οϊδατε γαρ τίνας παραγγελίας έδώκαμεν ύμΐν (what instructions we gave you
+[orally]) δια του κυρίου Ίησοΰ.
+The references to Paul's previous oral instruction are interspersed
+in the rest of the chapter: καθώς και προείπαμεν ύμΐν καΐ διεμαρ-
+τυράμεθα (4:6b); περί δε της φιλαδελφίας ου χρείαν έχετε γράφειν ύμΐν
+(4:9); παρακαλοΰμεν δε ύμας, αδελφοί,... καθώς ύμΐν παρηγ/είλαμεν
+(4:10b, Hb); περί δε των χρόνων καΐ των καιρών, αδελφοί, ου χρείαν
+έχετε ύμΐν γράφεσθαι (5:1) The phrase *ού χρείαν έχετε' is a rhetorical
+device, but its repeated use implies that Paul is almost saying that it
+is unnecessary to write to his addressees since oral instruction had
+already been given.
+By alluding repeatedly to his previous oral instruction Paul bases
+his written word on the spoken. 70 Paul's remark in Gal. 4:20 is relevant
+here. He would have preferred to be with his churches and communicate
+with them face-to-face.
+Arthur Dewey presents an excellent interpretation of Gal. 3:1-14 in
+terms of orality and literacy although the expressions he explicitly uses
+71
+are πνεύμα and γράμμα. He points out that Gal. 3:8 reveals a tension
+between orality and literacy, where Paul takes the scriptural blessing
+to Abraham as the prophecy of the oral gospel (see above). When Paul
+starts arguing about the curse of the Torah, he emphasizes the written
+nature of the Torah, which is evident if we compare Deut. 27:26
+(LXX) and its citation in Gal. 3:10. 72
+In Romans 10, especially starting from v. 6 onwards, Paul definitely
+stresses the orality of the gospel. Verse 6 introduces the theme of the
+oral gospel by stating ή δε εκ πίστεως δικαιοσύνη οΰτως λέγει· μη εΐπης
+έν τη καρδία σ ο υ · . . . (But the righteousness from faith says thus, 'Do
+not say in your heart...') In connection with the citation from Deut.
+30:14 Paul explains it as τοΰτ' εστίν το ρήμα της πίστεως δ κηρύσσομεν.
+(This is the word of faith which we proclaim.) 73 Then Paul moves
+from the mouth in the citation to confession of faith with one's mouth
+in w . 9a, 10b. The second citation from Isa. 28:16 is introduced by
+'λέγει γαρ ή γραφή' (For Scripture says,.. .)' 74 To conclude the paragraph
+in v. 13 a passage from Joel is cited: πας γαρ δς αν έπικαλέσηται το
+δνομα κυρίου σωθήσεται. (For everyone who calls upon the name of
+the Lord will be saved.)
+The rhythmically arranged verses (w. 14-15) continue this emphasis
+on the orality of the gospel, which appears from the repeated use of
+the verbs έπικαλέω, ακούω and κηρύσσω. Furthermore, the two citations
+from Isaiah (52:7 in v. 15 and 53.1 in v. 16) reinforce it with the verb
+εύαγγελίζω ('proclaim the good news') and the noun ακοή ('what is
+heard'). The figure of those who proclaim the good news seems to be
+modeled after a herald, who is sent to announce the coming of the
+king. The faculty of hearing is emphasized in the repeated ακοή of
+75
+v. 17. The quotation from Ps. 19 (18 in LXX) drives home to the
+orality of the gospel although the psalmist was thinking of a silent
+voice (Ps. 19:4!). 76
+We must ask why Paul emphasizes the orality of the gospel in this
+context. It is certainly true that it simply reflects the fact that the
+gospel was communicated orally, but that can hardly be the only reason
+for his emphasis especially in the light of the contrast to v. 5: Μωϋσης
+γαρ γράφει την δικαιοσύνην την έκ [του] νόμου δτι ό ποιήσας αυτά
+άνθρωπος ζήσεται έν αύτοΐς. 77 (For Moses writes concerning the right­
+eousness from the Torah that the person who does them will live in/by
+them.) While Paul thus introduces the Leviticus passage, the Deuteronomy
+passage is introduced as the saying of the righteousness from faith.
+Polemical reasons seem to lurk behind this apparent tension between
+the oral gospel and the written Torah.
+The repetition of 'mouth 5 and 'heart' is conspicuous in this section,
+which is intended to expound the phrases (έν τφ στόματί σου and έν
+τη καρδία σου) in the quotation of Deut. 30:14 in v. 8. 78 In connection
+with the oral gospel it is apparent that the 'mouth' is related although
+Paul connects it with confession here rather than with proclamation.
+It is with the mouth that one proclaims the gospel, one confesses
+Christ, and one calls upon the Lord. Then our question concerns the
+connection of 'heart' with the oral gospel. According to Paul, when
+one receives the Spirit one receives it into the heart (Gal. 4:6; 2 Cor.
+1:22; Rom. 5:5). The heart is a neutral sphere, which can be bad or
+good. Whether the heart is good or bad affects a whole person. Paul
+describes those who are condemned by God as having 'bad' hearts. 79
+Those in the opposite category, whether hypothetical or not, have the
+work of the Torah written in their hearts (το έργον τοΰ νόμου γραπτον
+έν ταΐς καρδίαις αυτών in 2:15) and circumcision of the heart by the
+Spirit (περιτομή καρδίας έν πνεύματι in 2:29). 80 When Paul emphasizes
+the sincerity of his desire, he refers to his own heart (9:2; 10:1). The
+heart is certainly the seat of will, intentionality, emotions, and affections
+(Rom. 6:17; 5:5; Phil. 1:7; 1 Thess. 2:4, 17), but it is the linchpin, so
+to speak, of a whole human existence.
+Kelber writes:
+Spoken words enter the human heart and enjoy privileged participation in human
+actuality... what enters the human heart affects a person's whole being. In
+broader hermeneutical perspectives, spoken words are experienced personally and
+more directly than written words. Sound has a pervasive quality; it permeates
+one's whole physical existence. 81
+Paul identifies 'the word in your mouth and in your heart' of Deut.
+30:14 with 'the word of faith which we proclaim' in Rom. 10:8. This
+identification implies that the verbal dynamics are involved in Paul's
+proclamation of the gospel. Paul seems to be in agreement with Kelber
+on the vitality of spoken words.
+What becomes apparent in Paul's argument in Rom. 10 is the inti­
+mate relation between mouth and heart, 82 which is particularly evident
+in the parallel structures of w . 9 and 10:
+δτι έάν όμολογησης έν τφ στόματί σου κύριον Ίησοΰν
+και πιστεύσης έν τη καρδία σου δτι ò θεός αυτόν ήγειρεν έκ νεκρών,
+σωθήση·
+καρδία γαρ πιστεύεται εις δικαιοσυνην,
+στόματί δε ομολογείται είς σωτηρίαν.
+The close parallel structures make it plain that believing in one's
+heart and confessing with one's mouth are not two separate actions.
+They may be distinct, but not unrelated actions. They are the two
+aspects of the saving faith, two sides of one coin. 83
+It is not difficult to infer that for Paul the voice of the gospel reaches
+the human heart more easily than the written Torah, but here we
+must face the heart of the problem. It was customary to have the writ­
+ten Torah read aloud at the synagogal worship. 84 Paul's letters were
+written down and carried/sent to churches to be read aloud (e.g. I
+Thess. 5:27). We must ask if it was legitimate for Paul to characterize
+the Torah as written while the gospel is oral. It must also be asked if
+he was justified in citing from Deut. 30 without a portion dealing with
+deeds, and referring to it as fi the word of faith.'
+The biblical passages Paul cites to promote his argument in connection
+with the gospel can be classed with 'prophecy,' including those from
+Deuteronomy. It may not be appropriate to classify the whole book of
+Deuteronomy as 'prophecy,' but the passages Paul cites here are derived
+from the prophetic section. In Deut. 30 Moses prophesies the future
+restoration after God's curses have befallen the people of Israel, that
+is, the return from exile. 85 Moses's song in Deut. 32 consists of various
+materials. The very verse Paul quotes (i.e. v. 21 in Rom. 10:19) is sus­
+ceptible to various interpretations, but his understanding of it in terms
+of 'prophecy' becomes clear in the way he cites in his argument. Two
+passages quoted from Isaiah follow this 'first' passage from Moses. The
+ways in which the three citations are introduced are styled in a par­
+allel fashion, but with some difference in wording (w. 19b, 20a, 21a): 86
+πρώτος Μωϋσης λέγει·
+Ησαΐας δε άποτολμφ και λέγει-
+προς δε τον 'Ισραήλ λέγει-
+It seems that Paul has deliberately collected the relevant 'prophecies'
+to explain the situation of Israel concerning the gospel. This corresponds
+well to his 'self-portrait' as an 'apostle of Gentiles' (11:13): he models
+himself after the figure of Isaiah, a prophet or herald. 87 Although it is
+true that there are prophetic writings in Scripture, a primary function
+of a prophet is proclamation and acted parable. 88 Recording of prophecies
+comes later. An extemporaneous and impromptu proclamation/
+speech is susceptible to God's control and inspiration. It can be gen­
+eralized as that prophets prefer oral communication to written com­
+munication. The tendency is obvious in the typical introduction to a
+89
+prophecy, "Thus says the Lord (i"D ΐΤΙΓΡ ΊΒΚ).' Since Paul considers
+himself to be a 'prophet,' an authoritative proclaimer of the gospel, it
+can be concluded that he shows preference for orality. When Paul
+states that Moses writes about the righteousness from the Torah, there
+must be an intention to emphasize the tension between the gospel and
+the Torah from the perspective of orality and literacy. At the same
+time it is implied that tension derives from the tension between the
+prophetic section of Scripture and the Torah. 90
+If we are right in understanding that Paul has some preference for
+orality because of his self-image as a 'prophet,' we must now ask if it
+is legitimate for him to 'edit' the biblical prophecies when he quotes
+and claims their fulfillment. To put it another way, we must ask why
+Paul chooses Deut. 30:12-14 and introduces it as the saying of
+the righteousness from faith in opposition to the righteousness from
+the Torah although the passage is making virtually the same point as
+Lev. 18:5.
+There is no way of knowing the exact text of Paul's Scripture for
+certain. 91 However, the text of Romans 10:6-8 seems to reflect Paul's
+interests. For instance, no reference to the Torah or deed is found.
+Paul obviously presents a christological 'interpretation' of that 'quota­
+tion.' Besides, a parallelism between v. 6bc and v. 7 is striking.
+Hence, we can probably attribute the final text of the 'quotation'
+to him. 92 Here simply for the sake of convenience we assume that Paul
+had the text of the Göttingen LXX project 93 in front of him without
+implying that is the exact text he actually had and worked from.
+Not only Paul's interpretation of Deut. 30:12-14 seems to contradict
+its original meaning and intention in the original context, 94 but also
+he has reworked the text of Deut. 30 considerably as he cites it in
+Rom. 10. It is especially evident in 10:7, which diverges from the text
+of Deut. 30:13; Paul writes 'τίς καταβήσεται εις την αβυσσον;' (who
+ς
+will descend into the abyss?) while Deut. 30:13 reads τίς διαπεράσει
+ήμίν εις το πέραν της θαλάσσης;' (who will go over the sea for us?).
+While in the context of Deuteronomy the main thrust of the passage
+concerns the practicability of the commandments in the Torah, no ref­
+erence to deeds, doing or obeying is found in Paul's 'quotation.' Scholars
+have been dealing with this question for some time, and there are
+scholars who explicitly deny Paul's apparent intention to quote a pas­
+sage from Scripture. Quite a few have understood that Paul is not
+interpreting the passage in Deuteronomy, but simply making use of its
+language to express his own ideas. 95 Some characterize it as a prover­
+bial and familiar saying, but see no intention on Paul's part to base
+his argument on Scripture. 96
+Recently it has become more common to accept the text of Rom.
+10:6-8 as some sort of quotation from Scripture and to attempt to
+explain Paul's interpretation by appealing to various texts of Jewish
+literature on the assumption that Paul's interpretation either made use
+of or was influenced by contemporary interpretations. In other words,
+while his interpretation may not make much sense to us, it must have
+done so to his contemporaries. The Jewish writings which have been
+97
+mentioned in this connection are Targum Neofiti, Baruch and Philo etc.
+On the basis of the alleged striking similarities between Rom. 10:6-8
+98
+and Targum Neofiti on Deut. 30:12-14 S. Lyonnet and M. McNamara"
+argue that Paul knew the paraphrase of the text of Deut. 30 reflected
+in Targum Neofiti and adapted it for his purpose. 100 We can say that
+the similarities are impressive, but it is probably an overstatement to
+say that they 'can scarcely be due to pure accident.' 101 It is extremely
+difficult to date the targumim and targumic traditions. We can legitimately
+say that Diez Macho's arguments for the pre-Christian dating 102 is not
+conclusive, but it is certainly possible that some of the tradition of
+Targum Neofiti derives from the pre-Christian period. The targumic ref­
+erences to Moses in connection with the ascent to heaven and Jonah
+in connection with the descent into the depths of the great sea are
+not found in Paul's 'quotation.' It is possible that Paul knew (part of)
+the targumic tradition and made use of it for his argument. I wonder
+if he really needed such a tradition to modify the scriptural citation.
+Bar. 3:29-30 presents an interpretation of Deut. 30:12-14 in terms
+of Wisdom tradition. The Wisdom tradition personifies and identifies
+Wisdom with the Torah (e.g. Sir. 24). The idea that Wisdom is inac­
+cessible to men is expressed by the symbols of 'heaven' and 'sea.' It
+is argued that Paul is extending the traditional identification of Wisdom
+with the Torah to the equation Wisdom=Torah=Christ. It is impor­
+tant to notice that Baruch speaks of the gracious election of Israel and
+his gift of the Torah (= Wisdom) to the point that 'Baruch affirms of
+the Torah what Paul affirms of Christ: that by this instrument "the
+103
+word is near you.'"
+It is quite possible that Paul was aware of all or some of these inter­
+pretative traditions, but we probably cannot identify the 'source' behind
+his citation. Maybe we should not assume a single source. Various
+kinds of interpretation could have been floating around him at the
+time. Richard B. Hays has pursued the question by taking the effect
+of intertextual echo seriously. By introducing a citation from Deut.
+30:12-14 with Deut. 9:4 Paul echoes the idea that the covenant depends
+on God's grace rather than on Israel's own righteousness (Deut. 9:4-6).
+By echoing the Wisdom tradition found in Job, Baruch and Sirach,
+Paul implies that the word of God spoken in the Torah is identical
+with the Wisdom of God in the person of Jesus Messiah. Hays has
+convincingly argued that Paul's evocation of Deut. 9:4 and of the
+Wisdom tradition creates intertextual echoes, which suggest that Paul's
+interpretation is less arbitrary than it sounds. 104
+The basic question we must face here is the rationale behind Paul's
+seemingly arbitrary and flexible attitude towards the scriptural text
+when he cites. Hays's intertextual approach alleviates its arbitrariness
+somewhat, but he has no intention to defend Paul's exegesis. Nor do
+I have any intention to defend his exegesis, but I should like to pinpoint
+the reason why he chooses this scriptural passage and applies it to the
+christological events contrary to its apparent and original intention to
+encourage doing commandments of the Torah. The intertextual echoes
+Hays has pointed out seem to guide us in the right direction.
+It seems that the key concept is prophetic. Paul seems to be willing
+to employ for his purpose whichever part of Scripture as long as he
+understands it as prophetic and having been fulfilled. Although Deut.30:12-14 belongs to the Pentateuch, the Torah, he cites it in the middle
+of his argument as the saying of 'the righteousness from faith,' because
+he regards it as prophetic (and it is!). Such an approach to Deut. 30
+is further justified if the contemporary Jews perceive that they are still
+105
+in a state of 'exile' because the passage looks beyond the dispersion
+of Israel. Hays's intertextual analysis reveals his awareness of this
+106
+prophetic nature, but he does not seem to regard it as decisive as
+I do. Not only is the passage prophetic, Paul firmly believes that it is
+fulfilled. With the conviction that he is living at the time of fulfillment
+of scriptural prophecies, he rereads and reinterprets Scripture. 107
+Once a prophecy is fulfilled, its meaning tends to change; while
+prior to its fulfillment a prophecy is prospective, it becomes retrospective
+once it is fulfilled. To complicate the matter, prophecies in general do
+not seem to presuppose that there is a single fulfillment of a prophecy.
+From such a perspective we should consider the possibility that fulfillment
+happens in a series of fulfillments instead of in one fulfillment. In that
+respect we should say that Paul is conscious of living in the tension
+between the already and the not yet, i.e between what is fulfilled and
+what awaits fulfillment.
+With the conviction that the 'prophecy' to observe the Torah is
+partially fulfilled in Jesus's earthly life, Paul may have thought that it
+is no longer binding on the people of God as before. Although his
+reading may often appear arbitrary to our modem critical mind, he
+seems to find no problem with it. While his reading was probably
+accepted widely among those who shared his eschatological consciousness,
+it was probably rejected outright among those who did not share his
+eschatological awareness, in the same manner as he used to persecute
+Christians prior to his conversion and call. If so, the challenge, which
+is often posed, that this way of arguing would not persuade the non-
+Christian Jews may not be relevant.
+Since Paul understands Deut. 30 as one of the prophecies decisively
+fulfilled in Jesus's earthly life, he reinterprets the passage as the saying
+of 'the righteousness from faith' from the vantage point of the decisive
+fulfillment. He could easily read Deut. 30:12, 13 as referring to Jesus's
+descent into the Hades and ascent into heaven (possibly incarnation
+and resurrection?). Inevitably he deletes anything connected with doing
+or deeds, which he finds irrelevant. This sort of rereading and rein-
+terpretation of Scripture is certainly different from what we normally
+regard as exegesis. Paul probably has no intention, nor had he any
+claim to do exegesis. 108 As has been frequendy pointed out, there is
+much in common between Paul's eschatological reinterpretation and
+Qumran pesher. Not only a formal similarity but also a conceptual sim­
+ilarity exists between Paul's interpretation of scriptural prophecies and
+Qumran pesher. Formally the triple τουτ' εστίν resembles ς Π03' (its
+interpretation is/concerns) in Qumran pesher. There is nothing pecu­
+liar about the phrase, τοΰτ' εστίν, itself, which has a much wider cur­
+rency, 109 but the way Paul employs it here resembles "TtóS in Qumran
+pesher in that both introduce its eschatological interpretation with ref-
+erence to their contemporary events. 110
+In contrast to Paul's similarity to Qumran pesher interpretation Philo
+presents a strikingly different attitude towards the interpretation of
+Deut. 30. Since its quotation and paraphrase occur quite often in his
+writings, Deut. 30:12-14 must be one of Philo's favorite passages. It
+is not difficult to see why Jews in the diaspora would have found the
+passage appealing since it concerns the restoration of the Jewish people
+after their dispersion due to their disobedience to God. However, his
+reading of Deut. 30 can hardly be eschatological. He seems to be pri­
+marily concerned with the three faculties of the body—mouth, heart
+112
+and hands—which he has found in the text of LXX, and understands
+as symbols of words, thoughts and actions. In the context of an exhor­
+tation to repentance, i.e. to become a proselyte (Virt. 175-82), Philo
+introduces his interpretation of Deut. 30:11-14. He asserts that corre­
+spondence among words, thoughts and actions is vital for praiseworthy
+and perfect life, which is pleasing to God. In this context Philo cites
+from Deut. 26:17,18, which refers to the pledge to make the Lord
+one's God, to observe his commandments and to obey the divine voice.
+In the other passage where he treats Deut. 30:11-14 Philo makes clear
+that the correspondence must be one for good. 113 Although Praem. Poen.
+as a whole treats an eschatological matter, that is, eschatological rewards
+and punishments, his interpretation of Deut. 30:11-14 in Praem. Poen.
+80-83 is scarcely eschatological. He again stresses the importance of
+correspondence between words, thoughts and actions in obeying God's
+commandments. 114
+We have argued that Paul stresses the orality of his gospel because
+he views himself as a 'prophet'; orality is congenial to prophecy. From
+that perspective he introduces Lev. 18:5 as the writing of Moses about
+'the righteousness from the Torah' and Deut. 30:12-14 as the saying
+of 'the righteousness from faith.' With the conviction that he is now
+living at the time of fulfillment, the eschaton, he reinterprets the scriptural
+'prophecies,' and that, in turn, results in his relatively flexible attitude
+towards the scriptural text. Even when he employs an expression like
+καθώς γέγραπται (just as it is written), his basic attitude and treatment
+of the texts remains the same. This is due to the divine authority
+which he recognizes in such texts. In that sense Paul understands these
+texts introduced with γέγραπται as 'prophetic,' and has no intention to
+stress their literacy. He probably intends to focus on the divine voice
+speaking through the written 'prophecies.'
+Both prophets and gospel preachers communicate their messages
+orally. Paul has deliberately formed a contrast between the written
+Torah and the oral gospel in Romans 10. Orality is congenial to
+prophecy. When he quotes from Deut. 30:12-14 as the saying of 'the
+righteousness from faith,' he understands the passage as the 'prophecy'
+fulfilled in Jesus's earthly life. From that vantage point he reinterprets
+and quotes it without any reference to doing the commandment. This
+new interpretation that deletes part of the deuteronomic passage is
+justified presumably because Paul supposes that obedience to the Torah
+has already been fulfilled in Jesus's earthly life and above all in the
+crucifixion. The context of Deut. 30 justifies his interpretation of the
+passage in terms of 'prophecy.' It must also be noted that since Paul
+was living in the tension, between the 'already' and the 'not yet,' his
+attitude towards Scripture in general is more complex than what is
+stated above. For instance, while he cites from Deut. 30 without making
+reference to doing the commandment, he could still draw ethical teach­
+ings from the Torah elsewhere (e.g. Rom. 12 and 13).
+If we understand Romans 10 correctly, Paul's approach to the Torah
+seems to tally with his programmatic statement in Rom. 3:20-21. On
+the basis of Ps. 143 (LXX; 142):2 he declares that no one is justified
+by works of the Torah before God (εξ έργων νόμου ου δικαιωθησεται
+πάσα σαρξ ενώπιον αύτοΰ), but that the righteousness of God is man­
+ifested apart from the Torah, being witnessed by the Torah and the
+prophets (νυνί δε χωρίς νόμου δικαιοσύνη θεού πεφανέρωται μαρτυρουμένη
+υπό του νόμου και των προφητών). The saving efficacy of the Torah is
+explicitly denied while its prophetic function is affirmed. In addition
+the prophetic nature of the Scripture is emphasized throughout Romans
+(Cf. 1:2; 15:4).
+In our initial survey we have negatively treated Käsemann's inter-
+pretation of Rom. 10 in terms of the contrast between γράμμα and
+πνεύμα. However, I must admit that my conclusion is not so far from
+his as it seems at first sight. It was understood that prophetic utterances
+are dictated by God's spirit. If we are right in understanding that Paul
+takes Deut. 30 as prophetic, then we could state that Deut. 30 represents
+God's πνεύμα in that sense. Yet our initial criticism that Käsemann
+reads too much into the context still stands.
+Rom. 10 occupies a central place in the larger section, chapters 9-11,
+where Paul struggles with the problem of the Jewish rejection of the
+gospel; a majority of Paul's Jewish contemporaries have not yet believed
+the gospel; he is afraid that they are excluded from salvation and he
+eagerly prays for their salvation. 115 Although I have attempted to shed
+some light on Rom. 10 from the perspective of orality and literacy,
+Paul's emphasis apparendy lies on the oral gospel rather than on the
+written Torah. He squarely faces the fact that many Jews have not
+believed in the oral gospel, but his optimistic tone seems to be heard
+in his emphasis on the orality of the gospel.
+To conclude this study something must be said about τέλος νόμου
+of Rom. 10:4. First of all it must be noted that Rom. 10:4 is not
+Paul's general statement about the relation between the gospel and the
+Torah. Paul's overall understanding of the Torah is not necessarily
+relevant for our interpretation of τέλος νόμου here. If our perception
+of the contrast between 10:5 and 10:6-8 in terms of orality and literacy
+is correct, it points in the direction of the interpretation of τέλος as
+'termination.' However, not only τέλος but also the meaning of νόμος
+can be a point of issue although much has not yet been said about
+it, at least in comparison with τέλος. If Paul means the νόμος in terms
+of 'the righteousness from the Torah' (10:5), τέλος probably means
+'termination.' Paul is capable of using the language quite creatively
+and flexibly. He expresses his awareness of the 'prophetic' nature of
+the Torah in 3:21. Furthermore, he has managed to create the phrase
+νόμος πίστεως and employs it in 3:27 creatively. The meaning of νόμος
+in this phrase has been much debated, but if my interpretation is cor­
+rect 116 and its meaning can be applied to the νόμος in 10:4, then the
+ideological interpretation (i.e. goal, fulfillment, climax) of τέλος is
+arguable. Although it is true that the immediate context usually deter­
+mines the meaning rather than the distant one, it seems, on the whole,
+that we must be content with an inconclusive result. A somewhat
+ambiguous translation like 'end' seems to have to be preferred.

@@ -1,0 +1,774 @@
+Pauls use of Scripture has been a focus of research among Pauline scholars for
+many years. Prior to the publication of Richard Hays' groundbreaking study,
+Echoes of Scripture in the Letters of Paul, such research tended to focus on what
+Hays calls "essential technical tasks of scholarship," such as the cataloging of
+Paul's quotations and allusions and their introductory formulas. Since
+Hays' study, scholars have turned their attention more to Paul's interpreta­
+tion of Scripture and the resulting significance of his quotations and allu­
+sions for the meaning of what he has written. The current surge in studies
+of Paul's use of Scripture in specific passages from his writings promises
+eventually to yield a full account of his interpretive activity and lead us to
+2
+a vastly greater understanding of his epistles.
+However, Christopher Stanley has challenged the standard scholarly
+assumption that Paul's audiences could understand his biblical quotations
+and allusions, a notion that grounds the present large-scale reassessment of
+Paul's use of Scripture, at least implicidy. 3 If he is right, then the bulk of
+contemporary research into Paul's Schriftgebrauch is misguided, and its
+promise of advancing our understanding of Paul's epistles is largely empty.
+But fortunately, an assessment of Stanley's arguments reveals that they do
+not succeed in characterizing (albeit facetiously) Paul's original audiences
+as swine who were too ignorant to understand his scriptural quotations
+and allusions. On the other hand, Stanley's case does demand a nuanced
+view of "the way Paul and his audiences interacted with the biblical text." 4
+A careful sifting of the evidence would suggest that Paul's original audiences
+would be better characterized as "diamonds in the rough," groups that might
+at first appear to be scripturally ignorant, but whose respective aggregate
+knowledge would have rendered them capable of interacting with sophisti­
+cated forms of biblical allusion, rhetoric, and argumentation. 5 This article
+will critically examine Stanley's case for the biblical ignorance of Paul's
+original audiences and seek to set forth a nuanced view of their reader
+competency that accounts for the realities of ancient texts and literacy, yet
+does justice to what Stanley acknowledges was Paul's routine assumption
+"that his audience... knows the biblical text well enough to supply the
+6
+background and context for many of his quotations."
+Stanley makes his argument for the overall scriptural ignorance of Paul's
+original audiences by way of identifying and discussing what he regards to
+7
+beten questionable assumptions traditionally made by scholars. But there
+is significant overlap in his argumentation and the reasons he gives to sup­
+port it. So instead of discussing each of the assumptions he challenges, we
+will address the major points that he makes or approaches that he takes to
+support his case. Among these, two points in particular serve as the founda­
+tion of his position and will be identified accordingly in the following discus­
+sion: limited access to written texts of Scripture and widespread illiteracy.
+But before examining the specifics of Stanley's case, a caveat is in order.
+We should preface our reflections by observing that contemplation of the
+question of the reader competency of Paul's original audiences involves a
+great deal of conjecture. We just do not have much if any direct evidence
+of what scriptural resources Paul's original audiences actually possessed, as
+Stanley acknowledges. 8 The only concrete evidence we have about these
+specific groups is Paul's letters to them, which Stanley admits imply biblically
+knowledgeable audiences. 9 1 make the point for two reasons. First, this fact
+should keep us from making our estimation of first-century reader compe-
+tence determinative for our assessment of Paul's use of the Old Testament.
+When issue after issue related to the question involves conjecture about
+what might have been the case amidst varying plausible scenarios, and
+then these speculations are used to make judgments about other uncertain
+points, it becomes unjustifiable to chide the scholarly consensus as histori-
+cally unrealistic. As will be argued later on, the state of our evidence should
+steer us toward Paul and his interpretive activity, not his audience, as the
+key to understanding his biblical quotations and allusions. Second, by
+entering into dialogue with Stanley on these issues, I will necessarily be
+entering into a minefield of conjecture. But since Stanley has opened this
+can of worms, claiming that the standard scholarly view of these matters
+is implausible, it is worth asking whether his reconstruction really makes
+better sense out of the evidence and what state of affairs is most likely to
+have been the case.
+Stanley's first foundational claim of two in his case for the scriptural igno-
+rance of Paul's original audiences is that he believes it to be unlikely that
+the churches Paul wrote to would have had ready access to biblical scrolls,
+primarily because of their great cost. 10 But although copies of Scripture
+were expensive, 11 Gamble, whose study of books and readers in the early
+church Stanley righdy values, has concluded that expense was not a significant
+obstacle to private ownership of texts. 12 Correspondingly, Dietrich-Alex
+Koch notes that, "Dies zeigt sich in 4 Makk 18,10-19, wo die private Benut-
+zung des schriftlichen Textes von insgesamt acht verschiedenen <Schriften>
+Kennzeichen eines frommen jüdischen Hauses ist." 13 And 2 Timothy 4:13
+represents Paul as owning his own Scripture scrolls, 14 while Acts 8:27ff.
+tells the story of the Ethiopian eunuch who had his own copy of at least
+some of the Scriptures. Koch's judgment is probably correct: "Privater Besitz
+von Rollen der <Schriften> ist im 1. Jh. n. Chr. zwar sicher keine reine
+Alltäglichkeit, aber gewiß keine unwahrscheinliche Ausnahme gewesen." 15
+But if private ownership of Scripture was not rare, it seems probable
+that a large group of people, who could pool their resources, would have
+made sure they obtained that which was foundational to their common life.
+The amount such cooperation could collect is suggested by Acts 19:18-19,
+which claims that after believing, many in Ephesus who had practiced magic
+burned their magic books, the sum total of which came to an astounding
+fifty thousand silver drachmas. 16 If it be questioned whether Scripture
+really played a central role in the early Christian community, we can say
+that Stanley himself appears to grant this point. As Gamble remarks in a
+passage that Stanley quotes approvingly, Scripture "had a constitutive
+importance" in the early Christian community. 17 Indeed, it is commonly
+assumed by historians of liturgy that Christian meetings included the read-
+ing and exposition of Scripture from the beginning. 18 Wayne Meeks' com-
+ments would seem to represent a consensus: "That scripture texts were read
+and homilies were based on them seems very credible indeed... [T]he rich
+allusions to and arguments from scripture that Paul sometimes includes in
+his letters... presuppose some means for learning both text and traditions
+of interpretation. Regular readings and homilies in the assemblies are the
+most plausible." 19 It is not surprising, then, that we find what appears to be
+an injunction to the practice of the public reading of Scripture in 1 Tim.
+4:13. We might also ask where New Testament authors obtained access to
+Scripture for use in the composition of their writings.
+Indeed, Stanley acknowledges that, "We do know... that Paul and other
+early Christian authors studied regularly in the Greek text of the Jewish
+Scriptures." 20 But how can this be so if access to Scripture scrolls was really
+as limited as Stanley insists? On the other hand, if Christian authors had
+enough access to the text of Scripture to produce the writings of the New
+Testament, which are saturated with profound biblical allusions and argu­
+mentation, then why should we not expect that these Christian leaders and
+theologians would have made use of their access to the biblical text in
+order to obtain it for their own communities, which considered Scripture
+to be vital to their existence as God s people?
+Stanleys own theory that Christian authors merely made use of personal
+notebooks containing only key verses they had copied from the Jewish
+Scriptures 21 does not answer this question satisfactorily because he grants
+that there must have been access to biblical scrolls and at least some copy­
+ing of those scrolls (i.e., into notebooks). It would seem that the difference
+between the traditional scholarly assumption of free ancient Christian
+access to Scripture and Stanleys allegedly more realistic postulate of rela­
+tively restricted access ultimately turns not on objective historical factors
+related to the cost or availability of books, but upon whether early Christian
+leaders thought the word of God was worth the effort of obtaining it. 22 In
+this light, it is hard to imagine that early Christian leaders would not have
+availed themselves of the opportunity to acquire copies of Scripture for
+their communities.
+There certainly were many ways that early churches might have obtained
+copies of Scripture. 23 Roy Ciampa, for example, points to the importance
+of patronage systems for "the establishment and growth of the early Christian
+movement" and the very plausible possibility that wealthy believers may have
+provided copies of Scripture for their churches. 24 In relation to this insight,
+we may consider Stambaugh and Balchs observation that many groups of
+the ancient world
+had one or more wealthy members who fulfilled the role of patrons... Most of these
+societies depended on the generosity of one or several patrons to supplement the more
+modest contributions of ordinary members. These patrons were expected to provide
+more elaborate banquets, for example, or to pay for the construction of a new temple.
+The hosts of Christian house churches functioned in a way analogous to that of such
+patrons. 25
+But there were important differences between the Greco-Roman associa­
+tions and the Christian communities. Meeks notes that "the Christian groups
+were exclusive and totalistic in a way that no club nor even any pagan cultic
+association was... to be 'baptized into Christ Jesus'... signaled for Pauline
+converts an extraordinarily thoroughgoing resocialization, in which the sect
+was intended to become virtually the primary group for its members, sup­
+planting all other loyalties." 26 Given that all other loyalties came second, it
+is probable that such committed groups would obtain what they regarded as
+essential—the word of God. Prisca and Aquila (Rom l6:3-5), and Philo-
+Iogus and Julia (Rom 16:15) seem to have been such patrons in Rome,
+while Chloe, Stephanus, and others may have played this role in Corinth
+(1 Cor 1:11,16). Surely it would be a mistake to underestimate the extremes
+to which religious devotion can drive people (cf., e.g., Acts 2:44-47; 4:32-35),
+especially in relation to having access to the very words of God. History is
+full of examples of spectacular feats and remarkable self-sacrifice for the
+cause of religion such as the sixteenth century Peter Bales' writing of a
+28
+Bible so small that it could be contained in a walnut shell, giving of
+extraordinary amounts of money and the sharing of possessions, Origens
+castration of himself to avoid potential scandal in teaching female catechu­
+29
+mens, and the modern phenomenon of suicide bombing.
+But, as our earlier comments would suggest, it is not even necessary to
+assume that Paul's churches bought copies of Scripture to suppose that they
+had them. They might have copied the Scriptures themselves. Bar-Ilan
+indicates that copying of the Scriptures was not uncommon 30 and Gamble
+describes a historical context that renders it very likely that a great deal of
+copying of the Scriptures took place in the first century. 31 Generally, paper
+(papyrus) was readily available for the task. 32 Indeed, we know that copying
+of Paul's letters was taking place among the churches to which he wrote. As
+Paul Achtemeier observes, "The wide distribution of copies of the writings
+of the N T gives evidence of the extent to which literature could circulate
+33
+even among the less prominent members of Hellenistic culture."
+In view of all that we have considered, I believe it is probable that Paul
+would have expected many of his churches to have their own copies of
+Scripture, if they did not simply make use of synagogue copies. This means
+that Paul would probably have expected his original audiences to (1) be
+sufficiently familiar with Scripture so as to benefit from his scriptural quo­
+tations and allusions, and (2) possess the ability to reflect on them further
+in their original contexts if they so chose.
+At this point it may be helpful to draw attention to a pervasive defect in
+Stanley's argumentation that comes to the surface early on in his discus­
+sion—a minimalistic historical methodology for the reconstruction of the
+situation of Paul's original audiences. His minimalistic historical judgments
+frequently function practically as arguments from silence, implying that
+because we do not have positive evidence that some specific possibility was
+the case, we can therefore conclude that it was not the case or at least that
+we should discount it as having any practical value. This can be seen, for
+example, when he minimizes the possibility that wealthy Christian patrons
+provided copies of Scripture for their churches by saying that "we have no
+sure evidence for such a practice in Paul's day." 34 But this is not the type
+of information we would expect to have hard historical evidence concern­
+ing (cf. the scholarly adage, "the absence of evidence is not necessarily the
+evidence of absence").
+Moreover, in arguing against the scholarly consensus, Stanley bears the
+burden of proof. The prima facie evidence of Paul's epistles suggests that
+his audiences had enough access to Scripture to understand his biblical
+quotations and allusions. Reasonable possibilities for how these groups
+could have accessed Scripture then confirm what the letters suggest. We do
+not need evidence that copies of Scripture were obtained by any specific
+means to interpret Paul's letters on the working assumption that his audiences
+might have had access to the Scriptures; we need only establish that this is
+a reasonable possibility, which Stanley would have to concede. Further­
+more, there are a number of specific factors relating to the early Christian
+movement that would suggest extraordinary motivation for obtaining con­
+tinuing regular access to the Scriptures. The problem here seems to be that
+Stanley has decided to "give more credence to evidence gleaned from gen­
+eral studies of texts and literacy in the ancient world than to the specific
+information embedded in Paul's letters." 35 This is an extremely problematic
+practice because of how widely specific groups can diverge from their
+surrounding culture.
+Stanley attempts to defend this approach by appealing to the concepts
+of the implied author and the implied audience, 36 asserting that, "What we
+encounter in Paul's letters is not the 'real' Paul or the 'real' audience, but
+Paul's momentary construction of both himself and his intended audience." 37
+He suggests that Paul constructed "an audience that was both literate and
+familiar with the Jewish Scriptures" when "his actual audience was mostly
+illiterate and possessed only limited knowledge of the biblical text" 38 based
+largely on the notion that Paul may not have known how much knowledge
+of Scripture his audiences possessed. 39 But is it not presumptuous to claim
+to know Paul's audiences better than he did? Surely Paul was in a much
+better position to judge the reader competence of his first-century Chris­
+tian audiences than we are thousands of years after the fact. Here we can
+see the full flowering of Stanley's preference for general knowledge of the
+ancient world over specific information embedded in Paul's letters and just
+how far off the mark it can lead historical judgments.
+In addition to an allegedly limited access to biblical scrolls, Stanley also
+argues that a lack of textual markers in ancient manuscripts would hinder
+the location of specific texts by Paul's audiences. 40 But most ancient manu­
+scripts seem to have used some form of paragraphing, even if different
+systems were employed in different manuscripts. 41 Moreover, the degree of
+difficulty in finding biblical passages in the first century may not have been
+as great as we, who live in the age of chapter and verse divisions, would
+expect. The ease of reference which we are accustomed to may cause us to
+overestimate the level of difficulty that obtained for those who were used
+to handling books in that milieu. Difficulty is, after all, often relative and a
+matter of degree, dependent on experiential knowledge of a different reality. 42
+As Roberts and Skeat have commented concerning the alleged difficulty of
+re-rolling a papyrus roll, "the problem... is based on nothing more than a
+projection back into the past of the probable reactions of a present-day
+43
+reader." All of this is to say that finding specific biblical references was
+more difficult than in our technological, time-driven age, but hardly
+impossible or overly burdensome. The New Testament represents Scripture
+as being looked up, as with Jesus in the synagogue of Nazareth (Lk. 4:17)
+and the Bereans who were considered to be noble-minded because they
+searched the Scriptures daily as they examined Paul's teaching (Acts 17:11). 44
+There is also a false assumption implicit in the objection under consid­
+eration that the sheer difficulty of the task would prevent its performance
+by stifling motivation. But the radical commitment of the early Christian
+movement and its intense devotion to Scripture have been two of its char­
+acteristic features that we have already had occasion to note (and will
+return to) in our discussion. I submit that they were motivated for the task.
+Luke's commendation of the Bereans reveals the ethos of the early church
+and a concern to examine the Scriptures cited in Christian teaching while
+the character of the New Testament documents suggests a familiarity with
+Scripture that speaks of both study and the locating of fitting Scriptural
+passages.
+But Stanley views another obstacle to the regular reading and study of
+Scripture by Paul's audiences to be the greatest of all—widespread illiter­
+acy. This is the other foundational point in his argument against the bibli­
+cal knowledge of Paul's audiences. He cites the groundbreaking study of
+William Harris that concludes that literacy rates in classical antiquity were
+no higher than ten to twenty percent. For Stanley, "The inevitable con­
+clusion is that not more than a few individuals in Paul's churches, those
+recruited from the educated elite, would have been capable of reading and
+46
+studying the Scriptures for themselves." While this conclusion may be
+slightly overstated, the basic point must be granted. Most of the members
+of Paul's original audiences would not have been able to read the Scriptures
+(or Paul's letters) individually for themselves. But Stanley facilely infers that
+this would mean that the vast majority of the members of Paul's audiences
+were scripturally ignorant and unable to assess his use of the biblical text.
+For it is unwise, and indeed anachronistic, to assume that illiteracy
+equals ignorance in what has been called "a culture of high residual orality
+which nevertheless communicated significandy by means of literary
+47
+creations." It will not do to raise the specter of illiteracy over Paul's original
+audiences without also considering the oral nature of their environment
+and the degree to which literacy and orality interpenetrated one another in
+late western antiquity. Catherine Hezser's recent survey of approaches to
+ancient literacy in modern scholarship reveals such interpénétration as one
+of the more frequent points of agreement between divergent approaches to
+the topic. 48 As she observes while reviewing Bowman's views, even if most
+of the population was not able to read and write, "the society in which they
+lived could be profoundly literate': illiterates could participate in it through
+intermediaries who wrote and read for them. Accordingly, one has to assume
+that 'a large proportion of the 80% + illiterate population was thoroughly
+familiar with literate modes'. " 49 Indeed, Pieter Botha cautions us:
+We must remind ourselves that the connection between education and literacy, which
+seems so natural to us, is simply a cultural convention of our own times. In Graeco-
+Roman societies one could be educated without having the ability to read and write.
+In fact, being literate (proficient with texts) was not even necessarily connected to
+50
+oneself writing and reading.
+Thus, it is with full warrant that Wagner concludes that "the fact that per­
+haps most members of the Pauline communities would not have been able
+to read for themselves would not have been a significant barrier to their close
+acquaintance with Paul's letters (or, for that matter, with Israel's scriptures)." 51
+Mention of orality raises the importance of memory for those to whom
+Paul wrote and the way they would interact with written texts to which
+they had exposure. According to Jocelyn Penny Small, "Memory became
+the classical means of cognitively organizing and, most significantly, retriev­
+ing words," and "training in memory was an integral part of the educational
+curriculum by the time of the Romans." 52 Hence, the ancients are renowned
+for the strength of their memories, 53 which they tended to rely on rather
+than consulting texts. 54 We cannot assume that members of a culture of
+high residual orality would need to consult written texts in order to recall
+passages they had been exposed to, especially since they would tend to
+memorize texts they regarded as important. As Stanley himself acknowl­
+edges, first century Jews were trained from childhood to quote the Bible
+from memory. 55
+Stanley seems willing to concede that Jewish members of Paul's audi­
+ences would have had substantial knowledge of Scripture. 56 But he assumes
+that few Gentiles in Paul's churches did. 57 Such an assertion confirms
+Ciampa's observation that "there tends to be an assumed and over-confident
+pessimism with regard to how much Scripture a Gentile Christian could
+be expected to detect. But being a Gentile and former idolater does not
+necessarily mean that one is not formed by Scripture and sensitive to its
+presence in religious discourse." 58 He argues convincingly that Gentile
+God-fearers were considered idolaters, even though they "may well have
+accepted many Jewish customs and been well-taught in the Scriptures,"
+because they had not fully converted. 59
+Gentile God-fearers may have been very familiar with Scripture through
+contact with the synagogue, where "the whole Bible was called upon, and
+the synagogue transformed into a sort of immense 'living concordance' of
+the sacred text." 60 According to Shaye Cohen, many Gentiles converted to
+Judaism in the ancient world and even more adopted certain aspects of
+Judaism without converting such as attending synagogue. 61 This accords
+with the testimony of Josephus, who tells us that the Jewish laws had "to
+an ever increasing extent excited the emulation of the world at large... The
+masses have long... shown a keen desire to adopt our religious obser­
+vances ... as God permeates the universe, so the Law has found its way
+62
+among all mankind." Indeed, there were instances of synagogues contrib­
+63
+uted by non-Jews. Moreover, it appears that many Gentiles who became
+Christians had been Gentile God-fearers who were exposed to the Chris­
+tian message through their connection to the synagogue (e.g., Acts 13:43;
+17.Ί-15). 64 All of this suggests that it is unwise simply to assume that Gen­
+tile Christians had no knowledge of Scripture. 65
+Even more important in this connection is the fact that Gentiles would
+receive scriptural instruction in the church. Surprisingly, Stanley confidently
+dismisses this possibility as "entirely hypothetical." 66 But, "We know from
+Acts and elsewhere in the N T that Jewish and Gentile believers were
+trained in their new faith on the basis of the OT, the Bible of the early
+67
+church (e.g. Acts 17:10-12; 18:24-28; 2 Tim. 2:2, 15; 3:16-17)." Indeed,
+the main function of early church leaders was to teach the Scriptures (Acts
+6:2,4; Gal 6:6; 1 Tim 3:2; 4:13-16; 5:17; 2 Tim 3:14-4:3; Heb 13:7; 1
+Pet 1:24-2:3; 5:1-2). There is no telling the extent of scriptural training in
+the early churches. But the early church commitment to its faith and Scrip­
+ture suggests that it was extensive indeed, as does the frequent use of the
+Old Testament in the New Testament documents. While we have no way
+of knowing how long Gentiles in a given church had been studying the
+Scriptures, it is natural to assume a normal range, including many Gentiles
+with years of experience.
+It is also extremely important to recognize that, in the significantly oral
+environment of Pauls churches, the reading and study of Scripture and
+Pauls letters would have generally been a community activity as in the
+synagogue, 68 and that this community activity would encourage interac­
+tion over Pauls letters and provide opportunity for gaining insight into his
+Old Testament allusions. Even Stanley recognizes that some in Paul's audi­
+ences would know Scripture well. 69 He further recognizes that those who
+did were likely to have been leaders in the early churches. 70 So we can safely
+assume that, at the very least, some of the leaders in each of Pauls churches
+were able to hear his letters with considerable biblical knowledge.
+But not only would Paul have probably expected some of his audience
+to be well versed in Scripture, but it is likely that he also could have counted
+on them hearing his letter(s) over and over again, providing many oppor­
+tunities to discern and understand the various allusions upon subsequent
+readings. "This is based on the known fact in the second century and the
+probability in the first century that letters were read repeatedly in the early
+church, as implied for example, by Col. 4:16; 1 Thess. 5:27; and Rev. 1:3." 71
+It seems highly probable, therefore, that Paul would have expected the lead­
+ers of his churches to grasp his scriptural allusions and their import for his
+arguments. Given the likelihood of repeated readings, it is possible that
+Paul could have expected his letters to be used for teaching, and that teach­
+ers would have studied his scriptural allusions and shared their understand­
+ing with their Christian community. As Wagner states, "it is difficult to
+imagine a teaching office' in the early Pauline communities, however
+informal (1 Cor 12:28-29; cf. Eph 4:11; 1 Tim 3:2; 2 Tim 2:2, 24), that
+did not involve the interpretation of apostolic teaching—including Paul's
+letters—to some degree." 72 Moreover, "it is quite likely that the bearers of
+Paul's letters were charged by the apostle with the further responsibility of
+helping to interpret them." 73 The fact that Paul's letters were retained and
+copied testifies to the value they had for their first recipients. 74
+It has often been pointed out that what we call the Old Testament was
+the only Bible the early church had. But surely we have not done full jus­
+tice to this observation until we have surmised that the Apostle Paul's writ­
+ings, which are rich in scriptural allusion, must have functioned as guides
+to the study and interpretation of the Bible for his churches. "Indeed, Paul
+appears to have intended his interpretive arguments to model for his
+churches a way of reading Israel's scriptures in the new light of the gospel.
+Where the apostle reflects explicidy on his eschatological and ecclesiocen-
+tric hermeneutic, he does so in order to commend this way of reading to
+his listeners (e.g., Rom 15:4; 4:23-24; cf. 1 Cor 10:11)." 75
+Thus, ironically, an appreciation of the dynamics of illiteracy in the first
+century's culture of high residual orality helps us to understand that ancient
+readers and audiences would have been sufficiently accustomed to the
+demands of interacting with written texts so as to be capable of achieving
+high levels of textual awareness and proficiency. 76 The realities of the first-
+century context of Paul's original audiences suggest some type of corporate
+setting in which repeated public readings and study of Paul's epistles would
+be conducted by church leaders who would understand his Old Testament
+allusions and share their understanding with the community. For it is all
+but certain that (1) reading and interpreting Paul's letters was an ongoing
+community process in his churches, and (2) there were at least some mem­
+bers of the communities to which Paul wrote who could hear his argument
+against the Old Testament background. This corporate context militates
+against what may be called Stanley's highly individualistic approach. Though
+he acknowledges the artificiality of his methodology and its lack of reliability
+for discovering the actual interpretive experiences of Paul's original audi­
+ences on the basis of other factors, 77 the individualistic orientation of his
+model stretches its usefulness beyond the breaking point. For it assesses the
+potential responses to Paul's rhetoric without regard for the community as if
+each member of the audience in view received Paul's letter via email attach­
+ment for a one-time reading or hearing to be considered alone. This strikes
+me as totally inappropriate for assessment of churches in the collectivist,
+residually oral culture of the first century.
+Indeed, the corporate setting of Paul's churches raises some points that
+Stanley himself makes, the implications of which ultimately prove fatal to
+his approach to Paul's use of Scripture. Stanley's approach appears to rest
+largely on the notion that Paul aimed his biblical quotations at "the illiterate
+masses," who could not assess his biblical interpretation. 78 Yet drawing on
+Stanley's own argumentation, we can say: (1) The first-century world of
+Paul's churches was hierarchical, "built on respect for authority." 79 (2) Those
+who could read and had significant knowledge of the Scriptures would have
+been leaders in Paul's churches. 80 (3) In accordance with (1), these leaders
+would have exercised extensive power and influence over the group in gen­
+eral and in relation to Paul's letter(s) in particular, whether in reading,
+discussion, or study. 81 (4) "[T]hese same people also possessed the ability
+to evaluate and challenge Paul's interpretations of Scripture, and some of
+them might have had political reasons for resisting the intrusion of an
+outside authority, even a respected one like Paul, into the life of their
+churches." 82 Moreover, if he were to misuse Scripture, "a reader familiar
+with the original text would invariably have raised questions about the
+validity of Paul's interpretation. Questions of this sort would have impeded
+rather than advanced Paul's rhetorical purposes." 83
+Therefore, it is highly unlikely that Paul would aim his biblical quota­
+tions mainly at the scripturally ignorant, intentionally playing fast and
+loose with Scripture, when the very people who would control the reading
+and interpretation of Paul's letter would have been those who by Stanley's
+own admission could have assessed Paul's interpretation and impeded his
+rhetorical purposes. It is far more likely that Paul would have taken special
+account of the scripturally learned in his audiences and attempt to craft his
+biblical argumentation so as to be convincing to those who were familiar
+with the original contexts of his quotations. This provides a better explana-
+tion for why, in Stanley's words, Paul constructed "an audience that was
+84
+both literate and familiar with the Jewish Scriptures," than does Stanley's
+own suggestions of either Paul's ignorance of his audiences or his attempt to
+assert power over his audiences by awing them into submission through mere
+85
+quotation of the word of God without concern for its actual meaning.
+This leads us to Stanley's routine but questionable assumption that Paul
+often quoted Scripture out of context. While little more than an assertion
+in his previous work, 86 Stanley has recently provided support for this view
+in his treatment of a sampling of scriptural quotations in Paul's epistles. 87
+But his conclusions in this regard are less than persuasive. 88 Numerous
+examples could be furnished, but given the scope of the present essay, we
+will have to limit ourselves to one instance.
+Stanley asserts that Paul's use of Ps. 115:1 LXX (116:10, Heb/Eng.) in
+2 Cor. 4:13 "is so far removed from the original context as to raise ques­
+tions about Paul's reliability as an interpreter." 89 He bases this judgment on
+the claim that whereas Paul applies the psalm to speaking good news, the
+psalmist actually offers a word of complaint or despair. But this line of
+reasoning is wholly suspect.
+First, there is no reason to identify the point of the quotation's relevance
+as the speaking of good news. Rather, what Paul identifies as the important
+point of contact in relation to the quotation is the "spirit of faith" that
+enlivens both the psalmist's and his own speech (2 Cor. 4:13). 90 And this
+raises a critical second point: the psalmist's words are not a complaint for
+which God humbled him as Stanley claims. Quite to the contrary, they are
+an expression of faith in God despite suffering and opposition contained in a
+psalm of thanksgiving which does indeed breathe a spirit of praise and joy. 91
+It is difficult to see how Stanley misses this interpretation of the psalm
+as at least plausible if not obvious. The words that Paul quotes are, "I
+believed; therefore I spoke" (έπίστευσα διό έλάλησα). Given the context
+of the psalm, it is highly unlikely to mean what Stanley claims it means.
+The fact that the psalmist grounds (διό) his speech on faith ensures that he
+is not suffering God's judgment for what he says. Rather than indicating
+that the psalmist was humbled by God for complaining, it seems to state
+that despite the fact that the psalmist was greatly afflicted, apparently as a
+result of false accusations or some sort of injurious lying (v. 2), he spoke to
+the Lord about his affliction in an attitude of trust in the Lord to deliver
+him. This interpretation is confirmed by the fact that the psalm goes on to
+thank and praise the Lord for deliverance, presumably from the affliction
+of his lying enemies and in response to his faith-filled prayer making
+known his wretched state. This interpretation is also clear in the Hebrew
+text, which the LXX translates, stating that the psalmist believed when ['i]
+he spoke about his affliction (Ps. 116:10). 92 The adversative δε in the LXX
+of Ps. 115:1, which has no counterpart in the Hebrew text, highlights the
+contrast between the psalmist's faith and his miserable state, yielding a
+similar meaning, though more awkwardly. 93
+Thus, the quotation fits excellently with Pauls argument and would
+have provided the biblically informed auditor with deep insight into it. For
+as Stanley admits, "Paul seeks to defend his ministry against some of the
+questions that had been raised by the Corinthians" and, "The interpretive
+comments that frame the verse imply that Paul viewed the quotation (or
+wanted the Corinthians to view it) as a biblical warrant for his own minis­
+94
+try of preaching Christ despite all manner of troubles and opposition."
+What is more, Paul opposes false teaching and appears to defend himself
+against what he would regard as lies and slander propagated by false teach­
+ers in Corinth who opposed him. 95 Moreover, one of these slanderous
+accusations appears to have been that Pauls sufferings discredited him as
+an apostle. 96 Hence the defensive tone of passages such as 4:7-12, which is
+directly connected to Pauls quotation of Ps. 115:1. Indeed, it is from 4:10-
+12's declaration that Paul continually carries around the death of Jesus in
+his own body and is in fact continually given over to death for Jesus'
+sake—epitomizing his sufferings—that his quotation of Ps. 115:1 emerges.
+This is striking because of Ps. 115:6 s affirmation, "Precious before the Lord
+is the death of his holy ones."
+Thus, faced with tremendous opposition and suffering in the exercise of
+his ministry and what he saw as a situation in which false teachers spread
+a false gospel and slandered him for his gospel and his sufferings inter alia,
+Paul appeals to Ps. 115 s declaration of trust in the Lord in the face of great
+hardship and lying enemies. Those in Pauls audience who knew the con­
+text of the psalm would be encouraged to see Paul as a righteous sufferer
+and victim of slander bearing the Lords approval and destined for victory
+by his hand. Moreover, Paul would hope that they saw that rather than
+being a sign of divine disapproval or invalidating his ministry, his sufferings,
+represented by the rhetorical figure of living death, were actually pleasing
+to the Lord and should commend his ministry, for, "Precious before the
+Lord is the death of his holy ones" (Ps. 115:6). Just as the psalmist was
+delivered, Paul knows that he will be delivered, raised with Jesus from
+suffering and death to life (2 Cor. 4:14). It is this faith in the Lord that
+motivates his preaching. Though not particularly connected to the thanks­
+giving offered in the psalm, Paul's reference to thanksgiving for the grace
+of God in 4:15 fits nicely with the psalms expression of thanksgiving for
+salvation.
+If Paul had the surrounding psalms in mind as well, which is likely, then
+the connections become even tighter. In the Hebrew text, the LXX s Psalms
+114 and 115 are one psalm, and by the first century Psalms 112-117 LXX
+(113-118 Heb.), known as the Egyptian Hallel, were used together at Pass­
+over. The first two or three psalms would be sung before the Passover meal
+and the rest after the meal. 97 The Hallel was also sung during the Feast of
+Dedication and the Feast of Tabernacles. 98 Thus, these psalms were among
+the most well-known passages of the Old Testament and bound to be
+familiar to some, probably many, in Pauls audiences. With all of this in
+mind, it is intriguing to note that Ps. 114:3, 8-9 LXX reveal that the
+affliction from which the Lord delivered the psalmist was death. Conse­
+quently, the words immediately preceding the passage Paul quotes in the
+psalter (except for the word "Allelluia") read, "For he delivered my soul
+from death... I will be pleasing before the Lord in the land of the living"
+(Ps. 114:8-9 LXX). It is likely that Paul and his first-century contempo­
+raries would have read the deliverance spoken of in Ps. 115 LXX to involve
+deliverance from death, or in other words, a sort of resurrection. When
+Paul said, "I believed; therefore I spoke," those who were familiar with the
+psalm s original context would have partly heard trust in the Lord for deliv­
+erance from death (resurrection), which is exactly what Paul speaks about
+(see 2 Cor. 4:10-14, esp. v. 14).
+In light of the evidence we have looked at, Stanleys conclusion that Paul
+most likely "simply ran across a set of words that sounded like a good 'motto'
+for his ministry and then copied them down (or memorized them) for later
+99
+use without regard for their original context" is hard to believe. But it
+does serve as a warning about the danger of paying only superficial atten­
+tion to the original contexts of Pauls quotations, a danger that seems to be
+inherent in Stanleys approach. For the assumption that Paul (or his audi­
+ence) was not concerned about the original contexts of his quotations will
+tend to encourage careless and superficial analysis of those contexts. A bet­
+ter approach, as I have argued elsewhere, 100 would be to analyze the origi­
+nal contexts of Pauls scriptural quotations on the working assumption that
+the quotations function as pointers to their original contexts. This will
+encourage interpreters to pay sufficiently detailed attention to the back­
+ground of Pauls quotations so as to make sound judgments concerning his
+use of Scripture, his respect for context or lack thereof, and the significance
+the original contexts of his quotations might have held for his readers.
+Another problematic feature of Stanleys approach that also discourages
+attention to the original contexts of Paul's quotations is his call to focus on
+how Paul's original audiences understood his quotations rather than how
+Paul intended them. 101 This seems like a dead end for understanding Paul's
+epistles. For it should go without saying that in order to understand an
+author and what he has written, one should primarily focus on that author
+and what he has written. If that author quotes a source, then the best way
+to understand the quotation as a part of the quoting author's communica­
+tion is to understand the way the quoting author understands the quota­
+tion and its relationship to his discourse. This is all the more so if the
+author in question quotes what he believes to be the authoritative word of
+God to which his views must conform. It comes down to a question of the
+nature of exegesis. I would argue that the goal of exegesis should be to
+determine the original intention of what an author has written.
+Of course, this approach to exegesis is no longer a settled matter in New
+102
+Testament scholarship. But I think that it is fair to say that it is still the
+more dominant approach among exegetes. This is probably due to at least
+three factors. First, focusing on the author rather than his audience is sim­
+ply the natural and intuitive approach to interpreting an author. Second,
+the New Testament contains special literature in that it is considered by
+many to be the word of God. Most people who study the Bible are far
+more interested in what its authors were trying to communicate than how
+its original recipients understood it. Even scholars who do not necessarily
+believe the Bible to be the word of God are often involved in trying to help
+others who do regard the Bible as authoritative to some degree to under­
+stand what the authors of the Bible intended to communicate. Third,
+specific knowledge of how Paul's and the other New Testament writers'
+audiences responded to their extant writings is virtually nonexistent. The
+whole enterprise of trying to determine how the original audience under­
+stood Paul is so speculative as to be of little value. The only specific knowl­
+edge of any significance that we do have comes from the New Testament
+writings themselves, again thrusting the focus of attention back onto the
+authors and their writings.
+But no matter where one stands on the issue of where the meaning of a
+text resides, Stanley's attempt to formulate a reader-oriented approach to
+analyzing Paul's biblical quotations errs in its application of reader-oriented
+literary theory. For such theories do not place any priority on the original
+readers of a text over other readers. Even if meaning is reader-oriented,
+there is no reason why we should focus on Paul's first readers. The reason
+that Stanley does provide for doing so—viz., to evaluate Paul's rhetorical
+effectiveness—is a good reason to pay some attention to Paul's first read­
+ers, but it again makes Paul as the author ultimately primary while Stanley's
+approach paradoxically moves such study away from the realm of interpret­
+ing what Paul says. At the risk of overstatement, we might say that Stanley's
+audience-centered approach to Paul's quotations is more appropriate for the
+discipline of church history than it is for New Testament interpretation.
+Therefore, despite Stanley's protest to this traditional scholarly assump­
+tion, I would argue that the best way to determine the meaning of Paul's
+biblical quotations is indeed to study how Paul interpreted the biblical text. 103
+Yet this does not mean that the original recipients of Paul's epistles should
+not be taken into account at all. As Stanley rightly says, "The whole pur­
+pose of introducing a quotation into a piece of discourse is to affect an
+audience in some way." 104 The original audience should come into view
+insofar as they relate to Paul's intention. Surely Paul's perception of their
+identity and circumstances—including their knowledge of Scripture—
+would have conditioned his communication to them. So the validity of any
+objection to the idea of Paul intending his audiences to benefit from the
+original contexts of his biblical citations and allusions based on their
+alleged scriptural ignorance must rest on an author-oriented notion, the
+assumption that Paul meant to be understood. If this is a fair supposi­
+tion—and it undoubtedly is—then it is unlikely that he would have know­
+ingly made understanding his discourse dependent on recovering inaccessible
+material. 105 At the same time, if one is concerned with the meaning of what
+Paul has written, then Stanley's position that Paul sometimes overestimated
+the reader competence of his audiences only strengthens the proposal that
+Paul intended his biblical quotations as pointers to their original contexts,
+advising us to study his interpretation of the biblical text in order to ascer­
+tain the meaning of his quotations.
+Even if one were to grant for the sake of argument Stanley's position on
+the ignorance of Paul's original audiences, it still would not make study of
+Paul's interpretation of his biblical quotations irrelevant to their meaning
+for those concerned with Paul's intention. 106 Since standard exegesis focuses
+on what Paul as the author meant by what he wrote, any information that
+might shed light on Paul, his convictions, and his context becomes poten­
+tially relevant, even if that material was not available to his original audi­
+ence. We cannot claim that any material that was not available to Paul's
+original audience in some way is essential to understand his original inten­
+tion if he is to be taken as a skilled communicator. But such material can
+nonetheless be extremely helpful for determining Paul's original intention.
+That is why knowledge of Paul's thought from the entire corpus of his episdes
+is potentially important for understanding any one episde in that corpus.
+We can illustrate this point by imagining that we were to find authentic
+original notes made by Paul containing extensive explanation of his planned
+argumentation in Romans that he made as he prepared what he wanted to
+actually include in the epistle. Such a document would obviously be very
+valuable to us for interpreting Romans. But as material that Paul would
+not have intended his audience to have access to, it could not be considered
+absolutely essential to understanding him if his communication was com­
+pletely successful. Of course, it is possible that Paul was not always com­
+pletely successful in his communication to his churches (cf. 1 Cor. 5:9-13;
+2 Pet. 3:16), as Stanley concludes in various instances of Paul's quota­
+tions, 107 but this possibility only promotes the potential importance of
+material that may have been inaccessible to Paul's original audiences.
+Despite radical differences of opinion with Stanley on so many points
+related to the historical context of Paul's use of Scripture, I completely
+agree that "Paul would have known that the members of his churches
+differed widely in their ability to understand his biblical quotations." 108
+But rather than indicating that Paul was some sort of sophist quoting
+Scripture without regard for its actual meaning in the hope that it would
+cow the ignorant majority into submission—we have already found this
+hypothesis wanting—I wish to suggest that Paul may have structured his
+discourse to accommodate the differing levels of scriptural competence
+among his readers and auditors. 109 The main points of Paul's argumenta­
+tion in his epistles appear to be clear enough on the surface of the text for
+the unlearned yet attentive auditor to grasp. 110 The most basic rhetorical
+significance of the quotations is often clear, usually providing support for
+111
+Paul's statements. But the more familiar an individual was with Scrip­
+ture, the better he would have understood Paul. Recognizing that various
+readers would have differing levels of engagement with his discourse, Paul
+probably anticipated that those with less scriptural knowledge would gain
+greater insight into his arguments as they processed them in community
+and grew in scriptural fluency.
+Our case study of Paul's use of Ps. 115:1 LXX in 2 Cor. 4:13 provides a
+good illustration of this point. Stanley has demonstrated how "both the
+meaning of the quotation and its role in Paul's argument would have been
+fairly self-evident" to those lacking knowledge of the Scriptural back­
+ground. 112 On the other hand, the learned members of the Corinthian
+church would potentially have grasped the various meaning-effects we pos­
+ited earlier, understanding Paul's point with greater depth and specificity.
+They probably would have been impressed by Paul's faithfulness to the
+basic meaning of the psalm and skillful application to his own situation,
+rendering them even more open to persuasion by Paul's rhetoric.
+Between the two potential extremes of understanding that might have
+existed among the alert recipients of Paul's letter, there obviously would
+have been a continuum of understanding that Paul could expect to occur
+in his original audience. What I am suggesting is that, due to the depth of
+Paul's engagement with Scripture, the individual members of the original
+audience would almost certainly have understood Paul's discourse to greater
+or lesser depth and specificity according to their knowledge of the Old
+Testament background. 113 Paul would undoubtedly have known this and
+probably counted on it. If his biblical quotations generally arose out of
+serious reflection upon them in their original contexts as with his citation
+of Ps. 115:1 LXX in 2 Cor. 4:13, then it strains credulity to imagine that
+he did not hope that the learned members of his audiences would benefit
+from their knowledge of the background of his argumentation. Hence,
+since the goal of any exegesis of Paul's epistles should be to discover the
+fullest most specific meaning of Paul's discourse possible, it behooves exe-
+getes to study Paul's interpretation of the biblical text, which he claims as
+the authority behind his pronouncements, as well as the original contexts
+of his scriptural quotations and allusions.
+But it is not even necessary to argue that Paul intentionally crafted his
+quotations to be understandable to the varying reader competencies pres­
+ent in his audiences to maintain both that the basic rhetorical points of his
+quotations were understandable to the scripturally unlearned and that the
+learned could benefit from knowledge of the Old Testament background.
+For a moment's reflection will reveal that the main rhetorical points of
+quotations in any type of informative/argumentative literature are fre­
+quently clear on a basic and general level even without understanding of
+the specific meaning of the quotations. Take for example my quotations of
+Koch in German earlier in this article (see under II. 1 above). Suppose that
+an English-speaking seminary student with no knowledge of German were
+to read this article. I submit that she would be able to grasp the general
+thrust of my argument as well as the main rhetorical points of the quota­
+tions even without being able to understand a single word of them. The
+surrounding discourse makes it clear that the quotations support the con­
+tention that private ownership of Scripture scrolls was not rare in the first
+century. Our seminary student might be able to guess that the first quota­
+tion contains specific information supporting the point, and she would
+almost certainly be able to tell that the second quotation articulates the
+point in Koch's words. If one trusted my interpretation of Koch and
+regarded Koch's words as the word of God, the matter would be settled.
+Now I did not deliberately try to make these quotations understandable to
+those with no knowledge of German. Indeed, I have presupposed knowl­
+edge of German on the part of my readership. But the transparency of the
+quotations' rhetorical meaning and function resulted naturally because of
+the nature of this type of discourse. Moreover, the reader who can under­
+stand German would obviously understand the quotations and my argu­
+ment more deeply
+It is therefore hard to know whether making his scripture-laden dis­
+course perspicuous to even the scripturally ignorant was an intentional
+part of Paul's rhetorical strategy. I tend to think it was, but the evidence we
+have reviewed, the "irresistible pull toward more literate modes of expres­
+sion" created by the written format of Paul's epistles, 114 and the tendency
+of texts to form their model readers by requiring a certain model of reader
+competence 115 all suggest that Paul assumed substantial scriptural knowl­
+edge on the part of his audiences for the fullest appreciation of his biblically
+oriented rhetoric. In any case, if we want to understand Paul's discourse most
+fully, we would do well to attend to his understanding of Scripture and the
+original contexts of his quotations and allusions. Yet I am not claiming
+that Paul always quoted or alluded to Scripture as a pointer to the original
+context of his quotations. That may or may not be the case and remains to
+be seen from examination of every one of Paul's quotations and allusions,
+making for agreement between Stanley and me on one more point—Paul's
+116
+intention must be judged in each instance on a case by case basis. It is
+my contention that Stanley's approach to analyzing Paul's use of Scripture
+is inadequate for doing so.
+Christopher Stanley is an erudite scholar who has contributed significantly
+to the study of Paul's use of Scripture. But his assessment of the reader
+competence of Paul's original audiences and his related audience-centered
+approach to Paul's quotations are misguided for a variety of reasons delin­
+eated above. Yet even if most of the members of Paul's original audiences
+were ignorant of Scripture, corporate realities and processes surrounding
+Scripture and his letters in his churches would effectively offset this factor.
+In the end, his respective audiences must be regarded from a corporate
+perspective as scripturally learned. Consequently, the soundest methodol­
+ogy would still be to investigate Paul's quotations and allusions as if
+addressed to biblically learned audiences. In the wake of Stanley's argu­
+ments, Paul's original audiences are, one way or another, best characterized
+not as swine, but as diamonds in the rough.

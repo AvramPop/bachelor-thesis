@@ -1,0 +1,564 @@
+The Parable of the Pounds (Lk. 19:11-27) presents a unique set of problems
+to the reader. 1 First, it has been noted that Lk. 18:15-19:40 follows the
+order of Mk. 10:13-11:10. In Luke, however, the Markan order of events
+has been interrupted by the insertion of the Zacchaeus incident and of the
+Parable of the Pounds. While the inclusion of the former can be understood
+on geographical grounds—Jesus is related as traveling through Jericho where
+the incident is said to have taken place, no such obvious reason is apparent
+for the Parable of the Pounds. Why then did Luke add this teaching at this
+particular point in his narrative? The question is all the more pertinent since
+Matthew has a similar parable, that of the Talents (25:14-30), but related
+to a later stage of Jesus' ministry: during his Eschatological Discourse in
+Jerusalem. A comparison between these two parables, that of the Pounds
+in Luke and that of the Talents in Matthew, reveals that aside from their
+differing contexts, the Lukan version contains another peculiarity: it has
+added an extra element, that of a 'throne-claimant' (or 'pretender to the
+throne'—Lk. 19:12,l4-15a,27). This added element raises its own unique
+problem: the throne-claimant, believed to be a type of the Messiah, is
+apparently based on the life of Herod Archelaus, a ruler remembered above
+all else for his brutality. Obviously, he is hardly a model fitting for such a
+typology. Why then did Luke preserve this rather embarrassing motif in
+his parable, especially when it is absent in Matthew? In this re-examination
+of the Parable of the Pounds I will use the tools of context criticism 2 to
+show how these two questions, the differing order of events between Luke
+and Mark, and the inclusion of a type of the Messiah based on the life of
+Archelaus, are in fact direcThere have been several attempts to explain the combination of similarities
+and differences between Luke's parable of the Pounds and Matthew's parable
+of the Talents. 3 A brief survey of these theories is necessary in order to
+properly understand the issues. At the beginning of the century, some
+scholars, such as Alfred Plummer, suggested that it is more likely that they
+reflect two separate, albeit similar, teachings of Jesus, given on different
+occasions, rather than stipulating that the gospel writers confused the
+4
+details of the teaching as well as its context. Indeed, who among us has not
+told the same story or joke on two or more occasions, each time adapting not
+only the presentation but also the details of the story in order to better fit
+the audience before us? N. T. Wright may well be the lone scholar in recent
+years to highlight that possibility: "It is highly likely that Jesus used such
+stories like this on numerous occasions (not just 'twice', as cautious conser­
+vative exegetes used to suggest). There is no reason whatsoever to insist that
+either Matthew's or Luke's version was 'derived' from the other, or both
+5
+from a single original." But most of recent critical scholarship has all but
+6
+rejected this possibility, replacing it with various other theories.
+Most scholars today suggest that the bulk of the similarities between
+these two accounts is due to the fact that they both emanate from a single
+teaching occasion of Jesus, 7 and the double attestation of the parable in the
+synoptic gospels raises the probability that it finds its source in the historical
+Jesus. 8 There are two main explanations given as to how the dissimilarities
+crept into the two accounts. The first claims that the original parable was
+preserved independently in the Matthean tradition (M) and in the Lukan
+tradition (L), and that it is these traditions which are responsible for the
+discrepancies between the two accounts. The second is that the parable was
+preserved in a source common to both evangelists, such as Q, and that the
+evangelists themselves, or various editors before them, are responsible for
+9
+the differences. Either of these two positions automatically raises another
+question: which of the two gospels preserves the most original form of the
+parable? Almost entirely alone, Marie-Joseph Lagrange has argued that it is
+Luke, and that Matthew (or his source) is the one guilty of the most redac-
+10
+tional work. Against him stand the vast majority of commentators who
+uphold that whatever the 'original' teaching looked like, it would have
+been more similar to Matthews version than to Luke's. One main argument
+given in support of such a view is that no adequate explanation, even a
+tentative one, has been offered to explain why Matthew or his source would
+have removed certain elements from the parable which are preserved in
+Luke, all the more so since these elements were particularly fitting for Mat­
+thew's context. 11 Thus, it is thought to be a more reasonable position to
+assume that the Lukan version was expanded with a second and separate
+teaching, that of the prétendant to the throne'. 12
+In and of itself, this added motif seems to have little to no connection
+with an assumed primitive parable, which I am calling here "the parable of
+the Pounds/Talents", 13 the core of which revolves around a master and his
+servants, as described in the following summary: on the eve of an imminent
+trip, a master entrusts some of his slaves with his assets (Lk. 19:12a-13;
+Matt. 25:14-15); these either choose to invest it so as to make it multiply,
+or to simply safeguard it by hiding it (Lk. 19:16,18,20; Matt. 25:16-18); upon
+his return, the master calls his servants to account (Lk. 19:15; Matt. 25:19),
+rewarding those who made his wealth grow (Lk. 19:17,19; Matt. 25:21,23),
+and reprimanding those who simply hid it away so that it could not even
+collect interest (Lk. 19:24; Matt. 26-28,30). The additional teaching of the
+'throne claimant', is that of the master being a nobleman who hopes that
+as a result of his trip he will inherit a kingdom (Lk. 19:12b). However, he
+is hated by his citizens who send a delegation after him to prevent his
+appointment (Lk. 19:14). They fail in their effort, and when the nobleman
+comes back as king (Lk. 19:15a), he has all the dissenting citizens slaugh­
+tered (Lk. 19:27). 14 It is almost unanimously agreed that this motif is based
+on the life of Herod Archelaus: 15 in 4 BCE after the death of his father
+Herod the Great, Archelaus set out for Rome to be crowned King, just as
+his father had done. Unfortunately for him, a delegation of Jews followed
+him and, accusing him of unusual brutality, petitioned Caesar not to
+appoint him as their king. Nevertheless, Caesar made him ruler over Judea,
+but only as ethnarch rather than king {War 2:14-94; Ant. 17:219-339). But
+Archelaus' ruthlessness, most typified by his ordering the slaughter of the
+many Jews who were gathered in and around the temple during the Passover
+celebration just after Herod the Great's death, for fear that they were intent
+on rebelling against him, eventually cost him his position: in 6 CE he was
+removed from office and exiled to Gaul ( War 2:111; Ant. 17:339-344; Dio
+Cass. 55.27.6; Strabo, Geo. 16.2.46). Even from this short summary, it is
+16
+obvious that the parallels are too specific to be ignored.
+As is immediately visible, this added teaching does not appear to con­
+tribute anything to the main themes of trust, faithfulness, and reward,
+which are so central to the parable of the master and his servants. In fact,
+the slaughtering of the citizens at the end of the Luke pericope (v. 27)
+17
+seems to be totally unrelated to the actions of the servants. It is suggested,
+therefore, that there must have been some ulterior motive behind its inser­
+tion: the delay of the parousia. 18 A less common view is that it was added
+in order to introduce Jesus' kingship which was about to be revealed upon
+his entrance in Jerusalem. 19 Thus, it would have been one of these con­
+cerns, or some other still, that motivated a pre-Lukan editor, or Luke him­
+self, to rework his source. Two possibilities have been put forward as to
+how this took place. The first posits that the basics of a 'pretender to the
+throne' teaching emanated from a second parable of Jesus, which was sim­
+ply fused into the parable of the Pounds/Talents. 20 The second suggests
+that this motif was an invention of a redactor himself. 21
+In summary, the prevailing view today is that Matthew preserves overall
+a more original version of Jesus' parable, albeit itself not free from redac-
+tional work. Luke's account, on the other hand, is further removed from
+Jesus' teaching, if for no other reason than because in addition to some
+initial redactional work, it also assimilates a second teaching, that of the
+'pretender to the throne'. While scholarship is still divided as to who may
+stand behind this other teaching, Jesus himself or some later Christian
+redactor, all are unanimous that the fusion of the two stories is the work of
+the latter.
+But this view introduces a problem left unanswered by all commentators:
+why would a Christian redactor choose the ruthless and murderous Judean
+Ethnarch as a type of the Messiah, especially so many years after his demise?
+If emphasizing 'delay was the concern of the redactor, whoever he may be,
+there was absolutely no need to bolster this aspect of the Pounds/Talents
+Parable by transforming the master into some evil nobleman seeking king­
+ship against the will of his citizens. Some statement as to the unusually
+long absence of the master would have sufficed, just as it is in Matthew
+(25:19). Furthermore, more recent scholarship has called into question the
+commonly held assumption that Lk. 19:11 even has any implied reference
+to the delay of the parousia? 1 As Denaux has already pointed out: "The
+historical consciousness of the narrator forbids him simply to confuse the
+Jewish expectation of the Kingdom of God with the Christian expectation
+of the parousia*Ρ Similarly, if the concern was 'kingship', it could have
+been added just as easily without associating it to Archelaus, possibly the
+worst ruler the Jews had had in centuries. Francis Weinert has stated the
+problem most clearly: 24
+Those who consider the story an allegory do so because it seems to imitate an impor­
+tant pattern of belief reflecting post-Resurrection Christian understanding... But the
+apparent correspondence that they see... ignores two of the story's most distinctive
+features: (a) the dispatching of a hostile embassy... and (b) the emphatically personal
+and brutal character of the ruler's revenge... What sense could a Christian audience
+possibly make out of the image of a delegation sent after Jesus to prevent his earthly
+enthronement? And if the nobleman in this story is simply an allegorical substitute for
+Jesus, how could a Christian audience reconcile the ruler's vengeful treatment of his
+enemies with the teaching of Jesus on this matter? If early Christians created this story
+as an allegory, then they must also be responsible for introducing two important nar­
+25
+rative features which are allegorically unintelligible from a Christian point of view.
+Few commentators tackle the problem, and the answers put forward by
+those who do fail to convince. One suggests it has the purpose of bringing
+26
+verisimilitude to the story; another that it was simply for the sake of
+27
+irony; yet another downplays the slaughter of the citizens in the very pres­
+ence of the ruler·, a rather gratuitous albeit grim detail, as simply their being
+28
+"cut-off". It is probably for this reason that one recent commentator
+concluded that the "quite negative tone [of] the royal figure seem[s] more
+likely to point to the boldness of Jesus than to Luke or the church tradition
+before him". 2 9 Yet, as Joachim Jeremías has pointed out, "it is hardly con-
+ceivable that Jesus would have compared himself, either with a man 'who
+drew out where he had not paid in, and reaped where he had not sown
+(Luke 19:21), that is, a rapacious man, heedlessly intent on his own profit:
+or with a brutal oriental despot, gloating over the sight of his enemies
+slaughtered before his eyes". 30 Whichever way one chooses to look at the
+problem, one cannot be rid of this 'embarrassing motif. That is why it has
+been preferable de le passer sous silence or to gloss over it somehow.
+However, I suggest that a re-examination of the Lukan context of the parable
+may offer us an important clue in understanding how this 'embarrassing
+motif was originally part of the parable, and why it may not have been as
+embarrassing as it appears to us today. Most commentators agree that v. 11,
+the introduction leading into Jesus' parable, is a Lukan creation, implying
+that it does not necessarily reflect an original setting in which Jesus would
+31
+have uttered even an early form of the Parable of the Pounds. That the
+Matthean version is considered more original emphasizes this fact. However,
+an examination of the historical and geographical context as presented by
+Luke reveals that the parable is most fitting precisely at that point in time,
+suggesting that it is highly unlikely that the verse is a later insertion as is so
+often assumed.
+32
+In Lk. 19:11, we read that the Parable of the Pounds was given imme­
+diately after the Zacchaeus incident. This has led some commentators to
+33
+suggest that Jesus is considered to be still in Jericho, possibly even in Zac­
+34
+chaeus' home. Others have put more emphasis on the verse's clause δια
+το έγγυς είναι Ιερουσαλήμ αυτόν ("because he was near Jerusalem"), claiming
+only that the setting is said to be at some point before the arrival of the
+traveling companions to Jerusalem. 35 What is certain is that this is the last
+event in Luke's recounting of Jesus' pilgrimage to Jerusalem (Lk. 9:51-19:28).
+It seems that the best way to understand the progression of events is that
+Jesus had finished his visit with Zacchaeus and had set out on the last leg
+of his journey. 36 With Jerusalem being less than twenty kilometers from
+Jericho, the traveling companions would arrive before nightfall. It is as
+they set out that Luke has Jesus giving the Parable of the Pounds.
+We have seen how it has been suggested that this parable should be
+understood as a reworking of an early version of the Parable of the Talents
+combined with a second element, commonly called the 'pretender to the
+throne', which includes a motif based on the life of Archelaus. It is pre­
+cisely this added element which has a special historical connection to Jericho.
+We learn from Josephus that after Archelaus was appointed ethnarch, he
+built for himself a city in the vicinity of Jericho, naming it after himself
+{Ant. 17:340). The city of Archelais has been identified with Khirbet el-
+Beiyudat, some twelve kilometers north of Jericho. 37 The archaeology of
+the site is consistent with the claims of Josephus. 38 After Archelaus was
+deposed, the city was passed on to Salome, sister of Herod the Great, then
+to Julia (the emperor's wife) and finally to the Roman emperor himself. 39
+After it was burnt to the ground during the Great Revolt in 66 or 67 CE,
+and a Roman garrison established nearby, it was gradually resettled until its
+destruction by an earthquake in 343 CE. 4 0 It is not difficult to see how,
+during the first half of the first century CE, the memory of this despotic
+ruler would have been recalled by travelers as they made their way down
+the Jordan Valley en route to Jericho. However, should Jesus and his disciples
+have arrived from Perea as intimated by Mk. 10:1, it seems unlikely that
+they would have walked by this city before their entrance into Jericho. 41
+From the same passage in Josephus, we learn that Archelaus also rebuilt
+Herod the Great's palace in Jericho. 42 Situated at the southern extremity of
+the city on the banks of the Wadi Qelt, this palace complex has long been
+identified as Tulul abu al-'AUyiq. The more recent excavations by Ehud
+Netzer have helped clarify the stratigraphy of the various palace complexes,
+both confirming and expanding what could be gathered from the historical
+sources, mainly Josephus. 43 Of particular interest for our purposes, there is
+direct evidence of the destruction of Herod's palaces right after his death
+(4 BCE), as well as of Archelaus' repairs and use of Herod's Third Palace
+complex (Zone B). It continued to be used during the first half of the first
+century CE, and was even expanded, until the buildings were destroyed by an
+earthquake in 48 CE, more than twenty years before the fall of Jerusalem. 44
+In the opinion of the excavator, the ruined palaces were abandoned, only
+be to very sparsely reused by local squatters. 45 By the end of the first cen­
+tury CE, a Roman villa was built over some of the ruins at its western
+extremity. 46
+The ancient road from Jericho to Jerusalem passed just south of this
+enormous palace complex, and as it makes its way up into the hills of the
+Judean Wilderness, it offers the travelers quite an impressive view of this
+royal estate. 47 Thus, as they exited the city on their way to Jerusalem, Jew­
+ish pilgrims at the end of the Second Temple Period were reminded of their
+last non-Roman ruler over Judea. Most interesting is that this corresponds
+exactly with where Luke has Jesus sharing the Parable of the Pounds. Could
+it be that this Herodian palace complex, last renovated and used by Arche-
+laus but still standing in Jesus' day, triggered the Archelaus motif we find
+in the Parable of the Pounds? 48
+Should such be the case, this would resolve the problems raised by this
+'embarrassing motif of Jesus being compared to Archelaus. One can easily
+imagine Jesus and his disciples, still accompanied by the crowd escorting
+him out of the city, passing by these magnificent palaces and recalling, in
+thought if not in words, the history of the last local ruler who ruled in
+Jerusalem before the Roman procurators took over. And in light of the
+events that had just transpired in Jericho, together with the anticipation of
+an imminent arrival in Jerusalem, believed as it was by the disciples and
+others that it would usher in the Kingdom of God, a new era of Jewish
+rule, it is no surprise that there would have been much excitement and
+anticipation in the crowd. And this is exactly what is intimated in v. 11.
+What else could be more fitting for the present hiatus in the Jewish political
+scene, itself coming after an unprecedented moral degradation of its lead­
+ers, culminating with the brutal reign of the Herodian dynasty, than for it
+to be succeeded by the establishment of the long-awaited Messianic rule?
+How could the sight of the Herodian palaces not evoke such thoughts? To
+correct these false expectations, Jesus launches into a parable, using as his
+teaching tool his immediate surroundings, the 'stuff' of everyday life, as is
+so customary in Jesus' teachings as in Jewish parables (Ε ,ι ?ϋθ). Should this
+indeed be the actual setting for the giving of the parable, the brutality of
+Archelaus would no longer be a part of some allegory on the character of
+the Messiah, but merely part of the circumstantial setting which Jesus used
+in crafting his parable to more effectively communicate his message. This
+would have been immediately obvious to his audience, even if Jesus used
+Archelaus' cruelty very graphically to make a point about the Kingdom of
+God. 49 Should this be the background for the Archelaus motif, instead of
+being embarrassing, it is rather very poignant.
+In fact, not only does this create a very probable scenario for the pro­
+nouncement of the Parable of the Pounds, this aspect of verisimilitude
+with Archelaus' reign fits only at this point in the history of the parable's
+transmission. Already by Jesus' day, Archelaus had been irrelevant to the
+Judean political scene for some twenty years. Haifa generation had passed
+since his demise. Nor was his rule something that the Jews looked back
+upon with nostalgia: they were certainly not interested in keeping his
+memory alive as an example for their hopes of a future restored Jewish
+state. Add to that an additional twenty years, a rough estimation of the
+minimum time one can assume passed before the gospel traditions were
+being committed to writing, 50 and by then Archelaus is a full generation
+removed. 51 Already when dealing with his contemporaries, it is difficult to
+grasp what purpose a redactor might have found in alluding to him as a
+type of the Messiah. How much more so to an audience who never knew
+him! Even if he had in mind some kind of mnemonic device to trigger
+bringing the defunct ruler to mind as the parable motif, the more time one
+allows to elapse between Archelaus' demise and the composition of the
+gospel, the fewer of these triggers remain. Even the Jericho palaces, which
+fit the Lukan context so well and which were still standing in Jesus' day, are
+by then already destroyed. 52 They could hardly have served a redactor for
+his audience which at best knew only of their ruins, if they were familiar
+with the area at all. 53 Thus, if we are to allow the Herodian Palaces to be
+the motivation behind an Archelaus motif, a possibility which Lk. 19:11
+allows us to entertain, it fits best, if not only, when it is attributed to Jesus,
+precisely as he is leaving Jericho.
+Should this reconstruction of the events be accurate, we have no choice
+but to reject the assumption that Lk. 19:11 is entirely a Lukan creation. 54
+This is not to deny that the verse betrays a Lukan hand, 55 but to affirm that
+at a minimum some of its content was integral to Luke's source. 56 Simi­
+larly, the suggestion that Luke, or some pre-Lukan editor, redacted an early
+version of the Parable of the Pounds/Talents to then insert it into the
+account of Jesus' pilgrimage up to Jerusalem, is equally untenable. First of
+all, it must be noted that if it indeed was an insertion, it apparently resulted
+in relocating the healing of the blind man: both Matthew (20:29-34) and
+Mark (10:46-52) place that incident at the exit of Jericho, while in Luke it
+is said to have happened upon entering Jericho (18:35-43). 57 According to
+the two-source theory (Mark and Q), this would imply that the insertion
+of the Parable of the Pounds into the Lukan narrative precisely at Jesus' exit
+from Jericho was not arbitrary, but purposeful, even important enough for
+the Lukan editor to contradict his source(s) about the context of the blind
+58
+man's healing: It is even more improbable that the Parable of the Pounds
+is an insertion when one considers that those elements which make the
+Parable of the Pounds fitting to Jesus' lifetime are no longer in existence by
+the time of the text's composition. Finally, no satisfactory explanation has
+yet to be offered as to why a Christian editor would have preserved the
+Archelaus motif, let alone insert it into a redacted version of the Parable of
+the Pounds/Talents, especially in light of all the chronological and theo­
+logical problems it engenders. Rather, by considering the Lukan context as
+integral to the Parable of the Pounds, one discovers a very probable sce­
+nario for its pronouncement, one which is not only historically plausible,
+even likely, but which has the added advantage of offering a satisfactory
+explanation for the Archelaus element it contains. It is only by associating
+the Archelaus motif of the Parable of the Pounds to the historical Jesus,
+precisely in the context suggested by the Gospel of Luke, that we are able
+to read the parable without contradicting what we know of the historical
+Jesus himself, or of the early church's conception of who he was.
+While this reading may offer the best way to understand the inclusion of
+the Archelaus motif into the Parable of the Pounds/Talents, it raises another
+issue. The Lukan context is only appropriate for the Parable of the Pounds,
+and not for the isolated teaching concerning 'the pretender to the throne'.
+Alone, this teaching does not seem to have any purpose in the Lukan nar­
+rative. Francis Weinert has probably done the best job at explaining how
+the story about the 'pretender to the throne' may have functioned as an
+independent teaching. 59 But while he tries to show how this teaching may
+have fit particularly well within Jesus' life and ministry, he entirely ignores
+its role within the Luke 19 context. 60 He suggests that the story served as a
+warning to Jesus' opponents who were still rejecting his impending kingship.
+But this is not the situation described in Lk. 19:11 where we are told that
+Jesus' disciples are eagerly anticipating the imminent arrival of God's Kingdom.
+Therefore, in order to agree with Weinert's reading of this independent
+teaching of Jesus, one would have to stipulate that either the Lukan redactor
+made up an introduction for the teaching although in the end it failed to
+be relevant to the teaching, or that he inserted the teaching into a situation
+that did not call for it nor was particularly suited for it. Obviously, neither
+of these seems likely. Yet while the teaching on 'the pretender to the throne'
+is not suited for Luke's context, the Parable of the Talents, as it is preserved
+in Matthew, could fit the issues introduced by Lk. 19:11, although without
+the Archelaus motif there is no reason to suppose such to be the case. But
+this serves to illustrate the point that although the Lukan context best
+explains the connection to Archelaus, it cannot do so apart from the Par­
+able of the Pounds/Talents. This suggests a most unique dynamic in which
+the Lukan text would preserve the most original setting for the Parable of
+the Pounds/Talents, while the parable itself would be the most redacted of
+the two versions, at least if one is to follow the majority opinion of recent
+scholarship on the matter. Similarly, it would imply that Matthew's gospel,
+while having removed the parable from its original context and placing it
+in a secondary one, managed to preserve a reading more faithful to the
+original. Needless to say, this too is hardly a tenable position. Could it be,
+therefore, that Luke's account preserves the most original version of the
+parable, and that Matthew's is secondary? If this can be demonstrated, it
+would be additional evidence in favor of the historical accuracy of the
+Lukan context for the parable.
+Current analysis of the two versions of the parable suggests that the
+Lukan account has been expanded by the teaching of'the pretender to the
+throne'. This is to be expected, since it is generally agreed that most often
+a longer reading reflects additional redactional work. However, should the
+Lukan context be original to the parable, the opposite would be true.
+Unfortunately, few scholars have seriously entertained this as a viable alter­
+61
+native. The possibility that Luke could be more original is often raised,
+but it is too hastily rejected without ever being thoroughly investigated.
+The current view is based primarily on the fact that the Matthean account
+is shorter and free from the motif of the claimant to the throne. Part of the
+rational is that it is harder to find a reason as to why a Matthean redactor
+would have reduced the parable than as to why the Lukan redactor would
+have added the extra motif. 62 It is also hard to understand the relationship
+between the two teachings, that of a nobleman seeking kingship and that
+of the master entrusting his assets to his servants/slaves. Rather than being
+complimentary, they appear to be in conflict with each other. And since
+both can seemingly stand on their own, it suggests that the two have been
+artificially combined in Luke. 63 But these reasons fail on all accounts. We
+have already seen that the Archelaus motif is not required by the immediate
+context, specifically Lk. 19:11, nor by the need to emphasize the delay of
+nitparousia or any other theme scholars have discerned to be in the text. 64
+In other words, while there have been no good reasons suggested as to why
+Matthew would have reduced the Lukan version of the parable, the reasons
+proposed so far as to why Luke expanded the Matthean version are not
+adequate either. 65 Furthermore, if the themes of the two teachings are really
+in conflict, to suggest that they were combined for the purpose of Luke's
+narrative only compounds the problem: we have already seen that the adding
+of the second teaching did not contribute to the goals of the narrative; this
+would now mean that it created an additional thematic conflict as well.
+Finally, when attempting to reconstruct what the original Parable of the
+Pounds/Talents might have looked like, scholars who are not necessarily
+agreed on this or that specific detail nevertheless all agree on the following,
+that both Matthew and Luke preserve some of the original elements of the
+66
+parable. This only highlights how tenuous it is to identify which of the
+two accounts is closest to the original, suggesting that the majority view is
+based almost exclusively on an assumption about text length and an
+assumed combination of themes.
+For Luke's version to preserve the parable in its most original form, this
+would imply that Matthew's version cut out significant portions of the par­
+able, principally those pertaining to the theme of the 'prétendant to the
+throne'. In fact, if the Archelaus theme in the Parable of the Pounds is
+intimately connected with the location where Jesus told it, this is exactly
+what one would expect to happen when the teaching is removed from its
+original context and placed into a different one, just as it is in Matthew.
+Without the geographical peg upon which to hang the Archelaus motif, it
+ceases to be a mere illustration drawn from a specific occasion and takes on
+solely an allegorical character, thereby becoming 'an embarrassing motif
+on the person of Jesus. Herein is precisely the motivation for the removal
+of the teaching on 'the pretender to the throne' in Matthew. This aspect of
+the parable in Matthew's gospel could not be preserved without it being
+misunderstood and thereby doing harm to Jesus' reputation. Thus, if one
+wishes to continue working off of the premise that both parables stem
+from a single teaching occasion of Jesus, it seems to me that this rational
+for its removal in Matthew makes more sense than the reasons given for its
+addition in Luke.
+Should this be the case, the comparison between the two parables reveals
+another interesting detail: having removed those elements which relate
+directly to the 'prétendant to the throne', the Lukan version of the parable
+is actually shorter and simpler than its Matthean counterpart, 67 suggesting
+that it, and not the Matthean version, could be preserving the version clos-
+est to the original. Two examples of how this is born out will suffice. In the
+Lukan version, we learn of the slaves' efforts to invest the master's money
+(or not) only upon the nobleman's return, yet the story lacks nothing for the
+audience to understand the development of the plot. In Matthew, w. 16-19
+only introduce that which will be reiterated later, and are therefore not
+essential for a proper understanding of the story. They could be removed
+without doing any harm to the narrative. It has been suggested that it was
+the Lukan redactor who removed these verses and replaced them with v. 14,
+the reference to the delegation sent after the nobleman to oppose him.
+While this is possible, v. 14 may nevertheless be more central to the parable
+than the Matthew verses it supposedly replaces: with its reference to the
+nobleman not being liked by his citizens, the actions of the third servant
+68
+become more understandable, and his claims more plausible. Without it,
+we are left wondering wherefrom the third slave got his ideas about his
+master. It may be therefore that v. 14 is not only connected to the theme
+of the 'pretender to the throne', but integral to the master/slave aspect of
+the story as well. The second example is that of Matthew's rewards to the
+faithful servants: εϊσελθε εις την χαράν του κυρίου σου ("Enter into the
+joy of your master"—Matt. 25:21,23). These statements clearly spiritualize
+the Lukan counterpart of receiving charge of cities, 69 and are the only spir­
+itualized elements of the original parable which otherwise reflects an
+earthly setting. 70 There is one other spiritualized element in Matthew's
+account (v. 30), although it is considered to be part of an appendix rather
+than integral to the parable itself. 71 But this appendix is fortuitous in that
+it may be giving us a window into the modifications the parable apparently
+underwent as a result of the removal of the Archelaus motif. Could it be
+that when the violent scene of Lk. 19:27 was removed, it was replaced with
+a spiritualized counterpart uniquely Matthean (Matt. 8:12; 22:13; see also
+13:42,50; 24:51)? But this would have then added a spiritual dimension to
+the punishment, one not paralleled in the rewards of the faithful servants,
+so that for the sake of balance it was subsequently added in for the first two
+servants. In addition, if it was him who removed the citizens from the parable,
+he apparently transferred their punishment onto the third slave, thereby
+rendering the second half of the logion (v. 29) superfluous: for the one
+who has nothing, it is not that και δ έχει άρθήσεται άπ' αύτοΰ ("Even that
+which he has will be taken from him"—Matt. 25:29), but that he himself
+will be cast out εις το σκότος το εξώτερον εκεί εσται ό κλαυθμός και ό
+βρυγμός των οδόντων ("into the darkness outside, where there is weeping
+and gnashing of teeth"—Matt. 25:30).
+When approaching the Parable of the Pounds/Talents from this direction,
+it becomes clear that Luke's version is more coherent than Matthew's, albeit
+not entirely free from difficulties. Denaux has compiled a list of seven
+problems scholars have suggested arose as a result of Luke introducing the
+added theme of the 'pretender to the throne'. 72 Yet while these are real
+issues, none of them affect the internal coherence of the parable. In fact, in
+some cases the alleged problems specific to the Lukan account are just as
+valid for the Matthean account. For example, it is claimed that the presence
+often servants at the beginning of the Lukan parable is odd in light of the
+fact that only three end up giving an account to the nobleman. However,
+having a group often slaves about to give account to the nobleman is con­
+sistent with the mention of bystanders in v. 24: there are at least another
+seven slaves present. In Matthew, with only three slaves present, one wonders
+to whom the master is giving his command in the third person plural (v. 28).
+Nor does the Lukan narrative lack anything by failing to give the responses
+of the last seven slaves: at best they would only be variants of the first three.
+Not so with the Matthean account: in some instances, where it is at
+odds with Luke, the differences do result in harming the internal cohesive-
+ness of the story. For example, in Lk. 19:13, the slaves are instructed to "do
+business/trade" (πραγματεύσασθε) with what has been entrusted to them. No
+such command is given to the slaves in Matthew, with the result that the
+third slave should have been considered faithful, and not guilty! 73 Further­
+more in Luke, even without the injunction to do business, the third slave
+would have been found guilty. Rabbinical law teaches that when entrusted
+with money, the surest way of safeguarding it is to bury it (M. B. Mes. 3:10),
+which is what the third slave in Matthew is said to have done, thereby guar­
+antying his innocence. 74 In Luke however, the actions of the third slave are
+truly self-incriminating, for they were contradictory to his alleged opinion
+of the nobleman. He is judged on that very basis, leaving open the possi­
+bility that the nobleman may really have been a fair and just master, as his
+actions toward the other two slaves suggest. 75 Lastly, in Luke the amounts
+entrusted to the slaves are small and appropriately reflect the nobleman's
+statement to his faithful servants: εν έλαχίστω πιστός έγένου ("You have
+been faithful in a very little"—Lk. 19:17). In Matthew, the sums are incred­
+ibly large, amounting from fifteen to possibly as much as one hundred years
+of wages. 76 This being the case, the master's statement επί ολίγα ης πιστός
+("You were faithful concerning little"—Matt. 25:21,23) seems out of place. 77
+One of the arguments in favor of an added 'pretender to the throne'
+motif to the Lukan account is v. 24. It seems to ignore that the first servant
+who has ten pounds has been rewarded with the rule over ten cities, so that
+his being given another pound is actually meaningless in light of his new
+78
+situation. However, this misses the point of the parable as expressed in v. 26.
+The first servant is not being given the extra pound because he needs it nor
+because he has been put in charge often cities. What happens to the pound
+of the third servant is not directly related to the situation of the other ser­
+vants, but to their actions. It is given to the first servant because he was the
+most faithful with the pound entrusted to him, which is why the statement
+relates it back to his having the ten pounds, rather than to his rulership
+over ten cities. In fact, it could be argued that this redistribution is more
+consistent in Luke than in Matthew. In Matthew, the first two servants
+realized the same return on their investments (100%), so that there really
+was not any difference in their ability as suggested in v. 15. Consequently,
+the first servant is not being rewarded for his greater ability or faithfulness
+with respect to the sum entrusted to him, but simply because he was
+granted more to begin with. In Luke, however, the reward is truly com­
+mensurate with the servant's faithfulness and ability. 79
+This re-examination of the Parable of the Pounds leads us to the following
+conclusions. The parable is not a fusion of two independent teachings, nor
+even an adaptation into a new narrative setting. Whatever relationship it
+may have with the Parable of the Talents, it is not a reworking of it. This is
+supported by the fact that it is the omission of the 'pretender to the throne'
+motif in Matthew, not its addition in Luke, that causes the story to loose
+80
+some of its cohesiveness. Rather, the Parable of the Pounds is a single unit,
+integral to the historical context in which it is framed, a context which was
+en vigeur only during the ministry of Jesus and accurately preserved in
+Luke's gospel. While "[a] predominant interest in reconstructing the origi­
+nal parable(s) has prevented most scholars from construing the Lukan par­
+81
+able as a consistent textual unit," those who did so were nevertheless
+hindered in seeing its historical specificity by their assumption that Luke
+had inserted it into his narrative. For this reason, the many geographical
+clues inherent in Luke were understood as being secondary rather than
+82
+primary, literary rather than relating to the historical Jesus himself. Yet it
+is precisely such a reading that provides the best explanation for the presence
+83
+of the Archelaus motif.
+Lagrange's comments are now particularly fitting, and remind us that
+84
+the reading of the parable I am suggesting here is not new:
+Luc n'a certainement pas transformé arbitrairement une parabole pour expliquer à ses
+contemporains le retard de la parousie; ce n'est ni selon son programme ni selon sa
+méthode. Et supposer une source antérieure ce n'est pas expliquer comment on est
+venu à ce bel ensemble... Le thème n'est d'ailleurs le retard de la parousie... Le but
+est de dissiper des illusions sur le caractère du règne de Dieu.
+By crafting the parable with an Archelaus motif, Jesus used a poignant
+reminder of the seriousness of one's position vis-à-vis the Kingdom of God,
+no matter when it would be made manifest: "Jesus, the king-judge, will
+bring reward or punishment according to the attitude that one has taken
+towards him. This goes for his disciples as well as his enemies".
