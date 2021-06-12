@@ -5,7 +5,7 @@ import processing.processing_utils as processing
 from nltk.tag import pos_tag
 
 
-def generate_summary_dutta(text_as_sentences_without_footnotes, summary_size, threshold=0.3):
+def generate_summary_dutta(text_as_sentences_without_footnotes, summary_size, threshold=0.05):
     start_time = time.time()
     sentences = sentences_for_dutta(text_as_sentences_without_footnotes)
     embeddings = get_embeddings(sentences)

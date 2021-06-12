@@ -9,10 +9,9 @@ def generate_summary_graph_text_rank(text_as_sentences_without_footnotes, summar
     start_time = time.time()
     similarity_matrix = generate_similarity_matrix_for_pagerank(text_as_sentences_without_footnotes)
     graph = networkx.from_numpy_array(similarity_matrix)
-    try:
-        scores = networkx.pagerank(graph, max_iter=1000)
-    except networkx.exception.PowerIterationFailedConvergence as e:
-        return None
+
+    scores = networkx.pagerank(graph, max_iter=10000)
+
     sentence_indexes_sorted_by_score = indexes_from_pagerank(scores, summary_size)
     summary = graph_utils.summary_from_indexes(sentence_indexes_sorted_by_score, text_as_sentences_without_footnotes)
     print("Text rank algorithm took ", time.time() - start_time, "s")

@@ -6,6 +6,8 @@ import unidecode
 import copy
 import tensorflow_hub as hub
 from pythonrouge.pythonrouge import Pythonrouge
+import os, os.path
+
 
 embed = hub.load("/home/dani/Desktop/licenta/use")
 
@@ -213,3 +215,8 @@ def preprocess_duc(doc, summary):
     title = doc["title"]
     title_embedding = sentence_to_embedding(doc["title"].casefold())
     return sentences_as_embeddings, duc_as_sentences, abstract, title, title_embedding, abstract  # last param is not rough
+
+
+def get_number_of_texts_in_folder(directory_path):
+    path, dirs, files = next(os.walk(directory_path))
+    return len(files) // 3

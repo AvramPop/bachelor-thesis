@@ -101,6 +101,9 @@ class MyTestCase(unittest.TestCase):
         individual = [1, 1, 1, 1]
         self.assertEqual(1, evo.sentence_position(individual))
 
+    def test_number_of_sentences_in_directory(self):
+        self.assertEqual(2, processing.get_number_of_texts_in_folder('/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/test/resources'))
+
 
 if __name__ == '__main__':
     unittest.main()
