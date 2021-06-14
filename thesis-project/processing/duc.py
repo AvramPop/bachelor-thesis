@@ -6,7 +6,7 @@ from pathlib import Path
 
 # get reference to folder of DUC summaries
 def get_summary_folders():
-    root = "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/duc/summaries/"
+    root = "resources/duc/summaries/"
     sub_folders = [f.path for f in os.scandir(root) if f.is_dir()]
     return sub_folders
 
@@ -57,7 +57,7 @@ def get_duc_data():
 
 # get reference to folder with the DUC dataset
 def get_doc_folders():
-    root = "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/duc/docs/"
+    root = "resources/duc/docs/"
     sub_folders = [f.path for f in os.scandir(root) if f.is_dir()]
     return sub_folders
 

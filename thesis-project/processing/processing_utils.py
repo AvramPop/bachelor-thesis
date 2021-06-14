@@ -57,7 +57,7 @@ def split_in_tokens(text):
 # remove all stop words from given list of words, using as reference NLTK data
 def remove_stop_words(tokens):
     stop_words = read_file_line_by_line(
-        "/home/dani/Desktop/licenta/bachelor-thesis/thesis-project/resources/util/stop-words.txt")
+        "resources/util/stop-words.txt")
     return [word for word in tokens if word not in stop_words]
 
 
